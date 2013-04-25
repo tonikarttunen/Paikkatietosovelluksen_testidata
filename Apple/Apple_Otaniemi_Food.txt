@@ -1,0 +1,276 @@
+Toni Karttunen
+24.4.2012
+
+==========================================
+
+Paikkatiedon tarjoaja: Apple
+Paikka: Otaniemi, Espoo
+Kategoria: Food
+
+==========================================
+
+2013-04-24 08:54:26.879 Apple[11032:907] (
+        (
+        Name,
+        "Kaisan Cafe"
+    ),
+        (
+        Address,
+        "It\U00e4tuulenkuja 8\n02100\U200e Tapiola\nFinland"
+    ),
+        (
+        Phone,
+        "+35894550851"
+    ),
+        (
+        Latitude,
+        "60.174635"
+    ),
+        (
+        Longitude,
+        "24.805355"
+    )
+)
+
+2013-04-24 08:54:53.985 Apple[11032:907] (
+        (
+        Name,
+        Torpanranta
+    ),
+        (
+        Address,
+        "Munkkiniemenranta 2\n00330\U200e Helsinki\nFinland"
+    ),
+        (
+        Phone,
+        "+3589484250"
+    ),
+        (
+        URL,
+        "http://www.torpanranta.fi/"
+    ),
+        (
+        Latitude,
+        "60.194908"
+    ),
+        (
+        Longitude,
+        "24.870701"
+    )
+)
+
+2013-04-24 08:56:08.637 Apple[11032:907] (
+        (
+        Name,
+        "Dipoli Kokous- ja Kongressipalvelut"
+    ),
+        (
+        Address,
+        "Otakaari 24\n02150\U200e Tapiola\nFinland"
+    ),
+        (
+        Phone,
+        "+358947001"
+    ),
+        (
+        URL,
+        "http://dipoli.aalto.fi/"
+    ),
+        (
+        Latitude,
+        "60.185035"
+    ),
+        (
+        Longitude,
+        "24.831120"
+    )
+)
+
+2013-04-24 08:56:35.271 Apple[11032:907] (
+        (
+        Name,
+        Kilim
+    ),
+        (
+        Address,
+        "M\U00e4ntyviita 2\n02110\U200e Tapiola\nFinland"
+    ),
+        (
+        Phone,
+        "+3589464656"
+    ),
+        (
+        URL,
+        "http://www.kilim.fi"
+    ),
+        (
+        Latitude,
+        "60.178913"
+    ),
+        (
+        Longitude,
+        "24.811020"
+    )
+)
+
+2013-04-24 08:56:57.891 Apple[11032:907] (
+        (
+        Name,
+        "Ukko-Munkki"
+    ),
+        (
+        Address,
+        "Laajalahdentie 19\n00330\U200e Helsinki\nFinland"
+    ),
+        (
+        Phone,
+        "+3589482710"
+    ),
+        (
+        URL,
+        "http://www.ukko-munkki.fi/"
+    ),
+        (
+        Latitude,
+        "60.199799"
+    ),
+        (
+        Longitude,
+        "24.877171"
+    )
+)
+
+2013-04-24 08:57:21.391 Apple[11032:907] (
+        (
+        Name,
+        Base
+    ),
+        (
+        Address,
+        "Lepp\U00e4vaarankatu 3\n02600\U200e Lepp\U00e4vaara\nFinland"
+    ),
+        (
+        Phone,
+        "+358951236060"
+    ),
+        (
+        URL,
+        "http://www.ravintolabase.fi/index.php?id=6"
+    ),
+        (
+        Latitude,
+        "60.217448"
+    ),
+        (
+        Longitude,
+        "24.811633"
+    )
+)
+
+2013-04-24 08:57:35.636 Apple[11032:907] (
+        (
+        Name,
+        "Rixi-Baari"
+    ),
+        (
+        Address,
+        "Isokaari 24\n00200\U200e Lauttasaari\nFinland"
+    ),
+        (
+        Phone,
+        "+3589677320"
+    ),
+        (
+        URL,
+        "http://www.rixibaari.fi"
+    ),
+        (
+        Latitude,
+        "60.157169"
+    ),
+        (
+        Longitude,
+        "24.862762"
+    )
+)
+
+2013-04-24 08:57:52.165 Apple[11032:907] (
+        (
+        Name,
+        "Ravintola Grilli Toro"
+    ),
+        (
+        Address,
+        "Louhentie 16\n02130\U200e Tapiola\nFinland"
+    ),
+        (
+        Phone,
+        "+3589460427"
+    ),
+        (
+        URL,
+        "http://www.grillitoro.fi/"
+    ),
+        (
+        Latitude,
+        "60.187168"
+    ),
+        (
+        Longitude,
+        "24.796869"
+    )
+)
+
+2013-04-24 08:58:18.288 Apple[11032:907] (
+        (
+        Name,
+        "Cafe Bar '52"
+    ),
+        (
+        Address,
+        "Heikkil\U00e4ntie 2\n00210\U200e Lauttasaari\nFinland"
+    ),
+        (
+        Phone,
+        "+3589626940"
+    ),
+        (
+        URL,
+        "http://www.bar52.fi"
+    ),
+        (
+        Latitude,
+        "60.154287"
+    ),
+        (
+        Longitude,
+        "24.879842"
+    )
+)
+
+2013-04-24 08:58:39.754 Apple[11032:907] (
+        (
+        Name,
+        "Cafe Mellsten"
+    ),
+        (
+        Address,
+        "Mellstenintie 6\n02170\U200e Espoo\nFinland"
+    ),
+        (
+        Phone,
+        "+35894522995"
+    ),
+        (
+        URL,
+        "http://www.cafemellsten.com/"
+    ),
+        (
+        Latitude,
+        "60.154942"
+    ),
+        (
+        Longitude,
+        "24.777787"
+    )
+)

@@ -1,0 +1,766 @@
+Toni Karttunen
+24.4.2012
+
+==========================================
+
+Paikkatiedon tarjoaja: Google
+Paikka: Otaniemi, Espoo
+Kategoria: Hospitals
+
+==========================================
+
+2013-04-24 10:33:36.725 Google[11333:907] {
+}
+2013-04-24 10:33:36.931 Google[11333:907] Google Places JSON response: {
+    "html_attributions" =     (
+    );
+    result =     {
+        "address_components" =         (
+                        {
+                "long_name" = 11;
+                "short_name" = 11;
+                types =                 (
+                    "street_number"
+                );
+            },
+                        {
+                "long_name" = "It\U00e4tuulentie";
+                "short_name" = "It\U00e4tuulentie";
+                types =                 (
+                    route
+                );
+            },
+                        {
+                "long_name" = Espoo;
+                "short_name" = Espoo;
+                types =                 (
+                    locality,
+                    political
+                );
+            },
+                        {
+                "long_name" = Espoo;
+                "short_name" = Espoo;
+                types =                 (
+                    "administrative_area_level_2",
+                    political
+                );
+            },
+                        {
+                "long_name" = FI;
+                "short_name" = FI;
+                types =                 (
+                    country,
+                    political
+                );
+            },
+                        {
+                "long_name" = 02100;
+                "short_name" = 02100;
+                types =                 (
+                    "postal_code"
+                );
+            }
+        );
+        "formatted_address" = "It\U00e4tuulentie 11, Espoo, Finland";
+        "formatted_phone_number" = "09 77508555";
+        geometry =         {
+            location =             {
+                lat = "60.174359";
+                lng = "24.805108";
+            };
+        };
+        icon = "http://maps.gstatic.com/mapfiles/place_api/icons/doctor-71.png";
+        id = b780bfecdb694791bb979fe6091b2ea158aebb93;
+        "international_phone_number" = "+358 9 77508555";
+        name = Diacor;
+        reference = "CnRlAAAA0qJ7YN3AG0a28toy5OJeWtJjyjnOK0Ob-P6KwBTXCbTgIGEh67FIQPdKz65dnstnCwl41wfiefjz9gP7SZYWxGm9E1zuvRGmG7X3gsbP0hqn8mHcxYdBbjfwFJi3GPwHZf7JWHUZgjpTmYgKjxe0lhIQnN3J1Ct17MXUTTn0zoVJxhoU3guUBf8-LxtAZnRYcV6BYdK6YJg";
+        types =         (
+            hospital,
+            doctor,
+            health,
+            establishment
+        );
+        url = "https://plus.google.com/106588263118509960064/about?hl=en-US";
+        "utc_offset" = 180;
+        vicinity = "It\U00e4tuulentie 11, Espoo";
+        website = "http://www.diacor.fi/";
+    };
+    status = OK;
+}
+
+2013-04-24 10:33:43.949 Google[11333:907] {
+}
+2013-04-24 10:33:44.070 Google[11333:907] Google Places JSON response: {
+    "html_attributions" =     (
+    );
+    result =     {
+        "address_components" =         (
+                        {
+                "long_name" = 1a;
+                "short_name" = 1a;
+                types =                 (
+                    "street_number"
+                );
+            },
+                        {
+                "long_name" = Raumantie;
+                "short_name" = Raumantie;
+                types =                 (
+                    route
+                );
+            },
+                        {
+                "long_name" = Helsinki;
+                "short_name" = Helsinki;
+                types =                 (
+                    locality,
+                    political
+                );
+            },
+                        {
+                "long_name" = FI;
+                "short_name" = FI;
+                types =                 (
+                    country,
+                    political
+                );
+            },
+                        {
+                "long_name" = 00350;
+                "short_name" = 00350;
+                types =                 (
+                    "postal_code"
+                );
+            }
+        );
+        "formatted_address" = "Raumantie 1a, Helsinki, Finland";
+        "formatted_phone_number" = "09 560160";
+        geometry =         {
+            location =             {
+                lat = "60.205701";
+                lng = "24.877714";
+            };
+        };
+        icon = "http://maps.gstatic.com/mapfiles/place_api/icons/dentist-71.png";
+        id = 422b5ee3eb380ce3a2538ee321db05a7901a67de;
+        "international_phone_number" = "+358 9 560160";
+        name = "Oy Dextra Ab";
+        "opening_hours" =         {
+            "open_now" = 1;
+            periods =             (
+                                {
+                    close =                     {
+                        day = 1;
+                        time = 0000;
+                    };
+                    open =                     {
+                        day = 0;
+                        time = 0700;
+                    };
+                },
+                                {
+                    close =                     {
+                        day = 2;
+                        time = 0000;
+                    };
+                    open =                     {
+                        day = 1;
+                        time = 0700;
+                    };
+                },
+                                {
+                    close =                     {
+                        day = 3;
+                        time = 0000;
+                    };
+                    open =                     {
+                        day = 2;
+                        time = 0700;
+                    };
+                },
+                                {
+                    close =                     {
+                        day = 4;
+                        time = 0000;
+                    };
+                    open =                     {
+                        day = 3;
+                        time = 0700;
+                    };
+                },
+                                {
+                    close =                     {
+                        day = 5;
+                        time = 0000;
+                    };
+                    open =                     {
+                        day = 4;
+                        time = 0700;
+                    };
+                },
+                                {
+                    close =                     {
+                        day = 6;
+                        time = 0000;
+                    };
+                    open =                     {
+                        day = 5;
+                        time = 0700;
+                    };
+                },
+                                {
+                    close =                     {
+                        day = 0;
+                        time = 0000;
+                    };
+                    open =                     {
+                        day = 6;
+                        time = 0700;
+                    };
+                }
+            );
+        };
+        photos =         (
+                        {
+                height = 487;
+                "html_attributions" =                 (
+                );
+                "photo_reference" = "CqQBmwAAADsziPnDJS4MA-oqE8a18MTSrRojJ8SzpCpC76olsOwBfYGhB6aDDTksaAriYVnNhi0qhbbRv9VCg7V758hYbxMVT51igBmWM4e6RSdLNOAwSFdOP8fKkhy6-fC8fXcPja5NSa0h0odNeIBhf_TzrAgzY5LLjfVvGy2v34tmZ-Xk3bO2es72YetjsGo570KNLzQEnz2qkIRRwfv7OQbrNPYSEE-QG2lZAt1FE35uOmeEyfMaFIoN5BAhbzrOcibu-KV-P3Zdj-dB";
+                width = 480;
+            },
+                        {
+                height = 116;
+                "html_attributions" =                 (
+                );
+                "photo_reference" = "CqQBnAAAABUupQDb3yG8ELbeY0rRbkXltzCABU5aS9ZwpH4jyh0f1MyUuvX8W7Qg6E8vd-u364iMRg1yyB8Ovm5bEOKGuYKvOGDmjiNGVykBMCB3luJZ18iCQOobtYP26wPT_1nxqnN6gUFZ0OJVEkBIYBc6-f_4UK-Xnr3N2UB3WspbCuRplee4qOIOzs98lhXrEu4af5i5-S6r35QouBmD-c6TPqoSEE_isqCG3EDefvT0djJe8h8aFJjUVwIPhlIFUo9hcz26a9JUhkK5";
+                width = 109;
+            }
+        );
+        reference = "CnRqAAAAgzvSzCQ629D08tRZvT4LIqhhTMUTwhx6pytdOYH9KNXGb4mFQwoK6eXbX7zGNGXEUQwXABMaJb6E3_2xprtYX6RfxYHKWmDz4NJXY5EAIeA26jP4rCI05ESfQHMeFvfmk92Kw_R_klaeZ-qGDg6FtxIQD9frD_BSHUexE_98_TylhxoUkpfY_wrMBokvHP-C-HZm4HNRyNk";
+        types =         (
+            hospital,
+            dentist,
+            doctor,
+            health,
+            establishment
+        );
+        url = "https://plus.google.com/116642068521917280664/about?hl=en-US";
+        "utc_offset" = 180;
+        vicinity = "Raumantie 1a, Helsinki";
+        website = "http://www.dextra.fi/";
+    };
+    status = OK;
+}
+
+2013-04-24 10:33:46.829 Google[11333:907] {
+}
+2013-04-24 10:33:46.938 Google[11333:907] Google Places JSON response: {
+    "html_attributions" =     (
+    );
+    result =     {
+        "address_components" =         (
+                        {
+                "long_name" = 10;
+                "short_name" = 10;
+                types =                 (
+                    "street_number"
+                );
+            },
+                        {
+                "long_name" = "L\U00e4nsituulentie";
+                "short_name" = "L\U00e4nsituulentie";
+                types =                 (
+                    route
+                );
+            },
+                        {
+                "long_name" = Espoo;
+                "short_name" = Espoo;
+                types =                 (
+                    locality,
+                    political
+                );
+            },
+                        {
+                "long_name" = Espoo;
+                "short_name" = Espoo;
+                types =                 (
+
+                    "administrative_area_level_2",
+                    political
+                );
+            },
+                        {
+                "long_name" = Uusimaa;
+                "short_name" = Uusimaa;
+                types =                 (
+                    "administrative_area_level_1",
+                    political
+                );
+            },
+                        {
+                "long_name" = FI;
+                "short_name" = FI;
+                types =                 (
+                    country,
+                    political
+                );
+            },
+                        {
+                "long_name" = 02100;
+                "short_name" = 02100;
+                types =                 (
+                    "postal_code"
+                );
+            }
+        );
+        "formatted_address" = "L\U00e4nsituulentie 10, Espoo, Finland";
+        "formatted_phone_number" = "09 8567000";
+        geometry =         {
+            location =             {
+                lat = "60.17584";
+                lng = "24.804215";
+            };
+        };
+        icon = "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png";
+        id = 07b549531c3de1e7eebc71f4d44664d15d017a5d;
+        "international_phone_number" = "+358 9 8567000";
+        name = "Adenova L\U00e4\U00e4k\U00e4rikeskus Oy";
+        reference = "CoQBeAAAAELOwCXrf9l54xYIT9gr6zIhe8HT295Xiu9mTFWwwFKuBTILQ6IzZIGpIj79NV8r8UNA1-_kjVtk9PQLHY1qOtPRQCmyhXSPKDFxRTGEgMYW5yZTOa6MSgqV90QavGA6XnbwaY33pdvmDpqP0ovkxyo1GjH8iDBmy_YIa60gLZzCEhCV7Vf0Argy_Jz7SXAebuDxGhQE6r9D8CI0-H2sPmrBnApq40yXag";
+        types =         (
+            hospital,
+            health,
+            establishment
+        );
+        url = "https://plus.google.com/117087414333628042135/about?hl=en-US";
+        "utc_offset" = 180;
+        vicinity = "L\U00e4nsituulentie 10, Espoo";
+        website = "http://www.adenova.cc/";
+    };
+    status = OK;
+}
+
+2013-04-24 10:33:49.324 Google[11333:907] {
+}
+2013-04-24 10:33:49.445 Google[11333:907] Google Places JSON response: {
+    "html_attributions" =     (
+    );
+    result =     {
+        "address_components" =         (
+                        {
+                "long_name" = 3;
+                "short_name" = 3;
+                types =                 (
+                    "street_number"
+                );
+            },
+                        {
+                "long_name" = "S\U00e4hk\U00f6miehentie";
+                "short_name" = "S\U00e4hk\U00f6miehentie";
+                types =                 (
+                    route
+                );
+            },
+                        {
+                "long_name" = Espoo;
+                "short_name" = Espoo;
+                types =                 (
+                    locality,
+                    political
+                );
+            },
+                        {
+                "long_name" = Uusimaa;
+                "short_name" = Uusimaa;
+                types =                 (
+                    "administrative_area_level_1",
+                    political
+                );
+            },
+                        {
+                "long_name" = FI;
+                "short_name" = FI;
+                types =                 (
+                    country,
+                    political
+                );
+            },
+                        {
+                "long_name" = 02150;
+                "short_name" = 02150;
+                types =                 (
+                    "postal_code"
+                );
+            }
+        );
+        "formatted_address" = "S\U00e4hk\U00f6miehentie 3, Espoo, Finland";
+        "formatted_phone_number" = "03 06000";
+        geometry =         {
+            location =             {
+                lat = "60.189199";
+                lng = "24.825993";
+            };
+        };
+        icon = "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png";
+        id = e68ee6722038737951fb9c90e43de965fdb8c8eb;
+        "international_phone_number" = "+358 3 06000";
+        name = "Suomen Terveystalo Oy";
+        "opening_hours" =         {
+            "open_now" = 1;
+            periods =             (
+                                {
+                    close =                     {
+                        day = 1;
+                        time = 1900;
+                    };
+                    open =                     {
+                        day = 1;
+                        time = 0730;
+                    };
+                },
+                                {
+                    close =                     {
+                        day = 2;
+                        time = 1700;
+                    };
+                    open =                     {
+                        day = 2;
+                        time = 0730;
+                    };
+                },
+                                {
+                    close =                     {
+                        day = 3;
+                        time = 1700;
+                    };
+                    open =                     {
+                        day = 3;
+                        time = 0730;
+                    };
+                },
+                                {
+                    close =                     {
+                        day = 4;
+                        time = 1700;
+                    };
+                    open =                     {
+                        day = 4;
+                        time = 0730;
+                    };
+                },
+                                {
+                    close =                     {
+                        day = 5;
+                        time = 1600;
+                    };
+                    open =                     {
+                        day = 5;
+                        time = 0730;
+                    };
+                }
+            );
+        };
+        reference = "CoQBdAAAAAethZqEtgUfdPtw-Ccnww7BkN657e06Gsy5O-onhu1q-NjiLhsung2AhHOQMQ9hw0plUdxSZcrdsCTOsiZxqG_O3j-yoCTYfaNkCUh1KXSMVx-MZVIz1wsUKanPmK9xY1_rnIAxFubXvRc38G8U10wJEP6WfGP-iARt1oBhTe1eEhAMafNA32Q_kIIeslnhE4TuGhQvF1aB7j2fiIl3OKV4KwRHozmXpw";
+        reviews =         (
+                        {
+                aspects =                 (
+                                        {
+                        rating = 2;
+                        type = overall;
+                    }
+                );
+                "author_name" = "A Google User";
+                text = "";
+                time = 1321949220;
+            }
+        );
+        types =         (
+            hospital,
+            health,
+            establishment
+        );
+        url = "https://plus.google.com/113348888397841082140/about?hl=en-US";
+        "utc_offset" = 180;
+        vicinity = "S\U00e4hk\U00f6miehentie 3, Espoo";
+        website = "http://www.terveystalo.com/Toimipaikat/Terveystalo-Otaniemi/";
+    };
+    status = OK;
+}
+
+2013-04-24 10:33:53.058 Google[11333:907] {
+}
+2013-04-24 10:33:53.175 Google[11333:907] Google Places JSON response: {
+    "html_attributions" =     (
+    );
+    result =     {
+        "address_components" =         (
+                        {
+                "long_name" = 28;
+                "short_name" = 28;
+                types =                 (
+                    "street_number"
+                );
+            },
+                        {
+                "long_name" = Huopalahdentie;
+                "short_name" = Huopalahdentie;
+                types =                 (
+                    route
+                );
+            },
+                        {
+                "long_name" = Helsinki;
+                "short_name" = Helsinki;
+                types =                 (
+                    locality,
+                    political
+                );
+            },
+                        {
+                "long_name" = Helsinki;
+                "short_name" = Helsinki;
+                types =                 (
+                    "administrative_area_level_2",
+                    political
+                );
+            },
+                        {
+                "long_name" = FI;
+                "short_name" = FI;
+                types =                 (
+                    country,
+                    political
+                );
+            },
+                        {
+                "long_name" = 00350;
+                "short_name" = 00350;
+                types =                 (
+                    "postal_code"
+                );
+            }
+        );
+        "formatted_address" = "Huopalahdentie 28, Helsinki, Finland";
+        "formatted_phone_number" = "010 3803838";
+        geometry =         {
+            location =             {
+                lat = "60.210693";
+                lng = "24.880442";
+            };
+        };
+        icon = "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png";
+        id = 5cc283e906315bc74556fa46b93e73dc13a72622;
+        "international_phone_number" = "+358 10 3803838";
+        name = "Aava Tali / L\U00e4\U00e4k\U00e4rikeskus Aava Oy";
+        "opening_hours" =         {
+            "open_now" = 1;
+            periods =             (
+                                {
+                    close =                     {
+                        day = 1;
+                        time = 1800;
+                    };
+                    open =                     {
+                        day = 1;
+                        time = 0730;
+                    };
+                },
+                                {
+                    close =                     {
+                        day = 2;
+                        time = 1630;
+                    };
+                    open =                     {
+                        day = 2;
+                        time = 0730;
+                    };
+                },
+                                {
+                    close =                     {
+                        day = 3;
+                        time = 1800;
+                    };
+                    open =                     {
+                        day = 3;
+                        time = 0730;
+                    };
+                },
+                                {
+                    close =                     {
+                        day = 4;
+                        time = 1630;
+                    };
+                    open =                     {
+                        day = 4;
+                        time = 0730;
+                    };
+                },
+                                {
+                    close =                     {
+                        day = 5;
+                        time = 1600;
+                    };
+                    open =                     {
+                        day = 5;
+                        time = 0730;
+                    };
+                }
+            );
+        };
+        reference = "CpQBggAAAO-6elLL4R7XyBTqAEuQSfmComD4Dq2rwR5YLeVjz_y3bISxabIRkd2EFWBpi9Lr7m-_w2eOGr4BO1tGBsp2hudLGQoRIWjbaj6kBHgZhAyeYF2AXwyfU81IKj_OIblpRfa8xq1znUNTqcUZ6Xs2wL2vkOdlpqVahosxRwCz8M5xxpZGxIRvmGvIl1US4DNW8hIQ3jmjgVOWp1W_SD8Jvf2lYRoU0kzaCMNwaImtigXJAjSD_8kJFdo";
+        types =         (
+            hospital,
+            health,
+            establishment
+        );
+        url = "https://plus.google.com/116081523302081576788/about?hl=en-US";
+        "utc_offset" = 180;
+        vicinity = "Huopalahdentie 28, Helsinki";
+        website = "http://www.laakarikeskusaava.fi/";
+    };
+    status = OK;
+}
+
+2013-04-24 10:33:55.817 Google[11333:907] {
+}
+2013-04-24 10:33:56.077 Google[11333:907] Google Places JSON response: {
+    "html_attributions" =     (
+    );
+    result =     {
+        "address_components" =         (
+                        {
+                "long_name" = 1;
+                "short_name" = 1;
+                types =                 (
+                    "street_number"
+                );
+            },
+                        {
+                "long_name" = "V\U00e4stanvindsv\U00e4gen";
+                "short_name" = "V\U00e4stanvindsv\U00e4gen";
+                types =                 (
+                    route
+                );
+            },
+                        {
+                "long_name" = Espoo;
+                "short_name" = Espoo;
+                types =                 (
+                    locality,
+                    political
+                );
+            },
+                        {
+                "long_name" = Espoo;
+                "short_name" = Espoo;
+                types =                 (
+                    "administrative_area_level_2",
+                    political
+                );
+            },
+                        {
+                "long_name" = FI;
+                "short_name" = FI;
+                types =                 (
+                    country,
+                    political
+                );
+            },
+                        {
+                "long_name" = 02100;
+                "short_name" = 02100;
+                types =                 (
+                    "postal_code"
+                );
+            }
+        );
+        "formatted_address" = "V\U00e4stanvindsv\U00e4gen 1, Espoo, Finland";
+        "formatted_phone_number" = "010 3803838";
+        geometry =         {
+            location =             {
+                lat = "60.175389";
+                lng = "24.802422";
+            };
+        };
+        icon = "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png";
+        id = 243a50165094bdb4c39821817ff20d981247f865;
+        "international_phone_number" = "+358 10 3803838";
+        name = "Aava Tapiola / L\U00e4\U00e4k\U00e4rikeskus Aava Oy";
+        "opening_hours" =         {
+            "open_now" = 1;
+            periods =             (
+                                {
+                    close =                     {
+                        day = 1;
+                        time = 2000;
+                    };
+                    open =                     {
+                        day = 1;
+                        time = 0800;
+                    };
+                },
+                                {
+                    close =                     {
+                        day = 2;
+                        time = 2000;
+                    };
+                    open =                     {
+                        day = 2;
+                        time = 0800;
+                    };
+                },
+                                {
+                    close =                     {
+                        day = 3;
+                        time = 2000;
+                    };
+                    open =                     {
+                        day = 3;
+                        time = 0800;
+                    };
+                },
+                                {
+                    close =                     {
+                        day = 4;
+                        time = 2000;
+                    };
+                    open =                     {
+                        day = 4;
+                        time = 0800;
+                    };
+                },
+                                {
+                    close =                     {
+                        day = 5;
+                        time = 1700;
+                    };
+                    open =                     {
+                        day = 5;
+                        time = 0800;
+                    };
+                },
+                                {
+                    close =                     {
+                        day = 6;
+                        time = 1500;
+                    };
+                    open =                     {
+                        day = 6;
+                        time = 1000;
+                    };
+                }
+            );
+        };
+        reference = "CpQBhgAAALJGKGq5V1OP0Ik4nR0FH6TYP-GmzUQOgcYwQzMFLCNuJl5eHrw_mCCRPE_4rNqoYuqUELZUUXZ33lf7cEuzecax-oHR50B7kjnYqpLZrFFz5ZBD3IEgRQKexQHPwV9kL7Dso7xQWynzfaVbKjNxuaMnMgxgWMfTHB9EqPoUqWsCLkOK8B2OzjsvjauvYUPENRIQ0lgr-UHh21Wx-xhu53fE2xoUeBmx1EYOD42ydOsyh8jMp2sT9bA";
+        types =         (
+            hospital,
+            establishment
+        );
+        url = "https://plus.google.com/115935137467880426259/about?hl=en-US";
+        "utc_offset" = 180;
+        vicinity = "V\U00e4stanvindsv\U00e4gen 1, Espoo";
+        website = "http://www.laakarikeskusaava.fi/";
+    };
+    status = OK;
+}

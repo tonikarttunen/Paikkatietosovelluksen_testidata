@@ -1,0 +1,2033 @@
+Toni Karttunen
+24.4.2012
+
+==========================================
+
+Paikkatiedon tarjoaja: Foursquare
+Paikka: Otaniemi, Espoo
+Kategoria: Food
+
+==========================================
+
+2013-04-24 11:25:43.870 Foursquare[11515:907] foursquareDictionary: {
+    venues =     (
+                {
+            beenHere =             {
+                count = 0;
+            };
+            canonicalUrl = "https://foursquare.com/v/amicaravintola-tuas/4ec102946c25dfd9822c3d1a";
+            categories =             (
+                                {
+                    icon =                     {
+                        name = ".png";
+                        prefix = "https://foursquare.com/img/categories/education/cafeteria_";
+                        sizes =                         (
+                            32,
+                            44,
+                            64,
+                            88,
+                            256
+                        );
+                    };
+                    id = 4bf58dd8d48988d1a1941735;
+                    name = "College Cafeteria";
+                    pluralName = "College Cafeterias";
+                    primary = 1;
+                    shortName = Cafeteria;
+                }
+            );
+            contact =             {
+                formattedPhone = "09 47088174";
+                phone = 0947088174;
+            };
+            hereNow =             {
+                count = 1;
+                groups =                 (
+                                        {
+                        count = 1;
+                        items =                         (
+                        );
+                        name = "Other people here";
+                        type = others;
+                    }
+                );
+            };
+            id = 4ec102946c25dfd9822c3d1a;
+            likes =             {
+                count = 0;
+                groups =                 (
+                );
+            };
+            location =             {
+                address = "Otaniementie 17";
+                cc = FI;
+                city = Espoo;
+                country = Finland;
+                distance = 389;
+                lat = "60.18710484208567";
+                lng = "24.82022969768869";
+                postalCode = 02150;
+            };
+            name = "Amica-ravintola TUAS";
+            referralId = "v-1366791942";
+            specials =             (
+                                {
+                    description = "Unlocked for the mayor";
+                    finePrint = "Huom! Vain yhdet kahvit p\U00e4iv\U00e4ss\U00e4. Etu on henkil\U00f6kohtainen ja sen saa ainoastaan Pormestari.";
+                    icon = mayor;
+                    id = 5168f68fc84c79d6f476df25;
+                    likes =                     {
+                        count = 0;
+                        groups =                         (
+                        );
+                    };
+                    message = "Tarjoamme pormestarille iltap\U00e4iv\U00e4kahvit maksutta kiitoksena aktiivisuudesta. Tervetuloa!";
+                    page =                     {
+                        bio = "";
+                        contact =                         {
+                            twitter = amicasuomi;
+                        };
+                        firstName = Amica;
+                        followers =                         {
+                            count = 17;
+                            groups =                             (
+                            );
+                        };
+                        gender = none;
+                        homeCity = "Kannelm\U00e4ki, Finland";
+                        id = 38586368;
+                        photo = "https://is1.4sqi.net/userpix_thumbs/K5XP2GUOKK0BEADZ.jpg";
+                        tips =                         {
+                            count = 5;
+                        };
+                        type = brand;
+                    };
+                    provider = foursquare;
+                    redemption = standard;
+                    title = "Mayor Special";
+                    type = mayor;
+                }
+            );
+            stats =             {
+                checkinsCount = 1214;
+                tipCount = 3;
+                usersCount = 209;
+            };
+            url = "http://www.amica.fi/tuas";
+            verified = 1;
+        },
+                {
+            beenHere =             {
+                count = 0;
+            };
+            canonicalUrl = "https://foursquare.com/v/kvarkki/4be2c2f6f07b0f47a61af643";
+            categories =             (
+                                {
+                    icon =                     {
+                        name = ".png";
+                        prefix = "https://foursquare.com/img/categories/education/cafeteria_";
+                        sizes =                         (
+                            32,
+                            44,
+                            64,
+                            88,
+                            256
+                        );
+                    };
+                    id = 4bf58dd8d48988d1a1941735;
+                    name = "College Cafeteria";
+                    pluralName = "College Cafeterias";
+                    primary = 1;
+                    shortName = Cafeteria;
+                }
+            );
+            contact =             {
+            };
+            hereNow =             {
+                count = 1;
+                groups =                 (
+                                        {
+                        count = 1;
+                        items =                         (
+                        );
+                        name = "Other people here";
+                        type = others;
+                    }
+                );
+            };
+            id = 4be2c2f6f07b0f47a61af643;
+            likes =             {
+                count = 0;
+                groups =                 (
+                );
+            };
+            location =             {
+                address = "Otakaari 3a";
+                cc = FI;
+                city = Espoo;
+                country = Finland;
+                distance = 194;
+                lat = "60.188243803255";
+                lng = "24.82957484511428";
+            };
+            name = Kvarkki;
+            referralId = "v-1366791942";
+            specials =             (
+            );
+            stats =             {
+                checkinsCount = 2315;
+                tipCount = 3;
+                usersCount = 311;
+            };
+            verified = 0;
+        },
+                {
+            beenHere =             {
+                count = 0;
+            };
+            canonicalUrl = "https://foursquare.com/v/alepa/4ba79745f964a52042a039e3";
+            categories =             (
+                                {
+                    icon =                     {
+                        name = ".png";
+                        prefix = "https://foursquare.com/img/categories/shops/food_grocery_";
+                        sizes =                         (
+
+                            32,
+                            44,
+                            64,
+                            88,
+                            256
+                        );
+                    };
+                    id = 4bf58dd8d48988d118951735;
+                    name = "Grocery Store";
+                    pluralName = "Grocery Stores";
+                    primary = 1;
+                    shortName = "Grocery Store";
+                }
+            );
+            contact =             {
+                formattedPhone = "010 7669120";
+                phone = 0107669120;
+            };
+            hereNow =             {
+                count = 0;
+                groups =                 (
+                );
+            };
+            id = 4ba79745f964a52042a039e3;
+            likes =             {
+                count = 0;
+                groups =                 (
+                );
+            };
+            location =             {
+                address = "Otakaari 11";
+                cc = FI;
+                city = Espoo;
+                country = Finland;
+                crossStreet = "Otaniemen ostoskeskus";
+                distance = 378;
+                lat = "60.18397390041252";
+                lng = "24.83064651489258";
+                postalCode = 02150;
+            };
+            name = Alepa;
+            referralId = "v-1366791942";
+            specials =             (
+            );
+            stats =             {
+                checkinsCount = 4014;
+                tipCount = 2;
+                usersCount = 722;
+            };
+            url = "http://www.alepa.fi";
+            verified = 1;
+        },
+                {
+            beenHere =             {
+                count = 0;
+            };
+            canonicalUrl = "https://foursquare.com/v/cantina/4b684da7f964a520ac702be3";
+            categories =             (
+                                {
+                    icon =                     {
+                        name = ".png";
+                        prefix = "https://foursquare.com/img/categories/food/pizza_";
+                        sizes =                         (
+                            32,
+                            44,
+                            64,
+                            88,
+                            256
+                        );
+                    };
+                    id = 4bf58dd8d48988d1ca941735;
+                    name = "Pizza Place";
+                    pluralName = "Pizza Places";
+                    primary = 1;
+                    shortName = Pizza;
+                }
+            );
+            contact =             {
+                formattedPhone = "050 4303234";
+                phone = 0504303234;
+            };
+            hereNow =             {
+                count = 0;
+                groups =                 (
+                );
+            };
+            id = 4b684da7f964a520ac702be3;
+            likes =             {
+                count = 0;
+                groups =                 (
+                );
+            };
+            location =             {
+                address = "Otakaari 24";
+                cc = FI;
+                city = Espoo;
+                country = Finland;
+                distance = 378;
+                lat = "60.18529120758332";
+                lng = "24.83324598236232";
+                postalCode = 02150;
+            };
+            name = Cantina;
+            referralId = "v-1366791942";
+            specials =             (
+            );
+            stats =             {
+                checkinsCount = 2792;
+                tipCount = 10;
+                usersCount = 647;
+            };
+            verified = 0;
+        },
+                {
+            beenHere =             {
+                count = 0;
+            };
+            canonicalUrl = "https://foursquare.com/v/ravintola-ranta/4d0263f437caa1cdcd05e447";
+            categories =             (
+                                {
+                    icon =                     {
+                        name = ".png";
+                        prefix = "https://foursquare.com/img/categories/food/italian_";
+                        sizes =                         (
+                            32,
+                            44,
+                            64,
+                            88,
+                            256
+                        );
+                    };
+                    id = 4bf58dd8d48988d110941735;
+                    name = "Italian Restaurant";
+                    pluralName = "Italian Restaurants";
+                    primary = 1;
+                    shortName = Italian;
+                }
+            );
+            contact =             {
+                formattedPhone = "020 1234800";
+                phone = 0201234800;
+            };
+            hereNow =             {
+                count = 1;
+                groups =                 (
+                                        {
+                        count = 1;
+                        items =                         (
+                        );
+                        name = "Other people here";
+                        type = others;
+                    }
+                );
+            };
+            id = 4d0263f437caa1cdcd05e447;
+            likes =             {
+                count = 0;
+                groups =                 (
+                );
+            };
+            location =             {
+                address = "Radisson Blu Hotel";
+                cc = FI;
+                city = Espoo;
+                country = Finland;
+                distance = 618;
+                lat = "60.18399523862983";
+                lng = "24.83674049377441";
+                postalCode = 02150;
+                state = Finland;
+            };
+            name = "Ravintola Ranta";
+            referralId = "v-1366791942";
+            specials =             (
+            );
+            stats =             {
+                checkinsCount = 719;
+                tipCount = 13;
+                usersCount = 299;
+            };
+            verified = 0;
+        },
+                {
+            beenHere =             {
+                count = 0;
+            };
+            canonicalUrl = "https://foursquare.com/v/abc-deli-pohjoistapiola/4b93b40ef964a520b74d34e3";
+            categories =             (
+                                {
+                    icon =                     {
+                        name = ".png";
+                        prefix = "https://foursquare.com/img/categories/shops/gas_";
+                        sizes =                         (
+                            32,
+                            44,
+                            64,
+                            88,
+                            256
+                        );
+                    };
+                    id = 4bf58dd8d48988d113951735;
+                    name = "Gas Station / Garage";
+                    pluralName = "Gas Stations / Garages";
+                    primary = 1;
+                    shortName = "Gas Station / Garage";
+                }
+            );
+            contact =             {
+                formattedPhone = "010 7666930";
+                phone = 0107666930;
+            };
+            hereNow =             {
+                count = 2;
+                groups =                 (
+                                        {
+                        count = 2;
+                        items =                         (
+                        );
+                        name = "Other people here";
+                        type = others;
+                    }
+                );
+            };
+            id = 4b93b40ef964a520b74d34e3;
+            likes =             {
+                count = 0;
+                groups =                 (
+                );
+            };
+            location =             {
+                address = "Kalevalantie 3";
+                cc = FI;
+                city = Espoo;
+                country = Finland;
+                crossStreet = "Keh\U00e4 I";
+                distance = 1103;
+                lat = "60.18563471925908";
+                lng = "24.80749720852294";
+                postalCode = 02100;
+            };
+            name = "ABC Deli Pohjois-Tapiola";
+            referralId = "v-1366791942";
+            specials =             (
+                                {
+                    description = "Unlocked every check-in";
+                    finePrint = "Edun saat t\U00e4ll\U00e4 edulla ja S-Etukortilla kaikista Chico's Burgereista, Big Bowl -annoksista, salaateista, retro food -tuotteista ja patongeista.";
+                    icon = "check-in";
+                    id = 50912e4690e7fa3af7896cda;
+                    likes =                     {
+                        count = 0;
+                        groups =                         (
+                        );
+                    };
+                    message = "Check-in-asiakkaat nauttivat Citykeitti\U00f6mme annoksista 1 \U20ac edullisemmin! Check-in customers get 1 \U20ac dicount from our meals! Tervetuloa.";
+                    page =                     {
+                        bio = "";
+                        contact =                         {
+                        };
+                        firstName = "Deli Citykeitti\U00f6 & Kahvibaari";
+                        gender = none;
+                        homeCity = "Helsinki, Suomi";
+                        id = 33622787;
+                        photo = "https://is0.4sqi.net/userpix_thumbs/EJF1YJT0KVYG0EIR.jpg";
+                        tips =                         {
+                            count = 0;
+                        };
+                        type = brand;
+                    };
+                    provider = foursquare;
+                    redemption = standard;
+                    title = "Check-in Special";
+                    type = frequency;
+                }
+            );
+            stats =             {
+                checkinsCount = 6909;
+                tipCount = 8;
+                usersCount = 1764;
+            };
+            url = "http://www.delit.fi";
+            verified = 1;
+        },
+                {
+            beenHere =             {
+                count = 0;
+            };
+            canonicalUrl = "https://foursquare.com/v/smarket/4e966bf55c5cc3f4981ad13e";
+            categories =             (
+                                {
+                    icon =                     {
+                        name = ".png";
+                        prefix = "https://foursquare.com/img/categories/shops/food_grocery_";
+                        sizes =                         (
+                            32,
+                            44,
+                            64,
+                            88,
+                            256
+                        );
+                    };
+                    id = 4bf58dd8d48988d118951735;
+                    name = "Grocery Store";
+                    pluralName = "Grocery Stores";
+                    primary = 1;
+                    shortName = "Grocery Store";
+                }
+            );
+            contact =             {
+                formattedPhone = "010 7666190";
+                phone = 0107666190;
+            };
+            hereNow =             {
+                count = 0;
+                groups =                 (
+                );
+            };
+            id = 4e966bf55c5cc3f4981ad13e;
+            likes =             {
+                count = 0;
+                groups =                 (
+                );
+            };
+            location =             {
+                address = "Kalevalantie 3";
+                cc = FI;
+                city = Espoo;
+                country = Finland;
+                distance = 1108;
+                lat = "60.18555039446955";
+                lng = "24.80742144471323";
+                postalCode = 02130;
+            };
+            name = "S-market";
+            referralId = "v-1366791942";
+            specials =             (
+            );
+            stats =             {
+                checkinsCount = 3045;
+                tipCount = 3;
+                usersCount = 589;
+            };
+            url = "http://www.s-kanava.fi/vk/asiakasomistajalle/toimipaikat/fi/697942514";
+            verified = 1;
+        },
+                {
+            beenHere =             {
+                count = 0;
+            };
+            canonicalUrl = "https://foursquare.com/v/ravintola-metropol/4cbf0029c44f9c740fb2bbdf";
+            categories =             (
+                                {
+                    icon =                     {
+                        name = ".png";
+                        prefix = "https://foursquare.com/img/categories/food/default_";
+                        sizes =                         (
+                            32,
+                            44,
+                            64,
+                            88,
+                            256
+                        );
+                    };
+                    id = 4bf58dd8d48988d1c4941735;
+                    name = Restaurant;
+                    pluralName = Restaurants;
+                    primary = 1;
+                    shortName = Restaurant;
+                }
+            );
+            contact =             {
+            };
+            hereNow =             {
+                count = 0;
+                groups =                 (
+                );
+            };
+            id = 4cbf0029c44f9c740fb2bbdf;
+            likes =             {
+                count = 0;
+                groups =                 (
+                );
+            };
+            location =             {
+                address = "Tekniikantie 14";
+                cc = FI;
+                city = Espoo;
+                country = Finland;
+                distance = 840;
+                lat = "60.18560319824373";
+                lng = "24.81231434921563";
+                postalCode = 02150;
+                state = Finland;
+            };
+            name = "Ravintola Metropol";
+            referralId = "v-1366791942";
+            specials =             (
+            );
+            stats =             {
+                checkinsCount = 899;
+                tipCount = 2;
+                usersCount = 90;
+            };
+            verified = 0;
+        },
+                {
+            beenHere =             {
+                count = 0;
+            };
+            canonicalUrl = "https://foursquare.com/v/think/508e5322e4b09898c8ec7aca";
+            categories =             (
+                                {
+                    icon =                     {
+                        name = ".png";
+                        prefix = "https://foursquare.com/img/categories/food/pizza_";
+                        sizes =                         (
+                            32,
+                            44,
+                            64,
+                            88,
+                            256
+                        );
+                    };
+                    id = 4bf58dd8d48988d1ca941735;
+                    name = "Pizza Place";
+                    pluralName = "Pizza Places";
+                    primary = 1;
+                    shortName = Pizza;
+                }
+            );
+            contact =             {
+            };
+            hereNow =             {
+                count = 0;
+                groups =                 (
+                );
+            };
+            id = 508e5322e4b09898c8ec7aca;
+            likes =             {
+                count = 0;
+                groups =                 (
+                );
+            };
+            location =             {
+                cc = FI;
+                country = Finland;
+                distance = 1125;
+                lat = "60.17736368425565";
+                lng = "24.83380917525593";
+            };
+            name = Think;
+            referralId = "v-1366791942";
+            specials =             (
+            );
+            stats =             {
+                checkinsCount = 376;
+                tipCount = 0;
+                usersCount = 82;
+            };
+            verified = 0;
+        },
+                {
+            beenHere =             {
+                count = 0;
+            };
+            canonicalUrl = "https://foursquare.com/v/kotipizza/4e09f9ceaeb74c3991214fc2";
+            categories =             (
+                                {
+                    icon =                     {
+                        name = ".png";
+                        prefix = "https://foursquare.com/img/categories/food/pizza_";
+                        sizes =                         (
+                            32,
+                            44,
+                            64,
+                            88,
+                            256
+                        );
+                    };
+                    id = 4bf58dd8d48988d1ca941735;
+                    name = "Pizza Place";
+                    pluralName = "Pizza Places";
+                    primary = 1;
+                    shortName = Pizza;
+                }
+            );
+            contact =             {
+                formattedPhone = "09 34872364";
+                phone = 0934872364;
+            };
+            hereNow =             {
+                count = 0;
+                groups =                 (
+                );
+            };
+            id = 4e09f9ceaeb74c3991214fc2;
+            likes =             {
+                count = 0;
+                groups =                 (
+                );
+            };
+            location =             {
+                address = "Miestentie 1";
+                cc = FI;
+                city = Espoo;
+                country = Finland;
+                distance = 930;
+                lat = "60.178574";
+                lng = "24.82695";
+            };
+            name = Kotipizza;
+            referralId = "v-1366791942";
+            specials =             (
+            );
+            stats =             {
+                checkinsCount = 873;
+                tipCount = 1;
+                usersCount = 91;
+            };
+            verified = 0;
+        },
+                {
+            beenHere =             {
+                count = 0;
+            };
+            canonicalUrl = "https://foursquare.com/v/lounasravintola-swingin/4c809149d22d199cd1b5d893";
+            categories =             (
+                                {
+                    icon =                     {
+                        name = ".png";
+                        prefix = "https://foursquare.com/img/categories/food/default_";
+                        sizes =                         (
+                            32,
+                            44,
+                            64,
+                            88,
+                            256
+                        );
+                    };
+                    id = 4bf58dd8d48988d1c4941735;
+                    name = Restaurant;
+                    pluralName = Restaurants;
+                    primary = 1;
+                    shortName = Restaurant;
+                }
+            );
+            contact =             {
+                formattedPhone = "020 7569380";
+                phone = 0207569380;
+            };
+            hereNow =             {
+                count = 0;
+                groups =                 (
+                );
+            };
+            id = 4c809149d22d199cd1b5d893;
+            likes =             {
+                count = 0;
+                groups =                 (
+                );
+            };
+            location =             {
+                address = "Keilaranta 14";
+                cc = FI;
+                city = Espoo;
+                country = Finland;
+                crossStreet = "Life Science Center";
+                distance = 1022;
+                lat = "60.17815408196914";
+                lng = "24.83267300821873";
+                postalCode = 02150;
+            };
+            name = "Lounasravintola Swing'in";
+            referralId = "v-1366791942";
+            specials =             (
+            );
+            stats =             {
+                checkinsCount = 1006;
+                tipCount = 2;
+                usersCount = 122;
+            };
+            verified = 0;
+        },
+                {
+            beenHere =             {
+                count = 0;
+            };
+            canonicalUrl = "https://foursquare.com/v/ravintola-spektri/4aeaca17f964a52032bc21e3";
+            categories =             (
+                                {
+                    icon =                     {
+                        name = ".png";
+                        prefix = "https://foursquare.com/img/categories/building/office_cafeteria_";
+                        sizes =                         (
+                            32,
+                            44,
+                            64,
+                            88,
+                            256
+                        );
+                    };
+                    id = 4bf58dd8d48988d128941735;
+                    name = Cafeteria;
+                    pluralName = Cafeterias;
+                    primary = 1;
+                    shortName = Cafeteria;
+                }
+            );
+            contact =             {
+                formattedPhone = "09 43577270";
+                phone = 0943577270;
+            };
+            hereNow =             {
+                count = 1;
+                groups =                 (
+                                        {
+                        count = 1;
+                        items =                         (
+                        );
+                        name = "Other people here";
+                        type = others;
+                    }
+                );
+            };
+            id = 4aeaca17f964a52032bc21e3;
+            likes =             {
+                count = 0;
+                groups =                 (
+                );
+            };
+            location =             {
+                address = "Mets\U00e4nneidonkuja 4";
+                cc = FI;
+                city = Helsinki;
+                country = Finland;
+                crossStreet = "Spektrin Pilotti";
+                distance = 1218;
+                lat = "60.18885792159605";
+                lng = "24.80558521872385";
+                postalCode = 02130;
+            };
+            name = "Ravintola Spektri";
+            referralId = "v-1366791942";
+            specials =             (
+            );
+            stats =             {
+                checkinsCount = 738;
+                tipCount = 1;
+                usersCount = 91;
+            };
+            verified = 0;
+        },
+                {
+            beenHere =             {
+                count = 0;
+            };
+            canonicalUrl = "https://foursquare.com/v/kilim/4afbd721f964a5202e1f22e3";
+            categories =             (
+                                {
+                    icon =                     {
+                        name = ".png";
+                        prefix = "https://foursquare.com/img/categories/food/default_";
+                        sizes =                         (
+                            32,
+                            44,
+                            64,
+                            88,
+                            256
+                        );
+                    };
+                    id = 4f04af1f2fb6e1c99f3db0bb;
+                    name = "Turkish Restaurant";
+                    pluralName = "Turkish Restaurants";
+                    primary = 1;
+                    shortName = Turkish;
+                }
+            );
+            contact =             {
+                formattedPhone = "09 464656";
+                phone = 09464656;
+            };
+            hereNow =             {
+                count = 1;
+                groups =                 (
+                                        {
+                        count = 1;
+                        items =                         (
+                        );
+                        name = "Other people here";
+                        type = others;
+                    }
+                );
+            };
+            id = 4afbd721f964a5202e1f22e3;
+            likes =             {
+                count = 0;
+                groups =                 (
+                );
+            };
+            location =             {
+                address = "M\U00e4ntyviita 2";
+                cc = FI;
+                city = Espoo;
+                country = Finland;
+                distance = 1257;
+                lat = "60.17887992666915";
+                lng = "24.81132439032308";
+                postalCode = 02110;
+            };
+            name = Kilim;
+            referralId = "v-1366791942";
+            specials =             (
+            );
+            stats =             {
+                checkinsCount = 1766;
+                tipCount = 16;
+                usersCount = 848;
+            };
+            verified = 0;
+        },
+                {
+            beenHere =             {
+                count = 0;
+            };
+            canonicalUrl = "https://foursquare.com/v/lnsushi-art/4d6e756a922f8cfad1f449fe";
+            categories =             (
+                                {
+                    icon =                     {
+                        name = ".png";
+                        prefix = "https://foursquare.com/img/categories/food/sushi_";
+                        sizes =                         (
+                            32,
+                            44,
+                            64,
+                            88,
+                            256
+                        );
+                    };
+                    id = 4bf58dd8d48988d1d2941735;
+                    name = "Sushi Restaurant";
+                    pluralName = "Sushi Restaurants";
+                    primary = 1;
+                    shortName = Sushi;
+                }
+            );
+            contact =             {
+                formattedPhone = "041 7418084";
+                phone = 0417418084;
+            };
+            hereNow =             {
+                count = 0;
+                groups =                 (
+                );
+            };
+            id = 4d6e756a922f8cfad1f449fe;
+            likes =             {
+                count = 0;
+                groups =                 (
+                );
+            };
+            location =             {
+                address = "M\U00e4ntyviita 6";
+                cc = FI;
+                city = Espoo;
+                country = Finland;
+                distance = 1176;
+                lat = "60.17905507133536";
+                lng = "24.81309413909912";
+                postalCode = 02110;
+            };
+            name = "LN-Sushi Art";
+            referralId = "v-1366791942";
+            specials =             (
+            );
+            stats =             {
+                checkinsCount = 994;
+                tipCount = 6;
+                usersCount = 442;
+            };
+            verified = 0;
+        },
+                {
+            beenHere =             {
+                count = 0;
+            };
+            canonicalUrl = "https://foursquare.com/v/sodexo-be/5077e60be4b0d3b807c04470";
+            categories =             (
+                                {
+                    icon =                     {
+                        name = ".png";
+                        prefix = "https://foursquare.com/img/categories/food/default_";
+                        sizes =                         (
+                            32,
+                            44,
+                            64,
+                            88,
+                            256
+                        );
+                    };
+                    id = 4bf58dd8d48988d1c4941735;
+                    name = Restaurant;
+                    pluralName = Restaurants;
+                    primary = 1;
+                    shortName = Restaurant;
+                }
+            );
+            contact =             {
+            };
+            hereNow =             {
+                count = 3;
+                groups =                 (
+                                        {
+                        count = 3;
+                        items =                         (
+                        );
+                        name = "Other people here";
+                        type = others;
+                    }
+                );
+            };
+            id = 5077e60be4b0d3b807c04470;
+            likes =             {
+                count = 0;
+                groups =                 (
+                );
+            };
+            location =             {
+                address = "Keilaranta 1";
+                cc = FI;
+                country = Finland;
+                distance = 1270;
+                lat = "60.17570065153682";
+                lng = "24.83131365649303";
+            };
+            name = "Sodexo Be";
+            referralId = "v-1366791942";
+            specials =             (
+            );
+            stats =             {
+                checkinsCount = 273;
+                tipCount = 3;
+                usersCount = 18;
+            };
+            verified = 0;
+        },
+                {
+            beenHere =             {
+                count = 0;
+            };
+            canonicalUrl = "https://foursquare.com/v/ravintola-keilaranta/4c5447f5728920a18c817f82";
+            categories =             (
+                                {
+                    icon =                     {
+                        name = ".png";
+                        prefix = "https://foursquare.com/img/categories/food/default_";
+                        sizes =                         (
+                            32,
+                            44,
+                            64,
+                            88,
+                            256
+                        );
+                    };
+                    id = 4bf58dd8d48988d1c4941735;
+                    name = Restaurant;
+                    pluralName = Restaurants;
+                    primary = 1;
+                    shortName = Restaurant;
+                }
+            );
+            contact =             {
+            };
+            hereNow =             {
+                count = 0;
+                groups =                 (
+                );
+            };
+            id = 4c5447f5728920a18c817f82;
+            likes =             {
+                count = 0;
+                groups =                 (
+                );
+            };
+            location =             {
+                address = "Keilaniementie 9";
+                cc = FI;
+                city = Espoo;
+                country = Finland;
+                distance = 1336;
+                lat = "60.17590127859581";
+                lng = "24.83679949481682";
+                postalCode = 02150;
+            };
+            name = "Ravintola Keilaranta";
+            referralId = "v-1366791942";
+            specials =             (
+            );
+            stats =             {
+                checkinsCount = 637;
+                tipCount = 0;
+                usersCount = 225;
+            };
+            verified = 0;
+        },
+                {
+            beenHere =             {
+                count = 0;
+            };
+            canonicalUrl = "https://foursquare.com/v/aschan-coffee--deli/4f8d7c4be4b0a66dd40806a3";
+            categories =             (
+                                {
+                    icon =                     {
+                        name = ".png";
+                        prefix = "https://foursquare.com/img/categories/food/coffeeshop_";
+                        sizes =                         (
+                            32,
+                            44,
+                            64,
+                            88,
+                            256
+                        );
+                    };
+                    id = 4bf58dd8d48988d1e0931735;
+                    name = "Coffee Shop";
+                    pluralName = "Coffee Shops";
+                    primary = 1;
+                    shortName = "Coffee Shop";
+                }
+            );
+            contact =             {
+            };
+            hereNow =             {
+                count = 1;
+                groups =                 (
+                                        {
+                        count = 1;
+                        items =                         (
+                        );
+                        name = "Other people here";
+                        type = others;
+                    }
+                );
+            };
+            id = 4f8d7c4be4b0a66dd40806a3;
+            likes =             {
+                count = 0;
+                groups =                 (
+                );
+            };
+            location =             {
+                address = "L\U00e4nsituulentie 5";
+                cc = FI;
+                city = Espoo;
+                country = Finland;
+                distance = 1814;
+                lat = "60.1754897505536";
+                lng = "24.80390508173818";
+                postalCode = 02100;
+                state = Uusimaa;
+            };
+            name = "Aschan Coffee & Deli";
+            referralId = "v-1366791943";
+            specials =             (
+            );
+            stats =             {
+                checkinsCount = 1801;
+                tipCount = 9;
+                usersCount = 624;
+            };
+            verified = 0;
+        },
+                {
+            beenHere =             {
+                count = 0;
+            };
+            canonicalUrl = "https://foursquare.com/v/subway/4b5abe86f964a520f9d228e3";
+            categories =             (
+                                {
+                    icon =                     {
+                        name = ".png";
+                        prefix = "https://foursquare.com/img/categories/food/sandwiches_";
+                        sizes =                         (
+                            32,
+                            44,
+                            64,
+                            88,
+                            256
+                        );
+                    };
+                    id = 4bf58dd8d48988d1c5941735;
+                    name = "Sandwich Place";
+                    pluralName = "Sandwich Places";
+                    primary = 1;
+                    shortName = Sandwiches;
+                }
+            );
+            contact =             {
+                formattedPhone = "09 466106";
+                phone = 09466106;
+            };
+            hereNow =             {
+                count = 0;
+                groups =                 (
+                );
+            };
+            id = 4b5abe86f964a520f9d228e3;
+            likes =             {
+                count = 0;
+                groups =                 (
+                );
+            };
+            location =             {
+                address = "L\U00e4nsituulentie 4";
+                cc = FI;
+                city = Espoo;
+                country = Finland;
+                distance = 1841;
+                lat = "60.17604625147001";
+                lng = "24.80221944376962";
+                postalCode = 02100;
+            };
+            name = Subway;
+            referralId = "v-1366791943";
+            specials =             (
+            );
+            stats =             {
+                checkinsCount = 3088;
+                tipCount = 6;
+                usersCount = 1177;
+            };
+            verified = 0;
+        },
+                {
+            beenHere =             {
+                count = 0;
+            };
+            canonicalUrl = "https://foursquare.com/v/sodexo-lagoon/4ca31181f832a1cd5d139ae5";
+            categories =             (
+                                {
+                    icon =                     {
+                        name = ".png";
+                        prefix = "https://foursquare.com/img/categories/food/default_";
+                        sizes =                         (
+                            32,
+                            44,
+                            64,
+                            88,
+                            256
+                        );
+                    };
+                    id = 4bf58dd8d48988d147941735;
+                    name = Diner;
+                    pluralName = Diners;
+                    primary = 1;
+                    shortName = Diner;
+                }
+            );
+            contact =             {
+            };
+            hereNow =             {
+                count = 3;
+                groups =                 (
+                                        {
+                        count = 3;
+                        items =                         (
+                        );
+                        name = "Other people here";
+                        type = others;
+                    }
+                );
+            };
+            id = 4ca31181f832a1cd5d139ae5;
+            likes =             {
+                count = 0;
+                groups =                 (
+                );
+            };
+            location =             {
+                address = "Keilalahdentie 2-4";
+                cc = FI;
+                city = Espoo;
+                country = Finland;
+                crossStreet = "Nokia House";
+                distance = 1747;
+                lat = "60.17124318242315";
+                lng = "24.82850074768066";
+                postalCode = 02150;
+            };
+            name = "Sodexo Lagoon";
+            referralId = "v-1366791943";
+            specials =             (
+            );
+            stats =             {
+                checkinsCount = 1744;
+                tipCount = 4;
+                usersCount = 211;
+            };
+            verified = 0;
+        },
+                {
+            beenHere =             {
+                count = 0;
+            };
+            canonicalUrl = "https://foursquare.com/v/grilli-toro/4b0a6acaf964a520e52323e3";
+            categories =             (
+                                {
+                    icon =                     {
+                        name = ".png";
+                        prefix = "https://foursquare.com/img/categories/food/steakhouse_";
+                        sizes =                         (
+                            32,
+                            44,
+                            64,
+                            88,
+                            256
+                        );
+                    };
+                    id = 4bf58dd8d48988d1cc941735;
+                    name = Steakhouse;
+                    pluralName = Steakhouses;
+                    primary = 1;
+                    shortName = Steakhouse;
+                }
+            );
+            contact =             {
+                formattedPhone = "09 460427";
+                phone = 09460427;
+            };
+            hereNow =             {
+                count = 0;
+                groups =                 (
+                );
+            };
+            id = 4b0a6acaf964a520e52323e3;
+            likes =             {
+                count = 0;
+                groups =                 (
+                );
+            };
+            location =             {
+                address = "Louhentie 16";
+                cc = FI;
+                city = Espoo;
+                country = Finland;
+                distance = 1682;
+                lat = "60.187251";
+                lng = "24.796869";
+                postalCode = 02130;
+            };
+            name = "Grilli Toro";
+            referralId = "v-1366791943";
+            specials =             (
+            );
+            stats =             {
+                checkinsCount = 1983;
+                tipCount = 29;
+                usersCount = 968;
+            };
+            verified = 0;
+        },
+                {
+            beenHere =             {
+                count = 0;
+            };
+            canonicalUrl = "https://foursquare.com/v/cafe-picnic/4bab78d0f964a520f2ab3ae3";
+            categories =             (
+                                {
+                    icon =                     {
+                        name = ".png";
+                        prefix = "https://foursquare.com/img/categories/food/cafe_";
+                        sizes =                         (
+                            32,
+                            44,
+                            64,
+                            88,
+                            256
+                        );
+                    };
+                    id = 4bf58dd8d48988d16d941735;
+                    name = "Caf\U00e9";
+                    pluralName = "Caf\U00e9s";
+                    primary = 1;
+                    shortName = "Caf\U00e9";
+                }
+            );
+            contact =             {
+            };
+            hereNow =             {
+                count = 0;
+                groups =                 (
+                );
+            };
+            id = 4bab78d0f964a520f2ab3ae3;
+            likes =             {
+                count = 0;
+                groups =                 (
+                );
+            };
+            location =             {
+                address = "L\U00e4nsituulentie 6";
+                cc = FI;
+                city = Espoo;
+                country = Finland;
+                distance = 1848;
+                lat = "60.17578197823502";
+                lng = "24.80251783098454";
+                postalCode = 02100;
+            };
+            name = "Cafe Picnic";
+            referralId = "v-1366791943";
+            specials =             (
+            );
+            stats =             {
+                checkinsCount = 2164;
+                tipCount = 8;
+                usersCount = 789;
+            };
+            verified = 0;
+        },
+                {
+            beenHere =             {
+                count = 0;
+            };
+            canonicalUrl = "https://foursquare.com/v/the-coffee-bean--tea-leaf/4b628d7cf964a5202e4b2ae3";
+            categories =             (
+                                {
+                    icon =                     {
+                        name = ".png";
+                        prefix = "https://foursquare.com/img/categories/food/coffeeshop_";
+                        sizes =                         (
+                            32,
+                            44,
+                            64,
+                            88,
+                            256
+                        );
+                    };
+                    id = 4bf58dd8d48988d1e0931735;
+                    name = "Coffee Shop";
+                    pluralName = "Coffee Shops";
+                    primary = 1;
+                    shortName = "Coffee Shop";
+                }
+            );
+            contact =             {
+            };
+            hereNow =             {
+                count = 0;
+                groups =                 (
+                );
+            };
+            id = 4b628d7cf964a5202e4b2ae3;
+            likes =             {
+                count = 0;
+                groups =                 (
+                );
+            };
+            location =             {
+                address = "Keilalahdentie 2-4";
+                cc = FI;
+                city = Espoo;
+                country = Finland;
+                crossStreet = "Nokia House";
+                distance = 1875;
+                lat = "60.17010112498546";
+                lng = "24.82858657836914";
+                postalCode = 02150;
+            };
+            name = "The Coffee Bean & Tea Leaf";
+            referralId = "v-1366791943";
+            specials =             (
+            );
+            stats =             {
+                checkinsCount = 2694;
+                tipCount = 5;
+                usersCount = 340;
+            };
+            verified = 0;
+        },
+                {
+            beenHere =             {
+                count = 0;
+            };
+            canonicalUrl = "https://foursquare.com/v/sodexo-village/4ca5ba857334236af3871858";
+            categories =             (
+                                {
+                    icon =                     {
+                        name = ".png";
+                        prefix = "https://foursquare.com/img/categories/food/default_";
+                        sizes =                         (
+                            32,
+                            44,
+                            64,
+                            88,
+                            256
+                        );
+                    };
+                    id = 4bf58dd8d48988d147941735;
+                    name = Diner;
+                    pluralName = Diners;
+                    primary = 1;
+                    shortName = Diner;
+                }
+            );
+            contact =             {
+            };
+            hereNow =             {
+                count = 1;
+                groups =                 (
+                                        {
+                        count = 1;
+                        items =                         (
+                        );
+                        name = "Other people here";
+                        type = others;
+                    }
+                );
+            };
+            id = 4ca5ba857334236af3871858;
+            likes =             {
+                count = 0;
+                groups =                 (
+                );
+            };
+            location =             {
+                address = "Keilalahdentie 2-4";
+                cc = FI;
+                city = Espoo;
+                country = Finland;
+                crossStreet = "Nokia House";
+                distance = 1828;
+                lat = "60.17052054844138";
+                lng = "24.82837772426075";
+                postalCode = 02150;
+            };
+            name = "Sodexo Village";
+            referralId = "v-1366791943";
+            specials =             (
+            );
+            stats =             {
+                checkinsCount = 1674;
+                tipCount = 1;
+                usersCount = 185;
+            };
+            verified = 0;
+        },
+                {
+            beenHere =             {
+                count = 0;
+            };
+            canonicalUrl = "https://foursquare.com/v/chicos/4b0e9b51f964a520e35823e3";
+            categories =             (
+                                {
+                    icon =                     {
+                        name = ".png";
+                        prefix = "https://foursquare.com/img/categories/food/default_";
+                        sizes =                         (
+                            32,
+                            44,
+                            64,
+                            88,
+                            256
+                        );
+                    };
+                    id = 4bf58dd8d48988d14e941735;
+                    name = "American Restaurant";
+                    pluralName = "American Restaurants";
+                    primary = 1;
+                    shortName = American;
+                }
+            );
+            contact =             {
+                formattedPhone = "010 7663720";
+                phone = 0107663720;
+            };
+            hereNow =             {
+                count = 0;
+                groups =                 (
+                );
+            };
+            id = 4b0e9b51f964a520e35823e3;
+            likes =             {
+                count = 0;
+                groups =                 (
+                );
+            };
+            location =             {
+                address = "Louhentie 2";
+                cc = FI;
+                city = Espoo;
+                country = Finland;
+                crossStreet = Pohjantori;
+                distance = 1832;
+                lat = "60.183783";
+                lng = "24.794761";
+            };
+            name = "Chico's";
+            referralId = "v-1366791943";
+            specials =             (
+                                {
+                    description = "Unlocked for checking in 2 times in 30 days";
+                    icon = frequency;
+                    id = 50ffcaead86c43fc3d77c440;
+                    likes =                     {
+                        count = 0;
+                        groups =                         (
+                        );
+
+                    };
+                    message = "Kiva n\U00e4hd\U00e4 taas! Ilmainen Coca-Cola 0,5 l maistuu raikkaalta p\U00e4\U00e4ruoan yhteydess\U00e4.";
+                    page =                     {
+                        bio = "";
+                        contact =                         {
+                        };
+                        firstName = "Chico's";
+                        gender = none;
+                        homeCity = "Helsinki, Suomi";
+                        id = 33623246;
+                        photo = "https://is0.4sqi.net/userpix_thumbs/DZDBNUJWAB5QYK4A.jpg";
+                        tips =                         {
+                            count = 0;
+                        };
+                        type = brand;
+                    };
+                    provider = foursquare;
+                    redemption = standard;
+                    title = "Loyalty Special";
+                    type = regular;
+                },
+                                {
+                    description = "Unlocked for 4 friends checking in together";
+                    icon = friends;
+                    id = 50ffca32d86c43fc3d76990c;
+                    likes =                     {
+                        count = 0;
+                        groups =                         (
+                        );
+                    };
+                    message = "Kun nelj\U00e4 kaveria paikalla, saatte Nachot 2,50\U20ac / hl\U00f6 (norm. 4,90 \U20ac)";
+                    page =                     {
+                        bio = "";
+                        contact =                         {
+                        };
+                        firstName = "Chico's";
+                        gender = none;
+                        homeCity = "Helsinki, Suomi";
+                        id = 33623246;
+                        photo = "https://is0.4sqi.net/userpix_thumbs/DZDBNUJWAB5QYK4A.jpg";
+                        tips =                         {
+                            count = 0;
+                        };
+                        type = brand;
+                    };
+                    provider = foursquare;
+                    redemption = standard;
+                    title = "Friends Special";
+                    type = friends;
+                }
+            );
+            stats =             {
+                checkinsCount = 1346;
+                tipCount = 8;
+                usersCount = 729;
+            };
+            url = "http://www.chicos.fi";
+            verified = 1;
+        },
+                {
+            beenHere =             {
+                count = 0;
+            };
+            canonicalUrl = "https://foursquare.com/v/grilli-ribis/4da57b26bf88092a906befef";
+            categories =             (
+                                {
+                    icon =                     {
+                        name = ".png";
+                        prefix = "https://foursquare.com/img/categories/food/steakhouse_";
+                        sizes =                         (
+                            32,
+                            44,
+                            64,
+                            88,
+                            256
+                        );
+                    };
+                    id = 4bf58dd8d48988d1cc941735;
+                    name = Steakhouse;
+                    pluralName = Steakhouses;
+                    primary = 1;
+                    shortName = Steakhouse;
+                }
+            );
+            contact =             {
+                formattedPhone = "09 4551780";
+                phone = 094551780;
+            };
+            hereNow =             {
+                count = 0;
+                groups =                 (
+                );
+            };
+            id = 4da57b26bf88092a906befef;
+            likes =             {
+                count = 0;
+                groups =                 (
+                );
+            };
+            location =             {
+                address = "Kauppamiehentie 1";
+                cc = FI;
+                city = Espoo;
+                country = Finland;
+                crossStreet = "Kauppakeskus Heikintori";
+                distance = 1755;
+                lat = "60.177251671771";
+                lng = "24.80223655700684";
+                postalCode = 02100;
+            };
+            name = "Grilli Ribis";
+            referralId = "v-1366791943";
+            specials =             (
+            );
+            stats =             {
+                checkinsCount = 1208;
+                tipCount = 8;
+                usersCount = 260;
+            };
+            url = "http://www.ribis.fi";
+            verified = 0;
+        },
+                {
+            beenHere =             {
+                count = 0;
+            };
+            canonicalUrl = "https://foursquare.com/v/ravintola-san-luca/4be67c7978e89521eac264ce";
+            categories =             (
+                                {
+                    icon =                     {
+                        name = ".png";
+                        prefix = "https://foursquare.com/img/categories/food/pizza_";
+                        sizes =                         (
+                            32,
+                            44,
+                            64,
+                            88,
+                            256
+                        );
+                    };
+                    id = 4bf58dd8d48988d1ca941735;
+                    name = "Pizza Place";
+                    pluralName = "Pizza Places";
+                    primary = 1;
+                    shortName = Pizza;
+                }
+            );
+            contact =             {
+                formattedPhone = "03 5894556191";
+                phone = 035894556191;
+            };
+            hereNow =             {
+                count = 0;
+                groups =                 (
+                );
+            };
+            id = 4be67c7978e89521eac264ce;
+            likes =             {
+                count = 0;
+                groups =                 (
+                );
+            };
+            location =             {
+                address = "Louhentie 2";
+                cc = FI;
+                city = Espoo;
+                country = Finland;
+                distance = 1838;
+                lat = "60.18337690338062";
+                lng = "24.79482769597763";
+                postalCode = 02130;
+            };
+            name = "Ravintola San Luca";
+            referralId = "v-1366791943";
+            specials =             (
+            );
+            stats =             {
+                checkinsCount = 1088;
+                tipCount = 6;
+                usersCount = 371;
+            };
+            verified = 0;
+        },
+                {
+            beenHere =             {
+                count = 0;
+            };
+            canonicalUrl = "https://foursquare.com/v/nokia-design-cafe/4dbe8d03815439392fc03097";
+            categories =             (
+                                {
+                    icon =                     {
+                        name = ".png";
+                        prefix = "https://foursquare.com/img/categories/food/cafe_";
+                        sizes =                         (
+                            32,
+                            44,
+                            64,
+                            88,
+                            256
+                        );
+                    };
+                    id = 4bf58dd8d48988d16d941735;
+                    name = "Caf\U00e9";
+                    pluralName = "Caf\U00e9s";
+                    primary = 1;
+                    shortName = "Caf\U00e9";
+                }
+            );
+            contact =             {
+            };
+            hereNow =             {
+                count = 1;
+                groups =                 (
+                                        {
+                        count = 1;
+                        items =                         (
+                        );
+                        name = "Other people here";
+                        type = others;
+                    }
+                );
+            };
+            id = 4dbe8d03815439392fc03097;
+            likes =             {
+                count = 0;
+                groups =                 (
+                );
+            };
+            location =             {
+                address = "Keilalahdentie 2-4";
+                cc = FI;
+                city = Espoo;
+                country = Finland;
+                crossStreet = "Nokia House";
+                distance = 1830;
+                lat = "60.17050167846522";
+                lng = "24.82870167369893";
+                postalCode = 02150;
+            };
+            name = "Nokia Design Cafe";
+            referralId = "v-1366791943";
+            specials =             (
+            );
+            stats =             {
+                checkinsCount = 663;
+                tipCount = 0;
+                usersCount = 95;
+            };
+            verified = 0;
+        },
+                {
+            beenHere =             {
+                count = 0;
+            };
+            canonicalUrl = "https://foursquare.com/v/stockmann-tempo/4b92299ff964a52021ea33e3";
+            categories =             (
+                                {
+                    icon =                     {
+                        name = ".png";
+                        prefix = "https://foursquare.com/img/categories/shops/food_foodcourt_";
+                        sizes =                         (
+                            32,
+                            44,
+                            64,
+                            88,
+                            256
+                        );
+                    };
+                    id = 4bf58dd8d48988d120951735;
+                    name = "Food Court";
+                    pluralName = "Food Courts";
+                    primary = 1;
+                    shortName = "Food Court";
+                }
+            );
+            contact =             {
+                formattedPhone = "050 4665340";
+                phone = 0504665340;
+            };
+            hereNow =             {
+                count = 0;
+                groups =                 (
+                );
+            };
+            id = 4b92299ff964a52021ea33e3;
+            likes =             {
+                count = 0;
+                groups =                 (
+                );
+            };
+            location =             {
+                address = "L\U00e4nsituulentie 5";
+                cc = FI;
+                city = Espoo;
+                country = Finland;
+                crossStreet = Stockmann;
+                distance = 1870;
+                lat = "60.174713";
+                lng = "24.804059";
+                postalCode = 02100;
+            };
+            name = "Stockmann Tempo";
+            referralId = "v-1366791943";
+            specials =             (
+            );
+            stats =             {
+                checkinsCount = 945;
+                tipCount = 2;
+                usersCount = 546;
+            };
+            verified = 1;
+        },
+                {
+            beenHere =             {
+                count = 0;
+            };
+            canonicalUrl = "https://foursquare.com/v/ruokala/4f4f3dbbe4b0b5f5b0ce21a1";
+            categories =             (
+                                {
+                    icon =                     {
+                        name = ".png";
+                        prefix = "https://foursquare.com/img/categories/food/default_";
+                        sizes =                         (
+                            32,
+                            44,
+                            64,
+                            88,
+                            256
+                        );
+                    };
+                    id = 4bf58dd8d48988d147941735;
+                    name = Diner;
+                    pluralName = Diners;
+                    primary = 1;
+                    shortName = Diner;
+                }
+            );
+            contact =             {
+            };
+            hereNow =             {
+                count = 0;
+                groups =                 (
+                );
+            };
+            id = 4f4f3dbbe4b0b5f5b0ce21a1;
+            likes =             {
+                count = 0;
+                groups =                 (
+                );
+            };
+            location =             {
+                address = Etis;
+                cc = FI;
+                country = Finland;
+                distance = 2110;
+                lat = "60.17832467099309";
+                lng = "24.79329903004079";
+            };
+            name = Ruokala;
+            referralId = "v-1366791943";
+            specials =             (
+            );
+            stats =             {
+                checkinsCount = 487;
+                tipCount = 0;
+                usersCount = 29;
+            };
+            verified = 0;
+        },
+                {
+            beenHere =             {
+                count = 0;
+            };
+            canonicalUrl = "https://foursquare.com/v/stockmann-deli/4c5e96317f661b8ddf7f4e1c";
+            categories =             (
+                                {
+                    icon =                     {
+                        name = ".png";
+                        prefix = "https://foursquare.com/img/categories/food/cafe_";
+                        sizes =                         (
+                            32,
+                            44,
+                            64,
+                            88,
+                            256
+                        );
+                    };
+                    id = 4bf58dd8d48988d16d941735;
+                    name = "Caf\U00e9";
+                    pluralName = "Caf\U00e9s";
+                    primary = 1;
+                    shortName = "Caf\U00e9";
+                }
+            );
+            contact =             {
+            };
+            hereNow =             {
+                count = 0;
+                groups =                 (
+                );
+            };
+            id = 4c5e96317f661b8ddf7f4e1c;
+            likes =             {
+                count = 0;
+                groups =                 (
+                );
+            };
+            location =             {
+                address = Sampokuja;
+                cc = FI;
+                city = Espoo;
+                country = Finland;
+                crossStreet = "L\U00e4nsituulentie";
+                distance = 1865;
+                lat = "60.17495376666667";
+                lng = "24.803706";
+                postalCode = 02100;
+            };
+            name = "Stockmann Deli";
+            referralId = "v-1366791943";
+            specials =             (
+            );
+            stats =             {
+                checkinsCount = 1279;
+                tipCount = 3;
+                usersCount = 482;
+            };
+            verified = 0;
+        }
+    );
+}

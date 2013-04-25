@@ -1,0 +1,1825 @@
+Toni Karttunen
+24.4.2012
+
+==========================================
+
+Paikkatiedon tarjoaja: Foursquare
+Paikka: Pittsburgh
+Kategoria: Hospitals
+
+==========================================
+
+2013-04-24 11:46:31.037 Foursquare[11515:907] foursquareDictionary: {
+    venues =     (
+                {
+            beenHere =             {
+                count = 0;
+            };
+            canonicalUrl = "https://foursquare.com/v/upmc-mercy/4b6d05d1f964a5207b632ce3";
+            categories =             (
+                                {
+                    icon =                     {
+                        name = ".png";
+                        prefix = "https://foursquare.com/img/categories/building/medical_hospital_";
+                        sizes =                         (
+                            32,
+                            44,
+                            64,
+                            88,
+                            256
+                        );
+                    };
+                    id = 4bf58dd8d48988d196941735;
+                    name = Hospital;
+                    pluralName = Hospitals;
+                    primary = 1;
+                    shortName = Hospital;
+                }
+            );
+            contact =             {
+                formattedPhone = "+1 412-232-8111";
+                phone = "+14122328111";
+            };
+            hereNow =             {
+                count = 0;
+                groups =                 (
+                );
+            };
+            id = 4b6d05d1f964a5207b632ce3;
+            likes =             {
+                count = 0;
+                groups =                 (
+                );
+            };
+            location =             {
+                address = "1400 Locust St.";
+                cc = US;
+                city = Pittsburgh;
+                country = "United States";
+                crossStreet = "at Pride St.";
+                distance = 965;
+                lat = "40.43660717822294";
+                lng = "-79.98579269500603";
+                postalCode = 15219;
+                state = PA;
+            };
+            name = "UPMC Mercy";
+            referralId = "v-1366793190";
+            specials =             (
+            );
+            stats =             {
+                checkinsCount = 10857;
+                tipCount = 20;
+                usersCount = 1657;
+            };
+            verified = 1;
+        },
+                {
+            beenHere =             {
+                count = 0;
+            };
+            canonicalUrl = "https://foursquare.com/v/allegheny-general-hospital/4ad4c010f964a520b9ee20e3";
+            categories =             (
+                                {
+                    icon =                     {
+                        name = ".png";
+                        prefix = "https://foursquare.com/img/categories/building/medical_hospital_";
+                        sizes =                         (
+                            32,
+                            44,
+                            64,
+                            88,
+                            256
+                        );
+                    };
+                    id = 4bf58dd8d48988d196941735;
+                    name = Hospital;
+                    pluralName = Hospitals;
+                    primary = 1;
+                    shortName = Hospital;
+                }
+            );
+            contact =             {
+                formattedPhone = "+1 412-359-3131";
+                phone = "+14123593131";
+            };
+            hereNow =             {
+                count = 0;
+                groups =                 (
+                );
+            };
+            id = 4ad4c010f964a520b9ee20e3;
+            likes =             {
+                count = 0;
+                groups =                 (
+                );
+            };
+            location =             {
+                address = "320 E North Ave";
+                cc = US;
+                city = Pittsburgh;
+                country = "United States";
+                crossStreet = "btwn Sandusky & James St";
+                distance = 1941;
+                lat = "40.45711952989169";
+                lng = "-80.003342628479";
+                postalCode = 15212;
+                state = PA;
+            };
+            name = "Allegheny General Hospital";
+            referralId = "v-1366793190";
+            specials =             (
+            );
+            stats =             {
+                checkinsCount = 6968;
+                tipCount = 14;
+                usersCount = 1676;
+            };
+            verified = 0;
+        },
+                {
+            beenHere =             {
+                count = 0;
+            };
+            canonicalUrl = "https://foursquare.com/v/upmc-presbyterian-hospital/4ae9d7faf964a520f7b621e3";
+            categories =             (
+                                {
+                    icon =                     {
+                        name = ".png";
+                        prefix = "https://foursquare.com/img/categories/building/medical_hospital_";
+                        sizes =                         (
+                            32,
+                            44,
+                            64,
+                            88,
+                            256
+                        );
+                    };
+                    id = 4bf58dd8d48988d196941735;
+                    name = Hospital;
+                    pluralName = Hospitals;
+                    primary = 1;
+                    shortName = Hospital;
+                }
+            );
+            contact =             {
+            };
+            hereNow =             {
+                count = 0;
+                groups =                 (
+                );
+            };
+            id = 4ae9d7faf964a520f7b621e3;
+            likes =             {
+                count = 0;
+                groups =                 (
+                );
+            };
+            location =             {
+                address = "200 Lothrop St.";
+                cc = US;
+                city = Pittsburgh;
+                country = "United States";
+                crossStreet = "at 5th Ave.";
+                distance = 2985;
+                lat = "40.44210424351569";
+                lng = "-79.96070416090939";
+                postalCode = 15213;
+                state = PA;
+            };
+            name = "UPMC Presbyterian Hospital";
+            referralId = "v-1366793190";
+            specials =             (
+            );
+            stats =             {
+                checkinsCount = 11694;
+                tipCount = 19;
+                usersCount = 1889;
+            };
+            verified = 1;
+        },
+                {
+            beenHere =             {
+                count = 0;
+            };
+            canonicalUrl = "https://foursquare.com/v/upmc-mercy-emergency-room/4d99ae75c19fb60ce0acc865";
+            categories =             (
+                                {
+                    icon =                     {
+                        name = ".png";
+                        prefix = "https://foursquare.com/img/categories/building/medical_ems_";
+                        sizes =                         (
+                            32,
+                            44,
+                            64,
+                            88,
+                            256
+                        );
+                    };
+                    id = 4bf58dd8d48988d194941735;
+                    name = "Emergency Room";
+                    pluralName = "Emergency Rooms";
+                    primary = 1;
+                    shortName = "Emergency Room";
+                }
+            );
+            contact =             {
+                formattedPhone = "+1 412-232-8111";
+                phone = "+14122328111";
+            };
+            hereNow =             {
+                count = 0;
+                groups =                 (
+                );
+            };
+            id = 4d99ae75c19fb60ce0acc865;
+            likes =             {
+                count = 0;
+                groups =                 (
+                );
+            };
+            location =             {
+                address = "1400 Locust St.";
+                cc = US;
+                city = Pittsburgh;
+                country = "United States";
+                crossStreet = "at Marion St.";
+                distance = 1092;
+                lat = "40.43585845626099";
+                lng = "-79.98461008071899";
+                postalCode = 15219;
+                state = PA;
+            };
+            name = "UPMC Mercy Emergency Room";
+            referralId = "v-1366793190";
+            specials =             (
+            );
+            stats =             {
+                checkinsCount = 1373;
+                tipCount = 5;
+                usersCount = 353;
+            };
+            verified = 1;
+        },
+                {
+            beenHere =             {
+                count = 0;
+            };
+            canonicalUrl = "https://foursquare.com/v/va-pittsburgh-healthcare-system/4ad4c010f964a520c7ee20e3";
+            categories =             (
+                                {
+                    icon =                     {
+                        name = ".png";
+                        prefix = "https://foursquare.com/img/categories/building/medical_hospital_";
+                        sizes =                         (
+                            32,
+                            44,
+                            64,
+                            88,
+                            256
+                        );
+                    };
+                    id = 4bf58dd8d48988d196941735;
+                    name = Hospital;
+                    pluralName = Hospitals;
+                    primary = 1;
+                    shortName = Hospital;
+                }
+            );
+            contact =             {
+                formattedPhone = "+1 412-688-6000";
+                phone = "+14126886000";
+            };
+            hereNow =             {
+                count = 0;
+                groups =                 (
+                );
+            };
+            id = 4ad4c010f964a520c7ee20e3;
+            likes =             {
+                count = 0;
+                groups =                 (
+                );
+            };
+            location =             {
+                address = "240 University Dr C";
+                cc = US;
+                city = Pittsburgh;
+                country = "United States";
+                crossStreet = "Alequippa St & Brackenridge St";
+                distance = 2988;
+                lat = "40.44654904272591";
+                lng = "-79.96147445842448";
+                postalCode = 15240;
+                state = PA;
+            };
+            name = "VA Pittsburgh Healthcare System";
+            referralId = "v-1366793190";
+            specials =             (
+            );
+            stats =             {
+                checkinsCount = 1895;
+                tipCount = 8;
+                usersCount = 396;
+            };
+            verified = 0;
+        },
+                {
+            beenHere =             {
+                count = 0;
+            };
+            canonicalUrl = "https://foursquare.com/v/upmc-mercy--clinical-decision-unit/4ef5637abe7bb4784befe07d";
+            categories =             (
+                                {
+                    icon =                     {
+                        name = ".png";
+                        prefix = "https://foursquare.com/img/categories/building/medical_hospital_";
+                        sizes =                         (
+                            32,
+                            44,
+                            64,
+                            88,
+                            256
+                        );
+                    };
+                    id = 4bf58dd8d48988d196941735;
+                    name = Hospital;
+                    pluralName = Hospitals;
+                    primary = 1;
+                    shortName = Hospital;
+                }
+            );
+            contact =             {
+            };
+            hereNow =             {
+                count = 0;
+                groups =                 (
+                );
+            };
+            id = 4ef5637abe7bb4784befe07d;
+            likes =             {
+                count = 0;
+                groups =                 (
+                );
+            };
+            location =             {
+                address = "1400 Locust St.";
+                cc = US;
+                city = Pittsburgh;
+                country = "United States";
+                crossStreet = "at UPMC Mercy";
+                distance = 1048;
+                lat = "40.4365199043676";
+                lng = "-79.98474955558777";
+                postalCode = 15219;
+                state = PA;
+            };
+            name = "UPMC Mercy - Clinical Decision Unit";
+            referralId = "v-1366793190";
+            specials =             (
+            );
+            stats =             {
+                checkinsCount = 411;
+                tipCount = 0;
+                usersCount = 31;
+            };
+            verified = 0;
+        },
+                {
+            beenHere =             {
+                count = 0;
+            };
+            canonicalUrl = "https://foursquare.com/v/upmc-montefiore/4ba11214f964a520d89437e3";
+            categories =             (
+                                {
+                    icon =                     {
+                        name = ".png";
+                        prefix = "https://foursquare.com/img/categories/building/medical_hospital_";
+                        sizes =                         (
+                            32,
+                            44,
+                            64,
+                            88,
+                            256
+                        );
+                    };
+                    id = 4bf58dd8d48988d196941735;
+                    name = Hospital;
+                    pluralName = Hospitals;
+                    primary = 1;
+                    shortName = Hospital;
+                }
+            );
+            contact =             {
+                formattedPhone = "+1 412-647-2345";
+                phone = "+14126472345";
+            };
+            hereNow =             {
+                count = 0;
+                groups =                 (
+                );
+            };
+            id = 4ba11214f964a520d89437e3;
+            likes =             {
+                count = 0;
+                groups =                 (
+                );
+            };
+            location =             {
+                address = "3459 5th Ave.";
+                cc = US;
+                city = Pittsburgh;
+                country = "United States";
+                crossStreet = Darragh;
+                distance = 2885;
+                lat = "40.44116222125866";
+                lng = "-79.96184048393937";
+                postalCode = 15213;
+                state = PA;
+            };
+            name = "UPMC Montefiore";
+            referralId = "v-1366793190";
+            specials =             (
+            );
+            stats =             {
+                checkinsCount = 4392;
+                tipCount = 17;
+                usersCount = 901;
+            };
+            url = "http://www.upmc.com/hospitalsfacilities/hospitals/upmc-montefiore/pages/default.aspx";
+            verified = 1;
+        },
+                {
+            beenHere =             {
+                count = 0;
+            };
+            canonicalUrl = "https://foursquare.com/v/agh-parking-garage/4ced1e59f368b1f7190b79f7";
+            categories =             (
+                                {
+                    icon =                     {
+                        name = ".png";
+                        prefix = "https://foursquare.com/img/categories/building/medical_hospital_";
+                        sizes =                         (
+                            32,
+                            44,
+                            64,
+                            88,
+                            256
+                        );
+                    };
+                    id = 4bf58dd8d48988d196941735;
+                    name = Hospital;
+                    pluralName = Hospitals;
+                    primary = 1;
+                    shortName = Hospital;
+                }
+            );
+            contact =             {
+            };
+            hereNow =             {
+                count = 0;
+                groups =                 (
+                );
+            };
+            id = 4ced1e59f368b1f7190b79f7;
+            likes =             {
+                count = 0;
+                groups =                 (
+                );
+            };
+            location =             {
+                cc = US;
+                city = Pittsburgh;
+                country = "United States";
+                distance = 1865;
+                lat = "40.45667317031286";
+                lng = "-80.0022413450383";
+                postalCode = 15212;
+                state = PA;
+            };
+            name = "AGH Parking Garage";
+            referralId = "v-1366793190";
+            specials =             (
+            );
+            stats =             {
+                checkinsCount = 209;
+                tipCount = 0;
+                usersCount = 62;
+            };
+            verified = 0;
+        },
+                {
+            beenHere =             {
+                count = 0;
+            };
+            canonicalUrl = "https://foursquare.com/v/upmc-presbyterian-hospital-4d/4f987091e4b0879ce3cb0fa3";
+            categories =             (
+                                {
+                    icon =                     {
+                        name = ".png";
+                        prefix = "https://foursquare.com/img/categories/building/medical_hospital_";
+                        sizes =                         (
+                            32,
+                            44,
+                            64,
+                            88,
+                            256
+                        );
+                    };
+                    id = 4bf58dd8d48988d196941735;
+                    name = Hospital;
+                    pluralName = Hospitals;
+                    primary = 1;
+                    shortName = Hospital;
+                }
+            );
+            contact =             {
+                formattedPhone = "+1 412-647-8027";
+                phone = "+14126478027";
+            };
+            hereNow =             {
+                count = 0;
+                groups =                 (
+                );
+            };
+            id = 4f987091e4b0879ce3cb0fa3;
+            likes =             {
+                count = 0;
+                groups =                 (
+                );
+            };
+            location =             {
+                address = "200 Lothrop Street";
+                cc = US;
+                city = Pittsburgh;
+                country = "United States";
+                distance = 2987;
+                lat = "40.44265478756936";
+                lng = "-79.96072055028898";
+                postalCode = 15213;
+                state = Pa;
+            };
+            name = "Upmc Presbyterian Hospital 4D";
+            referralId = "v-1366793190";
+            specials =             (
+            );
+            stats =             {
+                checkinsCount = 624;
+                tipCount = 0;
+                usersCount = 23;
+            };
+            verified = 0;
+        },
+                {
+            beenHere =             {
+                count = 0;
+            };
+            canonicalUrl = "https://foursquare.com/v/upmc-south-side/4bda6f452a3a0f47052babb6";
+            categories =             (
+                                {
+                    icon =                     {
+                        name = ".png";
+                        prefix = "https://foursquare.com/img/categories/building/medical_hospital_";
+                        sizes =                         (
+                            32,
+                            44,
+                            64,
+                            88,
+                            256
+                        );
+                    };
+                    id = 4bf58dd8d48988d196941735;
+                    name = Hospital;
+                    pluralName = Hospitals;
+                    primary = 1;
+                    shortName = Hospital;
+                }
+            );
+            contact =             {
+                formattedPhone = "+1 412-488-5550";
+                phone = "+14124885550";
+            };
+            hereNow =             {
+                count = 0;
+                groups =                 (
+                );
+            };
+            id = 4bda6f452a3a0f47052babb6;
+            likes =             {
+                count = 0;
+                groups =                 (
+                );
+            };
+            location =             {
+                address = "2000 Mary St";
+                cc = US;
+                city = Pittsburgh;
+                country = "United States";
+                crossStreet = "at S 20th St";
+                distance = 2273;
+                lat = "40.42571670351482";
+                lng = "-79.97754790000829";
+                postalCode = 15203;
+                state = PA;
+            };
+            name = "UPMC South Side";
+            referralId = "v-1366793190";
+            specials =             (
+            );
+            stats =             {
+                checkinsCount = 1675;
+                tipCount = 7;
+                usersCount = 323;
+            };
+            url = "http://findadoc.upmc.com";
+            verified = 0;
+        },
+                {
+            beenHere =             {
+                count = 0;
+            };
+            canonicalUrl = "https://foursquare.com/v/kindred-hospital/4b806d1ef964a520467130e3";
+            categories =             (
+                                {
+                    icon =                     {
+                        name = ".png";
+                        prefix = "https://foursquare.com/img/categories/building/medical_hospital_";
+                        sizes =                         (
+                            32,
+                            44,
+                            64,
+                            88,
+                            256
+                        );
+                    };
+                    id = 4bf58dd8d48988d196941735;
+                    name = Hospital;
+                    pluralName = Hospitals;
+                    primary = 1;
+                    shortName = Hospital;
+                }
+            );
+            contact =             {
+            };
+            hereNow =             {
+                count = 0;
+                groups =                 (
+                );
+            };
+            id = 4b806d1ef964a520467130e3;
+            likes =             {
+                count = 0;
+                groups =                 (
+                );
+            };
+            location =             {
+                address = "1004 Arch St.";
+                cc = US;
+                city = Pittsburgh;
+                country = "United States";
+                distance = 1825;
+                lat = "40.45387593597972";
+                lng = "-80.00857532080103";
+                postalCode = 15212;
+                state = PA;
+            };
+            name = "Kindred Hospital";
+            referralId = "v-1366793190";
+            specials =             (
+            );
+            stats =             {
+                checkinsCount = 528;
+                tipCount = 1;
+                usersCount = 96;
+            };
+            verified = 0;
+        },
+                {
+            beenHere =             {
+                count = 0;
+            };
+            canonicalUrl = "https://foursquare.com/v/upmc-cafeteria/4be1970758102d7f4aec4156";
+            categories =             (
+                                {
+                    icon =                     {
+                        name = ".png";
+                        prefix = "https://foursquare.com/img/categories/building/medical_hospital_";
+                        sizes =                         (
+                            32,
+                            44,
+                            64,
+                            88,
+                            256
+                        );
+                    };
+                    id = 4bf58dd8d48988d196941735;
+                    name = Hospital;
+                    pluralName = Hospitals;
+                    primary = 1;
+                    shortName = Hospital;
+                }
+            );
+            contact =             {
+            };
+            hereNow =             {
+                count = 0;
+                groups =                 (
+                );
+            };
+            id = 4be1970758102d7f4aec4156;
+            likes =             {
+                count = 0;
+                groups =                 (
+                );
+            };
+            location =             {
+                address = "Lothrop Street";
+                cc = US;
+                city = Pittsburgh;
+                country = "United States";
+                distance = 2965;
+                lat = "40.44321592076805";
+                lng = "-79.96105380034022";
+                postalCode = 15213;
+                state = PA;
+            };
+            name = "UPMC Cafeteria";
+            referralId = "v-1366793190";
+            specials =             (
+            );
+            stats =             {
+                checkinsCount = 1011;
+                tipCount = 1;
+                usersCount = 138;
+            };
+            verified = 0;
+        },
+                {
+            beenHere =             {
+                count = 0;
+            };
+            canonicalUrl = "https://foursquare.com/v/veterans-hospital/4e7dfaf2d3e3294a67d01036";
+            categories =             (
+                                {
+                    icon =                     {
+                        name = ".png";
+                        prefix = "https://foursquare.com/img/categories/building/default_";
+                        sizes =                         (
+                            32,
+                            44,
+                            64,
+                            88,
+                            256
+                        );
+                    };
+                    id = 4bf58dd8d48988d126941735;
+                    name = "Government Building";
+                    pluralName = "Government Buildings";
+                    primary = 1;
+                    shortName = Government;
+                }
+            );
+            contact =             {
+            };
+            hereNow =             {
+                count = 0;
+                groups =                 (
+                );
+            };
+            id = 4e7dfaf2d3e3294a67d01036;
+            likes =             {
+                count = 0;
+                groups =                 (
+                );
+            };
+            location =             {
+                cc = US;
+                city = Pittsburgh;
+                country = "United States";
+                distance = 2982;
+                lat = "40.4462956572107";
+                lng = "-79.96147445842448";
+                postalCode = 15213;
+                state = PA;
+            };
+            name = "Veterans Hospital";
+            referralId = "v-1366793190";
+            specials =             (
+            );
+            stats =             {
+                checkinsCount = 301;
+                tipCount = 1;
+                usersCount = 95;
+            };
+            verified = 0;
+        },
+                {
+            beenHere =             {
+                count = 0;
+            };
+            canonicalUrl = "https://foursquare.com/v/eye--ear-institute/4ffeebe3e4b018897fcc46f6";
+            categories =             (
+                                {
+                    icon =                     {
+                        name = ".png";
+                        prefix = "https://foursquare.com/img/categories/building/medical_hospital_";
+                        sizes =                         (
+                            32,
+                            44,
+                            64,
+                            88,
+                            256
+                        );
+                    };
+                    id = 4bf58dd8d48988d196941735;
+                    name = Hospital;
+                    pluralName = Hospitals;
+                    primary = 1;
+                    shortName = Hospital;
+                }
+            );
+
+            contact =             {
+            };
+            hereNow =             {
+                count = 0;
+                groups =                 (
+                );
+            };
+            id = 4ffeebe3e4b018897fcc46f6;
+            likes =             {
+                count = 0;
+                groups =                 (
+                );
+            };
+            location =             {
+                address = "203 Lothrop Street";
+                cc = US;
+                city = Pittsburgh;
+                country = "United States";
+                crossStreet = "Victoria Street";
+                distance = 2958;
+                lat = "40.44185445034239";
+                lng = "-79.96100463237988";
+                postalCode = 15213;
+                state = Pa;
+            };
+            name = "Eye & Ear Institute";
+            referralId = "v-1366793190";
+            specials =             (
+            );
+            stats =             {
+                checkinsCount = 180;
+                tipCount = 1;
+                usersCount = 25;
+            };
+            verified = 0;
+        },
+                {
+            beenHere =             {
+                count = 0;
+            };
+            canonicalUrl = "https://foursquare.com/v/allegheny-general-one-call/4f733d32e4b0ee7d4722ba03";
+            categories =             (
+                                {
+                    icon =                     {
+                        name = ".png";
+                        prefix = "https://foursquare.com/img/categories/building/medical_hospital_";
+                        sizes =                         (
+                            32,
+                            44,
+                            64,
+                            88,
+                            256
+                        );
+                    };
+                    id = 4bf58dd8d48988d196941735;
+                    name = Hospital;
+                    pluralName = Hospitals;
+                    primary = 1;
+                    shortName = Hospital;
+                }
+            );
+            contact =             {
+            };
+            hereNow =             {
+                count = 0;
+                groups =                 (
+                );
+            };
+            id = 4f733d32e4b0ee7d4722ba03;
+            likes =             {
+                count = 0;
+                groups =                 (
+                );
+            };
+            location =             {
+                cc = US;
+                city = Pittsburgh;
+                country = "United States";
+                distance = 1914;
+                lat = "40.45661552821142";
+                lng = "-80.00420711105261";
+                postalCode = 15212;
+                state = PA;
+            };
+            name = "Allegheny General One Call";
+            referralId = "v-1366793190";
+            specials =             (
+            );
+            stats =             {
+                checkinsCount = 262;
+                tipCount = 0;
+                usersCount = 16;
+            };
+            verified = 0;
+        },
+                {
+            beenHere =             {
+                count = 0;
+            };
+            canonicalUrl = "https://foursquare.com/v/agh-concussion-clinic/51630b20e4b0c407a2fcbffd";
+            categories =             (
+                                {
+                    icon =                     {
+                        name = ".png";
+                        prefix = "https://foursquare.com/img/categories/building/medical_hospital_";
+                        sizes =                         (
+                            32,
+                            44,
+                            64,
+                            88,
+                            256
+                        );
+                    };
+                    id = 4bf58dd8d48988d196941735;
+                    name = Hospital;
+                    pluralName = Hospitals;
+                    primary = 1;
+                    shortName = Hospital;
+                }
+            );
+            contact =             {
+            };
+            hereNow =             {
+                count = 0;
+                groups =                 (
+                );
+            };
+            id = 51630b20e4b0c407a2fcbffd;
+            likes =             {
+                count = 0;
+                groups =                 (
+                );
+            };
+            location =             {
+                address = "1307 Federal St";
+                cc = US;
+                city = Pittsburgh;
+                country = "United States";
+                distance = 1877;
+                lat = "40.45492241510007";
+                lng = "-80.00764163441856";
+                postalCode = 15212;
+                state = PA;
+            };
+            name = "AGH Concussion Clinic";
+            referralId = "v-1366793190";
+            specials =             (
+            );
+            stats =             {
+                checkinsCount = 3;
+                tipCount = 0;
+                usersCount = 1;
+            };
+            verified = 0;
+        },
+                {
+            beenHere =             {
+                count = 0;
+            };
+            canonicalUrl = "https://foursquare.com/v/agh--nicu/4ededb4677c8c05f35cc3c2d";
+            categories =             (
+                                {
+                    icon =                     {
+                        name = ".png";
+                        prefix = "https://foursquare.com/img/categories/building/medical_hospital_";
+                        sizes =                         (
+                            32,
+                            44,
+                            64,
+                            88,
+                            256
+                        );
+                    };
+                    id = 4bf58dd8d48988d196941735;
+                    name = Hospital;
+                    pluralName = Hospitals;
+                    primary = 1;
+                    shortName = Hospital;
+                }
+            );
+            contact =             {
+            };
+            hereNow =             {
+                count = 0;
+                groups =                 (
+                );
+            };
+            id = 4ededb4677c8c05f35cc3c2d;
+            likes =             {
+                count = 0;
+                groups =                 (
+                );
+            };
+            location =             {
+                cc = US;
+                country = "United States";
+                distance = 1841;
+                lat = "40.45627217063252";
+                lng = "-80.00294028915837";
+                postalCode = 15212;
+            };
+            name = "AGH - NICU";
+            referralId = "v-1366793190";
+            specials =             (
+            );
+            stats =             {
+                checkinsCount = 45;
+                tipCount = 0;
+                usersCount = 6;
+            };
+            verified = 0;
+        },
+                {
+            beenHere =             {
+                count = 0;
+            };
+            canonicalUrl = "https://foursquare.com/v/plastic-hand-clinic--vaphs/4f73256ce4b03c9746538c48";
+            categories =             (
+                                {
+                    icon =                     {
+                        name = ".png";
+                        prefix = "https://foursquare.com/img/categories/building/medical_hospital_";
+                        sizes =                         (
+                            32,
+                            44,
+                            64,
+                            88,
+                            256
+                        );
+                    };
+                    id = 4bf58dd8d48988d196941735;
+                    name = Hospital;
+                    pluralName = Hospitals;
+                    primary = 1;
+                    shortName = Hospital;
+                }
+            );
+            contact =             {
+                formattedPhone = "+1 412-688-6000";
+                phone = "+14126886000";
+            };
+            hereNow =             {
+                count = 0;
+                groups =                 (
+                );
+            };
+            id = 4f73256ce4b03c9746538c48;
+            likes =             {
+                count = 0;
+                groups =                 (
+                );
+            };
+            location =             {
+                address = "Fifth Floor - University Drive C";
+                cc = US;
+                city = Pittsburgh;
+                country = "United States";
+                crossStreet = "Allequippa Street & Brackenridge Street";
+                distance = 2972;
+                lat = "40.446283";
+                lng = "-79.961597";
+                postalCode = 15240;
+                state = PA;
+            };
+            name = "Plastic Hand Clinic - VAPHS";
+            referralId = "v-1366793190";
+            specials =             (
+            );
+            stats =             {
+                checkinsCount = 40;
+                tipCount = 0;
+                usersCount = 4;
+            };
+            verified = 0;
+        },
+                {
+            beenHere =             {
+                count = 0;
+            };
+            canonicalUrl = "https://foursquare.com/v/parking-lot-magee-womens/4f6b5daee4b05595b5782257";
+            categories =             (
+                                {
+                    icon =                     {
+                        name = ".png";
+                        prefix = "https://foursquare.com/img/categories/building/parking_";
+                        sizes =                         (
+                            32,
+                            44,
+                            64,
+                            88,
+                            256
+                        );
+                    };
+                    id = 4c38df4de52ce0d596b336e1;
+                    name = Parking;
+                    pluralName = Parking;
+                    primary = 1;
+                    shortName = Parking;
+                }
+            );
+            contact =             {
+            };
+            hereNow =             {
+                count = 0;
+                groups =                 (
+                );
+            };
+            id = 4f6b5daee4b05595b5782257;
+            likes =             {
+                count = 0;
+                groups =                 (
+                );
+            };
+            location =             {
+                cc = US;
+                country = "United States";
+                distance = 2980;
+                lat = "40.43742781492712";
+                lng = "-79.960960927503";
+            };
+            name = "Parking Lot Magee Womens";
+            referralId = "v-1366793190";
+            specials =             (
+            );
+            stats =             {
+                checkinsCount = 145;
+                tipCount = 0;
+                usersCount = 50;
+            };
+            verified = 0;
+        },
+                {
+            beenHere =             {
+                count = 0;
+            };
+            canonicalUrl = "https://foursquare.com/v/agh-trauma/4eadbf7e30f855f5b372b4b0";
+            categories =             (
+                                {
+                    icon =                     {
+                        name = ".png";
+                        prefix = "https://foursquare.com/img/categories/building/medical_hospital_";
+                        sizes =                         (
+                            32,
+                            44,
+                            64,
+                            88,
+                            256
+                        );
+                    };
+                    id = 4bf58dd8d48988d196941735;
+                    name = Hospital;
+                    pluralName = Hospitals;
+                    primary = 1;
+                    shortName = Hospital;
+                }
+            );
+            contact =             {
+            };
+            hereNow =             {
+                count = 0;
+                groups =                 (
+                );
+            };
+            id = 4eadbf7e30f855f5b372b4b0;
+            likes =             {
+                count = 0;
+                groups =                 (
+                );
+            };
+            location =             {
+                cc = US;
+                country = "United States";
+                distance = 1828;
+                lat = "40.45690537178599";
+                lng = "-79.99878476534329";
+            };
+            name = "AGH Trauma";
+            referralId = "v-1366793190";
+            specials =             (
+            );
+            stats =             {
+                checkinsCount = 54;
+                tipCount = 0;
+                usersCount = 17;
+            };
+            verified = 0;
+        },
+                {
+            beenHere =             {
+                count = 0;
+            };
+            canonicalUrl = "https://foursquare.com/v/mercy-5a/5004a57de4b073e5a32b87a0";
+            categories =             (
+                                {
+                    icon =                     {
+                        name = ".png";
+                        prefix = "https://foursquare.com/img/categories/building/medical_hospital_";
+                        sizes =                         (
+                            32,
+                            44,
+                            64,
+                            88,
+                            256
+                        );
+                    };
+                    id = 4bf58dd8d48988d196941735;
+                    name = Hospital;
+                    pluralName = Hospitals;
+                    primary = 1;
+                    shortName = Hospital;
+                }
+            );
+            contact =             {
+            };
+            hereNow =             {
+                count = 0;
+                groups =                 (
+                );
+            };
+            id = 5004a57de4b073e5a32b87a0;
+            likes =             {
+                count = 0;
+                groups =                 (
+                );
+            };
+            location =             {
+                cc = US;
+                city = Pittsburgh;
+                country = "United States";
+                distance = 907;
+                lat = "40.43622562645475";
+                lng = "-79.98686315325915";
+                postalCode = 15219;
+                state = PA;
+            };
+            name = "mercy 5A";
+            referralId = "v-1366793190";
+            specials =             (
+            );
+            stats =             {
+                checkinsCount = 4;
+                tipCount = 0;
+                usersCount = 3;
+            };
+            verified = 0;
+        },
+                {
+            beenHere =             {
+                count = 0;
+            };
+            canonicalUrl = "https://foursquare.com/v/womens-health-clinic--vaphs/4f9aabd2e4b04b5a672d1a29";
+            categories =             (
+                                {
+                    icon =                     {
+                        name = ".png";
+                        prefix = "https://foursquare.com/img/categories/building/medical_hospital_";
+                        sizes =                         (
+                            32,
+                            44,
+                            64,
+                            88,
+                            256
+                        );
+                    };
+                    id = 4bf58dd8d48988d196941735;
+                    name = Hospital;
+                    pluralName = Hospitals;
+                    primary = 1;
+                    shortName = Hospital;
+                }
+            );
+            contact =             {
+                formattedPhone = "+1 412-360-1066";
+                phone = "+14123601066";
+            };
+            hereNow =             {
+                count = 0;
+                groups =                 (
+                );
+            };
+            id = 4f9aabd2e4b04b5a672d1a29;
+            likes =             {
+                count = 0;
+                groups =                 (
+                );
+            };
+            location =             {
+                address = "First Floor - University Drive C";
+                cc = US;
+                city = Pittsburgh;
+                country = "United States";
+                crossStreet = "Allequippa Street & Brackenridge Street";
+                distance = 2976;
+                lat = "40.44693055154323";
+                lng = "-79.96174214887721";
+                postalCode = 15240;
+                state = PA;
+            };
+            name = "Women's Health Clinic - VAPHS";
+            referralId = "v-1366793190";
+            specials =             (
+            );
+            stats =             {
+                checkinsCount = 30;
+                tipCount = 0;
+                usersCount = 3;
+            };
+            verified = 0;
+        },
+                {
+            beenHere =             {
+                count = 0;
+            };
+            canonicalUrl = "https://foursquare.com/v/agh-9th-floor-9c/4e9e568030f8fb6775e7b4cc";
+            categories =             (
+                                {
+                    icon =                     {
+                        name = ".png";
+                        prefix = "https://foursquare.com/img/categories/building/medical_hospital_";
+                        sizes =                         (
+                            32,
+                            44,
+                            64,
+                            88,
+                            256
+                        );
+                    };
+                    id = 4bf58dd8d48988d196941735;
+                    name = Hospital;
+                    pluralName = Hospitals;
+                    primary = 1;
+                    shortName = Hospital;
+                }
+            );
+            contact =             {
+            };
+            hereNow =             {
+                count = 0;
+                groups =                 (
+                );
+            };
+            id = 4e9e568030f8fb6775e7b4cc;
+            likes =             {
+                count = 0;
+                groups =                 (
+                );
+            };
+            location =             {
+                address = "320 E North St";
+                cc = US;
+                city = Pittsburgh;
+                country = "United States";
+                distance = 1988;
+                lat = "40.45752327229771";
+                lng = "-80.00349179578666";
+                state = PA;
+            };
+            name = "AGH 9th floor 9C";
+            referralId = "v-1366793190";
+            specials =             (
+            );
+            stats =             {
+                checkinsCount = 63;
+                tipCount = 1;
+                usersCount = 11;
+            };
+            verified = 0;
+        },
+                {
+            beenHere =             {
+                count = 0;
+            };
+            canonicalUrl = "https://foursquare.com/v/lifeflight-helipad/4fc9dda0e4b098b3eedceda1";
+            categories =             (
+                                {
+                    icon =                     {
+                        name = ".png";
+                        prefix = "https://foursquare.com/img/categories/building/medical_hospital_";
+                        sizes =                         (
+                            32,
+                            44,
+                            64,
+                            88,
+                            256
+                        );
+                    };
+                    id = 4bf58dd8d48988d196941735;
+                    name = Hospital;
+                    pluralName = Hospitals;
+                    primary = 1;
+                    shortName = Hospital;
+                }
+            );
+            contact =             {
+            };
+            hereNow =             {
+                count = 0;
+                groups =                 (
+                );
+            };
+            id = 4fc9dda0e4b098b3eedceda1;
+            likes =             {
+                count = 0;
+                groups =                 (
+                );
+            };
+            location =             {
+                cc = US;
+                city = Pittsburgh;
+                country = "United States";
+                distance = 1895;
+                lat = "40.45563329368011";
+
+                lng = "-80.00645676649479";
+                postalCode = 15212;
+                state = PA;
+            };
+            name = "LifeFlight Helipad";
+            referralId = "v-1366793190";
+            specials =             (
+            );
+            stats =             {
+                checkinsCount = 194;
+                tipCount = 0;
+                usersCount = 10;
+            };
+            verified = 0;
+        },
+                {
+            beenHere =             {
+                count = 0;
+            };
+            canonicalUrl = "https://foursquare.com/v/upmc-presbyterian-hospital-department-of-neurological-surgery/514b503be4b0a7478d36fa52";
+            categories =             (
+                                {
+                    icon =                     {
+                        name = ".png";
+                        prefix = "https://foursquare.com/img/categories/building/medical_hospital_";
+                        sizes =                         (
+                            32,
+                            44,
+                            64,
+                            88,
+                            256
+                        );
+                    };
+                    id = 4bf58dd8d48988d196941735;
+                    name = Hospital;
+                    pluralName = Hospitals;
+                    primary = 1;
+                    shortName = Hospital;
+                }
+            );
+            contact =             {
+            };
+            hereNow =             {
+                count = 0;
+                groups =                 (
+                );
+            };
+            id = 514b503be4b0a7478d36fa52;
+            likes =             {
+                count = 0;
+                groups =                 (
+                );
+            };
+            location =             {
+                cc = US;
+                city = Pittsburgh;
+                country = "United States";
+                distance = 2955;
+                lat = "40.44245529174805";
+                lng = "-79.96108245849609";
+                state = PA;
+            };
+            name = "UPMC Presbyterian Hospital Department of Neurological Surgery";
+            referralId = "v-1366793190";
+            specials =             (
+            );
+            stats =             {
+                checkinsCount = 2;
+                tipCount = 0;
+                usersCount = 2;
+            };
+            verified = 0;
+        },
+                {
+            beenHere =             {
+                count = 0;
+            };
+            canonicalUrl = "https://foursquare.com/v/mercy-employee-health/4c3709d1ae2da5932a17fec5";
+            categories =             (
+                                {
+                    icon =                     {
+                        name = ".png";
+                        prefix = "https://foursquare.com/img/categories/building/medical_hospital_";
+                        sizes =                         (
+                            32,
+                            44,
+                            64,
+                            88,
+                            256
+                        );
+                    };
+                    id = 4bf58dd8d48988d196941735;
+                    name = Hospital;
+                    pluralName = Hospitals;
+                    primary = 1;
+                    shortName = Hospital;
+                }
+            );
+            contact =             {
+            };
+            hereNow =             {
+                count = 0;
+                groups =                 (
+                );
+            };
+            id = 4c3709d1ae2da5932a17fec5;
+            likes =             {
+                count = 0;
+                groups =                 (
+                );
+            };
+            location =             {
+                cc = US;
+                city = Pittsburgh;
+                country = "United States";
+                distance = 766;
+                lat = "40.44166106334684";
+                lng = "-79.98694507554254";
+                postalCode = 15203;
+                state = PA;
+            };
+            name = "Mercy Employee Health";
+            referralId = "v-1366793190";
+            specials =             (
+            );
+            stats =             {
+                checkinsCount = 122;
+                tipCount = 0;
+                usersCount = 2;
+            };
+            verified = 0;
+        },
+                {
+            beenHere =             {
+                count = 0;
+            };
+            canonicalUrl = "https://foursquare.com/v/upmc-medic-command--statmedevac/4b707863f964a520701c2de3";
+            categories =             (
+                                {
+                    icon =                     {
+                        name = ".png";
+                        prefix = "https://foursquare.com/img/categories/building/medical_hospital_";
+                        sizes =                         (
+                            32,
+                            44,
+                            64,
+                            88,
+                            256
+                        );
+                    };
+                    id = 4bf58dd8d48988d196941735;
+                    name = Hospital;
+                    pluralName = Hospitals;
+                    primary = 1;
+                    shortName = Hospital;
+                }
+            );
+            contact =             {
+            };
+            hereNow =             {
+                count = 0;
+                groups =                 (
+                );
+            };
+            id = 4b707863f964a520701c2de3;
+            likes =             {
+                count = 0;
+                groups =                 (
+                );
+            };
+            location =             {
+                address = "200 Lothrop Street suite F-1301";
+                cc = US;
+                city = Pittsburgh;
+                country = "United States";
+                crossStreet = "Terrace street";
+                distance = 3004;
+                lat = "40.442543";
+                lng = "-79.96050700000001";
+                postalCode = 15213;
+                state = PA;
+            };
+            name = "UPMC Medic Command / STATMedEvac";
+            referralId = "v-1366793190";
+            specials =             (
+            );
+            stats =             {
+                checkinsCount = 69;
+                tipCount = 0;
+                usersCount = 18;
+            };
+            verified = 0;
+        },
+                {
+            beenHere =             {
+                count = 0;
+            };
+            canonicalUrl = "https://foursquare.com/v/allegheny-general-hospital-12th-floor-cardiac-floor/4f0b4d29e4b0fcefab6c7bf7";
+            categories =             (
+                                {
+                    icon =                     {
+                        name = ".png";
+                        prefix = "https://foursquare.com/img/categories/building/medical_hospital_";
+                        sizes =                         (
+                            32,
+                            44,
+                            64,
+                            88,
+                            256
+                        );
+                    };
+                    id = 4bf58dd8d48988d196941735;
+                    name = Hospital;
+                    pluralName = Hospitals;
+                    primary = 1;
+                    shortName = Hospital;
+                }
+            );
+            contact =             {
+            };
+            hereNow =             {
+                count = 0;
+                groups =                 (
+                );
+            };
+            id = 4f0b4d29e4b0fcefab6c7bf7;
+            likes =             {
+                count = 0;
+                groups =                 (
+                );
+            };
+            location =             {
+                cc = US;
+                city = Pittsburgh;
+                country = "United States";
+                distance = 1862;
+                lat = "40.45644390332825";
+                lng = "-80.00306041961311";
+                postalCode = 15212;
+                state = PA;
+            };
+            name = "Allegheny General Hospital (12th Floor: Cardiac Floor)";
+            referralId = "v-1366793190";
+            specials =             (
+            );
+            stats =             {
+                checkinsCount = 13;
+                tipCount = 0;
+                usersCount = 10;
+            };
+            verified = 0;
+        },
+                {
+            beenHere =             {
+                count = 0;
+            };
+            canonicalUrl = "https://foursquare.com/v/upmc-thomas-e-starzl-transplantation-institute/4b9f9c54f964a520b72e37e3";
+            categories =             (
+                                {
+                    icon =                     {
+                        name = ".png";
+                        prefix = "https://foursquare.com/img/categories/building/medical_hospital_";
+                        sizes =                         (
+                            32,
+                            44,
+                            64,
+                            88,
+                            256
+                        );
+                    };
+                    id = 4bf58dd8d48988d196941735;
+                    name = Hospital;
+                    pluralName = Hospitals;
+                    primary = 1;
+                    shortName = Hospital;
+                }
+            );
+            contact =             {
+            };
+            hereNow =             {
+                count = 0;
+                groups =                 (
+                );
+            };
+            id = 4b9f9c54f964a520b72e37e3;
+            likes =             {
+                count = 0;
+                groups =                 (
+                );
+            };
+            location =             {
+                address = Oakland;
+                cc = US;
+                city = Pittsburgh;
+                country = "United States";
+                distance = 2903;
+                lat = "40.44130039516838";
+                lng = "-79.96162196142855";
+                state = PA;
+            };
+            name = "UPMC Thomas E. Starzl Transplantation Institute";
+            referralId = "v-1366793190";
+            specials =             (
+            );
+            stats =             {
+                checkinsCount = 47;
+                tipCount = 1;
+                usersCount = 7;
+            };
+            verified = 0;
+        },
+                {
+            beenHere =             {
+                count = 0;
+            };
+            canonicalUrl = "https://foursquare.com/v/10k-del-cf/4e931aa9775b74564d2e1b55";
+            categories =             (
+                                {
+                    icon =                     {
+                        name = ".png";
+                        prefix = "https://foursquare.com/img/categories/building/medical_hospital_";
+                        sizes =                         (
+                            32,
+                            44,
+                            64,
+                            88,
+                            256
+                        );
+                    };
+                    id = 4bf58dd8d48988d196941735;
+                    name = Hospital;
+                    pluralName = Hospitals;
+                    primary = 1;
+                    shortName = Hospital;
+                }
+            );
+            contact =             {
+            };
+            hereNow =             {
+                count = 0;
+                groups =                 (
+                );
+            };
+            id = 4e931aa9775b74564d2e1b55;
+            likes =             {
+                count = 0;
+                groups =                 (
+                );
+            };
+            location =             {
+                cc = US;
+                city = Pittsburgh;
+                country = "United States";
+                distance = 2978;
+                lat = "40.43704575950527";
+                lng = "-79.96104287412921";
+                state = PA;
+            };
+            name = "10K del CF";
+            referralId = "v-1366793190";
+            specials =             (
+            );
+            stats =             {
+                checkinsCount = 17;
+                tipCount = 0;
+                usersCount = 2;
+            };
+            verified = 0;
+        }
+    );
+}

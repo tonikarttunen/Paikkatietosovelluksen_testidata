@@ -1,0 +1,169 @@
+Toni Karttunen
+24.4.2012
+
+==========================================
+
+Paikkatiedon tarjoaja: Google
+Paikka: Schönberg
+Kategoria: Hospitals
+
+==========================================
+
+2013-04-24 10:47:06.201 Google[11333:907] {
+}
+2013-04-24 10:47:06.616 Google[11333:907] Google Places JSON response: {
+    "html_attributions" =     (
+        "Listings by <a href=\"http://www.gelbeseiten.de/\">GelbeSeiten\U00aeVerlagen</a>"
+    );
+    result =     {
+        "address_components" =         (
+                        {
+                "long_name" = 1;
+                "short_name" = 1;
+                types =                 (
+                    "street_number"
+                );
+            },
+                        {
+                "long_name" = "An den Salzwiesen";
+                "short_name" = "An den Salzwiesen";
+                types =                 (
+                    route
+                );
+            },
+                        {
+                "long_name" = Holm;
+                "short_name" = Holm;
+                types =                 (
+                    sublocality,
+                    political
+                );
+            },
+                        {
+                "long_name" = "Sch\U00f6nberg";
+                "short_name" = "Sch\U00f6nberg";
+                types =                 (
+                    locality,
+                    political
+                );
+            },
+                        {
+                "long_name" = SH;
+                "short_name" = SH;
+                types =                 (
+                    "administrative_area_level_1",
+                    political
+                );
+            },
+                        {
+                "long_name" = DE;
+                "short_name" = DE;
+                types =                 (
+                    country,
+                    political
+                );
+            },
+                        {
+                "long_name" = 24217;
+                "short_name" = 24217;
+                types =                 (
+                    "postal_code"
+                );
+            }
+        );
+        "formatted_address" = "An den Salzwiesen 1, Sch\U00f6nberg, Deutschland";
+        "formatted_phone_number" = "04344 37 ext. 0";
+        geometry =         {
+            location =             {
+                lat = "54.41753";
+                lng = "10.37109";
+            };
+        };
+        icon = "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png";
+        id = 8a5d79f3c15429388b824ad6e94971b3df7113c2;
+        "international_phone_number" = "+49 4344 37 ext. 0";
+        name = "Ostseeklinik Holm Reinhold G\U00f6ttsch GmbH & Co. KG";
+        reference = "CpQBkAAAAO6Cic5vqMHl_AyQIxt5WwqEeqokxZWZJjrZOr0RDrOKXgo3ipLb1cppXD_ISIauMkAR1ICXKQ0pX5DiK_bXvDc-L5HBBMIsonlfOFItKHONj-Kpr3dyQW41LLTCT7Qw5_UGAmNSVBjdeEEhVttPLTehMPIaiDLUC_x7HCVWDQnGKDwFW7xRzli14uwGRz4DhRIQx9cYvV5fNLDm7mDUGMJ3kRoUp98WoHSkkr2m9EgAZgwkw75OAvc";
+        types =         (
+            hospital,
+            health,
+            establishment
+        );
+        url = "https://plus.google.com/115813247036272621841/about?hl=en-US";
+        "utc_offset" = 120;
+        vicinity = "An den Salzwiesen 1, Sch\U00f6nberg";
+        website = "http://www.ostseeklinik-schoenberg-holm.de/";
+    };
+    status = OK;
+}
+
+2013-04-24 10:47:10.407 Google[11333:907] {
+}
+2013-04-24 10:47:10.522 Google[11333:907] Google Places JSON response: {
+    "html_attributions" =     (
+    );
+    result =     {
+        "address_components" =         (
+                        {
+                "long_name" = 29;
+                "short_name" = 29;
+                types =                 (
+                    "street_number"
+                );
+            },
+                        {
+                "long_name" = "Stakendorfer Tor";
+                "short_name" = "Stakendorfer Tor";
+                types =                 (
+                    route
+                );
+            },
+                        {
+                "long_name" = "Sch\U00f6nberg";
+                "short_name" = "Sch\U00f6nberg";
+                types =                 (
+                    locality,
+                    political
+                );
+            },
+                        {
+                "long_name" = DE;
+                "short_name" = DE;
+                types =                 (
+                    country,
+                    political
+                );
+            },
+                        {
+                "long_name" = 24217;
+                "short_name" = 24217;
+                types =                 (
+                    "postal_code"
+                );
+            }
+        );
+        "formatted_address" = "Stakendorfer Tor 29, Sch\U00f6nberg, Deutschland";
+        "formatted_phone_number" = "04344 243";
+        geometry =         {
+            location =             {
+                lat = "54.394709";
+                lng = "10.374862";
+            };
+        };
+        icon = "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png";
+        id = 9a2bde15575d5de46d02c34af502d2563b67ea9d;
+        "international_phone_number" = "+49 4344 243";
+        name = "Privatklinik Dr. Zimmermann";
+        reference = "CoQBeQAAAFD5TAUlaobMe8Jj0ZP5T5kEB7UuUmqT7mvFgQYxbGTPAIpRi4DPFWTo24PgeyDqqYyFoGHhLGBTkPDGRbdOs-vwnDIRpefuGHo1_qkNgbaX7SLk4UDDX5z-i4veoF40ZVhw27WfsoxE8gMV4hMxyFb4IWez-H_a-PsT_8FE4MVdEhDKlQow2KTZU7heOrhJO8ffGhRzFle5au7Isff0jlEiRBROJ37hYw";
+        types =         (
+            hospital,
+            health,
+            establishment
+        );
+        url = "https://plus.google.com/116022375792420296777/about?hl=en-US";
+        "utc_offset" = 120;
+        vicinity = "Stakendorfer Tor 29, Sch\U00f6nberg";
+    };
+    status = OK;
+}
+

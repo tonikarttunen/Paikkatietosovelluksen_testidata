@@ -1,0 +1,1375 @@
+Toni Karttunen
+24.4.2012
+
+==========================================
+
+Paikkatiedon tarjoaja: Google
+Paikka: Suzhou
+Kategoria: Hospitals
+
+==========================================
+
+2013-04-24 11:18:39.491 Google[11427:907] {
+}
+2013-04-24 11:18:39.809 Google[11427:907] Google Places JSON response: {
+    "html_attributions" =     (
+    );
+    result =     {
+        "address_components" =         (
+                        {
+                "long_name" = "Yuecheng West Road";
+                "short_name" = "Yuecheng West Road";
+                types =                 (
+                    route
+                );
+            },
+                        {
+                "long_name" = Wuzhong;
+                "short_name" = Wuzhong;
+                types =                 (
+                    sublocality,
+                    political
+                );
+            },
+                        {
+                "long_name" = Suzhou;
+                "short_name" = Suzhou;
+                types =                 (
+                    locality,
+                    political
+                );
+            },
+                        {
+                "long_name" = Jiangsu;
+                "short_name" = Jiangsu;
+                types =                 (
+                    "administrative_area_level_1",
+                    political
+                );
+            },
+                        {
+                "long_name" = CN;
+                "short_name" = CN;
+                types =                 (
+                    country,
+                    political
+                );
+            }
+        );
+        "formatted_address" = "Yuecheng West Road, Wuzhong, Suzhou, Jiangsu, China";
+        "formatted_phone_number" = "0512 6657 0450";
+        geometry =         {
+            location =             {
+                lat = "31.209473";
+                lng = "120.588951";
+            };
+        };
+        icon = "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png";
+        id = 7047a45e1355a7b81cc2efca2e0bfd71a8777bd8;
+        "international_phone_number" = "+86 512 6657 0450";
+        name = "Suzhou Aixin Nursing Home";
+        reference = "CoQBdgAAAFqhFv-vwufleqp_Rd9k0AiGZVTFKEC1tExj2kytHSYDkXeVasKoC42rgfc2ehG6nJfc-D9e55UV0g-mMr0XSuEnECpZXUg-6ng62yHkQXEoxk5_cQARmyCupPVFppIo71tXBqt9bjpQZfHZfd2k8Cb2NPyvtRq75dkNgZh_CnqXEhA3Bo12RkkMkWdWCC7KMbmNGhR9A7UgVYNpDRmLbCOicMG8qCQ_gg";
+        types =         (
+            hospital,
+            health,
+            establishment
+        );
+        url = "https://plus.google.com/106355917388224919359/about?hl=en-US";
+        "utc_offset" = 480;
+        vicinity = "Yuecheng West Road, Wuzhong, Suzhou";
+        website = "http://www.axhly.com/";
+    };
+    status = OK;
+}
+
+2013-04-24 11:18:42.898 Google[11427:907] {
+}
+2013-04-24 11:18:43.058 Google[11427:907] Google Places JSON response: {
+    "html_attributions" =     (
+    );
+    result =     {
+        "address_components" =         (
+                        {
+                "long_name" = "Wushan Street";
+                "short_name" = "Wushan Street";
+                types =                 (
+                    route
+                );
+            },
+                        {
+                "long_name" = Wuzhong;
+                "short_name" = Wuzhong;
+                types =                 (
+                    sublocality,
+                    political
+                );
+            },
+                        {
+                "long_name" = Suzhou;
+                "short_name" = Suzhou;
+                types =                 (
+                    locality,
+                    political
+                );
+            },
+                        {
+                "long_name" = Jiangsu;
+                "short_name" = Jiangsu;
+                types =                 (
+                    "administrative_area_level_1",
+                    political
+                );
+            },
+                        {
+                "long_name" = CN;
+                "short_name" = CN;
+                types =                 (
+                    country,
+                    political
+                );
+            }
+        );
+        "formatted_address" = "Wushan Street, Wuzhong, Suzhou, Jiangsu, China";
+        "formatted_phone_number" = "0512 6655 1541";
+        geometry =         {
+            location =             {
+                lat = "31.213901";
+                lng = "120.586593";
+            };
+        };
+        icon = "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png";
+        id = f6b3cb5566a36d39c141ad6310708c07e1053814;
+        "international_phone_number" = "+86 512 6655 1541";
+        name = "Yuexi Health Center, Wuzhong Economic Development Zone";
+        reference = "CqQBlAAAAEGFb8K-ajZ18eG9fBZ71zPBT247Pb3lGUL_VLxFO4-0AfgHerBDHhbRgpnbdSpOgmm1yLsay__PKcCAEMF0dznqb9WUCCpK8hQwZQwgpdGRSd3HnNbKYEgrtqEEqMkmgXnX1ZgbFj8iLOrn5XXznsZTFIIcapPwfLec3s7HdpRKqs2_6dOemETPUxh_jBbDdUNg2td3yrk3zUel2fckiFISEEXesXdeG9jfzGoQWYMo7_IaFErGf_gwnf6W36RofHqkmBJVpxD_";
+        types =         (
+            hospital,
+            health,
+            establishment
+        );
+        url = "https://plus.google.com/102786285432141809618/about?hl=en-US";
+        "utc_offset" = 480;
+        vicinity = "Wushan Street, Wuzhong, Suzhou";
+    };
+    status = OK;
+}
+
+2013-04-24 11:18:45.089 Google[11427:907] {
+}
+2013-04-24 11:18:45.239 Google[11427:907] Google Places JSON response: {
+    "html_attributions" =     (
+    );
+    result =     {
+        "address_components" =         (
+                        {
+                "long_name" = "Tayun Road";
+                "short_name" = "Tayun Road";
+                types =                 (
+                    route
+                );
+            },
+                        {
+                "long_name" = Wuzhong;
+                "short_name" = Wuzhong;
+                types =                 (
+                    sublocality,
+                    political
+                );
+            },
+                        {
+                "long_name" = Suzhou;
+                "short_name" = Suzhou;
+                types =                 (
+                    locality,
+                    political
+                );
+            },
+                        {
+                "long_name" = Jiangsu;
+                "short_name" = Jiangsu;
+                types =                 (
+                    "administrative_area_level_1",
+                    political
+                );
+            },
+                        {
+                "long_name" = CN;
+                "short_name" = CN;
+                types =                 (
+                    country,
+                    political
+                );
+            }
+        );
+        "formatted_address" = "Tayun Road, Wuzhong, Suzhou, Jiangsu, China";
+        "formatted_phone_number" = "0512 6921 9999";
+        geometry =         {
+            location =             {
+                lat = "31.205418";
+                lng = "120.59558";
+            };
+        };
+        icon = "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png";
+        id = a0a0f0b7a14f100c523e52015d3d380dcf48e535;
+        "international_phone_number" = "+86 512 6921 9999";
+        name = "Suzhou Ruihua Hospital";
+        reference = "CoQBdAAAAHi4Mz1by9Zd57ZYBCLYTwTAFKCk3qQZb62yyDJLsqR4EBwkypjvwVr0LrOSLAKyQyMB748ErBuwPQLfzIttmetxYBMF4at75Zcm4RfCFcUW6IycaIM175wIwuTPvD_msBVurXHbrkp73S6TQYl2raRHXh5zyAFKgI3_vbCMOzVKEhBghIggXWrH51EERyUGxEZ6GhTHWhnjzLU4ESVjBIjMN90kCBFEjA";
+        types =         (
+            hospital,
+            health,
+            establishment
+        );
+        url = "https://plus.google.com/112193382954411619005/about?hl=en-US";
+        "utc_offset" = 480;
+        vicinity = "Tayun Road, Wuzhong, Suzhou";
+        website = "http://www.szdxfsrhyy.com/";
+    };
+    status = OK;
+}
+
+2013-04-24 11:18:47.505 Google[11427:907] {
+}
+2013-04-24 11:18:47.662 Google[11427:907] Google Places JSON response: {
+    "html_attributions" =     (
+    );
+    result =     {
+        "address_components" =         (
+                        {
+                "long_name" = Wuzhong;
+                "short_name" = Wuzhong;
+                types =                 (
+                    sublocality,
+                    political
+                );
+            },
+                        {
+                "long_name" = Suzhou;
+                "short_name" = Suzhou;
+                types =                 (
+                    locality,
+                    political
+                );
+            },
+                        {
+                "long_name" = Jiangsu;
+                "short_name" = Jiangsu;
+                types =                 (
+                    "administrative_area_level_1",
+                    political
+                );
+            },
+                        {
+                "long_name" = CN;
+                "short_name" = CN;
+                types =                 (
+                    country,
+                    political
+                );
+            }
+        );
+        "formatted_address" = "\U7ea2\U5e84\U65b0\U6751\U4e8c\U533a, Wuzhong, Suzhou, Jiangsu, China";
+        "formatted_phone_number" = "0512 6708 7559";
+        geometry =         {
+            location =             {
+                lat = "31.233152";
+                lng = "120.636725";
+            };
+        };
+        icon = "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png";
+        id = 69f2c6b39c7e2548e216979b4783819639612dbe;
+        "international_phone_number" = "+86 512 6708 7559";
+        name = "\U793e\U533a\U536b\U751f\U670d\U52a1\U57ce\U5357\U8857\U9053\U7ea2\U5e84\U7ad9";
+        reference = "CpQBhQAAAFKgRQAC5ljdaXWIQGFXpBXj_u9ExhcR4MyLlH8Ud8IsXPpw8Xu6zIFgR2vKaNIRKlY9zTTurgFXKbp4Sn0y9JK6cTMfDWJ71iCAhAgdXg4Pox2_5NocFUIQ251DhT5AL_AHaGnLVESMyVKkQ6bGVSxbhQqTc2q9UjIfIwFbd3Mr9evOcU8asB4y48qqHY2oJxIQ4iKmL-_jeIDRk2D_1kMuOxoUw_m0iFcVywU3X11bt7innYB-D_g";
+        types =         (
+            hospital,
+            health,
+            establishment
+        );
+        url = "https://plus.google.com/108338065321687492752/about?hl=en-US";
+        "utc_offset" = 480;
+        vicinity = "\U7ea2\U5e84\U65b0\U6751\U4e8c\U533a, Wuzhong, Suzhou";
+    };
+    status = OK;
+}
+
+2013-04-24 11:18:50.081 Google[11427:907] {
+}
+2013-04-24 11:18:50.217 Google[11427:907] Google Places JSON response: {
+    "html_attributions" =     (
+    );
+    result =     {
+        "address_components" =         (
+                        {
+                "long_name" = Wuzhong;
+                "short_name" = Wuzhong;
+                types =                 (
+                    sublocality,
+                    political
+                );
+            },
+                        {
+                "long_name" = Suzhou;
+                "short_name" = Suzhou;
+                types =                 (
+                    locality,
+                    political
+                );
+            },
+                        {
+                "long_name" = Jiangsu;
+                "short_name" = Jiangsu;
+                types =                 (
+                    "administrative_area_level_1",
+                    political
+                );
+            },
+                        {
+                "long_name" = CN;
+                "short_name" = CN;
+                types =                 (
+                    country,
+                    political
+                );
+            }
+        );
+        "formatted_address" = "\U8d8a\U6eaa\U9547\U6eaa\U7fd4\U5317\U8def12\U53f7, Wuzhong, Suzhou, Jiangsu, China";
+        "formatted_phone_number" = "0512 6655 0944";
+        geometry =         {
+            location =             {
+                lat = "31.21375";
+                lng = "120.589677";
+            };
+        };
+        icon = "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png";
+        id = a7f76289568b2c8d270c6d27385898bf705c5903;
+        "international_phone_number" = "+86 512 6655 0944";
+        name = "\U82cf\U5dde\U5434\U4e2d\U7ecf\U6d4e\U5f00\U53d1\U533a\U8d8a\U6eaa\U536b\U751f\U9662";
+        reference = "CpQBiAAAAEu2x50GlVx3aF39h3VfmmcPR2yTzDqZpQ8KOXFzLWQ7EY4vPXg2Oswldt-AyYXl0bS83zgOmW5GCxkZlO20J2_Tg-DU_N7Z57FQjpbu9PZ9SY9OZBi06LyPRvij4Xtg1jI34Mv1wiDUdT9nlAxjEa-KSVUttyWJnqTxGkGh9Gohasl8I2f71rQquqXxmNnJXxIQZ8ezzHO37Fc1gOhb3uLdMxoU-NldImXKlKUr1kgjZ5QWew6v-bg";
+        types =         (
+            hospital,
+            health,
+            establishment
+        );
+        url = "https://plus.google.com/105102066124536976931/about?hl=en-US";
+        "utc_offset" = 480;
+        vicinity = "\U8d8a\U6eaa\U9547\U6eaa\U7fd4\U5317\U8def12\U53f7, Wuzhong, Suzhou";
+    };
+    status = OK;
+}
+
+2013-04-24 11:18:52.720 Google[11427:907] {
+}
+2013-04-24 11:18:52.833 Google[11427:907] Google Places JSON response: {
+    "html_attributions" =     (
+    );
+    result =     {
+        "address_components" =         (
+                        {
+                "long_name" = Wuzhong;
+                "short_name" = Wuzhong;
+                types =                 (
+                    sublocality,
+                    political
+                );
+            },
+                        {
+                "long_name" = Suzhou;
+                "short_name" = Suzhou;
+                types =                 (
+                    locality,
+                    political
+                );
+            },
+                        {
+                "long_name" = Jiangsu;
+                "short_name" = Jiangsu;
+                types =                 (
+                    "administrative_area_level_1",
+                    political
+                );
+            },
+                        {
+                "long_name" = CN;
+                "short_name" = CN;
+                types =                 (
+                    country,
+                    political
+                );
+            }
+        );
+        "formatted_address" = "\U5434\U5c71\U8857, Wuzhong, Suzhou, Jiangsu, China";
+        "formatted_phone_number" = "0512 6603 7549";
+        geometry =         {
+            location =             {
+                lat = "31.210583";
+                lng = "120.601529";
+            };
+        };
+        icon = "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png";
+        id = 0847b48716e7bb3a2f26340c27240e8d178e5271;
+        "international_phone_number" = "+86 512 6603 7549";
+        name = "\U793e\U533a\U536b\U751f\U670d\U52a1\U8d8a\U6eaa\U8857\U9053\U6eaa\U4e1c\U7ad9";
+        reference = "CpQBhQAAAKtRmxM9xegnL6FBBXGyY-MJZi5eRRYaTzWlEMf9mKBTvvY8w_ho9v8qnBIrGTe7a0j_v6HO1VV1qtd9EDfc-fKTn0Bpxxm_-NAra_lu0Las-8cjvzJLaiBzbtnH7aZiVuWURFPYYbzJBDvYBc-dHqP9JM0wDoznE_VF9JsAJy76Q34B-k9ENw0MTTafu9-lPBIQtaym66Hxjok5fh1UHajqJBoUyTxo7bYo0jOuDXM16DfmdUSDSS0";
+        types =         (
+            hospital,
+            health,
+            establishment
+        );
+        url = "https://plus.google.com/117861753315214985661/about?hl=en-US";
+        "utc_offset" = 480;
+        vicinity = "\U5434\U5c71\U8857, Wuzhong, Suzhou";
+    };
+    status = OK;
+}
+
+2013-04-24 11:18:58.566 Google[11427:907] {
+}
+2013-04-24 11:18:58.963 Google[11427:907] Google Places JSON response: {
+    "html_attributions" =     (
+    );
+    result =     {
+        "address_components" =         (
+                        {
+                "long_name" = "Wushan Street";
+                "short_name" = "Wushan Street";
+                types =                 (
+                    route
+                );
+            },
+                        {
+                "long_name" = Wuzhong;
+                "short_name" = Wuzhong;
+                types =                 (
+                    sublocality,
+                    political
+                );
+            },
+                        {
+                "long_name" = Suzhou;
+                "short_name" = Suzhou;
+                types =                 (
+                    locality,
+                    political
+                );
+            },
+                        {
+                "long_name" = Jiangsu;
+                "short_name" = Jiangsu;
+                types =                 (
+                    "administrative_area_level_1",
+                    political
+                );
+            },
+                        {
+                "long_name" = CN;
+                "short_name" = CN;
+                types =                 (
+                    country,
+                    political
+                );
+            }
+        );
+        "formatted_address" = "Wushan Street, Wuzhong, Suzhou, Jiangsu, China";
+        geometry =         {
+            location =             {
+                lat = "31.213904";
+                lng = "120.586593";
+            };
+        };
+        icon = "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png";
+        id = fc8497749bdcb50b90ca2a473a9a7ee25c0ec884;
+        name = "Wuzhong Yuexi Street Community Health Service Center";
+        reference = "CqQBkgAAAHSv5XRSvnNOawUpARmNl6hZSyGZc7oD55TIzdm8JfH-k1mA5AlKxZbh5WIbil24I2VbZo6xhFRC7WSJVEDi2Q46NhaLxEALOkPw5gb1MUFOpNzyyCx0zaz03_NRusGg0OT2yfZ_yUV4R_OUzgCNdBTCHB1jf5KsC2bEZpdVdN5EnMV_xh4jbBLIFB1GPqCvlT5agq5hTGrtnPMUvsjutuYSEJIvEnUaRpd-5IJC_gWgHZsaFBFAXeZ7OjXMofHl533ost0Hl0tA";
+        types =         (
+            hospital,
+            health,
+            establishment
+        );
+        url = "https://plus.google.com/106835319176843839823/about?hl=en-US";
+        "utc_offset" = 480;
+        vicinity = "Wushan Street, Wuzhong, Suzhou";
+    };
+    status = OK;
+}
+
+2013-04-24 11:19:01.034 Google[11427:907] {
+}
+2013-04-24 11:19:01.149 Google[11427:907] Google Places JSON response: {
+    "html_attributions" =     (
+    );
+    result =     {
+        "address_components" =         (
+                        {
+                "long_name" = Wuzhong;
+                "short_name" = Wuzhong;
+                types =                 (
+                    sublocality,
+                    political
+                );
+            },
+                        {
+                "long_name" = Suzhou;
+                "short_name" = Suzhou;
+                types =                 (
+                    locality,
+                    political
+                );
+            },
+                        {
+                "long_name" = Jiangsu;
+                "short_name" = Jiangsu;
+                types =                 (
+                    "administrative_area_level_1",
+                    political
+                );
+            },
+                        {
+                "long_name" = CN;
+                "short_name" = CN;
+                types =                 (
+                    country,
+                    political
+                );
+            }
+        );
+        "formatted_address" = "\U6587\U6eaa\U8def, Wuzhong, Suzhou, Jiangsu, China";
+        "formatted_phone_number" = "0512 6655 3350";
+        geometry =         {
+            location =             {
+                lat = "31.203809";
+                lng = "120.599271";
+            };
+        };
+        icon = "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png";
+        id = b35a4fe23f7ecd127b61f89a8c28a2fa2abc1015;
+        "international_phone_number" = "+86 512 6655 3350";
+        name = "\U793e\U533a\U536b\U751f\U670d\U52a1\U8d8a\U6eaa\U8857\U9053\U73e0\U6751\U7ad9";
+        reference = "CpQBhQAAAJwYw21Eoxc3T5GrgB1yZNzTf6e-5LqwPpqbnhA9-Uo5ysZXjX0dBa6mFWwTx9T8cXPE67rXX87vJ2TDrk2l-E9FK_60PI-WFHNMTd8HvzaQj76C2bDPbtugiqSQU6y5HJ6DBVv5NM6nTjCcavN4GM6OvzWgPhwkdF4Jg4_VNhmSWq_-LFkMpnR3hRrRrGubqRIQCpRhWRvc892mhCHjZ7kYXBoU9PTPl2e2EuhCqIACUBuSQrE7lAg";
+        types =         (
+            hospital,
+            health,
+            establishment
+        );
+        url = "https://plus.google.com/114735784401364497065/about?hl=en-US";
+        "utc_offset" = 480;
+        vicinity = "\U6587\U6eaa\U8def, Wuzhong, Suzhou";
+    };
+    status = OK;
+}
+
+2013-04-24 11:19:04.284 Google[11427:907] {
+}
+2013-04-24 11:19:04.404 Google[11427:907] Google Places JSON response: {
+    "html_attributions" =     (
+    );
+    result =     {
+        "address_components" =         (
+                        {
+                "long_name" = "192\U53f7";
+                "short_name" = "192\U53f7";
+                types =                 (
+                    "street_number"
+                );
+            },
+                        {
+                "long_name" = "Li'ang Road";
+                "short_name" = "Li'ang Road";
+                types =                 (
+                    route
+                );
+            },
+                        {
+                "long_name" = Wuzhong;
+                "short_name" = Wuzhong;
+                types =                 (
+                    sublocality,
+                    political
+                );
+            },
+                        {
+                "long_name" = Suzhou;
+                "short_name" = Suzhou;
+                types =                 (
+                    locality,
+                    political
+                );
+            },
+                        {
+                "long_name" = Jiangsu;
+                "short_name" = Jiangsu;
+                types =                 (
+                    "administrative_area_level_1",
+                    political
+                );
+            },
+                        {
+                "long_name" = CN;
+                "short_name" = CN;
+                types =                 (
+                    country,
+                    political
+                );
+            }
+        );
+        "formatted_address" = "192\U53f7 Li'ang Road, Wuzhong, Suzhou, Jiangsu, China";
+        "formatted_phone_number" = "0512 6707 5657";
+        geometry =         {
+            location =             {
+                lat = "31.233968";
+                lng = "120.616011";
+            };
+        };
+        icon = "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png";
+        id = c2bc4976a917019aea22977c2caba812c70289fb;
+        "international_phone_number" = "+86 512 6707 5657";
+        name = "Kanglin Clinics";
+        reference = "CnRsAAAAU-CoABxsvEgpwqKFiKGXfNyRiHqZZCQJA2LENGvNFsdXBaBUtToUeCxemlCU09ZTEsy5Ts1tA_x9Q-8ozHnYwvYC54kXfIz877tetk0UaQnG9p4CyFMVvCh-lowRHhRW3gE1bGbpO2zOeggFjAxdghIQYbeaRGy37bzx40nWrXim4hoUc8yZIJxW0dFDKGtkLPwrEUEDR-0";
+        types =         (
+            hospital,
+            health,
+            establishment
+        );
+        url = "https://plus.google.com/106878652655888780617/about?hl=en-US";
+        "utc_offset" = 480;
+        vicinity = "192\U53f7 Li'ang Road, Wuzhong, Suzhou";
+    };
+    status = OK;
+}
+
+2013-04-24 11:19:06.988 Google[11427:907] {
+}
+2013-04-24 11:19:07.096 Google[11427:907] Google Places JSON response: {
+    "html_attributions" =     (
+    );
+    result =     {
+        "address_components" =         (
+                        {
+                "long_name" = "135\U53f7";
+                "short_name" = "135\U53f7";
+                types =                 (
+                    "street_number"
+                );
+            },
+                        {
+                "long_name" = "Li'ang Road";
+                "short_name" = "Li'ang Road";
+                types =                 (
+                    route
+                );
+            },
+                        {
+                "long_name" = Wuzhong;
+                "short_name" = Wuzhong;
+                types =                 (
+                    sublocality,
+                    political
+                );
+            },
+                        {
+                "long_name" = Suzhou;
+                "short_name" = Suzhou;
+                types =                 (
+                    locality,
+                    political
+                );
+            },
+                        {
+                "long_name" = Jiangsu;
+                "short_name" = Jiangsu;
+                types =                 (
+                    "administrative_area_level_1",
+                    political
+                );
+            },
+                        {
+                "long_name" = CN;
+                "short_name" = CN;
+                types =                 (
+                    country,
+                    political
+                );
+            }
+        );
+        "formatted_address" = "135\U53f7 Li'ang Road, Wuzhong, Suzhou, Jiangsu, China";
+        "formatted_phone_number" = "0512 6564 9493";
+        geometry =         {
+            location =             {
+                lat = "31.231107";
+                lng = "120.61579";
+            };
+        };
+        icon = "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png";
+        id = e20026a5ef15613209f63b1de2f9060df2c7e86b;
+        "international_phone_number" = "+86 512 6564 9493";
+        name = "Yuehu Clinics";
+        reference = "CnRqAAAAN6s1W8SsOoSHSCjPrGMKdLMtWsRR8ihEbrfQ5WXhgTYxxnHNrkvfWSM3lhXeIGd-sMVpDxP5y3sX5vJvaJJv4dgkrLZy8EUziiJtKh7IczL3QTwiM7KVDuSEwHMgKZheeo6u88mf8R79kP92974NJRIQ9l-5hbO--whLVeDNoG6tDhoUtJtG0dfpKd3x1x5wL5sblLfOKtM";
+        types =         (
+            hospital,
+            health,
+            establishment
+        );
+        url = "https://plus.google.com/102564242245269264698/about?hl=en-US";
+        "utc_offset" = 480;
+        vicinity = "135\U53f7 Li'ang Road, Wuzhong, Suzhou";
+    };
+    status = OK;
+}
+
+2013-04-24 11:19:09.324 Google[11427:907] {
+}
+2013-04-24 11:19:09.432 Google[11427:907] Google Places JSON response: {
+    "html_attributions" =     (
+    );
+    result =     {
+        "address_components" =         (
+                        {
+                "long_name" = Wuzhong;
+                "short_name" = Wuzhong;
+                types =                 (
+                    sublocality,
+                    political
+                );
+            },
+                        {
+                "long_name" = Suzhou;
+                "short_name" = Suzhou;
+                types =                 (
+                    locality,
+                    political
+                );
+            },
+                        {
+                "long_name" = Jiangsu;
+                "short_name" = Jiangsu;
+                types =                 (
+                    "administrative_area_level_1",
+                    political
+                );
+            },
+                        {
+                "long_name" = CN;
+                "short_name" = CN;
+                types =                 (
+                    country,
+                    political
+                );
+            }
+        );
+        "formatted_address" = "\U6eaa\U7fd4\U8def12\U53f7, Wuzhong, Suzhou, Jiangsu, China";
+        "formatted_phone_number" = "0512 6657 0723";
+        geometry =         {
+            location =             {
+                lat = "31.213656";
+                lng = "120.586552";
+            };
+        };
+        icon = "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png";
+        id = f7985c7ed377e16c0ad098c4879f5501dae5e161;
+        "international_phone_number" = "+86 512 6657 0723";
+        name = "\U8d8a\U6eaa\U536b\U751f\U9662\U53e3\U8154\U4e13\U79d1";
+        reference = "CoQBeAAAAO7DTym7JaVdZXDHJJGTpsPZEJSLwrL_CkZOpIksBY8dP4QVAhV-4b4g9ZgApDb_mf3dxdV_2xuMXlmd7MNgzMh-dvDr5ahogFag67Jp36oYp7n_2Wc8xDOHsv4UrxX3BOn4FHL_ozAx8cmeAMOljbgf-yQKapVD-KhyRZGeIQw_EhDHG6V7cjQhbRoUKcCF3IqSGhR5aWDB--eMrwtRdo1nJgxf8B4NOg";
+        types =         (
+            hospital,
+            health,
+            establishment
+        );
+        url = "https://plus.google.com/110357731987931647943/about?hl=en-US";
+        "utc_offset" = 480;
+        vicinity = "\U6eaa\U7fd4\U8def12\U53f7, Wuzhong, Suzhou";
+    };
+    status = OK;
+}
+
+2013-04-24 11:19:28.950 Google[11427:907] {
+}
+2013-04-24 11:19:29.073 Google[11427:907] Google Places JSON response: {
+    "html_attributions" =     (
+    );
+    result =     {
+        "address_components" =         (
+                        {
+                "long_name" = "Nanhu Road";
+                "short_name" = "Nanhu Road";
+                types =                 (
+                    route
+                );
+            },
+                        {
+                "long_name" = Wuzhong;
+                "short_name" = Wuzhong;
+                types =                 (
+                    sublocality,
+                    political
+                );
+            },
+                        {
+                "long_name" = Suzhou;
+                "short_name" = Suzhou;
+                types =                 (
+                    locality,
+                    political
+                );
+            },
+                        {
+                "long_name" = Jiangsu;
+                "short_name" = Jiangsu;
+                types =                 (
+                    "administrative_area_level_1",
+                    political
+                );
+            },
+                        {
+                "long_name" = CN;
+                "short_name" = CN;
+                types =                 (
+                    country,
+                    political
+                );
+            }
+        );
+        "formatted_address" = "Nanhu Road, Wuzhong, Suzhou, Jiangsu, China";
+        "formatted_phone_number" = "0512 6708 3339";
+        geometry =         {
+            location =             {
+                lat = "31.231089";
+                lng = "120.632813";
+            };
+        };
+        icon = "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png";
+        id = 351a1f32ecbf3ad0ee3ea623872908bd82b7eb55;
+        "international_phone_number" = "+86 512 6708 3339";
+        name = "Aifu Out-patient Department";
+        reference = "CoQBeQAAAOe3-UlKA8-FM4-6x9VomFVnWaGHAOrEH7CsTTxTEeNtzOEDamCu6f1LQXPnTcnY2eNIx4CrpSY3q6imOluI0v9Ak3OEUImupOsgdMwuA1Eg9yfoMnQFG7Hhao7GO4utqwpgT0ZwtowalwnL7swIlTxFAWagke5jFha-mT9kG0afEhBlMkajbcMi9L3X5lZJ515JGhTRLWdp2RdYemP4bSc42RmQEjsuHQ";
+        types =         (
+            hospital,
+            health,
+            establishment
+        );
+        url = "https://plus.google.com/102747859460918165863/about?hl=en-US";
+        "utc_offset" = 480;
+        vicinity = "Nanhu Road, Wuzhong, Suzhou";
+    };
+    status = OK;
+}
+
+2013-04-24 11:19:56.709 Google[11427:907] {
+}
+2013-04-24 11:19:56.818 Google[11427:907] Google Places JSON response: {
+    "html_attributions" =     (
+    );
+    result =     {
+        "address_components" =         (
+                        {
+                "long_name" = Wuzhong;
+                "short_name" = Wuzhong;
+                types =                 (
+                    sublocality,
+                    political
+                );
+            },
+                        {
+                "long_name" = Suzhou;
+                "short_name" = Suzhou;
+                types =                 (
+                    locality,
+                    political
+                );
+            },
+                        {
+                "long_name" = Jiangsu;
+                "short_name" = Jiangsu;
+                types =                 (
+                    "administrative_area_level_1",
+                    political
+                );
+            },
+                        {
+                "long_name" = CN;
+                "short_name" = CN;
+                types =                 (
+                    country,
+                    political
+                );
+            }
+        );
+        "formatted_address" = "\U90b5\U6602\U6751429\U53f7, Wuzhong, Suzhou, Jiangsu, China";
+        geometry =         {
+            location =             {
+                lat = "31.224553";
+                lng = "120.615972";
+            };
+        };
+        icon = "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png";
+        id = 0494c5b9d427a1813de7f3904f0c910ae8fe2a73;
+        name = "\U9f7f\U5eb7\U7259\U79d1";
+        reference = "CnRpAAAAk06DtUVYlxUplbOifKz9kLad0zQ6Y6ulsPfpsWN0pc5_N-KzWM5wkBAmtv-2rhEZ2KtMXNAk1iNWcffDvB8ILDW4F8-rS8iREwhUtci5VX0Dol_7YRSyxMGuhU7z_s_fl3yJhTQhtI1WAr1DfJNzWBIQ9_b7V39R3A3SPVq-UWu8mBoUhb42-WokXajGT0KEp_YzpQs_vzA";
+        types =         (
+            hospital,
+            health,
+            establishment
+        );
+        url = "https://plus.google.com/114813464999062755675/about?hl=en-US";
+        "utc_offset" = 480;
+        vicinity = "\U90b5\U6602\U6751429\U53f7, Wuzhong, Suzhou";
+    };
+    status = OK;
+}
+
+2013-04-24 11:19:59.556 Google[11427:907] {
+}
+2013-04-24 11:19:59.657 Google[11427:907] Google Places JSON response: {
+    "html_attributions" =     (
+    );
+    result =     {
+        "address_components" =         (
+                        {
+                "long_name" = Wujiang;
+                "short_name" = Wujiang;
+                types =                 (
+                    sublocality,
+                    political
+                );
+            },
+                        {
+                "long_name" = Suzhou;
+                "short_name" = Suzhou;
+                types =                 (
+                    locality,
+                    political
+                );
+            },
+                        {
+                "long_name" = Jiangsu;
+                "short_name" = Jiangsu;
+                types =                 (
+                    "administrative_area_level_1",
+                    political
+                );
+            },
+                        {
+                "long_name" = CN;
+                "short_name" = CN;
+                types =                 (
+                    country,
+                    political
+                );
+            }
+        );
+        "formatted_address" = "\U5411\U8363\U6751, Wujiang, Suzhou, Jiangsu, China";
+        geometry =         {
+            location =             {
+                lat = "31.202796";
+                lng = "120.634988";
+            };
+        };
+        icon = "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png";
+        id = 6ef717e516728acc78ba064aef15f4fc1c48bdff;
+        name = "\U95e8\U8bca";
+        reference = "CnRjAAAAmHQChwwfz6uTNZx-5xnmDfiFCLYHhbGgNhD7KFcjmJlBQlcgpP01y2aaFwZAmXlzWD1zVDS-P9cCLmVs7rYzLZpZXG4VHJFd1KeIp3XlsL0bzoJH5S_Spuuy4Clq026dKPRshEpjx4n3kcN9_4Ft5xIQlyuIHLfRkUwELXm_eBsbIxoUJCBslBzh4PkIYLqBBpUqYDL4Jbc";
+        types =         (
+            hospital,
+            health,
+            establishment
+        );
+        url = "https://plus.google.com/111939094451104890465/about?hl=en-US";
+        "utc_offset" = 480;
+        vicinity = "\U5411\U8363\U6751, Wujiang, Suzhou";
+    };
+    status = OK;
+}
+
+2013-04-24 11:20:01.667 Google[11427:907] {
+}
+2013-04-24 11:20:01.920 Google[11427:907] Google Places JSON response: {
+    "html_attributions" =     (
+    );
+    result =     {
+        "address_components" =         (
+                        {
+                "long_name" = "Yuecheng West Road";
+                "short_name" = "Yuecheng West Road";
+                types =                 (
+                    route
+                );
+            },
+                        {
+                "long_name" = Wuzhong;
+                "short_name" = Wuzhong;
+                types =                 (
+                    sublocality,
+                    political
+                );
+            },
+                        {
+                "long_name" = Suzhou;
+                "short_name" = Suzhou;
+                types =                 (
+                    locality,
+                    political
+                );
+            },
+                        {
+                "long_name" = Jiangsu;
+                "short_name" = Jiangsu;
+                types =                 (
+                    "administrative_area_level_1",
+                    political
+                );
+            },
+                        {
+                "long_name" = CN;
+                "short_name" = CN;
+                types =                 (
+                    country,
+                    political
+                );
+            }
+        );
+        "formatted_address" = "Yuecheng West Road, Wuzhong, Suzhou, Jiangsu, China";
+        "formatted_phone_number" = "0512 6635 2999";
+        geometry =         {
+            location =             {
+                lat = "31.211136";
+                lng = "120.584146";
+            };
+        };
+        icon = "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png";
+        id = 1b12b2a4b935aeedeb6643ff17e66850ee6ad256;
+        "international_phone_number" = "+86 512 6635 2999";
+        name = "Suzhou Wuzhong Dongwu Out-patient Department";
+        reference = "CpQBigAAACzbwcPBFnwx1sWBi1cV-eYvEZVEOpOe72sFBJvtxeL4PjRDIFIV1S8X1uHsijbj44LWZHe2XU8bJ9S6I7apluOyNKRNIJkIGRmODtnND5EgXa43bWZWEuYCRoeeFet15RoYAB7MzON7Ca20hfRT0WcTHn6OBP0t8maa9yLBPjW1ftCvH6Luy1Ni2Pill3ZtwxIQKwhdCrVbWAZTj5maREWxYhoUswNfq1GFhzSJW5aCpFvMFM_u-gs";
+        types =         (
+            hospital,
+            health,
+            establishment
+        );
+        url = "https://plus.google.com/113191933285824014495/about?hl=en-US";
+        "utc_offset" = 480;
+        vicinity = "Yuecheng West Road, Wuzhong, Suzhou";
+    };
+    status = OK;
+}
+
+2013-04-24 11:20:09.478 Google[11427:907] {
+}
+2013-04-24 11:20:09.584 Google[11427:907] Google Places JSON response: {
+    "html_attributions" =     (
+    );
+    result =     {
+        "address_components" =         (
+                        {
+                "long_name" = Wuzhong;
+                "short_name" = Wuzhong;
+                types =                 (
+                    sublocality,
+                    political
+                );
+            },
+                        {
+                "long_name" = Suzhou;
+                "short_name" = Suzhou;
+                types =                 (
+                    locality,
+                    political
+                );
+            },
+                        {
+                "long_name" = Jiangsu;
+                "short_name" = Jiangsu;
+                types =                 (
+                    "administrative_area_level_1",
+                    political
+                );
+            },
+                        {
+                "long_name" = CN;
+                "short_name" = CN;
+                types =                 (
+                    country,
+                    political
+                );
+            }
+        );
+        "formatted_address" = "\U8821\U6602\U8def135, Wuzhong, Suzhou, Jiangsu, China";
+        "formatted_phone_number" = "0512 6564 9493";
+        geometry =         {
+            location =             {
+                lat = "31.231003";
+                lng = "120.615541";
+            };
+        };
+        icon = "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png";
+        id = 02b0028a38d1054e8b872016c524da36a24d0f3a;
+        "international_phone_number" = "+86 512 6564 9493";
+        name = "\U5434\U4e2d\U533a\U8d8a\U6e56\U95e8\U8bca";
+        reference = "CoQBcwAAABKQU7mB0YTI67CkiQQI3CCw4jgwW_rHtNwXTdvOWB5ONe_bfgm1S58FIaZoDbweALK0b_T3jDkE9zQkd7WIpJ8VsfuiCRnTJPgvYOf3nWZ-Gl1tfZFkMJzeXSWqfgCJH-RGEb4fSYy_Cgc4NUau5jR0YSnER1kIgLiK0KztdQlMEhCiVojq7UMVPNUTpgBZ4i1EGhRGKSxHVV85sv5mYHBalWUG-8tHPA";
+        types =         (
+            hospital,
+            health,
+            establishment
+        );
+        url = "https://plus.google.com/117518564331683437204/about?hl=en-US";
+        "utc_offset" = 480;
+        vicinity = "\U8821\U6602\U8def135, Wuzhong, Suzhou";
+    };
+    status = OK;
+}
+
+2013-04-24 11:20:12.121 Google[11427:907] {
+}
+2013-04-24 11:20:12.236 Google[11427:907] Google Places JSON response: {
+    "html_attributions" =     (
+    );
+    result =     {
+        "address_components" =         (
+                        {
+                "long_name" = Wuzhong;
+                "short_name" = Wuzhong;
+                types =                 (
+                    sublocality,
+                    political
+                );
+            },
+                        {
+                "long_name" = Suzhou;
+                "short_name" = Suzhou;
+                types =                 (
+                    locality,
+                    political
+                );
+            },
+                        {
+                "long_name" = Jiangsu;
+                "short_name" = Jiangsu;
+                types =                 (
+                    "administrative_area_level_1",
+                    political
+                );
+            },
+                        {
+                "long_name" = CN;
+                "short_name" = CN;
+                types =                 (
+                    country,
+                    political
+                );
+            }
+        );
+        "formatted_address" = "\U90b5\U6602\U6751458\U53f7, Wuzhong, Suzhou, Jiangsu, China";
+        geometry =         {
+            location =             {
+                lat = "31.225006";
+                lng = "120.616183";
+            };
+        };
+        icon = "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png";
+        id = c9b803b60d1dd169dcfef3ce1d8c7a5938fb8738;
+        name = "\U82cf\U6cad\U8bca\U6240";
+        reference = "CnRpAAAA8QKRZmR0zVOvmA1VlamhumnniWdPNk4XUDZHUD7Yd76kSCLfDX4brcEy6xoEJiX8TFo9dBDQ3BD1r9Lznsckqsfy0pYCEmrJIOGSW_EgDj3DkxK3Q5Jf3jKoyIrPnaDRgmGoY06kFVwbW2T4Yhjb7BIQWpXfDpJbcfKuKviYqtqtZhoUQPSPlCjpWDaPrD8GPdlwK37BTR4";
+        types =         (
+            hospital,
+            health,
+            establishment
+        );
+        url = "https://plus.google.com/102744206390053872533/about?hl=en-US";
+        "utc_offset" = 480;
+        vicinity = "\U90b5\U6602\U6751458\U53f7, Wuzhong, Suzhou";
+    };
+    status = OK;
+}
+
+2013-04-24 11:20:15.802 Google[11427:907] {
+}
+2013-04-24 11:20:16.057 Google[11427:907] Google Places JSON response: {
+    "html_attributions" =     (
+    );
+    result =     {
+        "address_components" =         (
+                        {
+                "long_name" = Wuzhong;
+                "short_name" = Wuzhong;
+                types =                 (
+                    sublocality,
+                    political
+                );
+            },
+                        {
+                "long_name" = Suzhou;
+                "short_name" = Suzhou;
+                types =                 (
+                    locality,
+                    political
+                );
+            },
+                        {
+                "long_name" = Jiangsu;
+                "short_name" = Jiangsu;
+                types =                 (
+                    "administrative_area_level_1",
+                    political
+                );
+            },
+                        {
+                "long_name" = CN;
+                "short_name" = CN;
+                types =                 (
+                    country,
+                    political
+                );
+            }
+        );
+        "formatted_address" = "\U4e1c\U6e56\U793e\U533a\U540e\U6751\U6e2f\U5357, Wuzhong, Suzhou, Jiangsu, China";
+        "formatted_phone_number" = "0512 6598 7130";
+        geometry =         {
+            location =             {
+                lat = "31.226731";
+                lng = "120.630202";
+            };
+        };
+        icon = "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png";
+        id = af5cb4f75de190a604f01345450d20dbad5c59e1;
+        "international_phone_number" = "+86 512 6598 7130";
+        name = "\U793e\U533a\U536b\U751f\U670d\U52a1\U57ce\U5357\U8857\U9053\U4e1c\U6e56\U7ad9";
+        reference = "CpQBhQAAAM4cqHGIv-Kvr2u_VYSvhIe_eaMDE9EeZ8Tdug6jwH91G1pXiETr3EBU2qc4DmFmdQrl9oH5zqdw7aWEcRoKIvnsMs12eC3UVOdA20j_swnmwLG2IUzxilRu3qdMhNyp8jumIlWGJUUGf4ODEyIXJmC8D8UWjXyCsgW3BH31FBxomKZM5J86MVqhWhp7q9RgahIQgKQpDiJdgN2y4oFimgwxXBoUFisXGigFCq0EWSVph-rgPLwjRaE";
+        types =         (
+            hospital,
+            health,
+            establishment
+        );
+        url = "https://plus.google.com/112567540261430546625/about?hl=en-US";
+        "utc_offset" = 480;
+        vicinity = "\U4e1c\U6e56\U793e\U533a\U540e\U6751\U6e2f\U5357, Wuzhong, Suzhou";
+    };
+    status = OK;
+}
+
+2013-04-24 11:21:18.940 Google[11427:907] {
+}
+2013-04-24 11:21:19.150 Google[11427:907] Google Places JSON response: {
+    "html_attributions" =     (
+    );
+    result =     {
+        "address_components" =         (
+                        {
+                "long_name" = Wuzhong;
+                "short_name" = Wuzhong;
+                types =                 (
+                    sublocality,
+                    political
+                );
+            },
+                        {
+                "long_name" = Suzhou;
+                "short_name" = Suzhou;
+                types =                 (
+                    locality,
+                    political
+                );
+            },
+                        {
+                "long_name" = Jiangsu;
+                "short_name" = Jiangsu;
+                types =                 (
+                    "administrative_area_level_1",
+                    political
+                );
+            },
+                        {
+                "long_name" = CN;
+                "short_name" = CN;
+                types =                 (
+                    country,
+                    political
+                );
+            }
+        );
+        "formatted_address" = "\U7ea2\U5e84\U65b0\U6751\U4e09\U533a, Wuzhong, Suzhou, Jiangsu, China";
+        "formatted_phone_number" = "134 0263 6919";
+        geometry =         {
+            location =             {
+                lat = "31.233787";
+                lng = "120.63575";
+            };
+        };
+        icon = "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png";
+        id = c88c5d75a75c5b04ebc26276d8af4d9d900fdb21;
+        "international_phone_number" = "+86 134 0263 6919";
+        name = "\U540c\U5fb7\U8bca\U6240";
+        reference = "CnRqAAAALRAL0lttkQnTIiiGlpkv5ObjN6qTWQGvKq9XZh_DTCphgfwJ8FW8LPsun-PooeuxzW1a4QydNcKi1rw-3uPrUhP9krSkWzu8uHZzLobCJrojjXm52AKtpFOi1uzoncfDOGkeH1kAbiaWelEhCW1BnBIQQo7hu_QemkuNYQcZ3Q544RoU0WdRZZJmHrlzR1qpcZvZMo__SME";
+        types =         (
+            hospital,
+            health,
+            establishment
+        );
+        url = "https://plus.google.com/103801211145104138152/about?hl=en-US";
+        "utc_offset" = 480;
+        vicinity = "\U7ea2\U5e84\U65b0\U6751\U4e09\U533a, Wuzhong, Suzhou";
+    };
+    status = OK;
+}
+
+2013-04-24 11:21:22.235 Google[11427:907] {
+}
+2013-04-24 11:21:22.351 Google[11427:907] Google Places JSON response: {
+    "html_attributions" =     (
+    );
+    result =     {
+        "address_components" =         (
+                        {
+                "long_name" = Wuzhong;
+                "short_name" = Wuzhong;
+                types =                 (
+                    sublocality,
+                    political
+                );
+            },
+                        {
+                "long_name" = Suzhou;
+                "short_name" = Suzhou;
+                types =                 (
+                    locality,
+                    political
+                );
+            },
+                        {
+                "long_name" = Jiangsu;
+                "short_name" = Jiangsu;
+                types =                 (
+                    "administrative_area_level_1",
+                    political
+                );
+            },
+                        {
+                "long_name" = CN;
+                "short_name" = CN;
+                types =                 (
+                    country,
+                    political
+                );
+            }
+        );
+        "formatted_address" = "Wuzhong, Suzhou, Jiangsu, China";
+        "formatted_phone_number" = "0512 6603 7549";
+        geometry =         {
+            location =             {
+                lat = "31.210511";
+                lng = "120.601393";
+            };
+        };
+        icon = "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png";
+        id = 84a6a784329cd3aa39905cf4eb66dfe0b4042021;
+        "international_phone_number" = "+86 512 6603 7549";
+        name = "\U793e\U533a\U536b\U751f\U670d\U52a1\U6eaa\U4e1c\U7ad9";
+        reference = "CoQBeAAAADVpjYJSP3Am0zox71sAS_qDC4qsam9uwJvoyL5NBySXNpbCJfaWJ-gFyBX8Gm8795un7Nsm_e2ekjOmXRKZE3wHMhQSNpBOHk89pUYuBaOHZZN2T5KnBc9LWIY2ftiN4TYQzKB7ArLLUSC4oIggTMA7gBG1qY8s_zdOaF_5eSzkEhB1NS8y7oOgv6N8sYOavqkRGhSBeWGv1dFEFlIJ1tFXXBKWoG6PWw";
+        types =         (
+            hospital,
+            health,
+            establishment
+        );
+        url = "https://plus.google.com/107711477154861639248/about?hl=en-US";
+        "utc_offset" = 480;
+        vicinity = "Wuzhong, Suzhou";
+    };
+    status = OK;
+}
+

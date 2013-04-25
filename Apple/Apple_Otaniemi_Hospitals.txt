@@ -1,0 +1,56 @@
+Toni Karttunen
+24.4.2012
+
+==========================================
+
+Paikkatiedon tarjoaja: Apple
+Paikka: Otaniemi, Espoo
+Kategoria: Hospitals
+
+==========================================
+
+2013-04-24 09:02:15.923 Apple[11032:907] (
+        (
+        Name,
+        "Hospital Physics Oy"
+    ),
+        (
+        Address,
+        "Niittymaantie 13\n02200\U200e Tapiola\nFinland"
+    ),
+        (
+        Phone,
+        "+358500422435"
+    ),
+        (
+        Latitude,
+        "60.171417"
+    ),
+        (
+        Longitude,
+        "24.781086"
+    )
+)
+
+2013-04-24 09:02:34.806 Apple[11032:907] (
+        (
+        Name,
+        "Hospital Physics Oy"
+    ),
+        (
+        Address,
+        "Reunaniitty\n02200\U200e Tapiola\nFinland"
+    ),
+        (
+        Phone,
+        "+358500422435"
+    ),
+        (
+        Latitude,
+        "60.170261"
+    ),
+        (
+        Longitude,
+        "24.779751"
+    )
+)

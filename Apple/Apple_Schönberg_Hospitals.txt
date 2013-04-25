@@ -1,0 +1,204 @@
+Toni Karttunen
+24.4.2012
+
+==========================================
+
+Paikkatiedon tarjoaja: Apple
+Paikka: Schönberg
+Kategoria: Hospitals
+
+==========================================
+
+2013-04-24 09:23:07.970 Apple[11032:907] (
+        (
+        Name,
+        "Universit\U00e4tsklinikum Schleswig-Holstein Campus Kiel"
+    ),
+        (
+        Address,
+        "Michaelisstra\U00dfe 9\n24105\U200e Kiel\nGermany"
+    ),
+        (
+        Latitude,
+        "54.330593"
+    ),
+        (
+        Longitude,
+        "10.145212"
+    )
+)
+
+2013-04-24 09:23:16.210 Apple[11032:907] (
+        (
+        Name,
+        "Universit\U00e4tsklinikum Schleswig-Holstein Campus Kiel"
+    ),
+        (
+        Address,
+        "Arnold-Heller-Stra\U00dfe 7\n24105\U200e Kiel\nGermany"
+    ),
+        (
+        Latitude,
+        "54.330062"
+    ),
+        (
+        Longitude,
+        "10.143369"
+    )
+)
+
+2013-04-24 09:23:33.700 Apple[11032:907] (
+        (
+        Name,
+        "Lubinus-Clinicum"
+    ),
+        (
+        Address,
+        "Steenbeker Weg 31\n24106\U200e Kiel\nGermany"
+    ),
+        (
+        Latitude,
+        "54.354126"
+    ),
+        (
+        Longitude,
+        "10.116154"
+    )
+)
+
+2013-04-24 09:23:49.702 Apple[11032:907] (
+        (
+        Name,
+        "Klinik Preetz"
+    ),
+        (
+        Address,
+        "Am Krankenhaus 5\n24211\U200e Preetz\nGermany"
+    ),
+        (
+        Latitude,
+        "54.238980"
+    ),
+        (
+        Longitude,
+        "10.278510"
+    )
+)
+
+2013-04-24 09:23:52.702 Apple[11032:907] (
+        (
+        Name,
+        "St\U00e4dtisches Krankenhaus"
+    ),
+        (
+        Address,
+        "Kronshagener Weg 16\n24116\U200e Kiel\nGermany"
+    ),
+        (
+        Latitude,
+        "54.323200"
+    ),
+        (
+        Longitude,
+        "10.117955"
+    )
+)
+
+2013-04-24 09:23:57.110 Apple[11032:907] (
+        (
+        Name,
+        "Ostseeklinik Kiel"
+    ),
+        (
+        Address,
+        "Hamburger Chaussee 74\n24113\U200e Kiel\nGermany"
+    ),
+        (
+        Latitude,
+        "54.304912"
+    ),
+        (
+        Longitude,
+        "10.116841"
+    )
+)
+
+2013-04-24 09:24:06.046 Apple[11032:907] (
+        (
+        Name,
+        "St. Elisabeth Krankenhaus"
+    ),
+        (
+        Address,
+        "Pl\U00f6ner Stra\U00dfe 42\n23701\U200e Eutin\nGermany"
+    ),
+        (
+        Latitude,
+        "54.137888"
+    ),
+        (
+        Longitude,
+        "10.610607"
+    )
+)
+
+2013-04-24 09:24:10.404 Apple[11032:907] (
+        (
+        Name,
+        "Sana Klinik Eutin"
+    ),
+        (
+        Address,
+        "Hospitalstra\U00dfe\n23701\U200e Eutin\nGermany"
+    ),
+        (
+        Latitude,
+        "54.133844"
+    ),
+        (
+        Longitude,
+        "10.605942"
+    )
+)
+
+2013-04-24 09:24:13.115 Apple[11032:907] (
+        (
+        Name,
+        "Margarethen-Klinik"
+    ),
+        (
+        Address,
+        "Konsul-Lorentzen-Stra\U00dfe 1\U201311\n24376\U200e Kappeln\nGermany"
+    ),
+        (
+        Phone,
+        "+494642520"
+    ),
+        (
+        Latitude,
+        "54.659100"
+    ),
+        (
+        Longitude,
+        "9.924688"
+    )
+)
+
+2013-04-24 09:24:16.638 Apple[11032:907] (
+        (
+        Name,
+        "Ostseeklinik Kiel"
+    ),
+        (
+        Address,
+        "Hamburger Chaussee 74\n24113\U200e Kiel\nGermany"
+    ),
+        (
+        Latitude,
+        "54.304872"
+    ),
+        (
+        Longitude,
+        "10.116743"
+    )
+)

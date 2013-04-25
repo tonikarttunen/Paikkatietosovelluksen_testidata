@@ -1,0 +1,224 @@
+Toni Karttunen
+24.4.2012
+
+==========================================
+
+Paikkatiedon tarjoaja: Apple
+Paikka: Suzhou
+Kategoria: Food
+
+==========================================
+
+2013-04-24 09:42:25.873 Apple[11032:907] (
+        (
+        Name,
+        "Shaxian Snack"
+    ),
+        (
+        Address,
+        "China\nJiangsu\U200e Suzhou\nShaxian Snack"
+    ),
+        (
+        Latitude,
+        "31.211076"
+    ),
+        (
+        Longitude,
+        "120.602358"
+    )
+)
+
+2013-04-24 09:42:28.800 Apple[11032:907] (
+        (
+        Name,
+        "Fujian Shaxian Snack"
+    ),
+        (
+        Address,
+        "China\nJiangsu\U200e Suzhou\nFujian Shaxian Snack"
+    ),
+        (
+        Latitude,
+        "31.199688"
+    ),
+        (
+        Longitude,
+        "120.639444"
+    )
+)
+
+2013-04-24 09:42:30.830 Apple[11032:907] (
+        (
+        Name,
+        Dongbeifeng
+    ),
+        (
+        Address,
+        "China\nJiangsu\U200e Suzhou\nDongbeifeng"
+    ),
+        (
+        Latitude,
+        "31.210116"
+    ),
+        (
+        Longitude,
+        "120.586520"
+    )
+)
+
+2013-04-24 09:42:44.960 Apple[11032:907] (
+        (
+        Name,
+        "Shaxian Snack"
+    ),
+        (
+        Address,
+        "China\nJiangsu\U200e Suzhou\nShaxian Snack"
+    ),
+        (
+        Latitude,
+        "31.206190"
+    ),
+        (
+        Longitude,
+        "120.647425"
+    )
+)
+
+2013-04-24 09:42:52.276 Apple[11032:907] (
+        (
+        Name,
+        "KFC(Wuzhong Avenue Side Road)"
+    ),
+        (
+        Address,
+        "China\nJiangsu\U200e Suzhou\nWuzhong Avenue 1109 Haonan Suzhou Rulai Life Square Nei (Jin Vanguard)"
+    ),
+        (
+        URL,
+        "http://www.kfc.com.cn"
+    ),
+        (
+        Latitude,
+        "31.217075"
+    ),
+        (
+        Longitude,
+        "120.593262"
+    )
+)
+
+2013-04-24 09:42:56.913 Apple[11032:907] (
+        (
+        Name,
+        "Jiangnan Shuixiang"
+    ),
+        (
+        Address,
+        "China\nJiangsu\U200e Suzhou\nNo.2398  HuaYuan Road  Songlingzhen"
+    ),
+        (
+        Phone,
+        "+8651263022779"
+    ),
+        (
+        Latitude,
+        "31.154543"
+    ),
+        (
+        Longitude,
+        "120.649808"
+    )
+)
+
+2013-04-24 09:43:03.094 Apple[11032:907] (
+        (
+        Name,
+        "Happy Farm"
+    ),
+        (
+        Address,
+        "China\nJiangsu\U200e Suzhou\n528  Zhongshan North Road"
+    ),
+        (
+        Phone,
+        "+8651288981890"
+    ),
+        (
+        Latitude,
+        "31.169712"
+    ),
+        (
+        Longitude,
+        "120.648431"
+    )
+)
+
+2013-04-24 09:43:07.923 Apple[11032:907] (
+        (
+        Name,
+        "Laoma Rice Noodles"
+    ),
+        (
+        Address,
+        "China\nJiangsu\U200e Suzhou\nLaoma Rice Noodles"
+    ),
+        (
+        Phone,
+        "+8651269000616"
+    ),
+        (
+        Latitude,
+        "31.215525"
+    ),
+        (
+        Longitude,
+        "120.591354"
+    )
+)
+
+2013-04-24 09:43:12.280 Apple[11032:907] (
+        (
+        Name,
+        "Sichuan Flavor Restaurant"
+    ),
+        (
+        Address,
+        "China\nJiangsu\U200e Suzhou\nJiangsu Suzhou Wujiang Zhongshan North Road No.1655 Nearby"
+    ),
+        (
+        Phone,
+        "+8651288981097"
+    ),
+        (
+        Latitude,
+        "31.187680"
+    ),
+        (
+        Longitude,
+        "120.648327"
+    )
+)
+
+2013-04-24 09:43:17.253 Apple[11032:907] (
+        (
+        Name,
+        "Wangshan Farm Restaurant"
+    ),
+        (
+        Address,
+        "China\nJiangsu\U200e Suzhou\nYuexi Wangshan Ecology In-park Qianjiawu Nongjiale Shangshantang"
+    ),
+        (
+        Phone,
+        "+8651266201496"
+    ),
+        (
+        Latitude,
+        "31.214781"
+    ),
+        (
+        Longitude,
+        "120.589784"
+    )
+)

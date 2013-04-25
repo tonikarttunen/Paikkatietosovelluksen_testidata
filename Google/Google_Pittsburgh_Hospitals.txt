@@ -1,0 +1,2224 @@
+Toni Karttunen
+24.4.2012
+
+==========================================
+
+Paikkatiedon tarjoaja: Google
+Paikka: Pittsburgh
+Kategoria: Hospitals
+
+==========================================
+
+2013-04-24 11:03:58.633 Google[11427:907] {
+}
+2013-04-24 11:03:58.953 Google[11427:907] Google Places JSON response: {
+    "html_attributions" =     (
+    );
+    result =     {
+        "address_components" =         (
+                        {
+                "long_name" = 1400;
+                "short_name" = 1400;
+                types =                 (
+                    "street_number"
+                );
+            },
+                        {
+                "long_name" = "Locust Street";
+                "short_name" = "Locust Street";
+                types =                 (
+                    route
+                );
+            },
+                        {
+                "long_name" = Pittsburgh;
+                "short_name" = Pittsburgh;
+                types =                 (
+                    locality,
+                    political
+                );
+            },
+                        {
+                "long_name" = PA;
+                "short_name" = PA;
+                types =                 (
+                    "administrative_area_level_1",
+                    political
+                );
+            },
+                        {
+                "long_name" = US;
+                "short_name" = US;
+                types =                 (
+                    country,
+                    political
+                );
+            },
+                        {
+                "long_name" = 15219;
+                "short_name" = 15219;
+                types =                 (
+                    "postal_code"
+                );
+            }
+        );
+        "formatted_address" = "1400 Locust Street, Pittsburgh, PA, United States";
+        "formatted_phone_number" = "(412) 232-8111";
+        geometry =         {
+            location =             {
+                lat = "40.436299";
+                lng = "-79.98544699999999";
+            };
+        };
+        icon = "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png";
+        id = 41b7833d6002e677b964d272f6c9537d84085f56;
+        "international_phone_number" = "+1 412-232-8111";
+        name = "UPMC Mercy Hospital";
+        "opening_hours" =         {
+            "open_now" = 0;
+        };
+        rating = "2.5";
+        reference = "CoQBcQAAAGcfi0iVFeZKKNzM5QnPx6rLqtYVyjapaTiSP_CR-vkFsB9uJnfMHgcuHwRhP6Zrh1vPaSMKXulQnSdh2TWXhBsop_IxLVE3PkamuzOdjxL3oH4y50t8Og-ihjm7YYRCqvl9_Yo9NGLN3sTlTX0zzWZBLG_nK47HyFhCtKcDqrHKEhCRj0hjenLBxoS74VvLXTfRGhRZAc2Wq9er2wLsOrtGx07nEnyxNg";
+        reviews =         (
+                        {
+                aspects =                 (
+                                        {
+                        rating = 0;
+                        type = overall;
+                    }
+                );
+                "author_name" = "Amanda Blake";
+                "author_url" = "https://plus.google.com/110051338053403067382";
+                text = "No bedside manner!";
+                time = 1332192501;
+            },
+                        {
+                aspects =                 (
+                                        {
+                        rating = 0;
+                        type = overall;
+                    }
+                );
+                "author_name" = "A Google User";
+                text = "My mom had her hip replacement here. The doctor was excellent. The recovery ward, not so much. Nurses were nice but did not seem to have all the information they needed. We were NOT briefed before or after surgery as to what we would need when she was discharged. The case workers were completely useless. We had to do our own research about what we needed while mom was recovering at home. We would not recommend using this hospital for a hip replacement.";
+                time = 1304028942;
+            },
+                        {
+                aspects =                 (
+                                        {
+                        rating = 0;
+                        type = overall;
+                    }
+                );
+                "author_name" = "A Google User";
+                text = "I couldn&#39;t find pills anywhere, i tried and tried but by the time i thought i&#39;d finally found some i got dragged out by a smoker and then a hunter proceeded to just rip me to shreds, was the worst experience of my life. Never comming back here again";
+                time = 1277247133;
+            }
+        );
+        types =         (
+            hospital,
+            health,
+            establishment
+        );
+        url = "https://plus.google.com/111855584406398073232/about?hl=en-US";
+        "utc_offset" = "-240";
+        vicinity = "1400 Locust Street, Pittsburgh";
+        website = "http://www.upmc.com/hospitalsfacilities/hospitals/mercy/Pages/default.aspx";
+    };
+    status = OK;
+}
+
+2013-04-24 11:04:03.425 Google[11427:907] {
+}
+2013-04-24 11:04:03.579 Google[11427:907] Google Places JSON response: {
+    "html_attributions" =     (
+    );
+    result =     {
+        "address_components" =         (
+                        {
+                "long_name" = 320;
+                "short_name" = 320;
+                types =                 (
+                    "street_number"
+                );
+            },
+                        {
+                "long_name" = "East North Avenue";
+                "short_name" = "East North Avenue";
+                types =                 (
+                    route
+                );
+            },
+                        {
+                "long_name" = "Central Northside";
+                "short_name" = "Central Northside";
+                types =                 (
+                    sublocality,
+                    political
+                );
+            },
+                        {
+                "long_name" = Pittsburgh;
+                "short_name" = Pittsburgh;
+                types =                 (
+                    locality,
+                    political
+                );
+            },
+                        {
+                "long_name" = Allegheny;
+                "short_name" = Allegheny;
+                types =                 (
+                    "administrative_area_level_2",
+                    political
+                );
+            },
+                        {
+                "long_name" = PA;
+                "short_name" = PA;
+                types =                 (
+                    "administrative_area_level_1",
+                    political
+                );
+            },
+                        {
+                "long_name" = US;
+                "short_name" = US;
+                types =                 (
+                    country,
+                    political
+                );
+            },
+                        {
+                "long_name" = 15212;
+                "short_name" = 15212;
+                types =                 (
+                    "postal_code"
+                );
+            }
+        );
+        "formatted_address" = "320 East North Avenue, Pittsburgh, PA, United States";
+        "formatted_phone_number" = "(412) 359-3252";
+        geometry =         {
+            location =             {
+                lat = "40.456532";
+                lng = "-80.00259200000001";
+            };
+        };
+        icon = "http://maps.gstatic.com/mapfiles/place_api/icons/dentist-71.png";
+        id = 3cefbb9157365cea00cc06272a67854a1ae571dc;
+        "international_phone_number" = "+1 412-359-3252";
+        name = "Allegheny General Hospital";
+        "opening_hours" =         {
+            "open_now" = 0;
+            periods =             (
+                                {
+                    close =                     {
+                        day = 1;
+                        time = 1700;
+                    };
+                    open =                     {
+                        day = 1;
+                        time = 0730;
+                    };
+                },
+                                {
+                    close =                     {
+                        day = 2;
+                        time = 1700;
+                    };
+                    open =                     {
+                        day = 2;
+                        time = 0730;
+                    };
+                },
+                                {
+                    close =                     {
+                        day = 3;
+                        time = 1700;
+                    };
+                    open =                     {
+                        day = 3;
+                        time = 0730;
+                    };
+                },
+                                {
+                    close =                     {
+                        day = 4;
+                        time = 1700;
+                    };
+                    open =                     {
+                        day = 4;
+                        time = 0730;
+                    };
+                },
+                                {
+                    close =                     {
+                        day = 5;
+                        time = 1700;
+                    };
+                    open =                     {
+                        day = 5;
+                        time = 0730;
+                    };
+                },
+                                {
+                    close =                     {
+                        day = 6;
+                        time = 2330;
+                    };
+                    open =                     {
+                        day = 6;
+                        time = 0730;
+                    };
+                }
+            );
+        };
+        photos =         (
+                        {
+                height = 972;
+                "html_attributions" =                 (
+                    "From a Google User"
+                );
+                "photo_reference" = "CoQBeQAAAKJeUwKF8eGu5sn2GFBUMi6rtDip79J_EhVjlhsCL586SeGTYqVL2pfhAWDgiA-MTYnsmXyVVPqrJQldcj3yVt8hbnPoAG5yJDRfVjcbosNjaMiNpeB_nf9Es6tOAwx8KkgjrUxttZU_1qrHWBbvXHdsvyywPA8Y-RBprjJrJeqCEhDPgj1-5kicZBZvMbSWgJ8zGhSbhDspDAtOc3Wk4lBJqqw7J2V7wg";
+                width = 1296;
+            }
+        );
+        rating = "3.8";
+        reference = "CoQBeAAAAMgXRmFDjiD0rjYBwLLPI-5RXUdn0khON0Du0qqF-K_QMLfs0oKVy2p5PfydX_6rYNKmFDpMIILQ3MiPjaSyYtU8Z_KQZv4Aty1s8hGzAPdb1SjZKIqm6MJDPHbWmQmQ3B5qJWj2wghL6UpQCbUY7tOx7DPTUHR4aOKUYOl_-FacEhCPiIvO87k1UWzWPEUGPCWLGhTY5O0A_yA0H0Utjza1Y9Umv3JrPQ";
+        reviews =         (
+                        {
+                aspects =                 (
+                                        {
+                        rating = 0;
+                        type = quality;
+                    }
+                );
+                "author_name" = "Beverly Rodriguez";
+                "author_url" = "https://plus.google.com/105366152718597602938";
+                text = "I and my husband visited my next door neighbor today at the Allegheny General Hospital. My husband and I were appalled to see our friend so upset. He explained to us how the nurses have been very ruff when grabbing his hand to inject a needle. Also, grabbing him in a ruff manor to suddenly flip him over to check his surgical bandages. This poor man has been suffering a long time from a spinal injury acquired while at work. He just had another surgery 2 days ago. A drainage tube had to be removed from his spine this morning. He said, the nurse was unnecessarily ruff and treated him rudely. She called him names trying to make him feel ashamed because he cried out in pain! The poor man has had 2 vertibrae scraped and fused together, plus, 2 holes drilled into his spinal bones to allow the nerves going into his legs to function better. These type of nurses need to be fired! At least have these nurses reprimanded and put on leave for a period of time, ordering them to seek psychological treatment. Obviously, they have never experienced severe pain.";
+                time = 1362356766;
+            },
+                        {
+                aspects =                 (
+                                        {
+                        rating = 2;
+                        type = overall;
+                    }
+                );
+                "author_name" = "A Google User";
+                text = "After reading the reviews for Allegheny Valley Hospital that were not true I thought I would check these since I have switched to here from the UPMC systems that were rude, beyond filthy, and butchers for doctors that they know about but let them operated anyway, unfortunate it was on me. AGH systems are clean. Yes anywhere you can get someone with a bad day, but it is seldom and far between at AGH. I reported all kinds of stuff at UPMC with no results, but AGH handled my problems when I wrote or called them and were pleasant.";
+                time = 1334842311;
+
+            },
+                        {
+                aspects =                 (
+                                        {
+                        rating = 0;
+                        type = overall;
+                    }
+                );
+                "author_name" = "A Google User";
+                text = "Good during daylight, but at night, the staff are rude and have almost no knowledge of the hospitals layout. There are a few exceptions though, but they are few and far between. The place is kept in a very good condition though. I would be careful of the blood bak though as the staff in there at night are the type who are careless with life saving product as I witnessed first hand. Pray you don&#39;t end up needing blood from there at night.";
+                time = 1317434271;
+            },
+                        {
+                aspects =                 (
+                                        {
+                        rating = 0;
+                        type = overall;
+                    }
+                );
+                "author_name" = "A Google User";
+                text = "This is the worse hospital that I have ever been to. The waiting room was filthy; you had to go through a metal detector before entering. I was very sick and could barely speak, and the woman that was supposed to be taking my insurance information was yelling at me to speak up and telling me to stop looking at her. When I got to the back to receive treatment, after seven hours of waiting, there were no hospital beds, so they had me sit in a chair, in a room with blood on the floor. Someone who is sick enough to be put on morphine warrants a hospital bed, you would think. Turns out the mal-educated woman who was supposed to be taking down my insurance information never did; I found this out when I got a collections call, instead of ever receving a bill from the hospital. They are the worse. It is a shame that I will have to give up great UPMC attention and have to deal with this in three years.";
+                time = 1315928185;
+            },
+                        {
+                aspects =                 (
+                                        {
+                        rating = 3;
+                        type = overall;
+                    }
+                );
+                "author_name" = "A Google User";
+                text = "Last year on July 4, 2010 I was in a bike accident. I was life flighted from Trinity West to Allegheny General. The trauma care center was great!!!!! So were the R.N.s at this hospital!!!! This was the best hospital ever!!!! Thank you to all of you. Keep up great work!!!!";
+                time = 1313118909;
+            }
+        );
+        types =         (
+            hospital,
+            dentist,
+            doctor,
+            health,
+            establishment
+        );
+        url = "https://plus.google.com/114720697499580060469/about?hl=en-US";
+        "utc_offset" = "-240";
+        vicinity = "320 East North Avenue, Pittsburgh";
+        website = "http://www.wpahs.org/";
+    };
+    status = OK;
+}
+
+2013-04-24 11:04:05.664 Google[11427:907] {
+}
+2013-04-24 11:04:05.913 Google[11427:907] Google Places JSON response: {
+    "html_attributions" =     (
+    );
+    result =     {
+        "address_components" =         (
+                        {
+                "long_name" = 1004;
+                "short_name" = 1004;
+                types =                 (
+                    "street_number"
+                );
+            },
+                        {
+                "long_name" = "Arch Street";
+                "short_name" = "Arch Street";
+                types =                 (
+                    route
+                );
+            },
+                        {
+                "long_name" = Pittsburgh;
+                "short_name" = Pittsburgh;
+                types =                 (
+                    locality,
+                    political
+                );
+            },
+                        {
+                "long_name" = PA;
+                "short_name" = PA;
+                types =                 (
+                    "administrative_area_level_1",
+                    political
+                );
+            },
+                        {
+                "long_name" = US;
+                "short_name" = US;
+                types =                 (
+                    country,
+                    political
+                );
+            },
+                        {
+                "long_name" = 15212;
+                "short_name" = 15212;
+                types =                 (
+                    "postal_code"
+                );
+            }
+        );
+        "formatted_address" = "1004 Arch Street, Pittsburgh, PA, United States";
+        "formatted_phone_number" = "(412) 323-5800";
+        geometry =         {
+            location =             {
+                lat = "40.453936";
+                lng = "-80.00869";
+            };
+        };
+        icon = "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png";
+        id = 71759907f5b41ca983d943f3e1f55e9eb5a66d91;
+        "international_phone_number" = "+1 412-323-5800";
+        name = "Kindred Hospital-Pittsburgh North Shore";
+        photos =         (
+                        {
+                height = 332;
+                "html_attributions" =                 (
+                );
+                "photo_reference" = "CoQBdgAAANdf8B5W_UDNuLud7D2sMvIcl3c9S8Am07bTL41bsENp5bT73dAQgUznp-G6HYWPYP13UVzDEpcpjzdPj9kLnY7kBHn2ZirBsosoAo6zhftzo_63wkzxY66g2GCuldTVtqjM7ouAScfJeNXTKCrlh9xabzKRFdv8r-Bije37XmRTEhDsML8ohN-b1o2Vz2uZhmw7GhQU5GQIECraqfzeA03bgZ_mF_ni9A";
+                width = 400;
+            },
+                        {
+                height = 329;
+                "html_attributions" =                 (
+                );
+                "photo_reference" = "CoQBegAAAJa9n_G--Z_1V3JPIp_SghwGimjuV2vOoZmTGOMQEDS5p0qufEp4gTBtK0q1FKAPlB9sFIJ0Ma6LzETq9N6qNCO-PEbZJxyYaLrFD8TBrJH5yy3jsS9k-HACTica-qmzkAd-ItT2tMh-KtFO3V_ZXfnA6CzSArK3CfUJqfYV1pHBEhDBgidB29wJ2n91zSJnGBmOGhSxzbpuLBAd73db-93hn4RfXQ4Myg";
+                width = 400;
+            },
+                        {
+                height = 400;
+                "html_attributions" =                 (
+                );
+                "photo_reference" = "CnRnAAAANHBE6KTOTg2QRW26qjJDaPcpg2IPyOk8-tR1rMw2kmZWBwe7d75U2sFuBRqM7g928rG--o6-TkVGDiuXVz91NmXk-ztECyUtkkozKFk2icxYiPwRSGemjzlh7CQX2k5xZVMIlWfE1A13MnVOKk-CKxIQcYKMovbb4g5Vg6DIZkB6QhoUwUkZFldU9BCjBIyqwOUgDNo6hao";
+                width = 329;
+            },
+                        {
+                height = 400;
+                "html_attributions" =                 (
+                );
+                "photo_reference" = "CoQBfAAAAND68OrGU7AvAWR9E3qk0HaQVW9qfMh3raQG30I6W0Xy2gSdMmElTVI_BSoTVEL0fvcpE9-Dc0_S3QXCKcP5tapfBNyV6FmS2iDweTxt-zZgSIfN-kGAg44IlBqtpq1ctEkTBamtY1lsC2JwWiWreNgAnvYYs3i0KoQKxd6uwZkAEhAFZbVUW7Q7ZxZXGTy0E8XWGhR-qTDei0b6Ot5gJyfY4vKmjSJKqw";
+                width = 323;
+            },
+                        {
+                height = 332;
+                "html_attributions" =                 (
+                );
+                "photo_reference" = "CnRnAAAATxqjfOToB06VanWZoz6VeH55z3PSuNLc4SMwPoGOozZ-ocSoH4mS47ZEicEESSFGKNmFJIxAvmpfB9gwF8RShFMvzzRXu1fNULVFUr2BMX-8BIxu5dVnWb4cyYnX1NWXdUI1N0nBwOj7ig-p28GQ4BIQLoeAhqp0K4puufOygbGeFRoU256q_EoAWp-XkMPMqRfo-pziTPg";
+                width = 400;
+            },
+                        {
+                height = 324;
+                "html_attributions" =                 (
+                );
+                "photo_reference" = "CoQBewAAAFUBK9klKtiJ8otkTMW0JG2Gr0ecx6SR3BrUg7etWfOBSvL3SpALRVIs-TrG3OgkMxLGVFoc5XTzVdgl7sF4OfF7aehW1ZLQUUd5lbN8TqBjSUA0Pyt9gDMab6P8jVpCO7SCiN6E_xsswY286gwdYozYiJuzZ7eswJxleTDdZ_22EhDWPpyd6d5Zw28NEgr9k0UiGhQf3ZjKpmu2t-MWPFKAYnKE300vCA";
+                width = 400;
+            },
+                        {
+                height = 267;
+                "html_attributions" =                 (
+                );
+                "photo_reference" = "CnRnAAAAy22Ua8JQwVvpKNVLlmfzIR4JAmWsMT6jFHmviOjWN2m7be-Oq0ewFbKGu3quZCJBHzuo9oTPyrTn75bM1PcgyXWR81Kl9KUoj5Spx56uQnFxlg65xz7YSMuSoQcmxQX5eyfcfpWu_hUC5gyCBmw8GBIQPMGCP7TZwYSJJfgwWI7hpBoUFkxGsiAGWLGcbZTb-sgRJrClULw";
+                width = 400;
+            },
+                        {
+                height = 267;
+                "html_attributions" =                 (
+                );
+                "photo_reference" = "CnRnAAAAqoZGfCX7rIYxrFWhqiEihRFfHBPZERUPvsjWJfv_k9MuRtk-R8XoJeK2zr9ZldLoXcmhK4DT5pL1-lLFn8IVjsTvF8QhsA4CYI0RQc3tuoDM4ss8YQEGqs9KeWe2ESlsUYzireIFlgJML1s19sYaMBIQt-cqhVKzRDfpT6VlBHxPMBoU5A6410KJB2a4L4QzKe9rAZ5JX1s";
+                width = 400;
+            },
+                        {
+                height = 267;
+                "html_attributions" =                 (
+                );
+                "photo_reference" = "CoQBfgAAAL_VynwoQg5c4Ui2U7iw_ZjCTjVbBOPyHGn_xgX5jFYH_JDXGDv2OTtPCG_P0Nv1JutIcYszdK1fffRfQXzrqIhcelEwoKwEodoaXPe-gtDHj8hAAIYalUU7nmH2cuijHcDmw1BvWquSDTzTt1guq2U415fFuKKAhTId-6v074AxEhA6GXLgbpLJD2B0_TX0lLRKGhTLuv1prn2BlPVDG1gfM9N9lZDB9A";
+                width = 400;
+            },
+                        {
+                height = 458;
+                "html_attributions" =                 (
+                );
+                "photo_reference" = "CpQBjwAAAH91ZSG5Be1_CZ00oAdq1BemalrMS5mbdJDJXW4unYeSbuzZm2O6X0J96xVPkYOfna6oWs8NdpQp0XXFHCLIHF1RCTNcKMptCny2M8qqZ74llojIUfQfpsrJzuh1LMraSMaTxAa6jAXMn36meBbvTcA7o24CeFmTEhOaZGBC6HReXySZxbHHTBRPpDLLrfq4bxIQIFH7ekJfR47Dnp0txKfl2RoUHpK2_wb0nomK4dUeURkpEfS9dzw";
+                width = 1652;
+            }
+        );
+        reference = "CpQBhQAAAI2_5NlwRMpbEgktUmhhe4LT4tYaP3_wtSEo-3oWBLiU9zCYOxpQjPo7kVHSd8vVreuOAAH9ypxPuPq5d-J-8pF-jJTnMppaZITOOl0WF2UO55GffivDb83InZD0IJ6c8g1iJ5H1dGmYBrTK360iFSdAIXnZi4CZutmNax1-I8f2qt2rTMVBgAiRHtk_nxQQThIQ9hdWmb69NGwTgpoHG0jlexoUhwcI-wTMSeE9pULr8HxegYdkRkk";
+        reviews =         (
+                        {
+                aspects =                 (
+                                        {
+                        rating = 3;
+                        type = overall;
+                    }
+                );
+                "author_name" = "Maurice Smith";
+                "author_url" = "https://plus.google.com/103680073520183259957";
+                text = "";
+                time = 1304987042;
+            },
+                        {
+                aspects =                 (
+                                        {
+                        rating = 0;
+                        type = overall;
+                    }
+                );
+                "author_name" = "A Google User";
+                text = "";
+                time = 1332649077;
+            }
+        );
+        types =         (
+            hospital,
+            establishment
+        );
+        url = "https://plus.google.com/101139773953292232857/about?hl=en-US";
+        "utc_offset" = "-240";
+        vicinity = "1004 Arch Street, Pittsburgh";
+        website = "http://www.kindrednorthshore.com/";
+    };
+    status = OK;
+}
+
+2013-04-24 11:04:07.775 Google[11427:907] {
+}
+2013-04-24 11:04:07.892 Google[11427:907] Google Places JSON response: {
+    "html_attributions" =     (
+    );
+    result =     {
+        "address_components" =         (
+                        {
+                "long_name" = 200;
+                "short_name" = 200;
+                types =                 (
+                    "street_number"
+                );
+            },
+                        {
+                "long_name" = "Lothrop Street";
+                "short_name" = "Lothrop Street";
+                types =                 (
+                    route
+                );
+            },
+                        {
+                "long_name" = Pittsburgh;
+                "short_name" = Pittsburgh;
+                types =                 (
+                    locality,
+                    political
+                );
+            },
+                        {
+                "long_name" = PA;
+                "short_name" = PA;
+                types =                 (
+                    "administrative_area_level_1",
+                    political
+                );
+            },
+                        {
+                "long_name" = US;
+                "short_name" = US;
+                types =                 (
+                    country,
+                    political
+                );
+            },
+                        {
+                "long_name" = 15213;
+                "short_name" = 15213;
+                types =                 (
+                    "postal_code"
+                );
+            }
+        );
+        "formatted_address" = "200 Lothrop Street, Pittsburgh, PA, United States";
+        "formatted_phone_number" = "(412) 647-2345";
+        geometry =         {
+            location =             {
+                lat = "40.441901";
+                lng = "-79.96043899999999";
+            };
+        };
+        icon = "http://maps.gstatic.com/mapfiles/place_api/icons/university-71.png";
+        id = df3e9162f32cf3a30b117342574baf5fbfc63fe1;
+        "international_phone_number" = "+1 412-647-2345";
+        name = "Upmc Presbyterian Hospital";
+        reference = "CoQBeAAAAEHTVe_4t_DMyuxmKVfOn6uvYgzqjahAFxS1k4g2bF8etUX8Lbsrp23hCPBuyueRBlUar6hDxbO4QT0NV-tyGg-IZ2IsLUEBvO7h6TZVmXrn6JGN0KtuLHQQsFwPDIc3n9iQOPej_A61fNe1w-Xm0DtPdLuFJbWgIoQkkq0Z98QGEhAaIgwFjk1ebzFDmuuphzQTGhQ_IEJYh9oz3A6p665hh446FDACqw";
+        types =         (
+            hospital,
+            university,
+            health,
+            establishment
+        );
+        url = "https://plus.google.com/108543290321285157558/about?hl=en-US";
+        "utc_offset" = "-240";
+        vicinity = "200 Lothrop Street, Pittsburgh";
+        website = "http://www.upmc.com/HospitalsFacilities/Hospitals/Presbyterian/Pages/default.aspx";
+    };
+    status = OK;
+}
+
+2013-04-24 11:04:31.267 Google[11427:907] {
+}
+2013-04-24 11:04:31.387 Google[11427:907] Google Places JSON response: {
+    "html_attributions" =     (
+    );
+    result =     {
+        "address_components" =         (
+                        {
+                "long_name" = 300;
+                "short_name" = 300;
+                types =                 (
+                    "street_number"
+                );
+            },
+                        {
+                "long_name" = "Halket Street";
+                "short_name" = "Halket Street";
+                types =                 (
+                    route
+                );
+            },
+                        {
+                "long_name" = Pittsburgh;
+                "short_name" = Pittsburgh;
+                types =                 (
+                    locality,
+                    political
+                );
+            },
+                        {
+                "long_name" = PA;
+                "short_name" = PA;
+                types =                 (
+                    "administrative_area_level_1",
+                    political
+                );
+            },
+                        {
+                "long_name" = US;
+                "short_name" = US;
+                types =                 (
+                    country,
+                    political
+                );
+            },
+                        {
+                "long_name" = 15213;
+                "short_name" = 15213;
+                types =                 (
+                    "postal_code"
+                );
+            }
+        );
+        "formatted_address" = "300 Halket Street, Pittsburgh, PA, United States";
+        "formatted_phone_number" = "(412) 641-1000";
+        geometry =         {
+            location =             {
+                lat = "40.43754";
+                lng = "-79.960399";
+            };
+        };
+        icon = "http://maps.gstatic.com/mapfiles/place_api/icons/dentist-71.png";
+        id = 954126adb23cd65be0aaf0daffb0d4d266c87a04;
+        "international_phone_number" = "+1 412-641-1000";
+        name = "Magee Womens Hospital";
+        reference = "CoQBcwAAAPpJxIiHXwCopaQf1lZbpMIeQjsi3mnNcTKzN2KjFzyVgTnwz7VRsumDwHJXIz66hlzGOasbH8XD9uFQfjyIWp7ONxeuP5xrenhr9CS--3o6_BZqfxhIX9UcyT_HnXlXDuO2jMenjZ6P02s8V9f-pR1MizoxXtODXHah6uCEMhwEEhCvHTf4iM77VmWcsgsQo4CuGhQ7pYBokBm50hB2CbEsPid7_wV9eQ";
+        reviews =         (
+                        {
+                aspects =                 (
+                                        {
+                        rating = 2;
+                        type = overall;
+                    }
+                );
+                "author_name" = "A Google User";
+                text = "There a great hospital they have a great staff and wonderful specialist and they make sure ur needs come FIRST.THEY ALSO KEEP ME ALIVE WHEN I GOT LIFEFLIGHTED DOWN A YEAR AGO AND IM STILL GOING THERE FOR SURGERY THAT NEED TP BE TAKENN CARE OF THAT DUBOIS REGIONAL HOSPITAL JUST PUT ME OUT THE DOOR WITHOUT TELLING MAGEES EVERYTHING THAT NEEDED TO VE TAKEN CARE OF.MAGEE&#39;S IS JUST A GREAT,WONDERFUL HOSPITAL";
+                time = 1311228459;
+            },
+                        {
+                aspects =                 (
+                                        {
+                        rating = 3;
+                        type = overall;
+                    }
+                );
+                "author_name" = "A Google User";
+                text = "Great hospital!";
+                time = 1318347710;
+            }
+        );
+        types =         (
+            hospital,
+            dentist,
+            doctor,
+            health,
+            establishment
+        );
+        url = "https://plus.google.com/103986335441576006905/about?hl=en-US";
+        "utc_offset" = "-240";
+        vicinity = "300 Halket Street, Pittsburgh";
+        website = "http://www.magee.edu/";
+    };
+    status = OK;
+}
+
+2013-04-24 11:04:37.177 Google[11427:907] {
+}
+2013-04-24 11:04:37.554 Google[11427:907] Google Places JSON response: {
+    "html_attributions" =     (
+    );
+    result =     {
+        "address_components" =         (
+                        {
+                "long_name" = 300;
+                "short_name" = 300;
+                types =                 (
+                    "street_number"
+                );
+            },
+                        {
+                "long_name" = "Halket Street";
+                "short_name" = "Halket Street";
+                types =                 (
+                    route
+                );
+            },
+                        {
+                "long_name" = "South Oakland";
+                "short_name" = "South Oakland";
+                types =                 (
+                    sublocality,
+                    political
+                );
+            },
+                        {
+                "long_name" = Pittsburgh;
+                "short_name" = Pittsburgh;
+                types =                 (
+                    locality,
+                    political
+                );
+            },
+                        {
+                "long_name" = Allegheny;
+                "short_name" = Allegheny;
+                types =                 (
+                    "administrative_area_level_2",
+                    political
+                );
+            },
+                        {
+                "long_name" = PA;
+                "short_name" = PA;
+                types =                 (
+                    "administrative_area_level_1",
+                    political
+                );
+            },
+                        {
+                "long_name" = US;
+                "short_name" = US;
+                types =                 (
+                    country,
+                    political
+                );
+            },
+                        {
+                "long_name" = 15213;
+                "short_name" = 15213;
+                types =                 (
+                    "postal_code"
+                );
+            }
+        );
+        "formatted_address" = "300 Halket Street, Pittsburgh, PA, United States";
+        "formatted_phone_number" = "(412) 641-1000";
+        geometry =         {
+            location =             {
+                lat = "40.437251";
+                lng = "-79.96087900000001";
+            };
+        };
+        icon = "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png";
+        id = 06402d3f8fef73bb07dcf14f0c91bf328357aaf6;
+        "international_phone_number" = "+1 412-641-1000";
+        name = "Magee-Womens Hospital of UPMC";
+        photos =         (
+                        {
+                height = 1224;
+                "html_attributions" =                 (
+                    "From a Google User"
+                );
+                "photo_reference" = "CoQBfgAAAO--CWH_yFBew44uIPKtxzIBWSdQVvh08oL9iZgkYa8EHwCivGcldI6e80CyEz-1d2Lekma2n817ORyFBCg2dIDX-Sry14OoGVhGOL6Z8LNY0VpnG6Fo10RmPUC1L_TYWL7VGQAc1Hv_aJtkV0kSsQVwTdMJ7MTRj-krnlkQUd0JEhCIllruw6rVW6OMLCguUvaEGhR4gRwnPBHt3NwVXCo86CqvFrDHDA";
+                width = 1632;
+            },
+                        {
+                height = 768;
+                "html_attributions" =                 (
+                    "<a href=\"https://plus.google.com/101727573918710377272\">Brandon Kichta</a>"
+                );
+                "photo_reference" = "CnRlAAAAxp98Oa0cW7I2eEWYa4uNFpvS5tQzTD-Aar5czO47lZxwDtBeOVSQz4gyW9AXxbT2GhxWuqNAoys7xzEhYO6SSyHkailNsrVOr-wVj43oM461QzvkllJKIs_eAqxWfp9w7DNqqxjgN_zhonpWkDJK2BIQq6HmfvOq7mMjCvg1tIkLpRoUaPodQ7lABTPUcWBWHONskD_COBE";
+                width = 1024;
+            }
+        );
+        rating = "4.2";
+        reference = "CoQBfAAAAELze4Q6mVDBKtKEdELsag3jZ70itXKq8-0JL_BaVYBvZDZhCJRd0DA7x0KYugCyZZiy8pObCis5fX4kpbCkhPxI6bFjGvHw24belkxZK4-o2GwIJp5uR0KuV6i_JUni0WzY2S50OWmA-4wkxhO7RtW3XOGP-ktuuhig8dXC31agEhCI3PkAx1yAwNMWUYlKuolRGhRGkPqcZQMuqLblyNtEUl2xp4NJnA";
+        reviews =         (
+                        {
+                aspects =                 (
+                                        {
+                        rating = 3;
+                        type = quality;
+                    }
+                );
+                "author_name" = "Katie Steele";
+                "author_url" = "https://plus.google.com/102541544469598186162";
+                text = "I love this hospital!! Both of my sisters had their children there and the staff was so nice and caring. The food tasted better than I thought it was going too.I hope to have my children there as well. :^)";
+                time = 1360289242;
+            },
+                        {
+                aspects =                 (
+                                        {
+                        rating = 3;
+                        type = quality;
+                    }
+                );
+                "author_name" = "Brandon Kichta";
+                "author_url" = "https://plus.google.com/101727573918710377272";
+                text = "Best women&#39;s hospital period. My sister just had her baby here.Top notch care,food(surprisingly) and security. Congrats to my sis and 100 years of Magee!";
+                time = 1347401937;
+            },
+                        {
+                aspects =                 (
+                                        {
+                        rating = 3;
+                        type = overall;
+                    }
+                );
+                "author_name" = "A Google User";
+                text = "This hospital is just amazing. My Mom passed away almost two years ago from an illness and we had to travel from Erie to Magee Women&#39;s hospital for the the last two weeks of her life. Their staff in the ICU was just amazing. They gave her immediate attention and care and made sure she was comfy while they were trying to figure out what was wrong. They assisted her in every way possible and all of the staff was so great to her. For a brief period she was transferred into a regular room and they too were great. They would heat up her soup at night for her and everyone there let us come and go to visit her as we wanted. The one night we could not find a hotel so they gave us blankets and pillows for the waiting room and made us feel welcome. When my Mom took a turn for the worse her Dr. promised me that he would call me personally in the morning to tell me to come down right away. Unfortunately she did get worse but her Dr. kept his promise and because of him we were able to make it down there from Erie before she passed away. They were so patient and wonderful while explaining to us what was going on. When it was time for her to leave us they let all of us kids in there to be with her during her final moments. And after that they set out refreshments and stuff to snack on since we had been there all day long and were exhausted. They truly made a bad experience much better because of how good they were to her and to us. I&#39;ll never forget that and I hope they all stay so caring and compassionate throughout their careers.";
+                time = 1263234931;
+            },
+                        {
+                aspects =                 (
+                                        {
+                        rating = 0;
+                        type = overall;
+                    }
+                );
+                "author_name" = "A Google User";
+                text = "For my first time ultrasound visit at Magee, they never sent me a bill and contacted the collection agency. When I called Magee as to why they never sent me a bill, they apologized and acknowledged that they must NOT have contacted the collection agency. Accidently, once Magee sent me an itemized bill and I noticed that my insurance was not billed for one of the services. Since then, I always requested for itemized bills for my maternity services but never received them. I called three times at 1 month interval and had an extensive discussion but still I never received itemized bills. Though my insurance pays 80% of the costs, I still pay the remaining 20% and so I have a right to know what I am paying for. Every time I went for my pregnancy ultrasound, I received a statement with very different balances. I cannot understand why they do not send me an itemized bill. I have no idea what I am paying for. PLEASE ask for itemized bills and check the charges. And by the way, if you did not know- UPMC is supposedly a non-profit organization!!";
+                time = 1248970533;
+            }
+        );
+        types =         (
+            hospital,
+            health,
+            establishment
+        );
+        url = "https://plus.google.com/115825354581068158668/about?hl=en-US";
+        "utc_offset" = "-240";
+        vicinity = "300 Halket Street, Pittsburgh";
+        website = "http://magee.upmc.com/";
+    };
+    status = OK;
+}
+
+2013-04-24 11:04:39.737 Google[11427:907] {
+}
+2013-04-24 11:04:39.886 Google[11427:907] Google Places JSON response: {
+    "html_attributions" =     (
+    );
+    result =     {
+        "address_components" =         (
+                        {
+                "long_name" = 933;
+                "short_name" = 933;
+                types =                 (
+                    "street_number"
+                );
+            },
+                        {
+                "long_name" = "Liberty Avenue";
+                "short_name" = "Liberty Avenue";
+                types =                 (
+                    route
+                );
+            },
+                        {
+                "long_name" = Pittsburgh;
+                "short_name" = Pittsburgh;
+                types =                 (
+                    locality,
+                    political
+                );
+            },
+                        {
+                "long_name" = Allegheny;
+                "short_name" = Allegheny;
+                types =                 (
+                    "administrative_area_level_2",
+                    political
+                );
+            },
+                        {
+                "long_name" = PA;
+                "short_name" = PA;
+                types =                 (
+                    "administrative_area_level_1",
+                    political
+                );
+            },
+                        {
+                "long_name" = US;
+                "short_name" = US;
+                types =                 (
+                    country,
+                    political
+                );
+            },
+                        {
+                "long_name" = 15222;
+                "short_name" = 15222;
+                types =                 (
+                    "postal_code"
+                );
+            }
+        );
+        "formatted_address" = "933 Liberty Avenue, Pittsburgh, PA, United States";
+        "formatted_phone_number" = "(412) 434-8971";
+        geometry =         {
+            location =             {
+                lat = "40.443359";
+                lng = "-79.996803";
+            };
+        };
+        icon = "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png";
+        id = 9a34f00573a8579be5de948addc93243ba8ec76e;
+        "international_phone_number" = "+1 412-434-8971";
+        name = "Planned Parenthood: Pittsburgh Family Planning Health Center";
+        "opening_hours" =         {
+            "open_now" = 0;
+            periods =             (
+                                {
+                    close =                     {
+                        day = 2;
+                        time = 1600;
+                    };
+                    open =                     {
+                        day = 2;
+                        time = 1000;
+                    };
+                },
+                                {
+                    close =                     {
+                        day = 3;
+                        time = 1600;
+                    };
+                    open =                     {
+                        day = 3;
+                        time = 0800;
+                    };
+                },
+                                {
+                    close =                     {
+                        day = 4;
+                        time = 1900;
+                    };
+                    open =                     {
+                        day = 4;
+                        time = 1100;
+                    };
+                },
+                                {
+                    close =                     {
+                        day = 5;
+                        time = 1600;
+                    };
+                    open =                     {
+                        day = 5;
+                        time = 0800;
+                    };
+                },
+                                {
+                    close =                     {
+                        day = 6;
+                        time = 1600;
+                    };
+                    open =                     {
+                        day = 6;
+                        time = 0800;
+                    };
+                }
+            );
+        };
+        photos =         (
+                        {
+                height = 250;
+                "html_attributions" =                 (
+                );
+                "photo_reference" = "CnRnAAAAfz7PyUxbPjJ5uofM4mnDJNRXWZ6tNs7fuvZGWgDhAFDP-geZhNkdP1lVE19_BUcBU14cPsLJmuUOgB9qf_PeZFbVOhrpjKFk8EH2a_940kYqWuQvwuZ-jV4H9Q5xo4PhPe7MzN00Ifc6-y1pFp-uDhIQK_bU3lWyKUCkASUJUoeAexoUuKfK1xA4yXmCTYnHHqz7eIgdle4";
+                width = 250;
+            },
+                        {
+                height = 59;
+                "html_attributions" =                 (
+                );
+                "photo_reference" = "CnRlAAAAoTeuaMwm2zmxrSA7ZvaUdMoKmb1cpY7YUT2GSS-jyxPsiZ1exBIK3DyA4KAYjJ6rzs2KlTuZQt1m3IJBVKh9I6LDj3ub-En7aodSDtTX1SVJty5HrGg7mMqCLJonSUJDvRp0AXJINj7Xu1WsFw_n4hIQKlCUZFqoS2EZbtpgLFXGnBoUqITQbGKJq1Zy8-ZlRn3Jk8HJ-OQ";
+                width = 90;
+            }
+        );
+        rating = 3;
+        reference = "CqQBnAAAAOZBptE8oVd2bfB-BanwmaEAHTQZsmhdTF1qUzsKfQMLJ-sreHyfNIqfpX8Uwq1SiP35AXxKGWtWvM41twTst6kn3gAs0U932rCqbO2UTAl824w79UwTgQbvWVQOjAI9VH8tnwKl4xaR0C1TZPsuKLWyUkHzwATXNovKiDTdzEZ0PKAs9du9u6jLKiY10UBN45C2lZV7OSx5sIpqrtrRuS8SEIFqNXPvzMMImh8-fa9fpBUaFHlXPg2zapNmQyWTpl6rmShd_je0";
+        reviews =         (
+                        {
+                aspects =                 (
+                                        {
+                        rating = 0;
+                        type = overall;
+                    }
+                );
+                "author_name" = "A Google User";
+                text = "The main secretary is rude, especially rude for the sensitivity of the services provided. I did not receive a call with examination results, I was told it would take 4 weeks! It was just a yearly gyn exam! I had to call myself, if this is the standard procedure, I was not informed about it during my appointment. A positive about the place is the lady who conducted the exam was very nice and explained every thing she did, even though this wasn&#39;t my first or second time having this important exam.";
+                time = 1195232304;
+            },
+                        {
+                aspects =                 (
+                                        {
+                        rating = 0;
+                        type = overall;
+                    }
+                );
+                "author_name" = "A Google User";
+                text = "Every time I&#39;ve called to make an appointment, I have to hold for close to ten minutes, which is extremely annoying. I made an appointment after receiving a reminder in the mail to schedule my next Gardasil shot, only to find out that I had to wait another week until I could get it. I wish they would&#39;ve checked the date the first time I called instead of wasting my time and making me drive all the way back down there again. Also, I applied for an Access card for free birth control and it took 3 months to get it, costing me another $100 while I waited for it. I&#39;m not sure if that was their fault or just the government being slow.";
+                time = 1252695905;
+            },
+                        {
+                aspects =                 (
+                                        {
+                        rating = 3;
+                        type = overall;
+                    }
+                );
+                "author_name" = "A Google User";
+                text = "A friend told me about PPWP after my husband lost his job and we didn&#39;t have health insurance. I was so impressed. Great staff who helped me get everything I needed. Thanks PPWP!";
+                time = 1246018731;
+            }
+        );
+        types =         (
+            hospital,
+            health,
+            establishment
+        );
+        url = "https://plus.google.com/106161699772650264414/about?hl=en-US";
+        "utc_offset" = "-240";
+        vicinity = "933 Liberty Avenue, Pittsburgh";
+        website = "http://www.ppwp.org/";
+    };
+    status = OK;
+}
+
+2013-04-24 11:04:42.391 Google[11427:907] {
+}
+2013-04-24 11:04:42.584 Google[11427:907] Google Places JSON response: {
+    "html_attributions" =     (
+    );
+    result =     {
+        "address_components" =         (
+                        {
+                "long_name" = 200;
+                "short_name" = 200;
+                types =                 (
+                    "street_number"
+                );
+            },
+                        {
+                "long_name" = "Lothrop Street";
+                "short_name" = "Lothrop Street";
+                types =                 (
+                    route
+                );
+            },
+                        {
+                "long_name" = Pittsburgh;
+                "short_name" = Pittsburgh;
+                types =                 (
+                    locality,
+                    political
+                );
+            },
+                        {
+                "long_name" = PA;
+                "short_name" = PA;
+                types =                 (
+                    "administrative_area_level_1",
+                    political
+                );
+            },
+                        {
+                "long_name" = US;
+                "short_name" = US;
+                types =                 (
+                    country,
+                    political
+                );
+            },
+                        {
+                "long_name" = 15213;
+                "short_name" = 15213;
+                types =                 (
+                    "postal_code"
+                );
+            }
+        );
+        "formatted_address" = "200 Lothrop Street, Pittsburgh, PA, United States";
+        "formatted_phone_number" = "(412) 647-2345";
+        geometry =         {
+            location =             {
+                lat = "40.4427";
+                lng = "-79.960521";
+            };
+        };
+        icon = "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png";
+        id = b350b5a9971b184e12f1b87d74323059288a9991;
+        "international_phone_number" = "+1 412-647-2345";
+        name = "UPMC Health System";
+        reference = "CnRwAAAAENc_yduzWg8Ux8zIdXfs4kC3a8UL5Aod9MBNIqjDQUAnliu9QCpV1XasW6yWbZCUB4RULTXVdeQ7YVnD4vgYML4KbJhzYVQM1sTXFYNwZ4nk7JAwxcOQwNYLj_Whcvua3N3Ge_2jAfUhSgh5v40u8BIQy7I2M32qstNax75VRs_m3xoUWw8-qY7Ane1LDttZkCvNssIBxoc";
+        reviews =         (
+                        {
+                aspects =                 (
+                                        {
+                        rating = 2;
+                        type = quality;
+                    }
+                );
+                "author_name" = "Joyce Vaughn";
+                "author_url" = "https://plus.google.com/113066739924120268434";
+                text = "My daughter in law &amp; I were treated very well and were always kept very informed as to every thing that was happening to my son during his hospitalization and recovery. The Family houses are a God send for the families. I don&#39;t know how we could have stayed close to my son, if not for them.";
+                time = 1365339652;
+            }
+        );
+        types =         (
+            hospital,
+            health,
+            establishment
+        );
+        url = "https://plus.google.com/118098112192346423531/about?hl=en-US";
+        "utc_offset" = "-240";
+        vicinity = "200 Lothrop Street, Pittsburgh";
+        website = "http://www.upmc.com/";
+    };
+    status = OK;
+}
+
+2013-04-24 11:04:45.236 Google[11427:907] {
+}
+2013-04-24 11:04:45.435 Google[11427:907] Google Places JSON response: {
+    "html_attributions" =     (
+    );
+    result =     {
+        "address_components" =         (
+                        {
+                "long_name" = 320;
+                "short_name" = 320;
+                types =                 (
+                    "street_number"
+                );
+            },
+                        {
+                "long_name" = "East North Avenue";
+                "short_name" = "East North Avenue";
+                types =                 (
+                    route
+                );
+            },
+                        {
+                "long_name" = Pittsburgh;
+                "short_name" = Pittsburgh;
+                types =                 (
+                    locality,
+                    political
+                );
+            },
+                        {
+                "long_name" = PA;
+                "short_name" = PA;
+                types =                 (
+                    "administrative_area_level_1",
+                    political
+                );
+            },
+                        {
+                "long_name" = US;
+                "short_name" = US;
+                types =                 (
+                    country,
+                    political
+                );
+            },
+                        {
+                "long_name" = 15212;
+                "short_name" = 15212;
+                types =                 (
+                    "postal_code"
+                );
+            }
+        );
+        "formatted_address" = "320 East North Avenue, Pittsburgh, PA, United States";
+        "formatted_phone_number" = "(412) 734-6000";
+        geometry =         {
+            location =             {
+                lat = "40.456532";
+                lng = "-80.00259200000001";
+            };
+        };
+        icon = "http://maps.gstatic.com/mapfiles/place_api/icons/doctor-71.png";
+        id = 291cf904863a9b095df85bab942e24a526c62123;
+        "international_phone_number" = "+1 412-734-6000";
+        name = "West Penn Allegheny Health System";
+        "opening_hours" =         {
+            "open_now" = 1;
+            periods =             (
+                                {
+                    open =                     {
+                        day = 0;
+                        time = 0000;
+                    };
+                }
+            );
+        };
+        reference = "CoQBgAAAAAMqq0WEIboXW65XJra_lxTtkyljUzpHeYSH2RJCsf38x0FnXmYlkKTzeSOewMbCmEyJ5UU2tuSGKGhyUcpALFwHYm4vxgdu2m0UpC-2RaCJ_-nEa9gry3sWULgP5d6vuO6zJEz2edWOz7BtYaiEp2O9_H9ZstaUe9J-I-5k5rdIEhDlyVL4tBgcdHFsRTJDCZZBGhRM2Qezak2Mtz3YDQR1Pw6VUSUn4A";
+        types =         (
+            hospital,
+            doctor,
+            health,
+            establishment
+        );
+        url = "https://plus.google.com/106754499827764449440/about?hl=en-US";
+        "utc_offset" = "-240";
+        vicinity = "320 East North Avenue, Pittsburgh";
+        website = "http://www.wpahs.org/";
+    };
+    status = OK;
+}
+
+2013-04-24 11:04:52.092 Google[11427:907] {
+}
+2013-04-24 11:04:52.202 Google[11427:907] Google Places JSON response: {
+    "html_attributions" =     (
+    );
+    result =     {
+        "address_components" =         (
+                        {
+                "long_name" = 200;
+                "short_name" = 200;
+                types =                 (
+                    "street_number"
+                );
+            },
+                        {
+                "long_name" = "Lothrop Street";
+                "short_name" = "Lothrop Street";
+                types =                 (
+                    route
+                );
+            },
+                        {
+                "long_name" = Pittsburgh;
+                "short_name" = Pittsburgh;
+                types =                 (
+                    locality,
+                    political
+                );
+            },
+                        {
+                "long_name" = PA;
+                "short_name" = PA;
+                types =                 (
+                    "administrative_area_level_1",
+                    political
+                );
+            },
+                        {
+                "long_name" = US;
+                "short_name" = US;
+                types =                 (
+                    country,
+                    political
+                );
+            },
+                        {
+                "long_name" = 15213;
+                "short_name" = 15213;
+                types =                 (
+                    "postal_code"
+                );
+            }
+        );
+        "formatted_address" = "200 Lothrop Street, Pittsburgh, PA, United States";
+        "formatted_phone_number" = "(412) 647-8762";
+        geometry =         {
+            location =             {
+                lat = "40.4427";
+                lng = "-79.960521";
+            };
+        };
+        icon = "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png";
+        id = 91e425a9b739eca2e9a998648746723a3f1542d3;
+        "international_phone_number" = "+1 412-647-8762";
+        name = "University of Pittsburgh Medical Center";
+        reference = "CpQBhgAAANMIyX6P1-QYuM6FIAfY6DipD3hYw8QFbSozPClzA5820FZgVLvjB6RamOaXELLR-gZRcbQeayIJ8KgDGmrlzvTdBasXXeR4jV3jpKKLbLb2M1GX3t7Txcb1xLk-VfNwhZ_WSt6PRyuWiwrVDbgaqDFdne-Cb7AiTQ6rqsQQbRSZtg_RNvIKbU8iokDC6tQGqRIQ6juRCD0TnSKSmjdxcOK5ihoUkxE6p8f9CNQST41o13EY792uf68";
+        types =         (
+            hospital,
+            health,
+            establishment
+        );
+        url = "https://plus.google.com/110702959357136196858/about?hl=en-US";
+        "utc_offset" = "-240";
+        vicinity = "200 Lothrop Street, Pittsburgh";
+        website = "http://www.upmc.com/";
+    };
+    status = OK;
+}
+
+2013-04-24 11:04:56.690 Google[11427:907] {
+}
+2013-04-24 11:04:56.802 Google[11427:907] Google Places JSON response: {
+    "html_attributions" =     (
+    );
+    result =     {
+        "address_components" =         (
+                        {
+                "long_name" = 200;
+                "short_name" = 200;
+                types =                 (
+                    "street_number"
+                );
+            },
+                        {
+                "long_name" = "Lothrop Street";
+                "short_name" = "Lothrop Street";
+                types =                 (
+                    route
+                );
+            },
+                        {
+                "long_name" = Pittsburgh;
+                "short_name" = Pittsburgh;
+                types =                 (
+                    locality,
+                    political
+                );
+            },
+                        {
+                "long_name" = PA;
+                "short_name" = PA;
+                types =                 (
+                    "administrative_area_level_1",
+                    political
+                );
+            },
+                        {
+                "long_name" = US;
+                "short_name" = US;
+                types =                 (
+                    country,
+                    political
+                );
+            },
+                        {
+                "long_name" = 15213;
+                "short_name" = 15213;
+                types =                 (
+                    "postal_code"
+                );
+            }
+        );
+        "formatted_address" = "200 Lothrop Street, Pittsburgh, PA, United States";
+        "formatted_phone_number" = "(412) 586-9800";
+        geometry =         {
+            location =             {
+                lat = "40.441901";
+                lng = "-79.96043899999999";
+            };
+        };
+        icon = "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png";
+        id = 0e600859175ec083d9144fb06f8ff8bf4256cb24;
+        "international_phone_number" = "+1 412-586-9800";
+        name = "Select Specialty Hospital";
+        reference = "CoQBeAAAACWk9gzwFUo4w1CHudCsW8yErrIR-ytLsp10BmVhkGXpp8A__DOgfY0Y2mpx5zmvtQjHhrPwz3Kx9Eml5OcwOEAp6M1neQibV2RwnlbIohmiemjekIxAMDZhirmr4WG-1zwPjvwMVEWoVfXkiMRBZpwkwSAErznhRbNEuOXd0JaHEhCUaPmgN70nQxU_rjgWexLXGhTqyBNWDBy_lK7kwOcP1ZcXNWakXQ";
+        types =         (
+            hospital,
+            health,
+            establishment
+        );
+        url = "https://plus.google.com/100706194799797675219/about?hl=en-US";
+        "utc_offset" = "-240";
+        vicinity = "200 Lothrop Street, Pittsburgh";
+    };
+    status = OK;
+}
+
+2013-04-24 11:05:00.350 Google[11427:907] {
+}
+2013-04-24 11:05:00.468 Google[11427:907] Google Places JSON response: {
+    "html_attributions" =     (
+    );
+    result =     {
+        "address_components" =         (
+                        {
+                "long_name" = "University Dr C";
+                "short_name" = "University Dr C";
+                types =                 (
+                    route
+                );
+            },
+                        {
+                "long_name" = Pittsburgh;
+                "short_name" = Pittsburgh;
+                types =                 (
+                    locality,
+                    political
+                );
+            },
+                        {
+                "long_name" = Allegheny;
+                "short_name" = Allegheny;
+                types =                 (
+                    "administrative_area_level_2",
+                    political
+                );
+            },
+                        {
+                "long_name" = PA;
+                "short_name" = PA;
+                types =                 (
+                    "administrative_area_level_1",
+                    political
+                );
+            },
+                        {
+                "long_name" = US;
+                "short_name" = US;
+                types =                 (
+                    country,
+                    political
+                );
+            },
+                        {
+                "long_name" = 15213;
+                "short_name" = 15213;
+                types =                 (
+                    "postal_code"
+                );
+            }
+        );
+        "formatted_address" = "University Dr C, Pittsburgh, PA, United States";
+        "formatted_phone_number" = "(412) 688-6000";
+        geometry =         {
+            location =             {
+                lat = "40.445052";
+                lng = "-79.960964";
+            };
+        };
+        icon = "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png";
+        id = 56b989ef36daf71987db38f07754f60793f186fd;
+        "international_phone_number" = "+1 412-688-6000";
+        name = "VA Pittsburgh Healthcare System";
+        reference = "CoQBfQAAAFQ4-Mu_QBUzq7eb30P1ox-Vf52P6VzMcBNSutZpVsPCdBOAPmGMwIjMVHM6NiGEXJv4uxJtgEhHe8vGazNKIiyK8K3qm9MfH_bAlfMNDkaaic4NnhBMM5S9PfWw8smMAx_hr_gOhcsBDTdDpD1ZBfEQF53f6KlBcYcD4ZcHb669EhDVINhhyZnsrqHuSrE7LuBGGhTjXfZYkJERi6KMQuEELLvObfaNbg";
+        types =         (
+            hospital,
+            health,
+            establishment
+        );
+        url = "https://plus.google.com/108533489363698369301/about?hl=en-US";
+        "utc_offset" = "-240";
+        vicinity = "University Dr C, Pittsburgh";
+        website = "http://www2.va.gov/directory/guide/facility.asp?id=107";
+    };
+    status = OK;
+}
+
+2013-04-24 11:05:03.245 Google[11427:907] {
+}
+2013-04-24 11:05:03.349 Google[11427:907] Google Places JSON response: {
+    "html_attributions" =     (
+    );
+    result =     {
+        "address_components" =         (
+                        {
+                "long_name" = 1350;
+                "short_name" = 1350;
+                types =                 (
+                    "street_number"
+                );
+            },
+                        {
+                "long_name" = "Locust Street";
+                "short_name" = "Locust Street";
+                types =                 (
+                    route
+                );
+            },
+                        {
+                "long_name" = Pittsburgh;
+                "short_name" = Pittsburgh;
+                types =                 (
+                    locality,
+                    political
+                );
+            },
+                        {
+                "long_name" = PA;
+                "short_name" = PA;
+                types =                 (
+                    "administrative_area_level_1",
+                    political
+                );
+            },
+                        {
+                "long_name" = US;
+                "short_name" = US;
+                types =                 (
+                    country,
+                    political
+                );
+            },
+                        {
+                "long_name" = 15219;
+                "short_name" = 15219;
+                types =                 (
+                    "postal_code"
+                );
+            }
+        );
+        "formatted_address" = "1350 Locust Street #407, Pittsburgh, PA, United States";
+        "formatted_phone_number" = "(412) 281-2255";
+        geometry =         {
+            location =             {
+                lat = "40.436674";
+                lng = "-79.98626299999999";
+            };
+        };
+        icon = "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png";
+        id = 9f965a292332dda223a5a3a2f8d8f52b99a3e099;
+        "international_phone_number" = "+1 412-281-2255";
+        name = UPMC;
+        reference = "CnRjAAAAxhgRL2OLyejnzu4Dva9PblXEEMEjuwBC5dzLMY2m7SUQstbygBOKS2iMBc13JXV5pI9geNXvCN80yioJNBa7vrcJDeT1DlJ919kjMLU7OjaCK1R6uaSfWA8015rpHjjjx0rcPvrUvHMK92__LJ-vxhIQTHBauK_t4SZmLPCfVUkL0xoU19yuX_uR4gNaudYUWHmAqeMLwlk";
+        types =         (
+            hospital,
+            health,
+            establishment
+        );
+        url = "https://plus.google.com/116086035225704915140/about?hl=en-US";
+        "utc_offset" = "-240";
+        vicinity = "1350 Locust Street #407, Pittsburgh";
+        website = "http://www.upmc.com/";
+    };
+    status = OK;
+}
+
+2013-04-24 11:05:31.071 Google[11427:907] {
+}
+2013-04-24 11:05:31.188 Google[11427:907] Google Places JSON response: {
+    "html_attributions" =     (
+    );
+    result =     {
+        "address_components" =         (
+                        {
+                "long_name" = 3459;
+                "short_name" = 3459;
+                types =                 (
+                    "street_number"
+                );
+            },
+                        {
+                "long_name" = "5th Ave";
+                "short_name" = "5th Ave";
+                types =                 (
+                    route
+                );
+            },
+                        {
+                "long_name" = Pittsburgh;
+                "short_name" = Pittsburgh;
+                types =                 (
+                    locality,
+                    political
+                );
+            },
+                        {
+                "long_name" = PA;
+                "short_name" = PA;
+                types =                 (
+                    "administrative_area_level_1",
+                    political
+                );
+            },
+                        {
+                "long_name" = US;
+                "short_name" = US;
+                types =                 (
+                    country,
+                    political
+                );
+            },
+                        {
+                "long_name" = 15213;
+                "short_name" = 15213;
+                types =                 (
+                    "postal_code"
+                );
+            }
+        );
+        "formatted_address" = "3459 5th Ave, Pittsburgh, PA, United States";
+        "formatted_phone_number" = "(412) 692-4200";
+        geometry =         {
+            location =             {
+                lat = "40.440584";
+                lng = "-79.961782";
+            };
+        };
+        icon = "http://maps.gstatic.com/mapfiles/place_api/icons/doctor-71.png";
+        id = f301efc97ba3e1f359cfe67a33ea32f377a8a063;
+        "international_phone_number" = "+1 412-692-4200";
+        name = "Benedum Geriatrics Center";
+        "opening_hours" =         {
+            "open_now" = 0;
+            periods =             (
+                                {
+                    close =                     {
+                        day = 1;
+                        time = 1700;
+                    };
+                    open =                     {
+                        day = 1;
+                        time = 0830;
+                    };
+                },
+                                {
+                    close =                     {
+                        day = 2;
+                        time = 1700;
+                    };
+                    open =                     {
+                        day = 2;
+                        time = 0830;
+                    };
+                },
+                                {
+                    close =                     {
+                        day = 3;
+                        time = 1700;
+                    };
+                    open =                     {
+                        day = 3;
+                        time = 0830;
+                    };
+                },
+                                {
+                    close =                     {
+                        day = 4;
+                        time = 1700;
+                    };
+                    open =                     {
+                        day = 4;
+                        time = 0830;
+                    };
+                },
+                                {
+                    close =                     {
+                        day = 5;
+                        time = 1700;
+                    };
+                    open =                     {
+                        day = 5;
+                        time = 0830;
+                    };
+                }
+            );
+        };
+        reference = "CoQBeAAAAA74hoKYS1tMJDjxYjN_efr8g6e_dmPuJ5PBW_9bQVo-Q-pcBxJEaynRsJa833tZvhMwr4erldZC4wNa8Up-z_z_EX4F8HqGgnZH3_qeHbFOxsodZTex5FPXTSp_E7WLBw8e30EDEJfUx7_nwAcsfPtxrjhf1FDkbAhB7ql87mJREhAyENc_XqzSJZ8dI8SudglLGhTRD-c5RbC33LJd5fH_FLCsyf95wg";
+        reviews =         (
+                        {
+                aspects =                 (
+                                        {
+                        rating = 3;
+                        type = overall;
+                    }
+                );
+                "author_name" = "A Google User";
+                text = "";
+                time = 1314690619;
+            }
+        );
+        types =         (
+            hospital,
+            doctor,
+            health,
+            establishment
+        );
+        url = "https://plus.google.com/112760059736418222724/about?hl=en-US";
+        "utc_offset" = "-240";
+        vicinity = "3459 5th Ave, Pittsburgh";
+        website = "http://www.upmc.com/locations/hospitals/presbyterian/Pages/contact.aspx";
+    };
+    status = OK;
+}
+
+2013-04-24 11:05:34.280 Google[11427:907] {
+}
+2013-04-24 11:05:34.485 Google[11427:907] Google Places JSON response: {
+    "html_attributions" =     (
+    );
+    result =     {
+        "address_components" =         (
+                        {
+                "long_name" = 320;
+                "short_name" = 320;
+                types =                 (
+                    "street_number"
+                );
+            },
+                        {
+                "long_name" = "East North Avenue";
+                "short_name" = "East North Avenue";
+                types =                 (
+                    route
+                );
+            },
+                        {
+                "long_name" = Pittsburgh;
+                "short_name" = Pittsburgh;
+                types =                 (
+                    locality,
+                    political
+                );
+            },
+                        {
+                "long_name" = PA;
+                "short_name" = PA;
+                types =                 (
+                    "administrative_area_level_1",
+                    political
+                );
+            },
+                        {
+                "long_name" = US;
+                "short_name" = US;
+                types =                 (
+                    country,
+                    political
+                );
+            },
+                        {
+                "long_name" = 15212;
+                "short_name" = 15212;
+                types =                 (
+                    "postal_code"
+                );
+            }
+        );
+        "formatted_address" = "320 East North Avenue, Pittsburgh, PA, United States";
+        "formatted_phone_number" = "(412) 359-8630";
+        geometry =         {
+            location =             {
+                lat = "40.456532";
+                lng = "-80.00259200000001";
+            };
+        };
+        icon = "http://maps.gstatic.com/mapfiles/place_api/icons/doctor-71.png";
+        id = 4041e878071ae366d1ba5683af80823dc336e5e0;
+        "international_phone_number" = "+1 412-359-8630";
+        name = "Allegheny Bariatric Surgery";
+        "opening_hours" =         {
+            "open_now" = 1;
+            periods =             (
+                                {
+                    open =                     {
+                        day = 0;
+                        time = 0000;
+                    };
+                }
+            );
+        };
+        reference = "CoQBeQAAAOLbUoxtT51hUCUkbnW2AEDo6wW1miPO3Xm5dGQigk82XgVAE6Mh42x26HBqCBpJI1qmVjCbnhcr7zR1QEjxZU7voMCpqB6Nfsf6eAByQRShkyKjnIqYHTnTOCn8uLAPSM1iaE0PhqRwPEjXAVjX-cNcbnQ21SeLRj8wdtP5GJ7UEhDy5XlIskqKvalSt8X8P-wvGhSTWYnpmfCsRlOt16RQb3uhCnDVyQ";
+        types =         (
+            hospital,
+            doctor,
+            health,
+            establishment
+        );
+        url = "https://plus.google.com/116677759853238387017/about?hl=en-US";
+        "utc_offset" = "-240";
+        vicinity = "320 East North Avenue, Pittsburgh";
+        website = "http://www.wpahs.org/locations/allegheny-general-hospital";
+    };
+    status = OK;
+}
+
+2013-04-24 11:06:07.901 Google[11427:907] {
+}
+2013-04-24 11:06:08.007 Google[11427:907] Google Places JSON response: {
+    "html_attributions" =     (
+    );
+    result =     {
+        "address_components" =         (
+                        {
+                "long_name" = 1400;
+                "short_name" = 1400;
+                types =                 (
+                    "street_number"
+                );
+            },
+                        {
+                "long_name" = "Locust Street";
+                "short_name" = "Locust Street";
+                types =                 (
+                    route
+                );
+            },
+                        {
+                "long_name" = Pittsburgh;
+                "short_name" = Pittsburgh;
+                types =                 (
+                    locality,
+                    political
+                );
+            },
+                        {
+                "long_name" = PA;
+                "short_name" = PA;
+                types =                 (
+                    "administrative_area_level_1",
+                    political
+                );
+            },
+                        {
+                "long_name" = US;
+                "short_name" = US;
+                types =                 (
+                    country,
+                    political
+                );
+            },
+                        {
+                "long_name" = 15219;
+                "short_name" = 15219;
+                types =                 (
+                    "postal_code"
+                );
+            }
+        );
+        "formatted_address" = "1400 Locust Street, Pittsburgh, PA, United States";
+        "formatted_phone_number" = "(412) 281-0322";
+        geometry =         {
+            location =             {
+                lat = "40.436299";
+                lng = "-79.98544699999999";
+            };
+        };
+        icon = "http://maps.gstatic.com/mapfiles/place_api/icons/doctor-71.png";
+        id = 6676915611f4e185b583fc1427f01f1c4df57e82;
+        "international_phone_number" = "+1 412-281-0322";
+        name = "Metropolitan ENT Associates";
+        reference = "CoQBeQAAAI9TELTarxH3GkFpx2C0RXndN1yN6tES_bm8AjXqxJ_1hD40PwZnG1jaz0lR3Wb2MggDBRcnnMuUnUpw1k68SLAd-5sdvDNgmp30LQmbk7uMHKY8bX_xLOT3wPHC6P2u7eNpT6GFPfcXbmoUdPIprpj6sYIGBygGxn20jnVGcEhrEhDt8AWEejykM0vkVfG_k1DUGhQotauYy1-mcdgxiMeC4yOONkBIDQ";
+        types =         (
+            hospital,
+            doctor,
+            health,
+            establishment
+        );
+        url = "https://plus.google.com/102503879178240733340/about?hl=en-US";
+        "utc_offset" = "-240";
+        vicinity = "1400 Locust Street, Pittsburgh";
+        website = "http://www.metroent.org/";
+    };
+    status = OK;
+}
+
+2013-04-24 11:06:10.768 Google[11427:907] {
+}
+2013-04-24 11:06:10.884 Google[11427:907] Google Places JSON response: {
+    "html_attributions" =     (
+    );
+    result =     {
+        "address_components" =         (
+                        {
+                "long_name" = 3459;
+                "short_name" = 3459;
+                types =                 (
+                    "street_number"
+                );
+            },
+                        {
+                "long_name" = "Fifth Avenue";
+                "short_name" = "Fifth Avenue";
+                types =                 (
+                    route
+                );
+            },
+                        {
+                "long_name" = Pittsburgh;
+                "short_name" = Pittsburgh;
+                types =                 (
+                    locality,
+                    political
+                );
+            },
+                        {
+                "long_name" = PA;
+                "short_name" = PA;
+                types =                 (
+                    "administrative_area_level_1",
+                    political
+                );
+            },
+                        {
+                "long_name" = US;
+                "short_name" = US;
+                types =                 (
+                    country,
+                    political
+                );
+            },
+                        {
+                "long_name" = 15213;
+                "short_name" = 15213;
+                types =                 (
+                    "postal_code"
+                );
+            }
+        );
+        "formatted_address" = "3459 Fifth Avenue, Pittsburgh, PA, United States";
+        "formatted_phone_number" = "(412) 647-2345";
+        geometry =         {
+            location =             {
+                lat = "40.440586";
+                lng = "-79.96178";
+            };
+        };
+        icon = "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png";
+        id = 4b00bae01fc1a94109d58d600ccf4b216c10ffc9;
+        "international_phone_number" = "+1 412-647-2345";
+        name = "Montefiore University Hospital";
+        reference = "CoQBfAAAAAUEwI7S37Ci_WzTlpdpu9TLwjpsdCRMBwNW5oTajSYZT6fo5ez91wrKV6liCsOEuImdTO-SABlX4hJcPi7E26YhTiqBZlnjgPg0hF-abtrgwn5fcuQAgpqjvctL_OXqkK3ZHMPCsIu-7rDS170ev6e2whvXzn0vhx4I0W1eg8XNEhB_7MotMaj7f-mfyHs-3WgVGhQSYgNw5xXt0b8MQ8i8RdH_KLFSAA";
+        types =         (
+            hospital,
+            health,
+            establishment
+        );
+        url = "https://plus.google.com/105553340513392894756/about?hl=en-US";
+        "utc_offset" = "-240";
+        vicinity = "3459 Fifth Avenue, Pittsburgh";
+        website = "http://www.upmc.com/HospitalsFacilities/Hospitals/upmc-montefiore/Pages/default.aspx";
+    };
+    status = OK;
+}
+
+2013-04-24 11:06:13.885 Google[11427:907] {
+}
+2013-04-24 11:06:13.999 Google[11427:907] Google Places JSON response: {
+    "html_attributions" =     (
+    );
+    result =     {
+        "address_components" =         (
+                        {
+                "long_name" = 3550;
+                "short_name" = 3550;
+                types =                 (
+                    "street_number"
+                );
+            },
+                        {
+                "long_name" = "Terrace Street";
+                "short_name" = "Terrace Street";
+                types =                 (
+                    route
+                );
+            },
+                        {
+                "long_name" = Pittsburgh;
+                "short_name" = Pittsburgh;
+                types =                 (
+                    locality,
+                    political
+                );
+            },
+                        {
+                "long_name" = PA;
+                "short_name" = PA;
+                types =                 (
+                    "administrative_area_level_1",
+                    political
+                );
+            },
+                        {
+                "long_name" = US;
+                "short_name" = US;
+                types =                 (
+                    country,
+                    political
+                );
+            },
+                        {
+                "long_name" = 15213;
+                "short_name" = 15213;
+                types =                 (
+                    "postal_code"
+                );
+            }
+        );
+        "formatted_address" = "3550 Terrace Street, Pittsburgh, PA, United States";
+        "formatted_phone_number" = "(412) 647-8413";
+        geometry =         {
+            location =             {
+                lat = "40.442584";
+                lng = "-79.96202099999999";
+            };
+        };
+        icon = "http://maps.gstatic.com/mapfiles/place_api/icons/university-71.png";
+        id = e604442c7118a079cc694aef9e750ba2366b2e1d;
+        "international_phone_number" = "+1 412-647-8413";
+        name = "Upmc-Upp Critical Care Medicine";
+        reference = "CoQBfgAAABFxuFXsD7whsQmbLwQYmBB7wZI4KMYVE83g381oSsvlQxenx-foj31Vu6qHl6reRTdPKZMPHEND8UedT_IHAr5Nbi0-YRglhJThPgDqmbV--9xgZRi0GXc25-P9W8oOm7qjFyR67DexHw6X0cP9_H4hv9F_ZcDMcs4-Hi-0_CEAEhAH3CshBya_KSOmwUUtGrfPGhTJmV0ow1QzpsIcJroLdeaudMKgqw";
+        types =         (
+            hospital,
+            university,
+            dentist,
+            doctor,
+            health,
+            establishment
+        );
+        url = "https://plus.google.com/108823175892684312200/about?hl=en-US";
+        "utc_offset" = "-240";
+        vicinity = "3550 Terrace Street, Pittsburgh";
+        website = "http://www.medschool.pitt.edu/";
+    };
+    status = OK;
+}
+
+2013-04-24 11:06:17.646 Google[11427:907] {
+}
+2013-04-24 11:06:17.776 Google[11427:907] Google Places JSON response: {
+    "html_attributions" =     (
+    );
+    result =     {
+        "address_components" =         (
+                        {
+                "long_name" = 200;
+                "short_name" = 200;
+                types =                 (
+                    "street_number"
+                );
+            },
+                        {
+                "long_name" = "Lothrop Street";
+                "short_name" = "Lothrop Street";
+                types =                 (
+                    route
+                );
+            },
+                        {
+                "long_name" = Pittsburgh;
+                "short_name" = Pittsburgh;
+                types =                 (
+                    locality,
+                    political
+                );
+            },
+                        {
+                "long_name" = Allegheny;
+                "short_name" = Allegheny;
+                types =                 (
+                    "administrative_area_level_2",
+                    political
+                );
+            },
+                        {
+                "long_name" = PA;
+                "short_name" = PA;
+                types =                 (
+                    "administrative_area_level_1",
+                    political
+                );
+            },
+                        {
+                "long_name" = US;
+                "short_name" = US;
+                types =                 (
+                    country,
+                    political
+                );
+            },
+                        {
+                "long_name" = "15213-258";
+                "short_name" = "15213-258";
+                types =                 (
+                    "postal_code"
+                );
+            }
+        );
+        "formatted_address" = "200 Lothrop Street, Pittsburgh, PA, United States";
+        "formatted_phone_number" = "(412) 647-8762";
+        geometry =         {
+            location =             {
+                lat = "40.441985";
+                lng = "-79.961196";
+            };
+        };
+        icon = "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png";
+        id = 41b5462bf4ded7f9cfadb730c8a1a772f100802d;
+        "international_phone_number" = "+1 412-647-8762";
+        name = "University of Pittsburgh Medical Center Oakland Campus";
+        reference = "CqQBlgAAAGHszpMNYvDXy-KLCsBX6ljHAAxIYJO61V8QSG54_cuHCtftAOQgtbpRqCG2eKvyrYZuCoIKNVeDWLvrYCUD7mGDTq9DEBny2hjjRpn-EZ1ZheSHGOTPoyGyySRQ0dn3ys4h0Huz4uQ-DijnAHOS-yWgQZBsnYefNdHAhz4Rx7T6SfivQky8GzYst0zW4SyU-P50ILjsPjLi4GPA5yIcTIASEA9H6Ec7KWpeOeUC_uiwxSwaFL4gcGpJBYIxpy4--XVMuVLuSEUr";
+        types =         (
+            hospital,
+            health,
+            establishment
+        );
+        url = "https://plus.google.com/110399659221387621356/about?hl=en-US";
+        "utc_offset" = "-240";
+        vicinity = "200 Lothrop Street, Pittsburgh";
+        website = "http://www.upmc.com/contact/Pages/default.aspx";
+    };
+    status = OK;
+}
+
+2013-04-24 11:06:20.782 Google[11427:907] {
+}
+2013-04-24 11:06:20.901 Google[11427:907] Google Places JSON response: {
+    "html_attributions" =     (
+    );
+    result =     {
+        "address_components" =         (
+                        {
+                "long_name" = 3471;
+                "short_name" = 3471;
+                types =                 (
+                    "street_number"
+                );
+            },
+                        {
+                "long_name" = "5th Ave";
+                "short_name" = "5th Ave";
+                types =                 (
+                    route
+                );
+            },
+                        {
+                "long_name" = Pittsburgh;
+                "short_name" = Pittsburgh;
+                types =                 (
+                    locality,
+                    political
+                );
+            },
+                        {
+                "long_name" = PA;
+                "short_name" = PA;
+                types =                 (
+                    "administrative_area_level_1",
+                    political
+                );
+            },
+                        {
+                "long_name" = US;
+                "short_name" = US;
+                types =                 (
+                    country,
+                    political
+                );
+            },
+                        {
+                "long_name" = 15213;
+                "short_name" = 15213;
+                types =                 (
+                    "postal_code"
+                );
+            }
+        );
+        "formatted_address" = "3471 5th Ave, Pittsburgh, PA, United States";
+        "formatted_phone_number" = "(412) 687-3900";
+        geometry =         {
+            location =             {
+                lat = "40.440464";
+                lng = "-79.96066500000001";
+            };
+        };
+        icon = "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png";
+        id = ab13e33a05f52bdee78be12bfd6ae615edc4211b;
+        "international_phone_number" = "+1 412-687-3900";
+        name = "Upmc Physicians Orthopaedic Surgery";
+        reference = "CpQBgQAAAEFUZtXtmpKEGWeX_JxantDJwJtoTYt87sXQC8RrvY7QnxIwI9nkKCAsR-NK9z36nhQaIWCs4nS7JmFneBntWyUgaujUQgy0lqnY5-TY20MHSjeqr2HLS_F1rO8JBbRNBbC35c-dSv4cFxw8te5kKvZJvbeh870zmmZqKKGFH0gEeDv3cVI-beT0aGEAcTsR0xIQklrc9p9SWeAxjqU4fplX8hoU6UiM6NXflVzhzJCMu_t9315zMEA";
+        types =         (
+            hospital,
+            health,
+            establishment
+        );
+        url = "https://plus.google.com/109861389708839560191/about?hl=en-US";
+        "utc_offset" = "-240";
+        vicinity = "3471 5th Ave, Pittsburgh";
+        website = "http://www.upmc.com/services/orthopaedics/pages/default.aspx";
+    };
+    status = OK;
+}
+

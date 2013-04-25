@@ -1,0 +1,276 @@
+Toni Karttunen
+24.4.2012
+
+==========================================
+
+Paikkatiedon tarjoaja: Apple
+Paikka: Pittsburgh
+Kategoria: Food
+
+==========================================
+
+2013-04-24 09:32:26.306 Apple[11032:907] (
+        (
+        Name,
+        "Meat & Potatoes"
+    ),
+        (
+        Address,
+        "649 Penn Ave\nPittsburgh\U200e Pennsylvania\U200e 15222\nUnited States"
+    ),
+        (
+        Phone,
+        "+14123257007"
+    ),
+        (
+        URL,
+        "http://meatandpotatoespgh.com"
+    ),
+        (
+        Latitude,
+        "40.443364"
+    ),
+        (
+        Longitude,
+        "-80.000603"
+    )
+)
+
+2013-04-24 09:32:29.081 Apple[11032:907] (
+        (
+        Name,
+        Eleven
+    ),
+        (
+        Address,
+        "1150 Smallman St\nPittsburgh\U200e Pennsylvania\U200e 15222\nUnited States"
+    ),
+        (
+        Phone,
+        "+14122015656"
+    ),
+        (
+        URL,
+        "http://www.elevenck.com/"
+    ),
+        (
+        Latitude,
+        "40.445855"
+    ),
+        (
+        Longitude,
+        "-79.993498"
+    )
+)
+
+2013-04-24 09:32:31.335 Apple[11032:907] (
+        (
+        Name,
+        "Primanti Brothers"
+    ),
+        (
+        Address,
+        "46 18th St\nPittsburgh\U200e Pennsylvania\U200e 15222\nUnited States"
+    ),
+        (
+        Phone,
+        "+14122632142"
+    ),
+        (
+        URL,
+        "http://www.primantibros.com"
+    ),
+        (
+        Latitude,
+        "40.450708"
+    ),
+        (
+        Longitude,
+        "-79.985587"
+    )
+)
+
+2013-04-24 09:32:33.550 Apple[11032:907] (
+        (
+        Name,
+        "Fat Heads Saloon"
+    ),
+        (
+        Address,
+        "1805 E Carson St\nPittsburgh\U200e Pennsylvania\U200e 15203\nUnited States"
+    ),
+        (
+        Phone,
+        "+14124317433"
+    ),
+        (
+        URL,
+        "https://www.fatheads.com/"
+    ),
+        (
+        Latitude,
+        "40.429008"
+    ),
+        (
+        Longitude,
+        "-79.980070"
+    )
+)
+
+2013-04-24 09:32:36.069 Apple[11032:907] (
+        (
+        Name,
+        Hofbrauhaus
+    ),
+        (
+        Address,
+        "2705 S Water St\nPittsburgh\U200e Pennsylvania\U200e 15203\nUnited States"
+    ),
+        (
+        Phone,
+        "+14122242328"
+    ),
+        (
+        URL,
+        "http://www.hofbrauhauspittsburgh.com/"
+    ),
+        (
+        Latitude,
+        "40.428756"
+    ),
+        (
+        Longitude,
+        "-79.964522"
+    )
+)
+
+2013-04-24 09:32:39.362 Apple[11032:907] (
+        (
+        Name,
+        Tamari
+    ),
+        (
+        Address,
+        "3519 Butler Street\nPittsburgh\U200e Pennsylvania\U200e 15201\nUnited States"
+    ),
+        (
+        Phone,
+        "+14123253435"
+    ),
+        (
+        URL,
+        "http://www.tamaripgh.com"
+    ),
+        (
+        Latitude,
+        "40.464622"
+    ),
+        (
+        Longitude,
+        "-79.966187"
+    )
+)
+
+2013-04-24 09:32:41.394 Apple[11032:907] (
+        (
+        Name,
+        "Grand Concourse Restaurant"
+    ),
+        (
+        Address,
+        "100 W Station Square Dr\nPittsburgh\U200e Pennsylvania\U200e 15219\nUnited States"
+    ),
+        (
+        Phone,
+        "+14122611717"
+    ),
+        (
+        URL,
+        "http://www.muer.com"
+    ),
+        (
+        Latitude,
+        "40.433239"
+    ),
+        (
+        Longitude,
+        "-80.003759"
+    )
+)
+
+2013-04-24 09:32:44.783 Apple[11032:907] (
+        (
+        Name,
+        "Cafe Du Jour"
+    ),
+        (
+        Address,
+        "1107 E Carson St\nPittsburgh\U200e Pennsylvania\U200e 15203\nUnited States"
+    ),
+        (
+        Phone,
+        "+14124889695"
+    ),
+        (
+        Latitude,
+        "40.428934"
+    ),
+        (
+        Longitude,
+        "-79.987146"
+    )
+)
+
+2013-04-24 09:32:46.875 Apple[11032:907] (
+        (
+        Name,
+        "Nicky's Thai Kitchen"
+    ),
+        (
+        Address,
+        "856 Western Ave\nPittsburgh\U200e Pennsylvania\U200e 15233\nUnited States"
+    ),
+        (
+        Phone,
+        "+14123218424"
+    ),
+        (
+        URL,
+        "http://www.nickysthaikitchen.com"
+    ),
+        (
+        Latitude,
+        "40.452257"
+    ),
+        (
+        Longitude,
+        "-80.016282"
+    )
+)
+
+2013-04-24 09:32:50.233 Apple[11032:907] (
+        (
+        Name,
+        "Monterey Bay Fish Grotto"
+    ),
+        (
+        Address,
+        "1411 Grandview Ave\nPittsburgh\U200e Pennsylvania\U200e 15211\nUnited States"
+    ),
+        (
+        Phone,
+        "+14124814414"
+    ),
+        (
+        URL,
+        "http://www.montereybayfishgrotto.com/"
+    ),
+        (
+        Latitude,
+        "40.438483"
+    ),
+        (
+        Longitude,
+        "-80.021322"
+    )
+)

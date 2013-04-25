@@ -1,0 +1,184 @@
+Toni Karttunen
+24.4.2012
+
+==========================================
+
+Paikkatiedon tarjoaja: Foursquare
+Paikka: Suzhou
+Kategoria: Food
+
+==========================================
+
+2013-04-24 11:49:31.312 Foursquare[11515:907] foursquareDictionary: {
+    venues =     (
+                {
+            beenHere =             {
+                count = 0;
+            };
+            canonicalUrl = "https://foursquare.com/v/sm%E5%B9%BF%E5%9C%BA%E8%82%AF%E5%BE%B7%E5%9F%BA/4ee1c016490152e4bc85a56c";
+            categories =             (
+                                {
+                    icon =                     {
+                        name = ".png";
+                        prefix = "https://foursquare.com/img/categories/food/friedchicken_";
+                        sizes =                         (
+                            32,
+                            44,
+                            64,
+                            88,
+                            256
+                        );
+                    };
+                    id = 4d4ae6fc7a7b7dea34424761;
+                    name = "Fried Chicken Joint";
+                    pluralName = "Fried Chicken Joints";
+                    primary = 1;
+                    shortName = "Fried Chicken";
+                }
+            );
+            contact =             {
+            };
+            hereNow =             {
+                count = 0;
+                groups =                 (
+                );
+            };
+            id = 4ee1c016490152e4bc85a56c;
+            likes =             {
+                count = 0;
+                groups =                 (
+                );
+            };
+            location =             {
+                address = "China, Suzhou, Wuzhong";
+                cc = CN;
+                country = China;
+                distance = 2673;
+                lat = "31.21841636516451";
+                lng = "120.5883754935273";
+            };
+            name = "SM\U5e7f\U573a\Uff0d\U80af\U5fb7\U57fa";
+            referralId = "v-1366793370";
+            specials =             (
+            );
+            stats =             {
+                checkinsCount = 16;
+                tipCount = 0;
+                usersCount = 11;
+            };
+            verified = 0;
+        },
+                {
+            beenHere =             {
+                count = 0;
+            };
+            canonicalUrl = "https://foursquare.com/v/nishimura/4f8bae09e4b07efb9fdfd5c2";
+            categories =             (
+                                {
+                    icon =                     {
+                        name = ".png";
+                        prefix = "https://foursquare.com/img/categories/food/default_";
+                        sizes =                         (
+                            32,
+                            44,
+                            64,
+                            88,
+                            256
+                        );
+                    };
+                    id = 4bf58dd8d48988d111941735;
+                    name = "Japanese Restaurant";
+                    pluralName = "Japanese Restaurants";
+                    primary = 1;
+                    shortName = Japanese;
+                }
+            );
+            contact =             {
+            };
+            hereNow =             {
+                count = 0;
+                groups =                 (
+                );
+            };
+            id = 4f8bae09e4b07efb9fdfd5c2;
+            likes =             {
+                count = 0;
+                groups =                 (
+                );
+            };
+            location =             {
+                cc = CN;
+                country = China;
+                distance = 442;
+                lat = "31.21135999075685";
+                lng = "120.6122279238371";
+            };
+            name = Nishimura;
+            referralId = "v-1366793370";
+            specials =             (
+            );
+            stats =             {
+                checkinsCount = 4;
+                tipCount = 0;
+                usersCount = 4;
+            };
+            verified = 0;
+        },
+                {
+            beenHere =             {
+                count = 0;
+            };
+            canonicalUrl = "https://foursquare.com/v/dio-cafe/4f98cc57e4b0d1730d5266bd";
+            categories =             (
+                                {
+                    icon =                     {
+                        name = ".png";
+                        prefix = "https://foursquare.com/img/categories/food/cafe_";
+                        sizes =                         (
+                            32,
+                            44,
+                            64,
+                            88,
+                            256
+                        );
+                    };
+                    id = 4bf58dd8d48988d16d941735;
+                    name = "Caf\U00e9";
+                    pluralName = "Caf\U00e9s";
+                    primary = 1;
+                    shortName = "Caf\U00e9";
+                }
+            );
+            contact =             {
+            };
+            hereNow =             {
+                count = 0;
+                groups =                 (
+                );
+            };
+            id = 4f98cc57e4b0d1730d5266bd;
+            likes =             {
+                count = 0;
+                groups =                 (
+                );
+            };
+            location =             {
+                cc = CN;
+                country = China;
+                distance = 2993;
+                lat = "31.217114";
+                lng = "120.584035";
+            };
+            name = "dio cafe";
+            referralId = "v-1366793370";
+            specials =             (
+            );
+            stats =             {
+                checkinsCount = 1;
+                tipCount = 0;
+                usersCount = 1;
+            };
+            verified = 0;
+        }
+    );
+}

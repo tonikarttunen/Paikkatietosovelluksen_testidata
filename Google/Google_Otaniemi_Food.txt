@@ -1,0 +1,2839 @@
+Toni Karttunen
+24.4.2012
+
+==========================================
+
+Paikkatiedon tarjoaja: Google
+Paikka: Otaniemi, Espoo
+Kategoria: Food
+
+==========================================
+
+2013-04-24 10:25:54.032 Google[11333:907] Google Places JSON response: {
+    "html_attributions" =     (
+    );
+    result =     {
+        "address_components" =         (
+                        {
+                "long_name" = 27;
+                "short_name" = 27;
+                types =                 (
+                    "street_number"
+                );
+            },
+                        {
+                "long_name" = "Gallen-Kallelan tie";
+                "short_name" = "Gallen-Kallelan tie";
+                types =                 (
+                    route
+                );
+            },
+                        {
+                "long_name" = Espoo;
+                "short_name" = Espoo;
+                types =                 (
+                    locality,
+                    political
+                );
+            },
+                        {
+                "long_name" = Uusimaa;
+                "short_name" = Uusimaa;
+                types =                 (
+                    "administrative_area_level_1",
+                    political
+                );
+            },
+                        {
+                "long_name" = FI;
+                "short_name" = FI;
+                types =                 (
+                    country,
+                    political
+                );
+            },
+                        {
+                "long_name" = 02600;
+                "short_name" = 02600;
+                types =                 (
+                    "postal_code"
+                );
+            }
+        );
+        "formatted_address" = "Gallen-Kallelan tie 27, Espoo, Finland";
+        "formatted_phone_number" = "09 8492340";
+        geometry =         {
+            location =             {
+                lat = "60.206392";
+                lng = "24.83921";
+            };
+        };
+        icon = "http://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png";
+        id = ed0b15084e86168331749804a7822f4586461312;
+        "international_phone_number" = "+358 9 8492340";
+        name = "Akseli Gallen-kallelan Museos\U00e4\U00e4ti\U00f6";
+        photos =         (
+                        {
+                height = 2048;
+                "html_attributions" =                 (
+                    "From a Google User"
+                );
+                "photo_reference" = "CpQBjAAAAKxRlGqzryEsaFlqPmxjqlDdPKR2pub47SXk5KkNT3k2YYvEMts1B2cgeyYLvEIOwtSVTz8nZcIesBkif1U9ot0bBbdBrqD27oj_970NOR2Cqktu--0yhusPadTmUx5rWzpFSEgOu3UjEixjGy32Sp3YonoJyn70oHzX3wLNIlmN-z2wgGDadwRReo4X7CUswRIQsVwWa1hUCeaxdat0JO-fIhoUkGxAmpp0CMMef_kden_3dzxlDSg";
+                width = 1515;
+            },
+                        {
+                height = 1365;
+                "html_attributions" =                 (
+                    "<a href=\"https://plus.google.com/106823782696889052443\">Raino Lampinen</a>"
+                );
+                "photo_reference" = "CvQB4QAAADbFiU9_uqL9gHabbejlsZknjpTSk9uY9vbRdItWDKkPCwoN03jMgfkCIe60Aj-NB_KjD02O5uElEur31Xaj7kkSc54OQ229N9yvUNPL-0iJrvECyRsHIqm3XsEfNOd1miueJhsaGf6xpRGoY116d489lB-vgr5KKGYKC_5yTqJuQ_jz69g0Digzg8FR1ifSlLJ99hE-H7MyooVsw-v5YgD3m65Xi7SgzIvp5YZCl4spejmw7TrJyg1ENhZkhkQ_NgZDok4swD-G1I4l7oLJ_RrDKXSrhW2dGArN1n6hxrYEM0YYYoHzGAWn4nmWH4WIQRIQDLwI8LbG-K3aDCVEy749-hoUUq7uUKnRbKsZF_e1cIHQL8TWQAI";
+                width = 2048;
+            },
+                        {
+                height = 1365;
+                "html_attributions" =                 (
+                    "From a Google User"
+                );
+                "photo_reference" = "CoQBfgAAAEkoH17PJ8pSWH-JgHzsoL0hB3suv2ijVHWK9b8Jm0e5hrFCCq18JTqAT-LK1VUSa1Tb6jm6RMtU1Q6Iunq5GPcmnCZK1IMeCGzSFWFSRh_jNUNuXxCInEp5is2PRAEnSDIVG42R9Iw5Na47w_-d8yY374YARdqvKXT-G9QOIk4oEhBtRcPuNdhSQQOdOE0_p_MMGhQw_EA-Qqapl-kw-hH8q8IH4Bgy_A";
+                width = 2048;
+            },
+                        {
+                height = 1365;
+                "html_attributions" =                 (
+                    "From a Google User"
+                );
+                "photo_reference" = "CoQBfgAAADAdONRUIXjm50hCuh48XYSOAdCVLzmuWVHZF-nmmM8t8qBFxYHkGlugVZkMJ5GHMd4qagL3W9KSEZ00o27OLZgOiTCkl40ctZY4Nuy8uE4cjSwBt_C_A6BeO4rVBuglMnPtjzTe9tPrv1Gcxkbl825ndwacrE17dOGeO-T8J-0gEhCrR4Ii_h11GGdPnnyun_ZrGhQkw9u0i4jXE-E0zRuCcIzwRtCTaQ";
+                width = 2048;
+            },
+                        {
+                height = 1365;
+                "html_attributions" =                 (
+                    "From a Google User"
+                );
+                "photo_reference" = "CoQBfgAAAGS9bcoaxkKZnPfh0vy9ZWWeM4tcFlbOsECWTRuQ_ZH4Y-VHWTnSM63vs7v1e-kxKkrXJHbaRalGZ9zzOZfj63EhZk9LovStZvFEFyDJ6cL0eVZTgEty31ml_fy7jGT8-4tj3GmpT22PuS1BbL6EAiWe3isiXXOWAk2hs_9aN-zBEhCZhKZAtkaBxbLq2SjT2AV4GhR2FQ8FOpc3Q8u967WES6KO6vklUw";
+                width = 2048;
+            },
+                        {
+                height = 1365;
+                "html_attributions" =                 (
+                    "From a Google User"
+                );
+                "photo_reference" = "CoQBfgAAAF2tuVxbDGBbqtYZhxXOGF8Y5p25zaWDAQoqtNvjAPNYO4SrnrcMOl-WcH_UWOfbdMCwh43Uk4WrKIgQS4sOJNph7-Tg91_iEV4kO1cBKLwAuR3xsvWls7p6fseQFPZU2jkHqXCJBDyYY-YZpqsFwL9ONE2DOOZpWMrjOq2Q0_4ZEhBOdypOldUa4b_pJRFpvUxhGhQKGzhHedYPrMPrObxt-LhWXojOeA";
+                width = 2048;
+            },
+                        {
+                height = 1365;
+                "html_attributions" =                 (
+                    "From a Google User"
+                );
+                "photo_reference" = "CoQBfgAAAKdySsc5v33eP3fFRYc3S1knPsp28PJRK1ZjCzU0Trmbu-9ybP4f0f8CxhHi6JcMO_ve0eN2QGfvgkkreiQ_-6SbF9ia8FmvbieT1KvE1iNhQSOqadBBbsHBZMMOF8kp7ThCyff6TuxXC0uYJpiaOw4ZPuIHXBjSPYuEAOMFGP4oEhDjzuGpH7YJtKzAgsMs17alGhQ_ct-bxkDYaoNPIVgMaIbzIRFWiw";
+                width = 2048;
+            },
+                        {
+                height = 1365;
+                "html_attributions" =                 (
+                    "From a Google User"
+                );
+                "photo_reference" = "CoQBfgAAAGScVfkrUv3mVELIaVP3-Tvn8qmx3y52kSckNq4XeLBUP7sIkNQZPKf65GHab9zJZd-uwwMLajLs354xuloezGehZuVpurir_30ATOAi2k9E6R-qxuYHI7Y-jIZfQZrAogDb2QEKiZ0gMIHCCBdK-FZqMPf5jsA0Jbnbjp3nosWlEhBsxDAYZw7QkQFg2lZws4YGGhSUnSguywghaLLcxVBnbtPJRQiXkw";
+                width = 2048;
+            },
+                        {
+                height = 1365;
+                "html_attributions" =                 (
+                    "From a Google User"
+                );
+                "photo_reference" = "CoQBfgAAAHxrtkdg22SoDfqojYYHZohQ7iGsfM6aZ9LWyx13Dyi0P2gry_tBVNKBTgxQ1SJ6r9tBnFPlST1qOiu6J_n7KOSBXPaGzTPTSykvSgXJHgfPie-ckc14eWr4Tf3BhRH9DENN0ZYyYYnds3GGlPWsAz1MBRNa0ycsHRN1DaxKFMAaEhCI5repE2zcFfGkSJV_OlBZGhS2GKGZbITTIsqBIDah13ArXZZRMA";
+                width = 2048;
+            },
+                        {
+                height = 1365;
+                "html_attributions" =                 (
+                    "From a Google User"
+                );
+                "photo_reference" = "CoQBfgAAAPmw_gKFJG6YDGc8LlbgnjCjm3-ren579X5p1kHu1pqHCHvM8NMzH1XGUdbcpMQLZLiU5NEU1g-lY1iaunlqx2Tec2SLcUlqb0AR7TgTVU8x0MIjP4WlUxAWypQ6InY_LOoVFiSV26JgjcwxG06-m0psXQYm3UzYiaOlKUHY14meEhDH76oZHEsopnyiIsnJhtp6GhSIhiv9G3xfzQ39op845J5AGS7M8A";
+                width = 2048;
+            }
+        );
+        rating = "4.8";
+        reference = "CpQBgwAAAO-u39tK4toDZxfQD_OXyT6Wa_4nx7gAe8czAxZreLxzGXbN-83ACKiNoklu1QoaZ8LbZ6ckgb8snkxsOZF9lUnrwXdcnJXrhBRvaLE6KpkwF6KxJk7fobS1xBnrkByUDyUoBxrM54d2DVAF7Qzdll4J3jUQMjP5paOlSHkpkjb2OQDeRxRbliMR7_KkEeis5BIQH9WwpBQjJyTOTS-rjn50rxoU10msXvx3CaqXSALylTlxpi4LuZs";
+        reviews =         (
+                        {
+                aspects =                 (
+                                        {
+                        rating = 3;
+                        type = appeal;
+                    },
+                                        {
+                        rating = 3;
+                        type = facilities;
+                    },
+                                        {
+                        rating = 3;
+                        type = service;
+                    }
+                );
+                "author_name" = "Jaarle Lehtinen";
+                "author_url" = "https://plus.google.com/112782949148339233295";
+                text = "Jos haluatte viett\U00e4\U00e4 kuuman kes\U00e4p\U00e4iv\U00e4n helsingiss\U00e4, niin viett\U00e4k\U00e4\U00e4 se t\U00e4\U00e4ll\U00e4! Mahtava paikka meren rannalla.";
+                time = 1339584757;
+            },
+                        {
+                aspects =                 (
+                                        {
+                        rating = 2;
+                        type = appeal;
+                    },
+                                        {
+                        rating = 3;
+                        type = facilities;
+                    },
+                                        {
+                        rating = 1;
+                        type = service;
+                    }
+                );
+                "author_name" = "Aurora Siren";
+                "author_url" = "https://plus.google.com/105433073823631999539";
+                text = "Kiva paikka ja hieno";
+                time = 1357816971;
+            }
+        );
+        types =         (
+            restaurant,
+            museum,
+            food,
+            establishment
+        );
+        url = "https://plus.google.com/109781952505014182376/about?hl=en-US";
+        "utc_offset" = 180;
+        vicinity = "Gallen-Kallelan tie 27, Espoo";
+        website = "http://www.gallen-kallela.fi/";
+    };
+    status = OK;
+}
+
+2013-04-24 10:26:14.902 Google[11333:907] {
+}
+2013-04-24 10:26:15.055 Google[11333:907] Google Places JSON response: {
+    "html_attributions" =     (
+    );
+    result =     {
+        "address_components" =         (
+                        {
+                "long_name" = 5;
+                "short_name" = 5;
+                types =                 (
+                    "street_number"
+                );
+            },
+                        {
+                "long_name" = Ahertajantie;
+                "short_name" = Ahertajantie;
+                types =                 (
+                    route
+                );
+            },
+                        {
+                "long_name" = Espoo;
+                "short_name" = Espoo;
+                types =                 (
+                    locality,
+                    political
+                );
+            },
+                        {
+                "long_name" = FI;
+                "short_name" = FI;
+                types =                 (
+                    country,
+                    political
+                );
+            },
+                        {
+                "long_name" = 02100;
+                "short_name" = 02100;
+                types =                 (
+                    "postal_code"
+                );
+            }
+        );
+        "formatted_address" = "Ahertajantie 5, Espoo, Finland";
+        "formatted_phone_number" = "09 81657512";
+        geometry =         {
+            location =             {
+                lat = "60.178763";
+                lng = "24.794123";
+            };
+        };
+        icon = "http://maps.gstatic.com/mapfiles/place_api/icons/cafe-71.png";
+        id = a839d554447da44fbaf80dc5ee02da1109fac363;
+        "international_phone_number" = "+358 9 81657512";
+        name = "EMMA - Espoo Museum of Modern Art";
+        "opening_hours" =         {
+            "open_now" = 0;
+            periods =             (
+                                {
+                    close =                     {
+                        day = 0;
+                        time = 1800;
+                    };
+                    open =                     {
+                        day = 0;
+                        time = 1100;
+                    };
+                },
+                                {
+                    close =                     {
+                        day = 2;
+                        time = 1800;
+                    };
+                    open =                     {
+                        day = 2;
+                        time = 1100;
+                    };
+                },
+                                {
+                    close =                     {
+                        day = 3;
+                        time = 2000;
+                    };
+                    open =                     {
+                        day = 3;
+                        time = 1100;
+                    };
+                },
+                                {
+                    close =                     {
+                        day = 4;
+                        time = 2000;
+                    };
+                    open =                     {
+                        day = 4;
+                        time = 1100;
+                    };
+                },
+                                {
+                    close =                     {
+                        day = 5;
+                        time = 1800;
+                    };
+                    open =                     {
+                        day = 5;
+                        time = 1100;
+                    };
+                },
+                                {
+                    close =                     {
+                        day = 6;
+                        time = 1800;
+                    };
+                    open =                     {
+                        day = 6;
+                        time = 1100;
+                    };
+                }
+            );
+        };
+        photos =         (
+                        {
+                height = 314;
+                "html_attributions" =                 (
+                );
+                "photo_reference" = "CpQBkAAAAC6BvoO9N4Qxo2PgzCPEA3NNTIUlkvWQ1m0ZydNfWgFXwrg9mvqFXv8Uud4QZlZIPhXQ5Ux7d5zLfvFMcNMfXCRUFZcBJQ4UK4Be-rK64AaXqojc5bbDfCMyTEfCSsIfC4AGVKyT84S0XYJvGxjSGOXCM4YlJfOXJQ2o5YqwyGrSgs287pl7rPoozW8SI6bUhxIQSLOENqWmztmGGQaoflhzMBoUtrtiZcpg86ulGkLUaxkQ5YexHUU";
+                width = 422;
+            },
+                        {
+                height = 221;
+                "html_attributions" =                 (
+                );
+                "photo_reference" = "CpQBjQAAAFR_0QwtcE6Ssvg-DhSsFZd6rHW6tBckYNVZ1stGxEMS2FwWXHPOOZ6czrI6unoK93rXfk5wKd8f3SodqgDLUaWN-fYXXvlTE1C8zpKQyIb3V89gPRE_sbSLgXYMHGIWO3MUAMxM2qHzeLlF6iTc2BG0AqzWyvSml0c4fYx3WkMplmB7SjgM8Ajde7ZiTB4cZhIQuoEDr0qZxz53hjUm6TuvchoUd000Crv6_E0GlJBsFHG2v80Yi-Y";
+                width = 300;
+            },
+                        {
+                height = 1600;
+                "html_attributions" =                 (
+                );
+                "photo_reference" = "CsQBtQAAAP0T41_Mar2b-6BB1korJ4M8Cvoy1b1ln5x5PTrtqjKuykag3JninAEoQOmidjbTQI2d-4Y1WDVkQK27ESb8qgklxNUcLahirFNkma6Gud1gTMbIPhy4KWOLmNlngmDw6HRT8r8sj7jM1wu-8l1lTYHJPAZvqNA3ult9eNkQuQvQUO-jRFLlvlNCE6CxqCCCG8EcoDdqkgk388NBkDA3IdWHDRZUmY_W-zurduxDH2go2jp6bUjdm-7gHpHNwRO3QxIQX8xQzbr3dl0qhcFH92-4LxoU4yXLzlaiF3t--69i__nVq84A4wI";
+                width = 2400;
+            },
+                        {
+                height = 280;
+                "html_attributions" =                 (
+                );
+                "photo_reference" = "CpQBjQAAAPi6oHJvgp9eZqgoZPXk1aJ4u-0AHTxJDzBnK5EavlfpKrEwkcm0TkDFuMykVkrGAzOF67buisfZvPMAlclKM3FbCUuCXS0BuoLgLR9QW_t74Kk0TlYIAPMkTAU-_t_QlBUicpTwWB6UAehDryT8yKgDRBm1AsHsVCHPhkNjoquCkHpi03wlZ9Xb8ucTzkFGkBIQcvmRoQVJZsOFHzmC0bLoihoUb9RgJtyN6y-rA47kwYaGkQLEvNc";
+                width = 422;
+            },
+                        {
+                height = 1600;
+                "html_attributions" =                 (
+                );
+                "photo_reference" = "CsQBsgAAAMxZHvauTyEEIk2D5xgV_-dvbLj-k82AtZcUY52cL5YwFX6a24_tyRFUVcS07D4tNTiyVzQsmLffz1vIDQFcphhNSAGFN_oSyZ3NqULAXb-yNGqR9EyKvmaLnT4f_CIFsWEpeSfCerbCz_6gxMFdkO3bjAYNcwqZgY_s7XmMK60JjayzC7jU7YK1ewYINpxS8r5fv4jmeH4-XFKrPhuD-774l7qcZ6taHwlL0sjRZX29DuDkwNVx0Yni6zn-S74-oBIQXQCnk-qGV2tKewbot7uMYBoUReKcJK3hBk9SVGMJAI7eXlk7wEM";
+                width = 2400;
+            },
+                        {
+                height = 1600;
+                "html_attributions" =                 (
+                );
+                "photo_reference" = "CsQBsgAAABG9BbexOjQnSrqWMw21CTtNLwmUxYi15mQdkyGfiGs9HLCHkh8A5-Jrq6Xfvx0ar8AoAEDF-8jAlFLieb3P56XW9JjftdZMa-huLWOCQSq7He9M7dR_HmViPBq0Hx40n9nWh_L-elq2A9He4hUjYaslvqh_lsam2KnRNagAFrO-uj9fekwoJ1FD4X7ge1abKbExfob9_l3-mfUgR8u_3Yg3TeHredG0Cry4s8SgZhOSx_mrDcVkBnUT6nMd-BPDJxIQgXhiK4h1frMzekDvyN28yhoUBtdgUow8r0yPu_znisBwh8XWOAw";
+                width = 2400;
+            },
+                        {
+                height = 800;
+                "html_attributions" =                 (
+                    "From a Google User"
+                );
+                "photo_reference" = "CpQBjQAAAB-tK2ype0fQhLkYwopp_xNOpQFl4wLtZWnKM-7hEYbxLyPdKlVMDsQbtNyE1ft4XZksw_jhOMUCOIY9_NOJ3xzsUoJQ6YlYGmegQSch8UbB-poRW-uxlg0n9bZmwFS1ja0LQevxrwnnQ2vp-2Kw2_YdkzGjKnJnYvIK5NR6zNLLKdE-bClCq7S2JKdHWCgcQhIQF9mg0xLKCltx8NVlozUQaRoUf9ontH4FMsfoyjgpcdFXRi5JYsM";
+                width = 600;
+            }
+        );
+        rating = "4.3";
+        reference = "CoQBgAAAAP2rfVKVufOqpUz2HxYnPRl3vbzBo8qe3JPVDQYI0_O-ZBjEJhoXdKr3VXeSEYnYERz-k66TZHfcFeLPZb6W-6bztMAVw7YE37QSmhGV30mgdjibIN7Zg6Ly6MRyvAD3Ibr-8vCKFLz8I1_70Qg1DeyOVHRX3-3V1koZQeJ1z90YEhDH66lTwP8JXWbPEWNNtrNMGhTczdhU4I22QUWm4BiE_f_92S920w";
+        reviews =         (
+                        {
+                aspects =                 (
+                                        {
+                        rating = 3;
+                        type = appeal;
+                    },
+                                        {
+                        rating = 3;
+                        type = facilities;
+                    },
+                                        {
+                        rating = 3;
+                        type = service;
+                    }
+                );
+                "author_name" = "Risto P\U00e4\U00e4rni";
+                "author_url" = "https://plus.google.com/107250549860278805019";
+                text = "EMMA - Espoon modernin taiteen museo on miellytt\U00e4v\U00e4 ja tutustumisen arvoinen taidemuseo. Emmasta l\U00f6ydat taiden\U00e4yttelyiden ohella taidepajoja, opastettuja kohteita, ajankohtaisia tapahtumia, sek\U00e4 mukavaa oheisohjelmaa lapsille. Yritysvieraille EMMA tarjoaa r\U00e4\U00e4t\U00e4l\U00f6ityj\U00e4 palveluja. Tiloissa toimii museokauppa. Emma sijaitsee keskell\U00e4 Tapiolaa k\U00e4velymatkan p\U00e4\U00e4ss\U00e4 Stockmannista.";
+                time = 1346225000;
+            },
+                        {
+                aspects =                 (
+                                        {
+                        rating = 1;
+                        type = appeal;
+                    },
+                                        {
+                        rating = 2;
+                        type = facilities;
+                    },
+                                        {
+                        rating = 1;
+                        type = service;
+                    }
+                );
+                "author_name" = "Aurora Siren";
+                "author_url" = "https://plus.google.com/105433073823631999539";
+                text = "Iso ja hyv\U00e4 mutta n\U00e4yttelyt ovat huonoja usein";
+                time = 1357816819;
+            }
+        );
+        types =         (
+            store,
+            cafe,
+            museum,
+            food,
+            establishment
+        );
+        url = "https://plus.google.com/113984136845828680875/about?hl=en-US";
+        "utc_offset" = 180;
+        vicinity = "Ahertajantie 5, Espoo";
+        website = "http://www.emma.museum/";
+    };
+    status = OK;
+}
+
+2013-04-24 10:26:18.609 Google[11333:907] {
+}
+2013-04-24 10:26:18.869 Google[11333:907] Google Places JSON response: {
+    "html_attributions" =     (
+    );
+    result =     {
+        "address_components" =         (
+                        {
+                "long_name" = 24;
+                "short_name" = 24;
+                types =                 (
+                    "street_number"
+                );
+            },
+                        {
+                "long_name" = Otakaari;
+                "short_name" = Otakaari;
+                types =                 (
+                    route
+                );
+            },
+                        {
+                "long_name" = Espoo;
+                "short_name" = Espoo;
+                types =                 (
+                    locality,
+                    political
+                );
+            },
+                        {
+                "long_name" = FI;
+                "short_name" = FI;
+                types =                 (
+                    country,
+                    political
+                );
+            },
+                        {
+                "long_name" = 02150;
+                "short_name" = 02150;
+                types =                 (
+                    "postal_code"
+                );
+            }
+        );
+        "formatted_address" = "Otakaari 24, Espoo, Finland";
+        "formatted_phone_number" = "09 47024667";
+        geometry =         {
+            location =             {
+                lat = "60.184347";
+                lng = "24.832545";
+            };
+        };
+        icon = "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png";
+        id = 110e1b8964e08d9499c5a9691239b0fce18b193f;
+        "international_phone_number" = "+358 9 47024667";
+        name = Dipoli;
+        "opening_hours" =         {
+            "open_now" = 1;
+            periods =             (
+                                {
+                    close =                     {
+                        day = 1;
+                        time = 1800;
+                    };
+                    open =                     {
+                        day = 1;
+                        time = 0800;
+                    };
+                },
+                                {
+                    close =                     {
+                        day = 2;
+                        time = 1800;
+                    };
+                    open =                     {
+                        day = 2;
+                        time = 0800;
+                    };
+                },
+                                {
+                    close =                     {
+                        day = 3;
+                        time = 1800;
+                    };
+                    open =                     {
+                        day = 3;
+                        time = 0800;
+                    };
+                },
+                                {
+                    close =                     {
+                        day = 4;
+                        time = 1800;
+                    };
+                    open =                     {
+                        day = 4;
+                        time = 0800;
+                    };
+                },
+                                {
+                    close =                     {
+                        day = 5;
+                        time = 1800;
+                    };
+                    open =                     {
+                        day = 5;
+                        time = 0800;
+                    };
+                }
+            );
+        };
+        photos =         (
+                        {
+                height = 366;
+                "html_attributions" =                 (
+                );
+                "photo_reference" = "CpQBhQAAAC3x_211WixDC2YCSrcGKhIMc454Q80UaykupLRUeYj50hhEYRidplnOHLJaP5JmA1CboGfhef_A2tcyz72E0_D1mXOv_bckYmLDlBYx0Gd7lBSpZ-iI4qw1cUPFj_k3ucpkn79Y2kepMm27--NDU6FGOVlaNSyjzKGTobLTeY2TvFW7LQKT8JnPQwl-aqFuPxIQGhg7pJlC00kgycY1iZnl2BoUdeQAba0zpHMMtCa6en9aKfO-VY8";
+                width = 550;
+            },
+                        {
+                height = 366;
+                "html_attributions" =                 (
+                );
+                "photo_reference" = "CpQBhQAAAFhRqrDoRXYZQUyUza8nwexYQQrmpPwLacqGdxinKAa4Uswsz-HkyNOXd-KwRXLNWRoZiVjbF_E-SnBc6qSHF8Y3RhPYw4ve7UR2Bl5A9yhH6rqwz7gar-gIH8az6z1vXH9Wy9PmhcZYqduTS3SVO0Q4q8vUk1YQeohkRkTM8jhg1Wl6V6QP3qMwh9xwKDMEdhIQSeAFITkUooIPntJ0aDZwsRoUE67tvbLePKy2bDJ8dU75xtgXNXM";
+                width = 550;
+            },
+                        {
+                height = 366;
+                "html_attributions" =                 (
+                );
+                "photo_reference" = "CpQBhQAAALAlF-MgJSLbcRM3iJfvyCg6R_tzvJ7RcvXIQxd48TSfeM82TsQrb6sckZJyiZkfULB6aio-7udkl2TWhMeLqHSb3yryvy6RE7lu27ZLXYgsr9kEdnsa2QlsjYuQ4JGrQYXOJkN6QKJlJrHhbtZRypQXzIa5I8Wyfr8aO1NNHE3vNe_PgPdFBDd09pESOmKT0xIQLsvCBn10N-td494KvLZEyxoU-vEsFuOUUQ6HtnkOVr3iioFG2_A";
+                width = 550;
+            },
+                        {
+                height = 366;
+                "html_attributions" =                 (
+                );
+                "photo_reference" = "CpQBhQAAAC92vIK8Hg5UqeN_0O37_Jm7KPOGgU5l9KN77lmhDRTq_o3aPhOWQLx0TJvl-Z4xUKuEDoH19Pd9TS-Im2HYgo2XHAp55_1wuZDChCMx4U6R4Iv4wO-iVy8OPkp5uZgfhGmXhlklmYz8s-B3zCp9sSqiknFSDi9reZbS7zVrmqJgHQq9ToemcK3vb1DBl_ujtxIQ8aJkyt1Y94ohWJ8UFCjPbBoUv0eDe0GHUE4GtvH2JN_6Wotcssc";
+                width = 550;
+            },
+                        {
+                height = 300;
+                "html_attributions" =                 (
+                );
+                "photo_reference" = "CpQBhQAAAAi86Kv7QdAeF2KFAEXdDcQ5n1WRIlCcFZ5RjijIqroARGs6L8l6V2Sc6HbAZQjGUmRx_F_0qX7tHNAnJ7jVXxoIyVzSr0eK0jPDfuxyy0OZff70dbU_NMIx6_2138CSmPHjMnVFCGbVN8yVk59WrRqSxkHYN6h4QFi-bc_mpWnTELZwOdxIqLk3pqS9vVAVfhIQvu4JetCpOITldtO8A83CbhoU3G_0DCvN3ZQKBjNtKewM0DvqZCE";
+                width = 450;
+            },
+                        {
+                height = 300;
+                "html_attributions" =                 (
+                );
+                "photo_reference" = "CpQBggAAABwpYMZ0Eey8vM2n0OcwI81xXOH_lfc2MH9mqbblo33bXa9TpJJjhC3R1IoOJWpCnoYmsL80lv2gfP4xOGi4wp4owNdxnjQoHMVqj_sIf0fEADm2qkCYqt3exwGkJ_Tj4lWStSkdDumSxl0IbdZo4zhg1o2u1Ydv18DVrFSyR2GDEbcrt92YTb5tH7UEdVEdIxIQy7pRvG2Cl6ixHlCZW_UeuhoUUa7hxjgaXPJPcOf7LcYgqojz9jY";
+                width = 450;
+            },
+                        {
+                height = 300;
+                "html_attributions" =                 (
+                );
+                "photo_reference" = "CpQBhQAAAKf-O4jRxAZai-fAlRntBk5WCEmAXaDoH0-rlNA3NH8Kn7bbscQXw5idgk3t4PjbIVrEHd3GPOJz27I5OSym28eMg3Z7hqGpRsMMR8Xfov0czQYCIRdhE_h59X1wwYXcSusV1U6x7YXVvoAOvawujfNDo2Tg2-iEaf2mB9mqTPZXJEfwLzCup8N4wyX0fzeDWBIQLUJW9yeP-MFy8hg3njGlqxoUXTcKhKoQKsOCXya8ymWonPfyJ40";
+                width = 450;
+            },
+                        {
+                height = 366;
+                "html_attributions" =                 (
+                );
+                "photo_reference" = "CpQBhQAAABGgLLRa9aRQaFarSUwsICvYgBVJ9h6UjIdrLsbi1X8cP2zyNo789bhxi1-SIShb2onpt4_VaAOgN_kurAkaPyy8ORT3FRgdYhekgj6UOnjbbJGRfwqxh-qww8UNBv3AutZOmpga1RZupxO7uU1J-kFlin3BRUkuleuMXQve8J6pG0ODyw7il7R9Nn9GdErjjBIQ3R4IB7BvfFP4xkXOzU47bRoU4U2vmsCWSp9lU1XCwc-vGUF4Vi8";
+                width = 550;
+            }
+        );
+        reference = "CnRkAAAAdPDjbxLiD87ze8QUKmlbsHDc6bsbj0b2xU8d1J99hDrEtMEFytkfVT9pE_g5TZ530Trp5zyXX42y5OV1PglOKmjRAWsZNg9I8gXUM_Hh9P-NWQosxMWEC30mZuguAv6hVwBqHVD5duUzfERvsg2ehxIQpPEp6NhgqE44AN6sxHXBgBoUt6wl3EQCOspWGuncnD2hnoZwMxQ";
+        reviews =         (
+                        {
+                aspects =                 (
+                                        {
+                        rating = 2;
+                        type = overall;
+                    }
+                );
+                "author_name" = "A Google User";
+                text = "";
+                time = 1322954794;
+            }
+
+        );
+        types =         (
+            food,
+            establishment
+        );
+        url = "https://plus.google.com/112265822324932109749/about?hl=en-US";
+        "utc_offset" = 180;
+        vicinity = "Otakaari 24, Espoo";
+        website = "http://dipoli.aalto.fi/";
+    };
+    status = OK;
+}
+
+2013-04-24 10:26:21.925 Google[11333:907] {
+}
+2013-04-24 10:26:22.140 Google[11333:907] Google Places JSON response: {
+    "html_attributions" =     (
+    );
+    result =     {
+        "address_components" =         (
+                        {
+                "long_name" = 2;
+                "short_name" = 2;
+                types =                 (
+                    "street_number"
+                );
+            },
+                        {
+                "long_name" = Otaranta;
+                "short_name" = Otaranta;
+                types =                 (
+                    route
+                );
+            },
+                        {
+                "long_name" = Espoo;
+                "short_name" = Espoo;
+                types =                 (
+                    locality,
+                    political
+                );
+            },
+                        {
+                "long_name" = Espoo;
+                "short_name" = Espoo;
+                types =                 (
+                    "administrative_area_level_2",
+                    political
+                );
+            },
+                        {
+                "long_name" = FI;
+                "short_name" = FI;
+                types =                 (
+                    country,
+                    political
+                );
+            },
+                        {
+                "long_name" = 02150;
+                "short_name" = 02150;
+                types =                 (
+                    "postal_code"
+                );
+            }
+        );
+        "formatted_address" = "Otaranta 2, Espoo, Finland";
+        "formatted_phone_number" = "020 1234705";
+        geometry =         {
+            location =             {
+                lat = "60.183755";
+                lng = "24.837291";
+            };
+        };
+        icon = "http://maps.gstatic.com/mapfiles/place_api/icons/bar-71.png";
+        id = 2c08d4b86781a9b5a7815624fb2eb05c45846ea6;
+        "international_phone_number" = "+358 20 1234705";
+        name = "Radisson Blu Hotel Espoo";
+        photos =         (
+                        {
+                height = 322;
+                "html_attributions" =                 (
+                );
+                "photo_reference" = "CoQBfgAAANJvSFFhv7ac5ASLP5ximKT6EyZguZAg6mpGjd_dEpCoteGFXvqQ3qqr2gSu1Qa4e0Br63OnLiX_RxC7dpuFfqqyQ13E6s4am07XvPcR1-1rVDoQMpo7Ixfy-oFYy0tJe_kkQapBQRfp_Ry1Mw-d4JZu4nC7sSxI9MhaXY6iLQaMEhBQxdkba7PBrmtc_sHCxrWuGhRTopI8QqyunuAGMhj8BXs4kS553A";
+                width = 430;
+            },
+                        {
+                height = 101;
+                "html_attributions" =                 (
+                );
+                "photo_reference" = "CoQBfgAAADnMe-uACopNWgMh72sdz2RUrfmL86qo7ePCHoe01spxkpX7jZtSU8bAOSUzq1N7IOlN5KyFpc0ncuKxlOKTM8uiYozl6TNuDPMyDOXVP79_L_cGneafy4HUvewOIbkPbjB9E3brnH-0G-LgxIxOQFEg8G4moORHsSbnLMasTfYVEhC4r63R3gOrmkkES-JyguoYGhQqm0ElZIFeXmn8KK6y4Rjjs7BSKw";
+                width = 180;
+            },
+                        {
+                height = 384;
+                "html_attributions" =                 (
+                );
+                "photo_reference" = "CoQBfAAAAAufwqu1ljKqYXO3w1UBCanLgsDxiLq9AYXEmT5aVQEIR-dInEAyAVMh9LeZO752WzAC8xeJ83h1snrsUHS6lbmAv_oir_KJ63J6GOeY6Xd3W7XbIv1oTaoTGblho2uNj9NF5mHj2dvQ3xqTN_9ENIUBLeyuRydO-FFPQzfoHqhLEhA-65uquZiAsT3fdrUm5-4jGhQ43Bmud0-K_czyg62ltwfou64hNA";
+                width = 256;
+            },
+                        {
+                height = 322;
+                "html_attributions" =                 (
+                );
+                "photo_reference" = "CpQBgQAAABO8HMs6L-ZeN-xNrIRhyTn18vLOUrb3Vj0mKrLHpISMOwK3xHcZAmJfRDbTSud7-l9uV4_VuCkCYl96EaEmPBIsprkfZ0NKo8muWeMP11h3kHJcCvd-WlFFpo1QNSjoc8F6v8lDtynyRuW_nyJrHy-7AjiSbtvtQhXFM7zIUx5BV6e81shaRf4Cf3hGmHWPaBIQFkFocsT-vQStUt3_NG5othoUpgYGg8DFnlatYrRBcbQLVAjFYAQ";
+                width = 430;
+            },
+                        {
+                height = 322;
+                "html_attributions" =                 (
+                );
+                "photo_reference" = "CnRnAAAAYQDHN6ZYWfWqENsb0jqNFGnkY4px0majOJ5S1zuBw7aY9PCycw47LzrKo7c5y11b6cFxvuSR4c6t8ITp2DRhVmJK0PvisKSQS0443DAWpRZvShq3G94vappUJLeg8qrvesJg-a3c5eI8cMpCnpX0DxIQyPuXwweFSMajLlZU4IbBhRoUUw06oeX2wxFpQn8ji2_bUyRdZPc";
+                width = 430;
+            },
+                        {
+                height = 180;
+                "html_attributions" =                 (
+                );
+                "photo_reference" = "CoQBfAAAADUcziJXSSPG1nXcwg229GjLbrm-JOtlp9mgtMvQM_68TevPiRTDO7WCr6RaGFkazjcQEOvl6Va1UuVaNjqfrtt34AXP9uaWZowUJ-4xg_JCHf_0KRUp7_NI_4A3J4t2keLOxdF7YMVAlrwJLlfWp61VZ3jS72OQ_Ds2QQdMWR5UEhABuq84wBTUbBjz_UhJZbT-GhSiuheUCFjfg606diEoQjYkrt7TDw";
+                width = 180;
+            },
+                        {
+                height = 322;
+                "html_attributions" =                 (
+                );
+                "photo_reference" = "CpQBgQAAAAOAkq4bMLIPkYtDR-VOsjOnbIRUbVo3fgPB2T_BgViLKqotPPdtpeTsYRlLkvSV0H-YzJSRVvkIWhLlCtZ_O_iQyBwSHcnVDaB8aUEdxDyf_G5oYUhgUB5JniqfsVL_91P652txsv3JT5zCjvYOJBuP2hJ57pEuyAIVgYstcZqzD0MQ5ISY7VHFq2moUYrM8RIQgIhtvdI6FO595HqZKIfWQhoUoviz6209Zox62VD2cq5_HTrA1NU";
+                width = 430;
+            },
+                        {
+                height = 300;
+                "html_attributions" =                 (
+                );
+                "photo_reference" = "CnRqAAAAjqo3zv2dhc-Bii_n1gUEeDj6yz5qeyzc2406fHcK8MUkfb-kIF2bnqVu4HWs6O16hAtJAU_fgPiXdRN0jP2jD0jK8uz6tDKcwe4rGN-29xX_w5Cad5Mx2mi75AKXskbn1OHSJlw0qqqvL-_UaUPMbxIQyZT2Cw35wBRBoTAWjkXtphoUhoGkMrPT8xI_pqAZmkiUhTNcYac";
+                width = 640;
+            },
+                        {
+                height = 1024;
+                "html_attributions" =                 (
+                );
+                "photo_reference" = "CoQBeQAAAJ9dYXUYMt0pksGoGBzEQg7ILPmpAEnwLLg35YFm9nf4bWr0mKZ_YcIXO8OFZZhN1Iu_p4jcPkZ65Ev9QJghJCZ8oxmps5n5k3LPhCkq7uuX08r_g5SI40Q_Jce16yX6EH8Y3_H1MMD2P8EcPNcYSPUhuSbiQBtaYw6dvw1VFaVzEhBwF1702Vn3zjzrAq32784FGhTL3DaAf_uAUQzMLw1P5ZV8vc4ynw";
+                width = 1536;
+            },
+                        {
+                height = 322;
+                "html_attributions" =                 (
+                );
+                "photo_reference" = "CoQBfgAAAHD5v6Eesmlm3W_pBaW-YRftiGb0qOiFjT3cZmTV4iDSkmtJbjYY9HkOBqF2Pn1anHYVxWUfLpTRSU0JTXybSkmDlv9lSluyPdIkqYoLqORDIgEM7g0q9hxwWjlJsiAE_vi8_pY9-1STYljTVvBtyUvj5wNH1UYWRIVfvMOTnmevEhANSbPGO1sR3ZQgPd7HpCvRGhSTNkR3BnmZs3WNZLQccyDCwHRMwQ";
+                width = 430;
+            }
+        );
+        rating = "3.8";
+        reference = "CoQBdgAAAGkYe-b9R9F7p5NOv21dD8pPPa-adbnsBXzokDaPw1yjSwpXNmHaoJEx50dNyR3M6LJY9ilMl59XTNDk1irSDlr8yNhuABLi3i8H87bGsFbnDBXP0hFG8PF3cq_vVwqzuM7Se8QjEpGBqZZPuzCDBhF-u2xs-Gv3unq0kazZWmkWEhDgof-LEOZM0Ie9ibEPEqmbGhTYI75Gw5pwGoqLjJoMdaAe72bbqw";
+        reviews =         (
+                        {
+                aspects =                 (
+                                        {
+                        rating = 0;
+
+                        type = overall;
+                    }
+                );
+                "author_name" = "A Google User";
+                text = "No fitness room and I got frozen lamb for dinner. Rooms are ok. Personnel is friendly.";
+                time = 1294872799;
+            },
+                        {
+                aspects =                 (
+                                        {
+                        rating = 3;
+                        type = quality;
+                    },
+                                        {
+                        rating = 3;
+                        type = facilities;
+                    },
+                                        {
+                        rating = 2;
+                        type = service;
+                    }
+                );
+                "author_name" = "Marcin Olearczyk";
+                "author_url" = "https://plus.google.com/118120093964234559963";
+                text = "Von aussen wie ein Krankenhaus aber innen super tolle Zimmer ne sch\U00f6ne ruhige Lage und nach Hel.20min Empfehlungswert dermo";
+                time = 1340660969;
+            },
+                        {
+                aspects =                 (
+                                        {
+                        rating = 1;
+                        type = quality;
+                    },
+                                        {
+                        rating = 1;
+                        type = facilities;
+                    },
+                                        {
+                        rating = 2;
+                        type = service;
+                    }
+                );
+                "author_name" = "Yikai Fang";
+                "author_url" = "https://plus.google.com/109102516998212410173";
+                text = "slippers for guest and electrical water pot";
+                time = 1365664600;
+            },
+                        {
+                aspects =                 (
+                                        {
+                        rating = 3;
+                        type = overall;
+                    }
+                );
+                "author_name" = "A Google User";
+                text = "Das Hotel liegt zwar nicht direkt in Helsinki, das Stadtzentrum ist jedoch per Bus in 20 Minuten erreichbar. Die Zimmer sind sauber und gem\U00fctlich, das Fr\U00fchst\U00fcck l\U00e4sst keine W\U00fcnsche offen. Freundliches Personal, sp\U00e4ter Checkout m\U00f6glich, kostenloser Internetzugang - also alles hat gepasst. Empfehlenswert!";
+                time = 1255687022;
+            },
+                        {
+                aspects =                 (
+                                        {
+                        rating = 2;
+                        type = overall;
+                    }
+                );
+                "author_name" = "A Google User";
+                text = "Zu der Zeit, wo ich da war sollte es renoviert werden. Die Lage am See ist super.";
+                time = 1298905492;
+            }
+        );
+        types =         (
+            bar,
+            restaurant,
+            lodging,
+            food,
+            health,
+            spa,
+            establishment
+        );
+        url = "https://plus.google.com/104283328658836546764/about?hl=en-US";
+        "utc_offset" = 180;
+        vicinity = "Otaranta 2, Espoo";
+        website = "http://www.radissonblu.com/hotel-espoo";
+    };
+    status = OK;
+}
+
+2013-04-24 10:26:24.484 Google[11333:907] {
+}
+2013-04-24 10:26:24.609 Google[11333:907] Google Places JSON response: {
+    "html_attributions" =     (
+    );
+    result =     {
+        "address_components" =         (
+                        {
+                "long_name" = 2;
+                "short_name" = 2;
+                types =                 (
+                    "street_number"
+                );
+            },
+                        {
+                "long_name" = Munkkiniemenranta;
+                "short_name" = Munkkiniemenranta;
+                types =                 (
+                    route
+                );
+            },
+                        {
+                "long_name" = Helsinki;
+                "short_name" = Helsinki;
+                types =                 (
+                    locality,
+                    political
+                );
+            },
+                        {
+                "long_name" = FI;
+                "short_name" = FI;
+                types =                 (
+                    country,
+                    political
+                );
+            },
+                        {
+                "long_name" = 00330;
+                "short_name" = 00330;
+                types =                 (
+                    "postal_code"
+                );
+            }
+        );
+        "formatted_address" = "Munkkiniemenranta 2, Helsinki, Finland";
+        "formatted_phone_number" = "09 484250";
+        geometry =         {
+            location =             {
+                lat = "60.194492";
+                lng = "24.87103";
+            };
+        };
+        icon = "http://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png";
+        id = 2730977349896b23dfc4bdad0b094c51ff0cb4b6;
+        "international_phone_number" = "+358 9 484250";
+        name = Torpanranta;
+        rating = 4;
+        reference = "CnRqAAAAchWC1jyWdfpBRwNl7VPou7cVygu1zFxLCggCeP2nCAUDvWnsDR1aYVQizcoxYF4bhm1sV6ftTKcYlLyvVIxPbkiCt4nVn3VDwQGDvr5Uq6rwWdyKD0LeIdDbMs5d38QGiDbU-vtldn2jfkEPzb6GaxIQFaqowC6O2C_Inti7BlXFYhoUDGGvk4drpf76lgKmzNjDu1MW3sI";
+        reviews =         (
+                        {
+                aspects =                 (
+                                        {
+                        rating = 3;
+                        type = food;
+                    },
+                                        {
+                        rating = 3;
+                        type = decor;
+                    },
+                                        {
+                        rating = 3;
+                        type = service;
+                    }
+                );
+                "author_name" = "Jarmo Laine";
+                "author_url" = "https://plus.google.com/109645472756970540289";
+                text = "Tested only the sallads, two times now. Excellent fillings. Great views.";
+                time = 1342974928;
+            },
+                        {
+                aspects =                 (
+                                        {
+                        rating = 2;
+                        type = overall;
+                    }
+                );
+                "author_name" = "Andriy Tymchenko";
+                "author_url" = "https://plus.google.com/107843338665866148306";
+                text = "while food and service are average, it is all overwhelmingly compensated by spectacular view on bay, only birds are slight disturbance. love to come to this place.";
+                time = 1296662932;
+            },
+                        {
+                aspects =                 (
+                                        {
+                        rating = 2;
+                        type = overall;
+                    }
+                );
+                "author_name" = "A Google User";
+                text = "Great views and atmosphere.";
+                time = 1289897988;
+            },
+                        {
+                aspects =                 (
+                                        {
+                        rating = 1;
+                        type = food;
+                    },
+                                        {
+                        rating = 1;
+                        type = decor;
+                    },
+                                        {
+                        rating = 3;
+                        type = service;
+                    }
+                );
+                "author_name" = "Pasi Nyberg";
+                "author_url" = "https://plus.google.com/115614897917433816260";
+                text = "Kyll\U00e4h\U00e4n t\U00e4\U00e4ll\U00e4 kelpaa k\U00e4yd\U00e4. Komeat maisemat antaa hyv\U00e4n viihtyvyyden terassille.";
+                time = 1349006218;
+            },
+                        {
+                aspects =                 (
+                                        {
+                        rating = 2;
+                        type = overall;
+                    }
+                );
+                "author_name" = "A Google User";
+                text = "";
+                time = 1307892888;
+            }
+        );
+        types =         (
+            restaurant,
+            food,
+            establishment
+        );
+        url = "https://plus.google.com/113074523569154690569/about?hl=en-US";
+        "utc_offset" = 180;
+        vicinity = "Munkkiniemenranta 2, Helsinki";
+        website = "http://www.torpanranta.fi/";
+    };
+    status = OK;
+}
+
+2013-04-24 10:26:32.666 Google[11333:907] {
+}
+2013-04-24 10:26:32.886 Google[11333:907] Google Places JSON response: {
+    "html_attributions" =     (
+    );
+    result =     {
+        "address_components" =         (
+                        {
+                "long_name" = 6;
+                "short_name" = 6;
+                types =                 (
+                    "street_number"
+                );
+            },
+                        {
+                "long_name" = Gyldenintie;
+                "short_name" = Gyldenintie;
+                types =                 (
+                    route
+                );
+            },
+                        {
+                "long_name" = Helsinki;
+                "short_name" = Helsinki;
+                types =                 (
+                    locality,
+                    political
+                );
+            },
+                        {
+                "long_name" = Uusimaa;
+                "short_name" = Uusimaa;
+                types =                 (
+                    "administrative_area_level_1",
+                    political
+                );
+            },
+                        {
+                "long_name" = FI;
+                "short_name" = FI;
+                types =                 (
+                    country,
+                    political
+                );
+            },
+                        {
+                "long_name" = 00200;
+                "short_name" = 00200;
+                types =                 (
+                    "postal_code"
+                );
+            }
+        );
+        "formatted_address" = "Gyldenintie 6, Helsinki, Finland";
+        "formatted_phone_number" = "020 7424260";
+        geometry =         {
+            location =             {
+                lat = "60.160351";
+                lng = "24.877392";
+            };
+        };
+        icon = "http://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png";
+        id = d72ce1355c717c621020b3e468d344eba48e99a3;
+        "international_phone_number" = "+358 20 7424260";
+        name = "Ravintola Casa Mare";
+        rating = "4.1";
+        reference = "CoQBcgAAAHAdX2UDqz_AaZ7Gape0UdSvqbLNXWs4d2YOBmW9-JRxQiYW-Y0DfRL_olNorDvPRusDtbaJEWOjxfuVp_mnvEok9f9ZUvce-JEyG7V_9RfeRlLcFu9JKXfgDW0LoKAH3KuSWCPMhz4xKylR0wR7dxoqy5oMB5T2HjuQ7vbXZVFkEhB35fSWtAZJHJ5LlRK7Fk8rGhR71mHp0BW2_8VUQ2KU3IUeZOXXXA";
+        reviews =         (
+                        {
+                aspects =                 (
+                                        {
+                        rating = 2;
+                        type = food;
+                    },
+                                        {
+                        rating = 2;
+                        type = decor;
+                    },
+                                        {
+                        rating = 3;
+                        type = service;
+                    }
+                );
+                "author_name" = "Jan David";
+                "author_url" = "https://plus.google.com/114017678281129862440";
+                text = "Good pizza for 12e. Really nice service.";
+                time = 1343749494;
+            },
+                        {
+                aspects =                 (
+                                        {
+                        rating = 3;
+                        type = overall;
+                    }
+                );
+                "author_name" = "Janne Kiviluoto";
+                "author_url" = "https://plus.google.com/112624627228101416176";
+                text = "Excellent arctic char, good beer, nice service. No complaints at all.";
+                time = 1312649885;
+            },
+                        {
+                aspects =                 (
+                                        {
+                        rating = 3;
+                        type = food;
+                    },
+                                        {
+                        rating = 3;
+                        type = decor;
+                    },
+                                        {
+                        rating = 3;
+                        type = service;
+                    }
+                );
+                "author_name" = "Roland Kreegim\U00e4e";
+                "author_url" = "https://plus.google.com/100841963928161370296";
+                text = "Yksi parhaista Lauttasaaren ravintoloista.";
+                time = 1339685647;
+            },
+                        {
+                aspects =                 (
+                                        {
+                        rating = 2;
+                        type = overall;
+                    }
+                );
+                "author_name" = "A Google User";
+                text = "Quite expensive but to food and atmosphere are excellent";
+                time = 1291452220;
+            },
+                        {
+                aspects =                 (
+                                        {
+                        rating = 1;
+                        type = overall;
+                    }
+                );
+                "author_name" = "A Google User";
+                text = "Nice salad buffet, quite expensive though.";
+                time = 1295203513;
+            }
+        );
+        types =         (
+            restaurant,
+            food,
+            establishment
+        );
+        url = "https://plus.google.com/104718937075327590939/about?hl=en-US";
+        "utc_offset" = 180;
+        vicinity = "Gyldenintie 6, Helsinki";
+        website = "http://www.ravintolacasamare.com/";
+    };
+    status = OK;
+}
+
+2013-04-24 10:26:38.107 Google[11333:907] {
+}
+2013-04-24 10:26:38.418 Google[11333:907] Google Places JSON response: {
+    "html_attributions" =     (
+    );
+    result =     {
+        "address_components" =         (
+                        {
+                "long_name" = 16;
+                "short_name" = 16;
+                types =                 (
+                    "street_number"
+                );
+            },
+                        {
+                "long_name" = Louhentie;
+                "short_name" = Louhentie;
+                types =                 (
+                    route
+                );
+            },
+                        {
+                "long_name" = Espoo;
+                "short_name" = Espoo;
+                types =                 (
+                    locality,
+                    political
+                );
+            },
+                        {
+                "long_name" = FI;
+                "short_name" = FI;
+                types =                 (
+                    country,
+
+                    political
+                );
+            },
+                        {
+                "long_name" = 02130;
+                "short_name" = 02130;
+                types =                 (
+                    "postal_code"
+                );
+            }
+        );
+        "formatted_address" = "Louhentie 16, Espoo, Finland";
+        "formatted_phone_number" = "09 460427";
+        geometry =         {
+            location =             {
+                lat = "60.187464";
+                lng = "24.797033";
+            };
+        };
+        icon = "http://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png";
+        id = 1732c5598355aeebba5f2fec7cad7d32bb401913;
+        "international_phone_number" = "+358 9 460427";
+        name = "El Toro Ravintola Oy";
+        photos =         (
+                        {
+                height = 466;
+                "html_attributions" =                 (
+                    "<a href=\"https://plus.google.com/115742877486940757946\">Jari Petersen-Jessen</a>"
+                );
+                "photo_reference" = "CnRoAAAAepRJBGYttFvzF-7tx_cqCQ559TTvyVnmYF-dg-iDOCNdNkVfrhb5_srhRP-fcOs3e0vmr6u83hkXYFqii1saK_G8Q92jDMq-Emqc1vC7uekpbWbcUUJ-KB4Z8V-3LWUeAlem-d603GSfIWcISzW5QhIQULlkxgR-HJ24djEde7Ei-xoUo-MAkBdMTX3LXQ5U1HlOYxtuQGk";
+                width = 571;
+            },
+                        {
+                height = 2448;
+                "html_attributions" =                 (
+                    "From a Google User"
+                );
+                "photo_reference" = "CoQBdQAAAHYaM1pBZskXQkJ3yOdDL5A87uETW8r4fOl-8QM4SDLuOWoUAg22exh1e9be4v_2Dt9UUwd9edk54OUvXSlBP3ZjbS2ZpgGTMcr8oWz0Mve8mfPHp-4q-c84dZf2Jr51PFd4nW6M3lHSnSbYs3Z3UR6WNR8f53wQExEo5QWs55uZEhA1H6qR-nbOgHW8pqVS08k8GhS8HUY38TMJ_oJ9OIf3seQ-RkEyWA";
+                width = 3264;
+            },
+                        {
+                height = 864;
+                "html_attributions" =                 (
+                    "From a Google User"
+                );
+                "photo_reference" = "CoQBdQAAAP-23SAN1A66j7aCj_c3Ds4NNMMWsrScK76sypGglgpijht4hbmLQE9FHbFJzfuzuM1JTapz7J9xCRvLv5IadNaYdc7gicIlgRxosT5qNSis-DRbPxDSs6vVCFkcFKEnfJSTtW2IkyCVO_HBca89MSeVTZNTs6dBkkTawaFU4Z1DEhCeNzXvrqaB_9O06GyRV2tNGhTOCzlChllqrArnS8rJQki29JtxyQ";
+                width = 1296;
+            }
+        );
+        rating = 4;
+        reference = "CoQBcgAAACi08pVRJA3FjyiZLK5XBNGTL29ZdeP1p0K7R2zzO5__MWuoWAt0sr6cASNQkiV1i0_7luOUk2HZ5L_fAbdCoAh2XOH2BhHsBgoml70RCEUkQwlr1Kz0_BPLyHGwfBBmdB4FelFql3siMHUoaQt9MG2FbhKcoV3-DUdnAn5GIX9SEhBtTFEzEKp7odxoYsPaFeSvGhQhDYxoB6I-XmpF7E-yZwGUoPe52g";
+        reviews =         (
+                        {
+                aspects =                 (
+                                        {
+                        rating = 2;
+                        type = overall;
+                    }
+                );
+                "author_name" = "Robin Laur\U00e9n";
+                "author_url" = "https://plus.google.com/104557678791651362600";
+                text = "Beef for Real Men (and Real Women) who don&#39;t mind a coma for the rest of the day. Yeah, the portions are big. Well worth a visit once or twice a year.";
+                time = 1313058027;
+            },
+                        {
+                aspects =                 (
+                                        {
+                        rating = 2;
+                        type = overall;
+                    }
+                );
+                "author_name" = "A Google User";
+                text = "I recommend the Oscar&#39;s steak, enormous piece of meat with a tasty crust, hidden beneath a huge pile of crisps topped with mayo and shrimp. The price range might be a bit too high and during busy hours (especially weekends) it takes a while to get food under your nose, but it&#39;s worth it.";
+                time = 1280416594;
+            },
+                        {
+                aspects =                 (
+                                        {
+                        rating = 3;
+                        type = food;
+                    },
+                                        {
+                        rating = 1;
+                        type = decor;
+                    },
+                                        {
+                        rating = 2;
+                        type = service;
+                    }
+                );
+                "author_name" = "Jari Petersen-Jessen";
+                "author_url" = "https://plus.google.com/115742877486940757946";
+                text = "Oskarin leike on aivan erinomainen valinta my\U00f6s salaatilla!";
+                time = 1359316336;
+            },
+                        {
+                aspects =                 (
+                                        {
+                        rating = 0;
+                        type = food;
+                    },
+                                        {
+                        rating = 1;
+                        type = decor;
+                    },
+                                        {
+                        rating = 1;
+                        type = service;
+                    }
+                );
+                "author_name" = "Ewa Heiskanen";
+                "author_url" = "https://plus.google.com/114342224406024225377";
+                text = "Liha hyvin sitke\U00e4";
+                time = 1339312873;
+            },
+                        {
+                aspects =                 (
+                                        {
+                        rating = 2;
+                        type = overall;
+                    }
+                );
+                "author_name" = "Janne Liimatainen";
+                "author_url" = "https://plus.google.com/113068629282153527038";
+                text = "Reilut annokset. Liha on hyv\U00e4\U00e4 ja hyvin paistettua. Keskiviikon lounaspossu on hintalaatusuhteeltaan ly\U00f6m\U00e4t\U00f6n.";
+                time = 1296629884;
+            }
+        );
+        types =         (
+            restaurant,
+            food,
+            establishment
+        );
+        url = "https://plus.google.com/103619554909547276830/about?hl=en-US";
+        "utc_offset" = 180;
+        vicinity = "Louhentie 16, Espoo";
+        website = "http://www.grillitoro.fi/";
+    };
+    status = OK;
+}
+
+2013-04-24 10:26:40.443 Google[11333:907] {
+}
+2013-04-24 10:26:40.668 Google[11333:907] Google Places JSON response: {
+    "html_attributions" =     (
+    );
+    result =     {
+        "address_components" =         (
+                        {
+                "long_name" = 2;
+                "short_name" = 2;
+                types =                 (
+                    "street_number"
+                );
+            },
+                        {
+                "long_name" = Louhentie;
+                "short_name" = Louhentie;
+                types =                 (
+                    route
+                );
+            },
+                        {
+                "long_name" = Espoo;
+                "short_name" = Espoo;
+                types =                 (
+                    locality,
+                    political
+                );
+            },
+                        {
+                "long_name" = FI;
+                "short_name" = FI;
+                types =                 (
+                    country,
+                    political
+                );
+            },
+                        {
+                "long_name" = 02130;
+                "short_name" = 02130;
+                types =                 (
+                    "postal_code"
+                );
+            }
+        );
+        "formatted_address" = "Louhentie 2, Espoo, Finland";
+        "formatted_phone_number" = "09 4556191";
+        geometry =         {
+            location =             {
+                lat = "60.183399";
+                lng = "24.794662";
+            };
+        };
+        icon = "http://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png";
+        id = 85362f45e4ebcff335bd8d3b06ce0935f0b42829;
+        "international_phone_number" = "+358 9 4556191";
+        name = "Ravintola Pizzeria San Luca";
+        rating = "4.3";
+        reference = "CoQBeQAAAHN55Nh41tiM1VyEkCH93IrA7Ac4Yii7mPRtGxvoj3kZgBkiY1uccGYRMQbi5B9VBdLVrClkafvaRiVGXhoArJqe7chBmWREdhZmbS5UroWmVwdogjthOfJTrhoBzbdMg57IR47p7Q4xC2T39rID-mj_h1InukAiXai78mBsEOSQEhAtVC3qikmn-b4Yri59yZ4jGhR-qbDmIRzwa5WYVe9gi0GCDjhG-w";
+        reviews =         (
+                        {
+                aspects =                 (
+                                        {
+                        rating = 3;
+                        type = overall;
+                    }
+                );
+                "author_name" = "A Google User";
+                text = "Paras ruokapaikka Espoossa, hinnat kohdallaan ja nopea palvelu";
+                time = 1295713627;
+            },
+                        {
+                aspects =                 (
+                                        {
+                        rating = 1;
+                        type = overall;
+                    }
+                );
+                "author_name" = "A Google User";
+                text = "Lounasaikaan usein tukossa, pitsat on ok ja salaattip\U00f6yt\U00e4 huomattavasti keskim\U00e4\U00e4r\U00e4ist\U00e4 parempi.";
+                time = 1293402636;
+            },
+                        {
+                aspects =                 (
+                                        {
+                        rating = 2;
+                        type = food;
+                    },
+                                        {
+                        rating = 1;
+                        type = decor;
+                    },
+                                        {
+                        rating = 2;
+                        type = service;
+                    }
+                );
+                "author_name" = "Sami T\U00e4htinen";
+                "author_url" = "https://plus.google.com/105187249096345887171";
+                text = "";
+                time = 1345753784;
+            },
+                        {
+                aspects =                 (
+                                        {
+                        rating = 3;
+                        type = overall;
+                    }
+                );
+                "author_name" = "A Google User";
+                text = "";
+                time = 1336596055;
+            },
+                        {
+                aspects =                 (
+                                        {
+                        rating = 2;
+                        type = overall;
+                    }
+                );
+                "author_name" = "A Google User";
+                text = "";
+                time = 1303629169;
+            }
+        );
+        types =         (
+            restaurant,
+            food,
+            establishment
+        );
+        url = "https://plus.google.com/107936023126651450435/about?hl=en-US";
+        "utc_offset" = 180;
+        vicinity = "Louhentie 2, Espoo";
+        website = "http://www.sanluca.fi/";
+    };
+    status = OK;
+}
+
+2013-04-24 10:26:43.829 Google[11333:907] {
+}
+2013-04-24 10:26:43.961 Google[11333:907] Google Places JSON response: {
+    "html_attributions" =     (
+    );
+    result =     {
+        "address_components" =         (
+                        {
+                "long_name" = 4;
+                "short_name" = 4;
+                types =                 (
+                    "street_number"
+                );
+            },
+                        {
+                "long_name" = Elfvikintie;
+                "short_name" = Elfvikintie;
+                types =                 (
+                    route
+                );
+            },
+                        {
+                "long_name" = Espoo;
+                "short_name" = Espoo;
+                types =                 (
+                    locality,
+                    political
+                );
+            },
+                        {
+                "long_name" = FI;
+                "short_name" = FI;
+                types =                 (
+                    country,
+                    political
+                );
+            },
+                        {
+                "long_name" = 02600;
+                "short_name" = 02600;
+                types =                 (
+                    "postal_code"
+                );
+            }
+        );
+        "formatted_address" = "Elfvikintie 4, Espoo, Finland";
+        "formatted_phone_number" = "09 81654400";
+        geometry =         {
+            location =             {
+                lat = "60.201927";
+                lng = "24.822546";
+            };
+        };
+        icon = "http://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png";
+        id = 056b33af54062dbc1c17018d8de92f4848c24be0;
+        "international_phone_number" = "+358 9 81654400";
+        name = "Villa Elfvik";
+        photos =         (
+                        {
+                height = 1593;
+                "html_attributions" =                 (
+                    "<a href=\"https://plus.google.com/106823782696889052443\">Raino Lampinen</a>"
+                );
+                "photo_reference" = "CrQBsAAAAGil9CMMm6WHv4GgUOMvmEHerifo_Z2Bj39TN5om0oSdpReszdnlKASYiU4SdG0qN8hVwUwT6H42_5xHSrGTLisfZEx0qX2y_Js9n23cKzIdDr4_ipl5eSLPcflScxJyTa3g2IzYFXmJ31bi3chnUH4_09kKJ3JKlRCSk75_LtEDmbcORrs8mDS5JUrcx5m042uXhqmwlCrlNcelqk85BJFBdnTsxuVZfn0j--4-H3pIEhAwmbo3XDw1ICcoxA7t1OyEGhQ_xiZMfvGrDjpzvwVZhZFeo6KjCQ";
+                width = 2048;
+            },
+                        {
+                height = 1365;
+                "html_attributions" =                 (
+                    "<a href=\"https://plus.google.com/106823782696889052443\">Raino Lampinen</a>"
+                );
+                "photo_reference" = "CqQBoAAAABoevp0X2GCUoYAZSP-p_iJUTfAWynpgnOTNPo7h2KJ-fT693Z1R0Q-cRIv2C-uP2GXDEPkfqoFQONxpxgFmpxbh8dPugeKKZYdsfvw9BS4-CxFrGkWDrez7xB0CDPYSdR4JPG5lhBZEIRc5DnsGfAsNPrIN7lGuu7ZobqlY6-UmYbnpwQdY-4oWq8_aW_ph4xpAKd4dJ3DgPyf3-OkCm2ISEJAg9lcLcBsSL2ovgJQuNEkaFPGJyLjHVWdwpn6cQdLpW12ndgrE";
+                width = 2048;
+            }
+        );
+        reference = "CnRrAAAABJCUIQd98zBoTYO8Tsf2NInpTSwbFLj_akGIU17kMqCxpUblVRuH4zJf6oX4UFD9zbooc9-sTWLN8skE8UTX64BJs0scd9vBR4LTZXjy11R6RY0VKRD7GoqsQ_XBcG9THmgp9bAariHIFBc8uvZOcxIQ-OvcroNhkbVdgUdSpzZ25BoUmGMjldecuBcMNjyEpB_FyXvb0Rs";
+        reviews =         (
+                        {
+                aspects =                 (
+                                        {
+                        rating = 3;
+                        type = overall;
+                    }
+                );
+                "author_name" = "Niko Lewman";
+                "author_url" = "https://plus.google.com/111804189232979128676";
+                text = "";
+                time = 1303039085;
+            },
+                        {
+                aspects =                 (
+                                        {
+                        rating = 3;
+                        type = overall;
+                    }
+                );
+                "author_name" = "A Google User";
+                text = "";
+                time = 1307277068;
+            }
+        );
+        types =         (
+            restaurant,
+            food,
+            establishment
+        );
+        url = "https://plus.google.com/102699104990862497708/about?hl=en-US";
+        "utc_offset" = 180;
+        vicinity = "Elfvikintie 4, Espoo";
+        website = "http://www.espoo.fi/villaelfvik";
+    };
+    status = OK;
+}
+
+2013-04-24 10:26:46.212 Google[11333:907] {
+}
+2013-04-24 10:26:46.326 Google[11333:907] Google Places JSON response: {
+    "html_attributions" =     (
+    );
+    result =     {
+        "address_components" =         (
+                        {
+                "long_name" = 6;
+                "short_name" = 6;
+                types =                 (
+                    "street_number"
+                );
+            },
+                        {
+                "long_name" = Niittymaantie;
+                "short_name" = Niittymaantie;
+                types =                 (
+                    route
+                );
+            },
+                        {
+                "long_name" = Espoo;
+                "short_name" = Espoo;
+                types =                 (
+                    locality,
+                    political
+                );
+            },
+                        {
+                "long_name" = Espoo;
+                "short_name" = Espoo;
+                types =                 (
+                    "administrative_area_level_2",
+                    political
+                );
+            },
+                        {
+                "long_name" = FI;
+                "short_name" = FI;
+                types =                 (
+                    country,
+                    political
+                );
+            },
+                        {
+                "long_name" = 02200;
+                "short_name" = 02200;
+                types =                 (
+                    "postal_code"
+                );
+            }
+        );
+        "formatted_address" = "Niittymaantie 6, Espoo, Finland";
+        "formatted_phone_number" = "09 4522452";
+        geometry =         {
+            location =             {
+                lat = "60.171067";
+                lng = "24.778613";
+            };
+        };
+        icon = "http://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png";
+        id = 3fe49dabf6ddbf0118213e0a27a000b14d502cce;
+        "international_phone_number" = "+358 9 4522452";
+        name = "McDonald's";
+        "opening_hours" =         {
+            "open_now" = 1;
+            periods =             (
+                                {
+                    open =                     {
+                        day = 0;
+                        time = 0000;
+                    };
+                }
+            );
+        };
+        "price_level" = 1;
+        rating = 4;
+        reference = "CnRoAAAALzQWBXccwLh5EaVX3uXsbYuolzMKYYm53NXr1BBFMmBfEcqf3kYNZvJH_cO6flwmfTp_novoflATuLU6SiyDmBjm9MUSqXh6sxRnSs-Isznz0eazW4uz-kHug_m9dbQsnvid5BB0YGwIPiDfhjmBDxIQyX4k1_FUQaIN5SGHeyLNMxoUGcj2-cDoFc5r6cAiv_EhSq4NNvI";
+        reviews =         (
+                        {
+                aspects =                 (
+                                        {
+                        rating = 1;
+                        type = food;
+                    },
+                                        {
+                        rating = 1;
+                        type = decor;
+                    },
+                                        {
+                        rating = 0;
+                        type = service;
+                    }
+                );
+                "author_name" = "A Google User";
+                text = "POOOR SERVICE!!! Daytime restaurant was empty, but we had to wait servise 7 min. nobody care to take our orders even. We left empty handed.";
+                time = 1356676446;
+            },
+                        {
+                aspects =                 (
+                                        {
+                        rating = 3;
+                        type = overall;
+                    }
+                );
+                "author_name" = "A Google User";
+                text = "Hyv\U00e4\U00e4 roskaruokaa!";
+                time = 1301845106;
+            },
+                        {
+                aspects =                 (
+                                        {
+                        rating = 3;
+                        type = food;
+                    },
+                                        {
+                        rating = 3;
+                        type = decor;
+                    },
+                                        {
+                        rating = 3;
+                        type = service;
+                    }
+                );
+                "author_name" = "mikko laiho";
+                "author_url" = "https://plus.google.com/106403539131346161147";
+                text = "Hyv\U00e4\U00e4 roskaruokaa halvalla";
+                time = 1354564883;
+            },
+                        {
+                aspects =                 (
+                                        {
+                        rating = 2;
+                        type = overall;
+                    }
+                );
+                "author_name" = "Santeri Leppinen";
+                "author_url" = "https://plus.google.com/111611034020082540516";
+                text = "1955 hampurilaine l\U00e4hti";
+                time = 1335293697;
+            },
+                        {
+                aspects =                 (
+                                        {
+                        rating = 3;
+                        type = overall;
+                    }
+                );
+                "author_name" = "Antti Elonheimo";
+                "author_url" = "https://plus.google.com/100362256011209321059";
+                text = "";
+                time = 1296725819;
+            }
+        );
+        types =         (
+            restaurant,
+            food,
+            establishment
+        );
+        url = "https://plus.google.com/105518318374321579072/about?hl=en-US";
+        "utc_offset" = 180;
+        vicinity = "Niittymaantie 6, Espoo";
+        website = "http://www.mcdonalds.fi/";
+    };
+    status = OK;
+}
+
+2013-04-24 10:26:49.441 Google[11333:907] {
+}
+2013-04-24 10:26:49.560 Google[11333:907] Google Places JSON response: {
+    "html_attributions" =     (
+    );
+    result =     {
+        "address_components" =         (
+                        {
+                "long_name" = 3;
+                "short_name" = 3;
+                types =                 (
+                    "street_number"
+                );
+            },
+                        {
+                "long_name" = Kalevalantie;
+                "short_name" = Kalevalantie;
+                types =                 (
+                    route
+                );
+            },
+                        {
+                "long_name" = Espoo;
+                "short_name" = Espoo;
+                types =                 (
+                    locality,
+                    political
+                );
+            },
+                        {
+                "long_name" = Uusimaa;
+                "short_name" = Uusimaa;
+                types =                 (
+                    "administrative_area_level_1",
+                    political
+                );
+            },
+                        {
+                "long_name" = FI;
+                "short_name" = FI;
+                types =                 (
+                    country,
+                    political
+                );
+            },
+                        {
+                "long_name" = 02100;
+                "short_name" = 02100;
+                types =                 (
+                    "postal_code"
+                );
+            }
+        );
+        "formatted_address" = "Kalevalantie 3, Espoo, Finland";
+        "formatted_phone_number" = "010 7666930";
+        geometry =         {
+            location =             {
+                lat = "60.185359";
+                lng = "24.807661";
+            };
+        };
+        icon = "http://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png";
+        id = 000655f6ef340a4b8b0e7c520f12bef89eb82d14;
+        "international_phone_number" = "+358 10 7666930";
+        name = ABC;
+        reference = "CnRiAAAA-sbGlmE0rjSvFEO7luPke3fFlcovHqlwqsFK_YjzNO2bl6V-0m0ptLL29w87YQlN9WVIsOJIbDyAqVvMV0xQ7pkC9U_qdgEsfkg-HZZ4OFkdWOxkTFI9T8igrj7hwiuPGW8gwl_So9n5vAE4ebXfrxIQ2QVO1Gs5EJc104zI31H4ZxoUXwFOQJHyDJ4yXZnewposAw1UNWI";
+        reviews =         (
+                        {
+                aspects =                 (
+                                        {
+                        rating = 1;
+                        type = overall;
+                    }
+                );
+                "author_name" = "A Google User";
+                text = "";
+                time = 1296654023;
+            }
+        );
+        types =         (
+            store,
+            restaurant,
+            food,
+            "gas_station",
+            establishment
+        );
+        url = "https://plus.google.com/112443433804275110059/about?hl=en-US";
+        "utc_offset" = 180;
+        vicinity = "Kalevalantie 3, Espoo";
+        website = "http://www.abcasemat.fi/";
+    };
+    status = OK;
+}
+
+2013-04-24 10:26:52.609 Google[11333:907] {
+}
+2013-04-24 10:26:52.727 Google[11333:907] Google Places JSON response: {
+    "html_attributions" =     (
+    );
+    result =     {
+        "address_components" =         (
+                        {
+                "long_name" = 19;
+                "short_name" = 19;
+                types =                 (
+                    "street_number"
+                );
+            },
+                        {
+                "long_name" = Laajalahdentie;
+                "short_name" = Laajalahdentie;
+                types =                 (
+                    route
+                );
+            },
+                        {
+                "long_name" = Helsinki;
+                "short_name" = Helsinki;
+                types =                 (
+                    locality,
+                    political
+                );
+            },
+                        {
+                "long_name" = FI;
+                "short_name" = FI;
+                types =                 (
+                    country,
+                    political
+                );
+            },
+                        {
+                "long_name" = 00330;
+                "short_name" = 00330;
+                types =                 (
+                    "postal_code"
+                );
+            }
+        );
+        "formatted_address" = "Laajalahdentie 19, Helsinki, Finland";
+        "formatted_phone_number" = "09 482710";
+        geometry =         {
+            location =             {
+                lat = "60.199606";
+                lng = "24.877374";
+            };
+        };
+        icon = "http://maps.gstatic.com/mapfiles/place_api/icons/bar-71.png";
+        id = 54767c1fa0ea5a6def5b9b48e50e26e7aa894fec;
+        "international_phone_number" = "+358 9 482710";
+        name = "MR.JJ Ravintolat Oy";
+        rating = "3.6";
+        reference = "CoQBcQAAAL_RnGMQQF35TBe80BRN4pdySC_MFhj0P1cbknOpYyncLy97axlj_-44YqMK2ueOYZlINdX5Sd4-iJc26EgPm49rJlKy4DxvzTHGJRsSszSAQpcKPED1BZfOBD9333EI77yMoyDZ5K3i2xLpld7KwEAxqEbQ1-U5p8piEPvIT6jMEhCF8FrQGcmaaH3XPtGeoOrNGhQdMuQA58gdvrMvDowtuRVVK1c0Rw";
+        reviews =         (
+                        {
+                aspects =                 (
+                                        {
+                        rating = 1;
+                        type = overall;
+                    }
+                );
+                "author_name" = "A Google User";
+                text = "An average kebab-pizzeria in a nice place. It&#39;s possible also to drink beer and eat steak. The quality of the food is decent for the price but don&#39;t expect real restaurant experience or quality. If you are looking for them there is much better places quite near here.";
+                time = 1330983128;
+            },
+                        {
+                aspects =                 (
+                                        {
+                        rating = 0;
+                        type = overall;
+                    }
+                );
+                "author_name" = "A Google User";
+                text = "Huono palvelu,ylimielinen omistaja";
+                time = 1314639049;
+            },
+                        {
+                aspects =                 (
+                                        {
+                        rating = 3;
+                        type = overall;
+                    }
+                );
+                "author_name" = "A Google User";
+                text = "+++++";
+                time = 1318957669;
+            }
+        );
+        types =         (
+            bar,
+            restaurant,
+            food,
+            establishment
+        );
+        url = "https://plus.google.com/107117431260527723918/about?hl=en-US";
+        "utc_offset" = 180;
+        vicinity = "Laajalahdentie 19, Helsinki";
+        website = "http://www.ukko-munkki.fi/";
+    };
+    status = OK;
+}
+
+2013-04-24 10:26:55.200 Google[11333:907] {
+}
+2013-04-24 10:26:55.419 Google[11333:907] Google Places JSON response: {
+    "html_attributions" =     (
+    );
+    result =     {
+        "address_components" =         (
+                        {
+                "long_name" = 22;
+                "short_name" = 22;
+                types =                 (
+                    "street_number"
+                );
+            },
+                        {
+                "long_name" = Otakaari;
+                "short_name" = Otakaari;
+                types =                 (
+                    route
+                );
+            },
+                        {
+                "long_name" = Espoo;
+                "short_name" = Espoo;
+                types =                 (
+                    locality,
+                    political
+                );
+            },
+                        {
+                "long_name" = Espoo;
+                "short_name" = Espoo;
+                types =                 (
+                    "administrative_area_level_2",
+                    political
+                );
+            },
+                        {
+                "long_name" = FI;
+                "short_name" = FI;
+                types =                 (
+                    country,
+                    political
+                );
+            },
+                        {
+                "long_name" = 02150;
+                "short_name" = 02150;
+                types =                 (
+                    "postal_code"
+                );
+            }
+        );
+        "formatted_address" = "Otakaari 22, Espoo, Finland";
+        "formatted_phone_number" = "040 5918961";
+        geometry =         {
+            location =             {
+                lat = "60.18651";
+                lng = "24.833123";
+            };
+        };
+        icon = "http://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png";
+        id = bf1af595174ef6451702909b23bc5e15eb719d4d;
+        "international_phone_number" = "+358 40 5918961";
+        name = "T\U00e4ff\U00e4 AB";
+        photos =         (
+                        {
+                height = 366;
+                "html_attributions" =                 (
+                );
+                "photo_reference" = "CoQBfQAAANOFL0IDYwU6x-KW2grcjZTOyUTr2MyyhZxrYmfljk_5nchE30WIYK2ovOv-4DG8DosPXG58KCMoAwm0jY7iU5WPvCSnEbu74vNEY3C90lCmPaRHHm3vC52htcubsAS0gl2F_If5B-OfB5Z-0dFgzpq3P8JWUjkGKLuXWmZf-OCjEhClEjr3w8u16wTsuM4n4JPBGhS77DV-xU6oK-ggxEfhkKzVJcLkPw";
+                width = 550;
+            },
+                        {
+                height = 366;
+                "html_attributions" =                 (
+                );
+                "photo_reference" = "CoQBegAAADcq8bDKbd3txmcpYVXjsxvf4FgMsPAOu3M-1wvfYB6dZFeToZW74RNGN4qbVrCkVnJiXpfmR5_-hPQuomvDyAoXZyPN_eM_14A9O0MChSJs_jViyeUW8aGLhLKnxAt6DReicGNJZL3VYjAmZYS9QTYVhYG-4AM_mi1FK8nVPIGhEhCZInsURDHYTaSsUgdHk_D6GhSjZpXBcWNQlPvfupDqj_V6i5QOOg";
+                width = 550;
+            },
+                        {
+
+                height = 366;
+                "html_attributions" =                 (
+                );
+                "photo_reference" = "CoQBfQAAAJ-yuyJ8pZPk5R12zMnLhcVi7N0ku8XC5D2C2dEXG521ayTZ3fnLDPtAEDlC_8G5PH3Xvk4skcw66rgHacxWe4Q_jGD6dag-EOqoWq3JF-dQ8e_T9gAv3WrYaJEexSXWLRLAFlevVoAzNTm2qPE_ZwH9RI7AIX3xQ_vbzVxSd74eEhCoFG_mivOnYSik1InuQRExGhRH3N4OOpWhCGpcOL3dmuZLr7WgBQ";
+                width = 550;
+            },
+                        {
+                height = 367;
+                "html_attributions" =                 (
+                );
+                "photo_reference" = "CmRgAAAANsoeQdUBhpzigc9g-iB6ZbCPZn1Gu-d7wKzKAjfZrFLntMSIBB_SgMyB7zh8dM9MM8u5EVdbLrgFQDtXWdzSmuyPkHNAkbOvMSmu_Dv1PqnjUPcidEsdU0iiSrkmdWk7EhB6opiH6HodUI0bPdx-VZw1GhQ3Qg7vIw-CIeymXCnFALilhMH0EA";
+                width = 550;
+            },
+                        {
+                height = 367;
+                "html_attributions" =                 (
+                );
+                "photo_reference" = "CoQBegAAAGif65Y7qbohMyv0F8CSLT-EJJ5x4nb9iEjI_CoTI1X3fIjrybbpva8MY0j2DQ8j4IiqtzGHfoNNt8bifBCOu4cFNItH_1CgRQvACxU2W4DsjjhlWHQegZzZ7Hv6xgrLSVvn7OneXBy3D003CO4jMvSEFHseXOcG-EY24CGHiIwpEhDu76siRdf9O8zFVxrvzraXGhR6kseAA2MqKHAgjFTTvMS20lEJhw";
+                width = 550;
+            }
+        );
+        rating = 4;
+        reference = "CnRpAAAAouMVH-wk49drf5UTHj6Blf9TDwemYe5-BJD6579A8Dtyxc7nD-sD0GOkPvqlzmkJWhOYJiB-C0P40xBMmokBHYaSTZoVsqQ5sqJkh35inmFdkVtaZuxkt6HiqkbjKpDmwbIIT1MQqFClP8SKI7isMhIQtDbh2Hr17FLJEtniMMMCcRoUx2oSVQoI_UUYt_BF9sWcbpg8mnU";
+        reviews =         (
+                        {
+                aspects =                 (
+                                        {
+                        rating = 2;
+                        type = overall;
+                    }
+                );
+                "author_name" = "A Google User";
+                text = "Good food at an affordable price, especially for students. Make sure to visit on Spaghetti-Wednesdays.";
+                time = 1306398133;
+            },
+                        {
+                aspects =                 (
+                                        {
+                        rating = 2;
+                        type = food;
+                    },
+                                        {
+                        rating = 1;
+                        type = decor;
+                    },
+                                        {
+                        rating = 2;
+                        type = service;
+                    }
+                );
+                "author_name" = "Jonathan Ewalds";
+                "author_url" = "https://plus.google.com/105550627822679720179";
+                text = "";
+                time = 1350490072;
+            },
+                        {
+                aspects =                 (
+                                        {
+                        rating = 2;
+                        type = overall;
+                    }
+                );
+                "author_name" = "A Google User";
+                text = "";
+                time = 1322954763;
+            }
+        );
+        types =         (
+            restaurant,
+            food,
+            establishment
+        );
+        url = "https://plus.google.com/112967691289460178693/about?hl=en-US";
+        "utc_offset" = 180;
+        vicinity = "Otakaari 22, Espoo";
+        website = "http://www.taffa.fi/";
+    };
+    status = OK;
+}
+
+2013-04-24 10:26:58.272 Google[11333:907] {
+}
+2013-04-24 10:26:58.486 Google[11333:907] Google Places JSON response: {
+    "html_attributions" =     (
+    );
+    result =     {
+        "address_components" =         (
+                        {
+                "long_name" = 10;
+                "short_name" = 10;
+                types =                 (
+                    "street_number"
+                );
+            },
+                        {
+                "long_name" = "Lars Sonckin kaari";
+                "short_name" = "Lars Sonckin kaari";
+                types =                 (
+                    route
+                );
+            },
+                        {
+                "long_name" = Espoo;
+                "short_name" = Espoo;
+                types =                 (
+                    locality,
+                    political
+                );
+            },
+                        {
+                "long_name" = FI;
+                "short_name" = FI;
+                types =                 (
+                    country,
+                    political
+                );
+            },
+                        {
+                "long_name" = 02600;
+                "short_name" = 02600;
+                types =                 (
+                    "postal_code"
+                );
+            }
+        );
+        "formatted_address" = "Lars Sonckin kaari 10, Espoo, Suomi";
+        "formatted_phone_number" = "040 0317091";
+        geometry =         {
+            location =             {
+                lat = "60.211065";
+                lng = "24.818207";
+            };
+        };
+        icon = "http://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png";
+        id = bbed88a7e48a6fd126e8d8a509515c5014685763;
+        "international_phone_number" = "+358 40 0317091";
+        name = "Kiinteist\U00f6 Oy Stella Parkki";
+        reference = "CoQBegAAAO5VrAnrPyirxKGaxNMnvD3KdrfZsW1QINy_IiWDT89jcOuOFTvDxeUMJ-4b3uC-abe8QYXwbG81t2sF1AUbgtdxn5Vk89YH-9FYAujZjNED69cPbX0DHWDl_Qc3aoL098k6UQzZJ2giQiuH7eWq1G9g-GmJW6p-Zk9RI13S9B7zEhB2eTcqOYyFvlh42xjHCx1oGhRelBLTortv9GRVqQLgwpe1_gIpFg";
+        types =         (
+            restaurant,
+            food,
+            establishment
+        );
+        url = "https://plus.google.com/106680532279984808470/about?hl=en-US";
+        "utc_offset" = 180;
+        vicinity = "Lars Sonckin kaari 10, Espoo";
+        website = "http://www.stellabp.fi/";
+    };
+    status = OK;
+}
+
+2013-04-24 10:27:02.848 Google[11333:907] {
+}
+2013-04-24 10:27:02.960 Google[11333:907] Google Places JSON response: {
+    "html_attributions" =     (
+    );
+    result =     {
+        "address_components" =         (
+                        {
+                "long_name" = 5;
+                "short_name" = 5;
+                types =                 (
+                    "street_number"
+                );
+            },
+                        {
+                "long_name" = Keilaniemi;
+                "short_name" = Keilaniemi;
+                types =                 (
+                    route
+                );
+            },
+                        {
+                "long_name" = Espoo;
+                "short_name" = Espoo;
+                types =                 (
+                    locality,
+                    political
+                );
+            },
+                        {
+                "long_name" = Espoo;
+                "short_name" = Espoo;
+                types =                 (
+                    "administrative_area_level_2",
+                    political
+                );
+            },
+                        {
+                "long_name" = Uusimaa;
+                "short_name" = Uusimaa;
+                types =                 (
+                    "administrative_area_level_1",
+                    political
+                );
+            },
+                        {
+                "long_name" = FI;
+                "short_name" = FI;
+                types =                 (
+                    country,
+                    political
+                );
+            },
+                        {
+                "long_name" = 02150;
+                "short_name" = 02150;
+                types =                 (
+                    "postal_code"
+                );
+            }
+        );
+        "formatted_address" = "Keilaniemi 5, Espoo, Finland";
+        "formatted_phone_number" = "040 3540462";
+        geometry =         {
+            location =             {
+                lat = "60.176846";
+                lng = "24.832713";
+            };
+        };
+        icon = "http://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png";
+        id = 8aaf0cda4174eaa59c33a6f5ac364fe77e2c4fb1;
+        "international_phone_number" = "+358 40 3540462";
+        name = "Keilarannan Helmi Oy";
+        reference = "CoQBcwAAAF0WZDaUhJ8fA99FG3cXgvGfeqXCHe5LEz_3gXrDv4j1ff0XRAdIWhwwcx0-O_Apmee6ZyOo2OFwc8psVwT6MvAVH7iV5-P63XXreTltT2fG17eFmFRy3U9jjY8VZxkq5BVfspIEtjBPojRgv8-Vbi-EE0QGue2nLMW2d72Ior7GEhCemt_5HCsoNlB9SWnuMBNLGhQXYMn-AZ9SBYayfz7yHR6IXAxI0A";
+        reviews =         (
+                        {
+                aspects =                 (
+                                        {
+                        rating = 1;
+                        type = food;
+                    },
+                                        {
+                        rating = 1;
+                        type = decor;
+                    },
+                                        {
+                        rating = 1;
+                        type = service;
+                    }
+                );
+                "author_name" = "Tuomas Arvo";
+                "author_url" = "https://plus.google.com/115165380589723810015";
+                text = "Lunch restaurant. One of the better ones around this area. Deli salad buffet is usually very good.";
+                time = 1353408070;
+            },
+                        {
+                aspects =                 (
+                                        {
+                        rating = 3;
+                        type = overall;
+                    }
+                );
+                "author_name" = "A Google User";
+                text = "";
+                time = 1311880824;
+            }
+        );
+        types =         (
+            restaurant,
+            food,
+            establishment
+        );
+        url = "https://plus.google.com/100403130499257495700/about?hl=en-US";
+        "utc_offset" = 180;
+        vicinity = "Keilaniemi 5, Espoo";
+        website = "http://www.keilarannanhelmi.fi/";
+    };
+    status = OK;
+}
+
+2013-04-24 10:27:05.008 Google[11333:907] {
+}
+2013-04-24 10:27:05.243 Google[11333:907] Google Places JSON response: {
+    "html_attributions" =     (
+    );
+    result =     {
+        "address_components" =         (
+                        {
+                "long_name" = 6;
+                "short_name" = 6;
+                types =                 (
+                    "street_number"
+                );
+            },
+                        {
+                "long_name" = "K\U00f6pmannav\U00e4gen";
+                "short_name" = "K\U00f6pmannav\U00e4gen";
+                types =                 (
+                    route
+                );
+            },
+                        {
+                "long_name" = Espoo;
+                "short_name" = Espoo;
+                types =                 (
+                    locality,
+                    political
+                );
+            },
+                        {
+                "long_name" = Uusimaa;
+                "short_name" = Uusimaa;
+                types =                 (
+                    "administrative_area_level_1",
+                    political
+                );
+            },
+                        {
+                "long_name" = FI;
+                "short_name" = FI;
+                types =                 (
+                    country,
+                    political
+                );
+            },
+                        {
+                "long_name" = 02100;
+                "short_name" = 02100;
+                types =                 (
+                    "postal_code"
+                );
+            }
+        );
+        "formatted_address" = "K\U00f6pmannav\U00e4gen 6, Espoo, Finland";
+        "formatted_phone_number" = "09 4355330";
+        geometry =         {
+            location =             {
+                lat = "60.177097";
+                lng = "24.802413";
+            };
+        };
+        icon = "http://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png";
+        id = c37ac2b93679e86e6f05b753056c1b905cc82d71;
+        "international_phone_number" = "+358 9 4355330";
+        name = "Tapiolan Keilahalli Oy";
+        reference = "CoQBdQAAAPcEN4rsQRBKxO6z39q5V_ddqMzwADbBtWHWy_o8sbv61bCocNKz6w1SHNyQlkekh7n_xf9iV0loTjcpmVQqtfHbRlF3s5MY2pAuvkXcVMf8NJAVRU-QOes0aoAtTmlxZa52ohIOKbBSf5ZO_DeDyETTHzAixhJIo2ZlJ1NMNDOKEhAPsDs5tbcUpPDoax6BiPf-GhT_ATWUJBI2KKqNhM21X-VfmjCE1g";
+        types =         (
+            restaurant,
+            food,
+            establishment
+        );
+        url = "https://plus.google.com/100221195020533942694/about?hl=en-US";
+        "utc_offset" = 180;
+        vicinity = "K\U00f6pmannav\U00e4gen 6, Espoo";
+        website = "http://www.tapiolankeilahalli.fi/";
+    };
+    status = OK;
+}
+
+2013-04-24 10:27:13.448 Google[11333:907] {
+}
+2013-04-24 10:27:13.568 Google[11333:907] Google Places JSON response: {
+    "html_attributions" =     (
+    );
+    result =     {
+        "address_components" =         (
+                        {
+                "long_name" = FI;
+                "short_name" = FI;
+                types =                 (
+                    country,
+                    political
+                );
+            }
+        );
+        "formatted_address" = "Mets\U00e4nneidonkuja 10, 02130 Espoo, Finland";
+        "formatted_phone_number" = "09 43577500";
+        geometry =         {
+            location =             {
+                lat = "60.187788";
+                lng = "24.805981";
+            };
+        };
+        icon = "http://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png";
+        id = 52e4fa96512d26ca723cef067a44526de5d67e03;
+        "international_phone_number" = "+358 9 43577500";
+        name = "Kiinteist\U00f6 Oy Spektrin Pilotti";
+        photos =         (
+                        {
+                height = 1536;
+                "html_attributions" =                 (
+                    "<a href=\"https://plus.google.com/101748254950056991165\">Hongxun Jiang</a>"
+                );
+                "photo_reference" = "CnRqAAAAlUCAxFjCZIEhbB4qVbt-A7lk_kfz47cGXwpeayauZw4v9NhlrWclqcf3KEksedhfP5apn9CxpgbwdM4_R_rWnOH1OMUZ2VA17AeVWI2d0iXBK2Bt93_5dAyjinStL2ep6l-WRqZV3i1zwFR9ktimGxIQtdoKTlMRpXmPmk-rzdn8TxoUFnNplTDaKSoyw8QFNpbXxyQ5DNc";
+                width = 2048;
+            },
+                        {
+                height = 1536;
+                "html_attributions" =                 (
+                    "<a href=\"https://plus.google.com/101748254950056991165\">Hongxun Jiang</a>"
+                );
+                "photo_reference" = "CnRqAAAA9ju-0dsAjhRvIgshR6yl8mQIhjasP1yqK79yCpqLLlKmoL_mG8QaWfQaX9lyL_JmdDQ0pIsJ_lq42AEywdQuCJFx8tTIq2u2mzoD6zTPgx5g1A5JJvofSSGHrdk2c4BwCo4MWgFE5lw8iQ8A-a_YkRIQttlwE4n0UCl-WOJmp7eQvBoU0g6kG3YWYzCyo6t-rcakvC9m6ZE";
+                width = 2048;
+            },
+                        {
+                height = 1536;
+                "html_attributions" =                 (
+                    "<a href=\"https://plus.google.com/101748254950056991165\">Hongxun Jiang</a>"
+                );
+                "photo_reference" = "CnRqAAAAPmXz7Mu0ZQkFjpQqvmgkG7I3IRjmu71Rdenx365jnxtq94z0OoEzEE-we8czITVnYW_ye-DSY19piauzsJs5VjpqeQytKviyYUtxRXJREtYis5YKETUdBjhWim1uxLRCykpHteLnTamXKZ7W9YH5jxIQ4bVtXQaL5nInawbRKDISOxoUCtT_tp1zSAS1kSrsBcHTxLUJH0w";
+                width = 2048;
+            }
+        );
+        reference = "CoQBfgAAABiDmmtfFVGLQP6V4nK_RlS0xj0SD7UKR6cVYLToPScpYQp_1-tEUly-YyQZgFxYCJZU7k-OdGQ--peRql5IIu3o0nu01YFVZCRVD1EVw1uoxMMxBSCYqqQjgtQ8vbUa5CcZ56WM95k6E9nCLi8hAmNwIMl5PszXK9h0A_MZDNCwEhCWSz9-kd8te-y_CN0Q3jXGGhQRioivnl6_RGIG40bhRDgQ6ARJGA";
+        reviews =         (
+                        {
+                aspects =                 (
+                                        {
+                        rating = 3;
+                        type = quality;
+                    }
+                );
+                "author_name" = "Hongxun Jiang";
+                "author_url" = "https://plus.google.com/101748254950056991165";
+                text = "Homemade food is very good tasty, I like the spicy fish. It is a remarkable supper. Thank Prof. Juha for his invitation.";
+                time = 1351785098;
+            }
+        );
+        types =         (
+            restaurant,
+            food,
+            establishment
+        );
+        url = "https://plus.google.com/114859140406570174818/about?hl=en-US";
+        "utc_offset" = 180;
+        vicinity = "Mets\U00e4nneidonkuja 10, 02130 Espoo";
+        website = "http://www.spektri.fi/";
+    };
+    status = OK;
+}
+
+2013-04-24 10:27:16.475 Google[11333:907] {
+}
+2013-04-24 10:27:16.589 Google[11333:907] Google Places JSON response: {
+    "html_attributions" =     (
+    );
+    result =     {
+        "address_components" =         (
+                        {
+                "long_name" = 1;
+                "short_name" = 1;
+                types =                 (
+                    "street_number"
+                );
+            },
+                        {
+                "long_name" = Raumantie;
+                "short_name" = Raumantie;
+                types =                 (
+                    route
+                );
+            },
+                        {
+                "long_name" = Helsinki;
+                "short_name" = Helsinki;
+                types =                 (
+                    locality,
+                    political
+                );
+            },
+                        {
+                "long_name" = FI;
+                "short_name" = FI;
+                types =                 (
+                    country,
+                    political
+                );
+            },
+                        {
+                "long_name" = 00350;
+                "short_name" = 00350;
+                types =                 (
+                    "postal_code"
+                );
+            }
+        );
+        "formatted_address" = "Raumantie 1, Helsinki, Finland";
+        "formatted_phone_number" = "020 7431840";
+        geometry =         {
+            location =             {
+                lat = "60.205688";
+                lng = "24.877012";
+            };
+        };
+        icon = "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png";
+        id = 25b6fb9234de257f08c73cbfafe4d26c7a2f4cbc;
+        "international_phone_number" = "+358 20 7431840";
+        name = "Jorma Peltosaari Oy";
+        "opening_hours" =         {
+            "open_now" = 1;
+            periods =             (
+                                {
+                    close =                     {
+                        day = 0;
+                        time = 2100;
+                    };
+                    open =                     {
+                        day = 0;
+                        time = 1200;
+                    };
+                },
+                                {
+                    close =                     {
+                        day = 1;
+                        time = 2100;
+                    };
+                    open =                     {
+                        day = 1;
+                        time = 0700;
+                    };
+                },
+                                {
+                    close =                     {
+                        day = 2;
+                        time = 2100;
+                    };
+                    open =                     {
+                        day = 2;
+                        time = 0700;
+                    };
+                },
+                                {
+                    close =                     {
+                        day = 3;
+                        time = 2100;
+                    };
+                    open =                     {
+                        day = 3;
+                        time = 0700;
+                    };
+                },
+                                {
+                    close =                     {
+                        day = 4;
+                        time = 2100;
+                    };
+                    open =                     {
+                        day = 4;
+                        time = 0700;
+                    };
+                },
+                                {
+                    close =                     {
+                        day = 5;
+                        time = 2100;
+                    };
+                    open =                     {
+                        day = 5;
+                        time = 0700;
+                    };
+                },
+                                {
+                    close =                     {
+                        day = 6;
+                        time = 1800;
+                    };
+                    open =                     {
+                        day = 6;
+                        time = 0700;
+                    };
+                }
+            );
+        };
+        reference = "CoQBcQAAAEA-gbZgpv_ZyG2g9nIQU0ZCai7kgU2WQ1Za1LK-RAnX9a4G-48aAG-7hR5hg5aJZZjnfGJ1lUvHd7XzE0P7-ChAypfnesrsnyuTBU7FK7hMI6Lo5UsBfnaxsaQFDbsrtCSe9DJtCDPPzn_cPp0OZWBJdpGLpEgf4NSllnL-oSkeEhCWnW49bgR2zXieJNmwF644GhRnP9Arsogn9-7YJCEC7kNl4OFCLQ";
+        types =         (
+            "grocery_or_supermarket",
+            food,
+            store,
+            establishment
+        );
+        url = "https://plus.google.com/101978222347914921572/about?hl=en-US";
+        "utc_offset" = 180;
+        vicinity = "Raumantie 1, Helsinki";
+        website = "http://www.k-supermarket.fi/";
+    };
+    status = OK;
+}
+
+2013-04-24 10:27:19.706 Google[11333:907] {
+}
+2013-04-24 10:27:19.898 Google[11333:907] Google Places JSON response: {
+    "html_attributions" =     (
+    );
+    result =     {
+        "address_components" =         (
+                        {
+                "long_name" = 1;
+                "short_name" = 1;
+                types =                 (
+                    "street_number"
+                );
+            },
+                        {
+                "long_name" = Raumantie;
+                "short_name" = Raumantie;
+                types =                 (
+                    route
+                );
+            },
+                        {
+                "long_name" = Helsinki;
+                "short_name" = Helsinki;
+                types =                 (
+                    locality,
+                    political
+                );
+            },
+                        {
+                "long_name" = FI;
+                "short_name" = FI;
+                types =                 (
+                    country,
+                    political
+                );
+            },
+                        {
+                "long_name" = 00350;
+                "short_name" = 00350;
+                types =                 (
+                    "postal_code"
+                );
+            }
+        );
+        "formatted_address" = "Raumantie 1, Helsinki, Finland";
+        "formatted_phone_number" = "010 7661050";
+        geometry =         {
+            location =             {
+                lat = "60.205701";
+                lng = "24.877714";
+            };
+        };
+        icon = "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png";
+        id = 355cfc0e0e0b910e2d357b22150f87c11f8b9e44;
+        "international_phone_number" = "+358 10 7661050";
+        name = "S-Market";
+        reference = "CnRmAAAA4izEvnv38DkpmppjnDwGodNZwRiGDUsY5o5TU73Y-SJPFgqYp39WUSuTkwIt4N6krVFFpObdPyBqr55TT6ceUSFOJpnAB2jm_2yYtu78VN_IE4QT5Vy9aORb51_sLDedSP1ZOBTEBqkKhDvHpbygjxIQz7mX3P9zSLIuyKAJAsGHTxoUP29FfluSUUWL-qSg8Rn71Sqsjas";
+        reviews =         (
+                        {
+                aspects =                 (
+                                        {
+                        rating = 0;
+                        type = overall;
+                    }
+                );
+                "author_name" = "A Google User";
+                text = "Miksi Munkkivuoren myym\U00e4l\U00e4ss\U00e4 ei anneta arvoa kotimaiselle omenalle? Siell\U00e4 kaadetaan omenat kovakouraisesti alkuper\U00e4islaatikoistaan myym\U00e4l\U00e4laatikoihin ja sekoitetaan eri laadut samaan. Muissa kaupoissa kotimaiset omenat pidet\U00e4\U00e4n esill\U00e4 omissa alkuper\U00e4islaatikoissaan, joissa n\U00e4kyy lajikenimi! Eik\U00e4 niit\U00e4 kaadeta edestakaisin, kotimainen omena kun on herkk\U00e4 kolhiintumiselle. Lauantaina 17.10. myym\U00e4l\U00e4ss\U00e4 oli viel\U00e4 p\U00e4\U00e4llimm\U00e4iseksi kaadettu ulkomaista omenaa!";
+                time = 1255781528;
+            }
+        );
+        types =         (
+            "grocery_or_supermarket",
+            food,
+            store,
+            establishment
+        );
+        url = "https://plus.google.com/116351228671353781414/about?hl=en-US";
+        "utc_offset" = 180;
+        vicinity = "Raumantie 1, Helsinki";
+        website = "http://www.smarkethokelanto.fi/";
+    };
+    status = OK;
+}
+
+2013-04-24 10:27:22.473 Google[11333:907] {
+}
+2013-04-24 10:27:22.637 Google[11333:907] Google Places JSON response: {
+    "html_attributions" =     (
+    );
+    result =     {
+        "address_components" =         (
+                        {
+                "long_name" = 2;
+                "short_name" = 2;
+                types =                 (
+                    "street_number"
+                );
+            },
+                        {
+                "long_name" = Urheilupuistontie;
+                "short_name" = Urheilupuistontie;
+                types =                 (
+                    route
+                );
+            },
+                        {
+                "long_name" = Espoo;
+                "short_name" = Espoo;
+                types =                 (
+                    locality,
+                    political
+                );
+            },
+                        {
+                "long_name" = FI;
+                "short_name" = FI;
+                types =                 (
+                    country,
+                    political
+                );
+            },
+                        {
+                "long_name" = 02200;
+                "short_name" = 02200;
+                types =                 (
+                    "postal_code"
+                );
+            }
+        );
+        "formatted_address" = "Urheilupuistontie 2, Espoo, Finland";
+        "formatted_phone_number" = "044 4809211";
+        geometry =         {
+            location =             {
+                lat = "60.178503";
+                lng = "24.784984";
+            };
+        };
+        icon = "http://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png";
+        id = 047c5262d3228b74cb64ef60c9e751d22a680120;
+        "international_phone_number" = "+358 44 4809211";
+        name = Hesburger;
+        reference = "CnRnAAAAVd2t7qPHizDltGweaOeAH9_6C7TYRiZ4NVEm4EK5NhSKSl-61Ak2dV1Upgzdo9hM-LT3dozW21OGR2e4OajFbQcVeRtF6MUwn45YpTXz6nGa7YbRRbluz6pywHxAwS32f5hjI3SBInwYz7k0undI3hIQivj1SC4HRyC-PukdcPOcuxoUZm_teH2ZgPqW6pZ8rx4baENvsPM";
+        reviews =         (
+                        {
+                aspects =                 (
+                                        {
+                        rating = 2;
+                        type = food;
+                    },
+                                        {
+                        rating = 2;
+                        type = decor;
+                    },
+                                        {
+                        rating = 2;
+                        type = service;
+                    }
+                );
+                "author_name" = "Joona Prehti";
+                "author_url" = "https://plus.google.com/100349259259395010828";
+                text = "Siisti ja hyv\U00e4 paikka";
+                time = 1353438823;
+            },
+                        {
+                aspects =                 (
+                                        {
+                        rating = 0;
+                        type = overall;
+                    }
+                );
+                "author_name" = "Santeri Leppinen";
+                "author_url" = "https://plus.google.com/111611034020082540516";
+                text = "Heset on huonoja ja palvelu hidas ja PITK\U00c4T JONOT";
+                time = 1335294085;
+            },
+                        {
+                aspects =                 (
+                                        {
+                        rating = 3;
+                        type = overall;
+                    }
+                );
+                "author_name" = "A Google User";
+                text = "paras ja nopein hese ikin\U00e4!";
+                time = 1287855536;
+            }
+        );
+        types =         (
+            restaurant,
+            food,
+            establishment
+        );
+        url = "https://plus.google.com/112604084754335468341/about?hl=en-US";
+        "utc_offset" = 180;
+        vicinity = "Urheilupuistontie 2, Espoo";
+        website = "http://www.hesburger.fi/";
+    };
+    status = OK;
+}

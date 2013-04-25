@@ -1,0 +1,240 @@
+Toni Karttunen
+24.4.2012
+
+==========================================
+
+Paikkatiedon tarjoaja: Apple
+Paikka: Schönberg
+Kategoria: Food
+
+==========================================
+
+2013-04-24 09:13:37.778 Apple[11032:907] (
+        (
+        Name,
+        "Ristorante Pizzeria Bella Italia"
+    ),
+        (
+        Address,
+        "Perserau 1-3\n24217\U200e Sch\U00f6nberg\nGermany"
+    ),
+        (
+        Latitude,
+        "54.394771"
+    ),
+        (
+        Longitude,
+        "10.371832"
+    )
+)
+
+2013-04-24 09:13:46.157 Apple[11032:907] (
+        (
+        Name,
+        Kaffeehaus
+    ),
+        (
+        Address,
+        "Kn\U00fcllgasse 4\n24217\U200e Sch\U00f6nberg\nGermany"
+    ),
+        (
+        Phone,
+        "+494344413930"
+    ),
+        (
+        Latitude,
+        "54.393871"
+    ),
+        (
+        Longitude,
+        "10.371293"
+    )
+)
+
+2013-04-24 09:13:48.318 Apple[11032:907] (
+        (
+        Name,
+        Bahnhofshotel
+    ),
+        (
+        Address,
+        "Kn\U00fcll 2\n24217\U200e Sch\U00f6nberg\nGermany"
+    ),
+        (
+        Phone,
+        "+4943441305"
+    ),
+        (
+        Latitude,
+        "54.392780"
+    ),
+        (
+        Longitude,
+        "10.372262"
+    )
+)
+
+2013-04-24 09:13:50.207 Apple[11032:907] (
+        (
+        Name,
+        "R\U00e4uberh\U00f6hle"
+    ),
+        (
+        Address,
+        "Strandstrasse 207\n24217\U200e Sch\U00f6nberg (Holstein)\nGermany"
+    ),
+        (
+        Latitude,
+        "54.405426"
+    ),
+        (
+        Longitude,
+        "10.390349"
+    )
+)
+
+2013-04-24 09:13:52.335 Apple[11032:907] (
+        (
+        Name,
+        "Ristorante & Pizzeria"
+    ),
+        (
+        Address,
+        "Krokauer M\U00fchle 1\n24217\U200e Krokauerm\U00fchle\nGermany"
+    ),
+        (
+        Phone,
+        "+494344412059"
+    ),
+        (
+        Latitude,
+        "54.407210"
+    ),
+        (
+        Longitude,
+        "10.337687"
+    )
+)
+
+2013-04-24 09:13:55.626 Apple[11032:907] (
+        (
+        Name,
+        "Restaurant Sommerhof"
+    ),
+        (
+        Address,
+        "Am Dorfteich 11\n24217\U200e Fiefbergen\nGermany"
+    ),
+        (
+        Phone,
+        "+4943446685"
+    ),
+        (
+        Latitude,
+        "54.379775"
+    ),
+        (
+        Longitude,
+        "10.341500"
+    )
+)
+
+2013-04-24 09:13:58.480 Apple[11032:907] (
+        (
+        Name,
+        "Der Zauberlehrling"
+    ),
+        (
+        Address,
+        "Am Schierbek 2\n24217\U200e Sch\U00f6nbergerstrand\nGermany"
+    ),
+        (
+        Phone,
+        "+494344410049"
+    ),
+        (
+        Latitude,
+        "54.412957"
+    ),
+        (
+        Longitude,
+        "10.415374"
+    )
+)
+
+2013-04-24 09:14:02.942 Apple[11032:907] (
+        (
+        Name,
+        "An der Eiche"
+    ),
+        (
+        Address,
+        "Dorfstra\U00dfe 10\n24217\U200e Wisch\nGermany"
+    ),
+        (
+        Phone,
+        "+4943441023"
+    ),
+        (
+        Latitude,
+        "54.409746"
+    ),
+        (
+        Longitude,
+        "10.344627"
+    )
+)
+
+2013-04-24 09:14:05.515 Apple[11032:907] (
+        (
+        Name,
+        "Hotel Seestern Kalifornien"
+    ),
+        (
+        Address,
+        "Seesternweg 9\n24217\U200e Kalifornien\nGermany"
+    ),
+        (
+        Phone,
+        "+4943441465"
+    ),
+        (
+        URL,
+        "http://www.seesternkalifornien.de"
+    ),
+        (
+        Latitude,
+        "54.426704"
+    ),
+        (
+        Longitude,
+        "10.377768"
+    )
+)
+
+2013-04-24 09:14:08.649 Apple[11032:907] (
+        (
+        Name,
+        "Ruser's Hotel"
+    ),
+        (
+        Address,
+        "Albert-Koch-Stra\U00dfe 4\n24217\U200e Sch\U00f6nberg\nGermany"
+    ),
+        (
+        Phone,
+        "+494344414130"
+    ),
+        (
+        URL,
+        "http://www.rusershotel.de"
+    ),
+        (
+        Latitude,
+        "54.393991"
+    ),
+        (
+        Longitude,
+        "10.373052"
+    )
+)

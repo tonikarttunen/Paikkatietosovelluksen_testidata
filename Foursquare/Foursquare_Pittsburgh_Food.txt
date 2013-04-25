@@ -1,0 +1,2127 @@
+Toni Karttunen
+24.4.2012
+
+==========================================
+
+Paikkatiedon tarjoaja: Foursquare
+Paikka: Pittsburgh
+Kategoria: Food
+
+==========================================
+
+2013-04-24 11:43:43.922 Foursquare[11515:907] foursquareDictionary: {
+    venues =     (
+                {
+            beenHere =             {
+                count = 0;
+            };
+            canonicalUrl = "https://foursquare.com/v/starbucks/4b9cf844f964a520878536e3";
+            categories =             (
+                                {
+                    icon =                     {
+                        name = ".png";
+                        prefix = "https://foursquare.com/img/categories/food/coffeeshop_";
+                        sizes =                         (
+                            32,
+                            44,
+                            64,
+                            88,
+                            256
+                        );
+                    };
+                    id = 4bf58dd8d48988d1e0931735;
+                    name = "Coffee Shop";
+                    pluralName = "Coffee Shops";
+                    primary = 1;
+                    shortName = "Coffee Shop";
+                }
+            );
+            contact =             {
+                formattedPhone = "+1 412-201-2004";
+                phone = "+14122012004";
+                twitter = starbucks;
+            };
+            hasMenu = 1;
+            hereNow =             {
+                count = 0;
+                groups =                 (
+                );
+            };
+            id = 4b9cf844f964a520878536e3;
+            likes =             {
+                count = 0;
+                groups =                 (
+                );
+            };
+            location =             {
+                address = "530 William Penn Pl.";
+                cc = US;
+                city = Pittsburgh;
+                country = "United States";
+                crossStreet = "at OMNI William Penn Hotel";
+                distance = 125;
+                lat = "40.440866";
+                lng = "-79.997336";
+                postalCode = 15219;
+                state = PA;
+
+            };
+            menu =             {
+                mobileUrl = "https://foursquare.com/v/4b9cf844f964a520878536e3/device_menu";
+                type = foodAndBeverage;
+                url = "https://foursquare.com/v/starbucks/4b9cf844f964a520878536e3/menu";
+            };
+            name = Starbucks;
+            referralId = "v-1366793022";
+            specials =             (
+            );
+            stats =             {
+                checkinsCount = 5379;
+                tipCount = 24;
+                usersCount = 967;
+            };
+            url = "http://www.starbucks.com";
+            verified = 1;
+        },
+                {
+            beenHere =             {
+                count = 0;
+            };
+            canonicalUrl = "https://foursquare.com/v/sharp-edge-bistro-on-penn/4ba787cdf964a520059b39e3";
+            categories =             (
+                                {
+                    icon =                     {
+                        name = ".png";
+                        prefix = "https://foursquare.com/img/categories/food/default_";
+                        sizes =                         (
+                            32,
+                            44,
+                            64,
+                            88,
+                            256
+                        );
+                    };
+                    id = 4bf58dd8d48988d1c4941735;
+                    name = Restaurant;
+                    pluralName = Restaurants;
+                    primary = 1;
+                    shortName = Restaurant;
+                }
+            );
+            contact =             {
+                formattedPhone = "+1 412-338-2437";
+                phone = "+14123382437";
+                twitter = "se_bistro922";
+            };
+            hasMenu = 1;
+            hereNow =             {
+                count = 0;
+                groups =                 (
+                );
+            };
+            id = 4ba787cdf964a520059b39e3;
+            likes =             {
+                count = 0;
+                groups =                 (
+                );
+            };
+            location =             {
+                address = "922 Penn Ave";
+                cc = US;
+                city = Pittsburgh;
+                country = "United States";
+                crossStreet = "Garrison Way";
+                distance = 385;
+                lat = "40.44391788048521";
+                lng = "-79.9973076581955";
+                postalCode = 15219;
+                state = PA;
+            };
+            menu =             {
+                mobileUrl = "https://foursquare.com/v/4ba787cdf964a520059b39e3/device_menu";
+                type = foodAndBeverage;
+                url = "https://foursquare.com/v/sharp-edge-bistro-on-penn/4ba787cdf964a520059b39e3/menu";
+            };
+            name = "Sharp Edge Bistro on Penn";
+            referralId = "v-1366793022";
+            specials =             (
+                                {
+                    description = "Unlocked every check-in";
+                    icon = "check-in";
+                    id = 515ece07f13697687e3d4ce9;
+                    likes =                     {
+                        count = 0;
+                        groups =                         (
+                        );
+                    };
+                    message = "Get $10 off each ticket you purchase for The Great European Beer Festival. Then tweet with #Beerfest17 and tell your friends!";
+                    page =                     {
+                        bio = "";
+                        contact =                         {
+                            facebook = 213237235423894;
+                            twitter = "se_bistro922";
+                        };
+                        firstName = "Sharp Edge Bistro on Penn";
+                        gender = none;
+                        homeCity = "Pittsburgh, PA";
+                        id = 52480941;
+                        photo = "https://is1.4sqi.net/userpix_thumbs/E4DI4JTBKDKLAPTF.jpg";
+                        tips =                         {
+                            count = 0;
+                        };
+                        type = chain;
+                    };
+                    provider = foursquare;
+                    redemption = standard;
+                    title = "Check-in Special";
+                    type = frequency;
+                }
+            );
+            stats =             {
+                checkinsCount = 4859;
+                tipCount = 48;
+                usersCount = 2725;
+            };
+            url = "http://sharpedgebeer.com";
+            verified = 1;
+        },
+                {
+            beenHere =             {
+                count = 0;
+            };
+            canonicalUrl = "https://foursquare.com/v/meat-and-potatoes/4dd4531c183859a589a026a0";
+            categories =             (
+                                {
+                    icon =                     {
+                        name = ".png";
+                        prefix = "https://foursquare.com/img/categories/food/default_";
+                        sizes =                         (
+                            32,
+                            44,
+                            64,
+                            88,
+                            256
+                        );
+                    };
+                    id = 4bf58dd8d48988d155941735;
+                    name = Gastropub;
+                    pluralName = Gastropubs;
+                    primary = 1;
+                    shortName = Gastropub;
+                }
+            );
+            contact =             {
+                formattedPhone = "+1 412-325-7007";
+                phone = "+14123257007";
+                twitter = 4meatnpotatoes;
+            };
+            hasMenu = 1;
+            hereNow =             {
+                count = 0;
+                groups =                 (
+                );
+            };
+            id = 4dd4531c183859a589a026a0;
+            likes =             {
+                count = 0;
+                groups =                 (
+                );
+            };
+            location =             {
+                address = "649 Penn Ave.";
+                cc = US;
+                city = Pittsburgh;
+                country = "United States";
+                distance = 493;
+                lat = "40.44297484934278";
+                lng = "-80.00082159749519";
+                postalCode = 15222;
+                state = PA;
+            };
+            menu =             {
+                mobileUrl = "https://foursquare.com/v/4dd4531c183859a589a026a0/device_menu";
+                type = foodAndBeverage;
+                url = "https://foursquare.com/v/meat-and-potatoes/4dd4531c183859a589a026a0/menu";
+            };
+            name = "Meat and Potatoes";
+            referralId = "v-1366793022";
+            reservations =             {
+                url = "http://www.opentable.com/single.aspx?rid=61075&ref=9601";
+            };
+            specials =             (
+            );
+            stats =             {
+                checkinsCount = 3310;
+                tipCount = 60;
+                usersCount = 1969;
+            };
+            url = "http://www.meatandpotatoespgh.com";
+            verified = 0;
+        },
+                {
+            beenHere =             {
+                count = 0;
+            };
+            canonicalUrl = "https://foursquare.com/v/brueggers-bagel-bakery/4af9a1b9f964a520b31222e3";
+            categories =             (
+                                {
+                    icon =                     {
+                        name = ".png";
+                        prefix = "https://foursquare.com/img/categories/food/bagels_";
+                        sizes =                         (
+                            32,
+                            44,
+                            64,
+                            88,
+                            256
+                        );
+                    };
+                    id = 4bf58dd8d48988d179941735;
+                    name = "Bagel Shop";
+                    pluralName = "Bagel Shops";
+                    primary = 1;
+                    shortName = Bagels;
+                }
+            );
+            contact =             {
+                formattedPhone = "+1 412-471-9249";
+                phone = "+14124719249";
+                twitter = omnihotels;
+            };
+            hasMenu = 1;
+            hereNow =             {
+                count = 1;
+                groups =                 (
+                                        {
+                        count = 1;
+                        items =                         (
+                        );
+                        name = "Other people here";
+                        type = others;
+                    }
+                );
+            };
+            id = 4af9a1b9f964a520b31222e3;
+            likes =             {
+                count = 0;
+                groups =                 (
+                );
+            };
+            location =             {
+                address = "531 Grant St.";
+                cc = US;
+                city = Pittsburgh;
+                country = "United States";
+                distance = 50;
+                lat = "40.44017000095327";
+                lng = "-79.99591827392578";
+                postalCode = 15219;
+                state = PA;
+            };
+            menu =             {
+                mobileUrl = "https://foursquare.com/v/4af9a1b9f964a520b31222e3/device_menu";
+                type = foodAndBeverage;
+                url = "https://foursquare.com/v/brueggers-bagel-bakery/4af9a1b9f964a520b31222e3/menu";
+            };
+            name = "Bruegger's Bagel Bakery";
+            referralId = "v-1366793022";
+            specials =             (
+            );
+            stats =             {
+                checkinsCount = 3044;
+                tipCount = 12;
+                usersCount = 631;
+            };
+            url = "http://www.omnihotels.com";
+            verified = 1;
+        },
+                {
+            beenHere =             {
+                count = 0;
+            };
+            canonicalUrl = "https://foursquare.com/v/starbucks/4aeaeca5f964a520b5bc21e3";
+            categories =             (
+                                {
+                    icon =                     {
+                        name = ".png";
+                        prefix = "https://foursquare.com/img/categories/food/coffeeshop_";
+                        sizes =                         (
+                            32,
+                            44,
+                            64,
+                            88,
+                            256
+                        );
+                    };
+                    id = 4bf58dd8d48988d1e0931735;
+                    name = "Coffee Shop";
+                    pluralName = "Coffee Shops";
+                    primary = 1;
+                    shortName = "Coffee Shop";
+                }
+            );
+            contact =             {
+                formattedPhone = "+1 412-765-3125";
+                phone = "+14127653125";
+                twitter = starbucks;
+            };
+            hasMenu = 1;
+            hereNow =             {
+                count = 0;
+                groups =                 (
+                );
+            };
+            id = 4aeaeca5f964a520b5bc21e3;
+            likes =             {
+                count = 0;
+                groups =                 (
+                );
+            };
+            location =             {
+                address = "600 Grant St.";
+                cc = US;
+                city = Pittsburgh;
+                country = "United States";
+                crossStreet = "at U.S. Steel Tower";
+                distance = 33;
+                lat = "40.44077424838314";
+                lng = "-79.9955427646637";
+                postalCode = 15219;
+                state = PA;
+            };
+            menu =             {
+                mobileUrl = "https://foursquare.com/v/4aeaeca5f964a520b5bc21e3/device_menu";
+                type = foodAndBeverage;
+                url = "https://foursquare.com/v/starbucks/4aeaeca5f964a520b5bc21e3/menu";
+            };
+            name = Starbucks;
+            referralId = "v-1366793022";
+            specials =             (
+            );
+            stats =             {
+                checkinsCount = 2735;
+                tipCount = 6;
+                usersCount = 476;
+            };
+            url = "http://www.starbucks.com";
+            verified = 1;
+        },
+                {
+            beenHere =             {
+                count = 0;
+            };
+            canonicalUrl = "https://foursquare.com/v/starbucks/4b0fef40f964a5206f6623e3";
+            categories =             (
+                                {
+                    icon =                     {
+                        name = ".png";
+                        prefix = "https://foursquare.com/img/categories/food/coffeeshop_";
+                        sizes =                         (
+                            32,
+                            44,
+                            64,
+                            88,
+                            256
+                        );
+                    };
+                    id = 4bf58dd8d48988d1e0931735;
+                    name = "Coffee Shop";
+                    pluralName = "Coffee Shops";
+                    primary = 1;
+                    shortName = "Coffee Shop";
+                }
+            );
+            contact =             {
+                formattedPhone = "+1 412-201-0296";
+                phone = "+14122010296";
+                twitter = starbucks;
+            };
+            hasMenu = 1;
+            hereNow =             {
+                count = 0;
+                groups =                 (
+                );
+            };
+            id = 4b0fef40f964a5206f6623e3;
+            likes =             {
+                count = 0;
+                groups =                 (
+                );
+            };
+            location =             {
+                address = "7 Market Sq.";
+                cc = US;
+                city = Pittsburgh;
+                country = "United States";
+                crossStreet = "at Forbes Ave.";
+                distance = 575;
+                lat = "40.44079057931938";
+                lng = "-80.00267744064331";
+                postalCode = 15222;
+                state = PA;
+            };
+            menu =             {
+                mobileUrl = "https://foursquare.com/v/4b0fef40f964a5206f6623e3/device_menu";
+                type = foodAndBeverage;
+                url = "https://foursquare.com/v/starbucks/4b0fef40f964a5206f6623e3/menu";
+            };
+            name = Starbucks;
+            referralId = "v-1366793022";
+            specials =             (
+            );
+            stats =             {
+                checkinsCount = 5119;
+                tipCount = 20;
+                usersCount = 1487;
+            };
+            url = "http://www.starbucks.com";
+            verified = 1;
+        },
+                {
+            beenHere =             {
+                count = 0;
+            };
+            canonicalUrl = "https://foursquare.com/v/primanti-brothers/4ae4c392f964a520e49d21e3";
+            categories =             (
+                                {
+                    icon =                     {
+                        name = ".png";
+                        prefix = "https://foursquare.com/img/categories/food/sandwiches_";
+                        sizes =                         (
+                            32,
+                            44,
+                            64,
+                            88,
+                            256
+                        );
+                    };
+                    id = 4bf58dd8d48988d1c5941735;
+                    name = "Sandwich Place";
+                    pluralName = "Sandwich Places";
+                    primary = 1;
+                    shortName = Sandwiches;
+                }
+            );
+            contact =             {
+                formattedPhone = "+1 412-261-1599";
+                phone = "+14122611599";
+            };
+            hasMenu = 1;
+            hereNow =             {
+                count = 0;
+                groups =                 (
+                );
+            };
+            id = 4ae4c392f964a520e49d21e3;
+            likes =             {
+                count = 0;
+                groups =                 (
+                );
+            };
+            location =             {
+                address = "2 S Market Square";
+                cc = US;
+                city = Pittsburgh;
+                country = "United States";
+                crossStreet = "at Forbes Ave";
+                distance = 576;
+                lat = "40.44028431845116";
+                lng = "-80.00267744064331";
+                postalCode = 15222;
+                state = PA;
+            };
+            menu =             {
+                mobileUrl = "https://foursquare.com/v/4ae4c392f964a520e49d21e3/device_menu";
+                type = foodAndBeverage;
+                url = "https://foursquare.com/v/primanti-brothers/4ae4c392f964a520e49d21e3/menu";
+            };
+            name = "Primanti Brothers";
+            referralId = "v-1366793022";
+            specials =             (
+            );
+            stats =             {
+                checkinsCount = 5819;
+                tipCount = 52;
+                usersCount = 4141;
+            };
+            url = "http://www.primantibros.com";
+            verified = 0;
+        },
+                {
+            beenHere =             {
+                count = 0;
+            };
+            canonicalUrl = "https://foursquare.com/v/tgi-fridays/4deaa85c1f6e3ddebdd2ddd2";
+            categories =             (
+                                {
+                    icon =                     {
+                        name = ".png";
+                        prefix = "https://foursquare.com/img/categories/food/default_";
+                        sizes =                         (
+                            32,
+                            44,
+                            64,
+                            88,
+                            256
+                        );
+                    };
+                    id = 4bf58dd8d48988d14e941735;
+                    name = "American Restaurant";
+                    pluralName = "American Restaurants";
+                    primary = 1;
+                    shortName = American;
+                }
+            );
+            contact =             {
+                formattedPhone = "+1 412-471-1736";
+                phone = "+14124711736";
+                twitter = tgifridays;
+            };
+            hereNow =             {
+                count = 0;
+                groups =                 (
+                );
+            };
+            id = 4deaa85c1f6e3ddebdd2ddd2;
+            likes =             {
+                count = 0;
+                groups =                 (
+                );
+            };
+            location =             {
+                address = "1027 Fifth Ave";
+                cc = US;
+                city = Pittsburgh;
+                country = "United States";
+                crossStreet = "at Washington Pl";
+                distance = 533;
+                lat = "40.43883083864447";
+                lng = "-79.9900496006012";
+                postalCode = 15219;
+                state = PA;
+            };
+            name = "T.G.I. Friday's";
+            referralId = "v-1366793022";
+            specials =             (
+            );
+            stats =             {
+                checkinsCount = 2389;
+                tipCount = 18;
+                usersCount = 1207;
+            };
+            url = "http://www.tgifridays.com";
+            verified = 1;
+        },
+                {
+            beenHere =             {
+                count = 0;
+            };
+            canonicalUrl = "https://foursquare.com/v/duquesne-union-starbucks/4d9897a39079b1f74dd22e0a";
+            categories =             (
+                                {
+                    icon =                     {
+                        name = ".png";
+                        prefix = "https://foursquare.com/img/categories/food/coffeeshop_";
+                        sizes =                         (
+                            32,
+                            44,
+                            64,
+                            88,
+                            256
+                        );
+                    };
+                    id = 4bf58dd8d48988d1e0931735;
+                    name = "Coffee Shop";
+                    pluralName = "Coffee Shops";
+                    primary = 1;
+                    shortName = "Coffee Shop";
+                }
+            );
+            contact =             {
+            };
+            hereNow =             {
+                count = 0;
+                groups =                 (
+                );
+            };
+            id = 4d9897a39079b1f74dd22e0a;
+            likes =             {
+                count = 0;
+                groups =                 (
+                );
+            };
+            location =             {
+                address = "1399 Locust St.";
+                cc = US;
+                city = Pittsburgh;
+                country = "United States";
+                distance = 600;
+                lat = "40.43692107669705";
+                lng = "-79.99074072347773";
+                postalCode = 15219;
+                state = PA;
+            };
+            name = "Duquesne Union Starbucks";
+            referralId = "v-1366793022";
+            specials =             (
+            );
+            stats =             {
+                checkinsCount = 3555;
+                tipCount = 3;
+                usersCount = 396;
+            };
+            verified = 1;
+        },
+                {
+            beenHere =             {
+                count = 0;
+            };
+            canonicalUrl = "https://foursquare.com/v/crazy-mocha/4ad877d7f964a520981121e3";
+            categories =             (
+                                {
+                    icon =                     {
+                        name = ".png";
+                        prefix = "https://foursquare.com/img/categories/food/coffeeshop_";
+                        sizes =                         (
+                            32,
+                            44,
+                            64,
+                            88,
+                            256
+                        );
+                    };
+                    id = 4bf58dd8d48988d1e0931735;
+                    name = "Coffee Shop";
+                    pluralName = "Coffee Shops";
+                    primary = 1;
+                    shortName = "Coffee Shop";
+                }
+            );
+            contact =             {
+                formattedPhone = "+1 412-281-7940";
+                phone = "+14122817940";
+            };
+            hereNow =             {
+                count = 0;
+                groups =                 (
+                );
+            };
+            id = 4ad877d7f964a520981121e3;
+            likes =             {
+                count = 0;
+                groups =                 (
+                );
+            };
+            location =             {
+                address = "801 Liberty Ave.";
+                cc = US;
+                city = Pittsburgh;
+                country = "United States";
+                distance = 354;
+                lat = "40.44278652822008";
+                lng = "-79.99896362119307";
+                postalCode = 15222;
+                state = PA;
+            };
+            name = "Crazy Mocha";
+            referralId = "v-1366793022";
+            specials =             (
+            );
+            stats =             {
+                checkinsCount = 2024;
+                tipCount = 18;
+                usersCount = 771;
+            };
+            verified = 0;
+        },
+                {
+            beenHere =             {
+                count = 0;
+            };
+            canonicalUrl = "https://foursquare.com/v/jimmy-johns/4f0724bde4b090ef2087d3e1";
+            categories =             (
+                                {
+                    icon =                     {
+                        name = ".png";
+                        prefix = "https://foursquare.com/img/categories/food/sandwiches_";
+                        sizes =                         (
+                            32,
+                            44,
+                            64,
+                            88,
+                            256
+                        );
+                    };
+                    id = 4bf58dd8d48988d1c5941735;
+                    name = "Sandwich Place";
+                    pluralName = "Sandwich Places";
+                    primary = 1;
+                    shortName = Sandwiches;
+                }
+            );
+            contact =             {
+                formattedPhone = "+1 412-281-3474";
+                phone = "+14122813474";
+                twitter = jimmyjohns;
+            };
+            hereNow =             {
+                count = 0;
+                groups =                 (
+                );
+            };
+            id = 4f0724bde4b090ef2087d3e1;
+            likes =             {
+                count = 0;
+                groups =                 (
+                );
+            };
+            location =             {
+                address = "501 Grant St Ste. 140";
+                cc = US;
+                city = Pittsburgh;
+                country = "United States";
+                crossStreet = "at Oliver Ave.";
+                distance = 69;
+                lat = "40.44001485546663";
+                lng = "-79.99607920646667";
+                postalCode = 15219;
+                state = PA;
+            };
+            name = "Jimmy John's";
+            referralId = "v-1366793022";
+            specials =             (
+            );
+            stats =             {
+                checkinsCount = 1195;
+                tipCount = 11;
+                usersCount = 472;
+            };
+            url = "http://www.jimmyjohns.com";
+            verified = 0;
+        },
+                {
+            beenHere =             {
+                count = 0;
+            };
+            canonicalUrl = "https://foursquare.com/v/souper-bowl/4ae21661f964a520928a21e3";
+            categories =             (
+                                {
+                    icon =                     {
+                        name = ".png";
+                        prefix = "https://foursquare.com/img/categories/nightlife/bar_";
+                        sizes =                         (
+                            32,
+                            44,
+                            64,
+                            88,
+                            256
+                        );
+                    };
+                    id = 4bf58dd8d48988d116941735;
+                    name = Bar;
+                    pluralName = Bars;
+                    primary = 1;
+                    shortName = Bar;
+                }
+            );
+            contact =             {
+                formattedPhone = "+1 412-471-0416";
+                phone = "+14124710416";
+            };
+            hasMenu = 1;
+            hereNow =             {
+                count = 0;
+                groups =                 (
+                );
+            };
+            id = 4ae21661f964a520928a21e3;
+            likes =             {
+                count = 0;
+                groups =                 (
+                );
+            };
+            location =             {
+                address = "910 5th Ave";
+                cc = US;
+                city = Pittsburgh;
+                country = "United States";
+                crossStreet = "at Chatham Sq";
+                distance = 441;
+                lat = "40.43870018723493";
+                lng = "-79.99132633209229";
+                postalCode = 15219;
+                state = PA;
+            };
+            menu =             {
+                mobileUrl = "https://foursquare.com/v/4ae21661f964a520928a21e3/device_menu";
+                type = foodAndBeverage;
+                url = "https://foursquare.com/v/souper-bowl/4ae21661f964a520928a21e3/menu";
+            };
+            name = "Souper Bowl";
+            referralId = "v-1366793022";
+            specials =             (
+            );
+            stats =             {
+                checkinsCount = 1532;
+                tipCount = 10;
+                usersCount = 910;
+            };
+            url = "http://www.thesouperbowl.com";
+            verified = 0;
+        },
+                {
+            beenHere =             {
+                count = 0;
+            };
+            canonicalUrl = "https://foursquare.com/v/starbucks/4c0f8c2a7189c928a430dab6";
+            categories =             (
+                                {
+                    icon =                     {
+                        name = ".png";
+                        prefix = "https://foursquare.com/img/categories/food/coffeeshop_";
+                        sizes =                         (
+                            32,
+                            44,
+                            64,
+                            88,
+                            256
+                        );
+                    };
+                    id = 4bf58dd8d48988d1e0931735;
+                    name = "Coffee Shop";
+                    pluralName = "Coffee Shops";
+                    primary = 1;
+                    shortName = "Coffee Shop";
+                }
+            );
+            contact =             {
+                formattedPhone = "+1 412-642-9066";
+                phone = "+14126429066";
+                twitter = starbucks;
+            };
+            hasMenu = 1;
+            hereNow =             {
+                count = 0;
+                groups =                 (
+                );
+            };
+            id = 4c0f8c2a7189c928a430dab6;
+            likes =             {
+                count = 0;
+                groups =                 (
+                );
+            };
+            location =             {
+                address = "210 6th Ave.";
+                cc = US;
+                city = Pittsburgh;
+                country = "United States";
+                crossStreet = "at Wood St.";
+                distance = 375;
+                lat = "40.4421786943995";
+                lng = "-79.99982357025146";
+                postalCode = 15229;
+                state = PA;
+            };
+            menu =             {
+                mobileUrl = "https://foursquare.com/v/4c0f8c2a7189c928a430dab6/device_menu";
+                type = foodAndBeverage;
+                url = "https://foursquare.com/v/starbucks/4c0f8c2a7189c928a430dab6/menu";
+            };
+            name = Starbucks;
+            referralId = "v-1366793022";
+            specials =             (
+            );
+            stats =             {
+                checkinsCount = 4237;
+                tipCount = 7;
+                usersCount = 567;
+            };
+            verified = 0;
+        },
+                {
+            beenHere =             {
+                count = 0;
+            };
+            canonicalUrl = "https://foursquare.com/v/nola-on-the-square/4d790b71d7edb60cd6b5fe1a";
+            categories =             (
+                                {
+                    icon =                     {
+                        name = ".png";
+                        prefix = "https://foursquare.com/img/categories/food/default_";
+                        sizes =                         (
+                            32,
+                            44,
+                            64,
+                            88,
+                            256
+                        );
+                    };
+                    id = 4bf58dd8d48988d17a941735;
+                    name = "Cajun / Creole Restaurant";
+                    pluralName = "Cajun / Creole Restaurants";
+                    primary = 1;
+                    shortName = "Cajun / Creole";
+                }
+            );
+            contact =             {
+                formattedPhone = "+1 412-471-9100";
+                phone = "+14124719100";
+                twitter = thesonomagrille;
+            };
+            hereNow =             {
+                count = 0;
+                groups =                 (
+                );
+            };
+            id = 4d790b71d7edb60cd6b5fe1a;
+            likes =             {
+                count = 0;
+                groups =                 (
+                );
+            };
+            location =             {
+                address = "24 Market St.";
+                cc = US;
+                city = Pittsburgh;
+                country = "United States";
+                distance = 587;
+                lat = "40.44100552818971";
+                lng = "-80.00280377707652";
+                postalCode = 15222;
+                state = PA;
+            };
+            name = "NOLA on the Square";
+            referralId = "v-1366793022";
+            reservations =             {
+                url = "http://www.opentable.com/single.aspx?rid=59623&ref=9601";
+            };
+            specials =             (
+            );
+            stats =             {
+                checkinsCount = 3048;
+                tipCount = 39;
+                usersCount = 1936;
+            };
+            url = "http://www.nolaonthesquare.com";
+            verified = 0;
+        },
+                {
+            beenHere =             {
+                count = 0;
+            };
+            canonicalUrl = "https://foursquare.com/v/fat-heads-saloon/4b0b22a0f964a5207c2d23e3";
+            categories =             (
+                                {
+                    icon =                     {
+                        name = ".png";
+                        prefix = "https://foursquare.com/img/categories/nightlife/bar_";
+                        sizes =                         (
+                            32,
+                            44,
+                            64,
+                            88,
+                            256
+                        );
+                    };
+                    id = 4bf58dd8d48988d116941735;
+                    name = Bar;
+                    pluralName = Bars;
+                    primary = 1;
+                    shortName = Bar;
+                }
+            );
+            contact =             {
+                formattedPhone = "+1 412-431-7433";
+                phone = "+14124317433";
+                twitter = fatheadspgh;
+            };
+            hasMenu = 1;
+            hereNow =             {
+                count = 0;
+                groups =                 (
+                );
+            };
+            id = 4b0b22a0f964a5207c2d23e3;
+            likes =             {
+                count = 0;
+                groups =                 (
+                );
+            };
+            location =             {
+                address = "1805 E Carson St";
+                cc = US;
+                city = Pittsburgh;
+                country = "United States";
+                crossStreet = "btw S 18th St & S 19th St";
+                distance = 1871;
+                lat = "40.42885773161736";
+                lng = "-79.98011738061905";
+                postalCode = 15203;
+                state = PA;
+            };
+            menu =             {
+                mobileUrl = "https://foursquare.com/v/4b0b22a0f964a5207c2d23e3/device_menu";
+                type = foodAndBeverage;
+                url = "https://foursquare.com/v/fat-heads-saloon/4b0b22a0f964a5207c2d23e3/menu";
+            };
+            name = "Fat Head's Saloon";
+            referralId = "v-1366793022";
+            specials =             (
+            );
+            stats =             {
+                checkinsCount = 15654;
+                tipCount = 109;
+                usersCount = 6127;
+            };
+            url = "http://fatheads.com";
+            verified = 0;
+        },
+                {
+            beenHere =             {
+                count = 0;
+            };
+            canonicalUrl = "https://foursquare.com/v/pizza-milano/4ade2a17f964a520807321e3";
+            categories =             (
+                                {
+                    icon =                     {
+                        name = ".png";
+                        prefix = "https://foursquare.com/img/categories/food/pizza_";
+                        sizes =                         (
+                            32,
+                            44,
+                            64,
+                            88,
+                            256
+                        );
+                    };
+                    id = 4bf58dd8d48988d1ca941735;
+                    name = "Pizza Place";
+                    pluralName = "Pizza Places";
+                    primary = 1;
+                    shortName = Pizza;
+                }
+            );
+            contact =             {
+                formattedPhone = "+1 412-281-8181";
+                phone = "+14122818181";
+            };
+            hasMenu = 1;
+            hereNow =             {
+                count = 0;
+                groups =                 (
+                );
+            };
+            id = 4ade2a17f964a520807321e3;
+            likes =             {
+                count = 0;
+                groups =                 (
+                );
+            };
+            location =             {
+                address = "1304 5th Ave.";
+                cc = US;
+                city = Pittsburgh;
+                country = "United States";
+                distance = 702;
+                lat = "40.43850420964455";
+                lng = "-79.98807549476624";
+                postalCode = 15219;
+                state = PA;
+            };
+            menu =             {
+                mobileUrl = "https://foursquare.com/v/4ade2a17f964a520807321e3/device_menu";
+                type = foodAndBeverage;
+                url = "https://foursquare.com/v/pizza-milano/4ade2a17f964a520807321e3/menu";
+            };
+            name = "Pizza Milano";
+            referralId = "v-1366793022";
+            specials =             (
+            );
+            stats =             {
+                checkinsCount = 2886;
+                tipCount = 19;
+                usersCount = 1150;
+            };
+            verified = 0;
+        },
+                {
+            beenHere =             {
+                count = 0;
+            };
+            canonicalUrl = "https://foursquare.com/v/primanti-brothers/4ad4c00df964a5207fed20e3";
+            categories =             (
+                                {
+                    icon =                     {
+                        name = ".png";
+                        prefix = "https://foursquare.com/img/categories/food/sandwiches_";
+                        sizes =                         (
+                            32,
+                            44,
+                            64,
+                            88,
+                            256
+                        );
+                    };
+                    id = 4bf58dd8d48988d1c5941735;
+                    name = "Sandwich Place";
+                    pluralName = "Sandwich Places";
+                    primary = 1;
+                    shortName = Sandwiches;
+                }
+            );
+            contact =             {
+                formattedPhone = "+1 412-263-2142";
+                phone = "+14122632142";
+            };
+            hasMenu = 1;
+            hereNow =             {
+                count = 0;
+                groups =                 (
+                );
+            };
+            id = 4ad4c00df964a5207fed20e3;
+            likes =             {
+                count = 0;
+                groups =                 (
+                );
+            };
+            location =             {
+                address = "46 18th St";
+                cc = US;
+                city = Pittsburgh;
+                country = "United States";
+                crossStreet = "btwn Smallman St & Penn Ave";
+                distance = 1432;
+                lat = "40.45074828584748";
+                lng = "-79.98544861634427";
+                postalCode = 15222;
+                state = PA;
+            };
+            menu =             {
+                mobileUrl = "https://foursquare.com/v/4ad4c00df964a5207fed20e3/device_menu";
+                type = foodAndBeverage;
+                url = "https://foursquare.com/v/primanti-brothers/4ad4c00df964a5207fed20e3/menu";
+            };
+            name = "Primanti Brothers";
+            referralId = "v-1366793022";
+            specials =             (
+            );
+            stats =             {
+                checkinsCount = 8960;
+                tipCount = 102;
+                usersCount = 6847;
+            };
+            url = "http://www.primantibros.com";
+            verified = 0;
+        },
+                {
+            beenHere =             {
+                count = 0;
+            };
+            canonicalUrl = "https://foursquare.com/v/noodles--company/4edd1487722e1da30572f43a";
+            categories =             (
+                                {
+                    icon =                     {
+                        name = ".png";
+                        prefix = "https://foursquare.com/img/categories/food/ramen_";
+                        sizes =                         (
+                            32,
+                            44,
+                            64,
+                            88,
+                            256
+                        );
+                    };
+                    id = 4bf58dd8d48988d1d1941735;
+                    name = "Ramen /  Noodle House";
+                    pluralName = "Ramen /  Noodle House";
+                    primary = 1;
+                    shortName = "Ramen / Noodles";
+                }
+            );
+            contact =             {
+                formattedPhone = "+1 412-562-2191";
+                phone = "+14125622191";
+            };
+            hereNow =             {
+                count = 0;
+                groups =                 (
+                );
+            };
+            id = 4edd1487722e1da30572f43a;
+            likes =             {
+                count = 0;
+                groups =                 (
+                );
+            };
+            location =             {
+                address = "476 McMaster Way";
+                cc = US;
+                city = Pittsburgh;
+                country = "United States";
+                crossStreet = "at Market Sq";
+                distance = 543;
+                lat = "40.44088684357742";
+                lng = "-80.00229595025003";
+                postalCode = 15222;
+                state = PA;
+            };
+            name = "Noodles & Company";
+            referralId = "v-1366793022";
+            specials =             (
+            );
+            stats =             {
+                checkinsCount = 2128;
+                tipCount = 24;
+                usersCount = 939;
+            };
+            verified = 0;
+        },
+                {
+            beenHere =             {
+                count = 0;
+            };
+            canonicalUrl = "https://foursquare.com/v/houlihans-station-square/4ad4c00df964a52083ed20e3";
+            categories =             (
+                                {
+                    icon =                     {
+                        name = ".png";
+                        prefix = "https://foursquare.com/img/categories/nightlife/bar_";
+                        sizes =                         (
+                            32,
+                            44,
+                            64,
+                            88,
+                            256
+                        );
+                    };
+                    id = 4bf58dd8d48988d116941735;
+                    name = Bar;
+                    pluralName = Bars;
+                    primary = 1;
+                    shortName = Bar;
+                }
+            );
+            contact =             {
+                formattedPhone = "+1 412-232-0302";
+                phone = "+14122320302";
+            };
+            hereNow =             {
+                count = 0;
+                groups =                 (
+                );
+            };
+            id = 4ad4c00df964a52083ed20e3;
+            likes =             {
+                count = 0;
+                groups =                 (
+                );
+            };
+            location =             {
+                address = "125 W Station Square Dr.";
+                cc = US;
+                city = Pittsburgh;
+                country = "United States";
+                distance = 1075;
+                lat = "40.43378954354774";
+                lng = "-80.00485143579482";
+                postalCode = 15219;
+                state = PA;
+            };
+            name = "Houlihan's Station Square";
+            referralId = "v-1366793022";
+            specials =             (
+                                {
+                    description = "Unlocked for the mayor";
+                    finePrint = "Dine-in only. One per table. Not valid with any other offer or promotion. Code: 4SQMAYR";
+                    icon = mayor;
+                    id = 512e3fe5ebcaba6d68e81c00;
+                    likes =                     {
+                        count = 0;
+                        groups =                         (
+                        );
+                    };
+                    message = "Prove that you're the mayor and receive a free appetizer up to $9!";
+                    page =                     {
+                        bio = "";
+                        contact =                         {
+                            facebook = 73480615762;
+                            twitter = houlihans;
+                        };
+                        firstName = "Houlihan's";
+                        followers =                         {
+                            count = 136;
+                            groups =                             (
+                            );
+                        };
+                        gender = none;
+                        homeCity = "Kansas City, MO";
+                        id = 32632928;
+                        photo = "https://is1.4sqi.net/userpix_thumbs/O2U3U24LVSPHVK50.jpg";
+                        tips =                         {
+                            count = 0;
+                        };
+                        type = brand;
+                    };
+                    provider = foursquare;
+                    redemption = standard;
+                    title = "Mayor Special";
+                    type = mayor;
+                }
+            );
+            stats =             {
+                checkinsCount = 4853;
+                tipCount = 19;
+                usersCount = 2313;
+            };
+            verified = 1;
+        },
+                {
+            beenHere =             {
+                count = 0;
+            };
+            canonicalUrl = "https://foursquare.com/v/olive-or-twist/4ad4c00ff964a52044ee20e3";
+            categories =             (
+                                {
+                    icon =                     {
+                        name = ".png";
+                        prefix = "https://foursquare.com/img/categories/nightlife/cocktails_";
+                        sizes =                         (
+                            32,
+                            44,
+                            64,
+                            88,
+                            256
+                        );
+                    };
+                    id = 4bf58dd8d48988d11e941735;
+                    name = "Cocktail Bar";
+                    pluralName = "Cocktail Bars";
+                    primary = 1;
+                    shortName = Cocktail;
+                }
+            );
+            contact =             {
+                formattedPhone = "+1 412-255-0525";
+                phone = "+14122550525";
+            };
+            hasMenu = 1;
+            hereNow =             {
+                count = 0;
+                groups =                 (
+                );
+            };
+            id = 4ad4c00ff964a52044ee20e3;
+            likes =             {
+                count = 0;
+                groups =                 (
+                );
+            };
+            location =             {
+                address = "140 6th St";
+                cc = US;
+                city = Pittsburgh;
+                country = "United States";
+                crossStreet = "Penn Ave";
+                distance = 613;
+                lat = "40.4430187";
+                lng = "-80.00240719999999";
+                postalCode = 15222;
+                state = PA;
+            };
+            menu =             {
+                mobileUrl = "https://foursquare.com/v/4ad4c00ff964a52044ee20e3/device_menu";
+                type = foodAndBeverage;
+                url = "https://foursquare.com/v/olive-or-twist/4ad4c00ff964a52044ee20e3/menu";
+            };
+            name = "Olive or Twist";
+            referralId = "v-1366793022";
+            specials =             (
+            );
+            stats =             {
+                checkinsCount = 3167;
+                tipCount = 31;
+                usersCount = 1941;
+            };
+            url = "http://www.olive-twist.com";
+            verified = 1;
+        },
+                {
+            beenHere =             {
+                count = 0;
+            };
+            canonicalUrl = "https://foursquare.com/v/hard-rock-cafe-pittsburgh/4ad8a195f964a520111321e3";
+            categories =             (
+                                {
+                    icon =                     {
+                        name = ".png";
+                        prefix = "https://foursquare.com/img/categories/food/default_";
+                        sizes =                         (
+                            32,
+                            44,
+                            64,
+                            88,
+                            256
+                        );
+                    };
+                    id = 4bf58dd8d48988d14e941735;
+                    name = "American Restaurant";
+                    pluralName = "American Restaurants";
+                    primary = 1;
+                    shortName = American;
+                }
+            );
+            contact =             {
+                formattedPhone = "+1 412-481-7625";
+                phone = "+14124817625";
+                twitter = hardrock;
+            };
+            hereNow =             {
+                count = 0;
+                groups =                 (
+                );
+            };
+            id = 4ad8a195f964a520111321e3;
+            likes =             {
+                count = 0;
+                groups =                 (
+                );
+            };
+            location =             {
+                address = "1 Station Sq";
+                cc = US;
+                city = Pittsburgh;
+                country = "United States";
+                distance = 1064;
+                lat = "40.43391490442221";
+                lng = "-80.00484466552734";
+                postalCode = 15219;
+                state = PA;
+            };
+            name = "Hard Rock Cafe Pittsburgh";
+            referralId = "v-1366793022";
+            specials =             (
+            );
+            stats =             {
+                checkinsCount = 5336;
+                tipCount = 33;
+                usersCount = 3444;
+            };
+            url = "http://www.hardrock.com/pittsburgh";
+            verified = 1;
+        },
+                {
+            beenHere =             {
+                count = 0;
+            };
+            canonicalUrl = "https://foursquare.com/v/sonoma-grille/4ad4c00df964a520b4ed20e3";
+            categories =             (
+                                {
+                    icon =                     {
+                        name = ".png";
+                        prefix = "https://foursquare.com/img/categories/nightlife/wine_";
+                        sizes =                         (
+                            32,
+                            44,
+                            64,
+                            88,
+                            256
+                        );
+                    };
+                    id = 4bf58dd8d48988d123941735;
+                    name = "Wine Bar";
+                    pluralName = "Wine Bars";
+                    primary = 1;
+                    shortName = "Wine Bar";
+                }
+            );
+            contact =             {
+                formattedPhone = "+1 412-697-1336";
+                phone = "+14126971336";
+                twitter = thesonomagrille;
+            };
+            hasMenu = 1;
+            hereNow =             {
+                count = 0;
+                groups =                 (
+                );
+            };
+            id = 4ad4c00df964a520b4ed20e3;
+            likes =             {
+                count = 0;
+                groups =                 (
+                );
+            };
+            location =             {
+                address = "947 Penn Ave";
+                cc = US;
+                city = Pittsburgh;
+                country = "United States";
+                distance = 401;
+                lat = "40.444228";
+                lng = "-79.99620400000001";
+                postalCode = 15222;
+                state = PA;
+            };
+            menu =             {
+                mobileUrl = "https://foursquare.com/v/4ad4c00df964a520b4ed20e3/device_menu";
+                type = foodAndBeverage;
+                url = "https://foursquare.com/v/sonoma-grille/4ad4c00df964a520b4ed20e3/menu";
+            };
+            name = "Sonoma Grille";
+            referralId = "v-1366793022";
+            specials =             (
+            );
+            stats =             {
+                checkinsCount = 2101;
+                tipCount = 32;
+                usersCount = 1273;
+            };
+            url = "http://www.thesonomagrille.com";
+            verified = 0;
+        },
+                {
+            beenHere =             {
+                count = 0;
+            };
+            canonicalUrl = "https://foursquare.com/v/dunkin-donuts/4cf4eba66195721e468e54c1";
+            categories =             (
+                                {
+                    icon =                     {
+                        name = ".png";
+                        prefix = "https://foursquare.com/img/categories/food/bagels_";
+                        sizes =                         (
+                            32,
+                            44,
+                            64,
+                            88,
+                            256
+                        );
+                    };
+                    id = 4bf58dd8d48988d148941735;
+                    name = "Donut Shop";
+                    pluralName = "Donut Shops";
+                    primary = 1;
+                    shortName = Donuts;
+                }
+            );
+            contact =             {
+                twitter = dunkindonuts;
+            };
+            hereNow =             {
+                count = 0;
+                groups =                 (
+                );
+            };
+            id = 4cf4eba66195721e468e54c1;
+            likes =             {
+                count = 0;
+                groups =                 (
+                );
+            };
+            location =             {
+                address = "601 Grant St";
+                cc = US;
+                city = Pittsburgh;
+                country = "United States";
+                distance = 42;
+                lat = "40.44051295286377";
+                lng = "-79.99540328979492";
+                postalCode = 15219;
+                state = PA;
+            };
+            name = "Dunkin Donuts";
+            referralId = "v-1366793022";
+            specials =             (
+            );
+            stats =             {
+                checkinsCount = 2351;
+                tipCount = 20;
+                usersCount = 628;
+            };
+            url = "http://www.dunkindonuts.com";
+            verified = 1;
+        },
+                {
+            beenHere =             {
+                count = 0;
+            };
+            canonicalUrl = "https://foursquare.com/v/six-penn-kitchen/4ae393bef964a520da9621e3";
+            categories =             (
+                                {
+                    icon =                     {
+                        name = ".png";
+                        prefix = "https://foursquare.com/img/categories/food/default_";
+                        sizes =                         (
+                            32,
+                            44,
+                            64,
+                            88,
+                            256
+                        );
+                    };
+                    id = 4bf58dd8d48988d14e941735;
+                    name = "American Restaurant";
+                    pluralName = "American Restaurants";
+                    primary = 1;
+                    shortName = American;
+                }
+            );
+            contact =             {
+                formattedPhone = "+1 412-566-7366";
+                phone = "+14125667366";
+            };
+            hasMenu = 1;
+            hereNow =             {
+                count = 0;
+                groups =                 (
+                );
+            };
+            id = 4ae393bef964a520da9621e3;
+            likes =             {
+                count = 0;
+                groups =                 (
+                );
+            };
+            location =             {
+                address = "146 6th St";
+                cc = US;
+                city = Pittsburgh;
+                country = "United States";
+                crossStreet = "at Penn Ave";
+                distance = 589;
+                lat = "40.44278170931234";
+                lng = "-80.00223588451523";
+                postalCode = 15222;
+                state = PA;
+            };
+            menu =             {
+                mobileUrl = "https://foursquare.com/v/4ae393bef964a520da9621e3/device_menu";
+                type = foodAndBeverage;
+                url = "https://foursquare.com/v/six-penn-kitchen/4ae393bef964a520da9621e3/menu";
+            };
+            name = "Six Penn Kitchen";
+            referralId = "v-1366793022";
+            reservations =             {
+                url = "http://www.opentable.com/single.aspx?rid=11941&ref=9601";
+            };
+            specials =             (
+            );
+            stats =             {
+                checkinsCount = 3193;
+                tipCount = 31;
+                usersCount = 1847;
+            };
+            url = "http://www.sixpennkitchen.com";
+            verified = 0;
+        },
+                {
+            beenHere =             {
+                count = 0;
+            };
+            canonicalUrl = "https://foursquare.com/v/wingharts-burger--whiskey-bar/4cf943be34c1a093c614390e";
+            categories =             (
+                                {
+                    icon =                     {
+                        name = ".png";
+                        prefix = "https://foursquare.com/img/categories/food/burger_";
+                        sizes =                         (
+                            32,
+                            44,
+                            64,
+                            88,
+                            256
+                        );
+                    };
+                    id = 4bf58dd8d48988d16c941735;
+                    name = "Burger Joint";
+                    pluralName = "Burger Joints";
+                    primary = 1;
+                    shortName = Burgers;
+                }
+            );
+            contact =             {
+                formattedPhone = "+1 412-434-5600";
+                phone = "+14124345600";
+                twitter = wingharts;
+            };
+            hereNow =             {
+                count = 0;
+                groups =                 (
+                );
+            };
+            id = 4cf943be34c1a093c614390e;
+            likes =             {
+                count = 0;
+                groups =                 (
+                );
+            };
+            location =             {
+                address = "5 Market Sq.";
+                cc = US;
+                city = Pittsburgh;
+                country = "United States";
+                distance = 551;
+                lat = "40.44021287003775";
+                lng = "-80.00237837433815";
+                postalCode = 15222;
+                state = PA;
+            };
+            name = "Winghart's Burger & Whiskey Bar";
+            referralId = "v-1366793022";
+            specials =             (
+                                {
+                    description = "Unlocked every 3 check-ins";
+                    finePrint = "No substitutions.";
+                    icon = frequency;
+                    id = 4df6e59463650892a289b440;
+                    likes =                     {
+                        count = 0;
+                        groups =                         (
+                        );
+                    };
+                    message = "Free order of our yummy fries every third check in!";
+                    provider = foursquare;
+                    redemption = standard;
+                    title = "Loyalty Special";
+                    type = frequency;
+                }
+            );
+            stats =             {
+                checkinsCount = 2763;
+                tipCount = 49;
+                usersCount = 1098;
+            };
+            verified = 1;
+        },
+                {
+            beenHere =             {
+                count = 0;
+            };
+            canonicalUrl = "https://foursquare.com/v/nickys-thai-kitchen/50d61061e4b0260d047d5786";
+            categories =             (
+                                {
+                    icon =                     {
+                        name = ".png";
+                        prefix = "https://foursquare.com/img/categories/food/default_";
+                        sizes =                         (
+                            32,
+                            44,
+                            64,
+                            88,
+                            256
+                        );
+                    };
+                    id = 4bf58dd8d48988d149941735;
+                    name = "Thai Restaurant";
+                    pluralName = "Thai Restaurants";
+                    primary = 1;
+                    shortName = Thai;
+                }
+            );
+            contact =             {
+                formattedPhone = "+1 412-471-8424";
+                phone = "+14124718424";
+            };
+            hereNow =             {
+                count = 0;
+                groups =                 (
+                );
+            };
+            id = 50d61061e4b0260d047d5786;
+            likes =             {
+                count = 0;
+                groups =                 (
+                );
+            };
+            location =             {
+                address = "903 Penn Ave";
+                cc = US;
+                city = Pittsburgh;
+                country = "United States";
+                crossStreet = 9th;
+                distance = 398;
+                lat = "40.443651";
+                lng = "-79.998397";
+                postalCode = 15222;
+                state = Pa;
+            };
+            name = "Nicky's Thai Kitchen";
+            referralId = "v-1366793022";
+            specials =             (
+            );
+            stats =             {
+                checkinsCount = 218;
+                tipCount = 7;
+                usersCount = 160;
+            };
+            verified = 0;
+        },
+                {
+            beenHere =             {
+                count = 0;
+            };
+            canonicalUrl = "https://foursquare.com/v/seviche/4af4f73cf964a520bbf721e3";
+            categories =             (
+                                {
+                    icon =                     {
+                        name = ".png";
+                        prefix = "https://foursquare.com/img/categories/food/southamerican_";
+                        sizes =                         (
+                            32,
+                            44,
+                            64,
+                            88,
+                            256
+                        );
+                    };
+                    id = 4bf58dd8d48988d1cd941735;
+                    name = "South American Restaurant";
+                    pluralName = "South American Restaurants";
+                    primary = 1;
+                    shortName = "South American";
+                }
+            );
+            contact =             {
+                formattedPhone = "+1 412-697-3120";
+                phone = "+14126973120";
+                twitter = sevichepgh;
+            };
+            hasMenu = 1;
+            hereNow =             {
+                count = 0;
+                groups =                 (
+                );
+            };
+            id = 4af4f73cf964a520bbf721e3;
+            likes =             {
+                count = 0;
+                groups =                 (
+                );
+            };
+            location =             {
+                address = "930 Penn Ave.";
+                cc = US;
+                city = Pittsburgh;
+                country = "United States";
+                crossStreet = "Btw 9th & 10th";
+                distance = 403;
+                lat = "40.44417564097095";
+                lng = "-79.9968625636359";
+                postalCode = 15222;
+                state = PA;
+            };
+            menu =             {
+                mobileUrl = "https://foursquare.com/v/4af4f73cf964a520bbf721e3/device_menu";
+                type = foodAndBeverage;
+                url = "https://foursquare.com/v/seviche/4af4f73cf964a520bbf721e3/menu";
+            };
+            name = Seviche;
+            referralId = "v-1366793022";
+            specials =             (
+            );
+            stats =             {
+                checkinsCount = 1911;
+                tipCount = 30;
+                usersCount = 1211;
+            };
+            url = "http://www.seviche.com";
+            verified = 0;
+        },
+                {
+            beenHere =             {
+                count = 0;
+            };
+            canonicalUrl = "https://foursquare.com/v/the-original-fish-market/4a84b604f964a5206bfd1fe3";
+            categories =             (
+                                {
+                    icon =                     {
+                        name = ".png";
+                        prefix = "https://foursquare.com/img/categories/food/sushi_";
+                        sizes =                         (
+                            32,
+                            44,
+                            64,
+                            88,
+                            256
+                        );
+                    };
+                    id = 4bf58dd8d48988d1d2941735;
+                    name = "Sushi Restaurant";
+                    pluralName = "Sushi Restaurants";
+                    primary = 1;
+                    shortName = Sushi;
+                }
+            );
+            contact =             {
+            };
+            hasMenu = 1;
+            hereNow =             {
+                count = 0;
+                groups =                 (
+                );
+            };
+            id = 4a84b604f964a5206bfd1fe3;
+            likes =             {
+                count = 0;
+                groups =                 (
+                );
+            };
+            location =             {
+                address = "1000 Penn Avenue";
+                cc = US;
+                city = Pittsburgh;
+                country = "United States";
+                distance = 423;
+                lat = "40.444301638491";
+                lng = "-79.99460935592651";
+                postalCode = 15222;
+                state = PA;
+            };
+            menu =             {
+                mobileUrl = "https://foursquare.com/v/4a84b604f964a5206bfd1fe3/device_menu";
+                type = foodAndBeverage;
+                url = "https://foursquare.com/v/the-original-fish-market/4a84b604f964a5206bfd1fe3/menu";
+            };
+            name = "The Original Fish Market";
+            referralId = "v-1366793022";
+            specials =             (
+            );
+            stats =             {
+                checkinsCount = 1882;
+                tipCount = 20;
+                usersCount = 1022;
+            };
+            verified = 1;
+        },
+                {
+            beenHere =             {
+                count = 0;
+            };
+            canonicalUrl = "https://foursquare.com/v/diamond-market-bar--grill/4e77c70db993adb6bd80d163";
+            categories =             (
+                                {
+                    icon =                     {
+                        name = ".png";
+                        prefix = "https://foursquare.com/img/categories/food/default_";
+                        sizes =                         (
+                            32,
+                            44,
+                            64,
+                            88,
+                            256
+                        );
+                    };
+                    id = 4bf58dd8d48988d14e941735;
+                    name = "American Restaurant";
+                    pluralName = "American Restaurants";
+                    primary = 1;
+                    shortName = American;
+                }
+            );
+            contact =             {
+                formattedPhone = "+1 412-325-2000";
+                phone = "+14123252000";
+            };
+            hereNow =             {
+                count = 0;
+                groups =                 (
+                );
+            };
+            id = 4e77c70db993adb6bd80d163;
+            likes =             {
+                count = 0;
+                groups =                 (
+                );
+            };
+            location =             {
+                address = "430 Market St.";
+                cc = US;
+                city = Pittsburgh;
+                country = "United States";
+                crossStreet = "at Market Sq.";
+                distance = 540;
+                lat = "40.44102329472974";
+                lng = "-80.00224828720093";
+                postalCode = 15222;
+                state = PA;
+            };
+            name = "Diamond Market Bar & Grill";
+            referralId = "v-1366793022";
+            specials =             (
+            );
+            stats =             {
+                checkinsCount = 2640;
+                tipCount = 28;
+                usersCount = 1303;
+            };
+            verified = 0;
+        },
+                {
+            beenHere =             {
+                count = 0;
+            };
+            canonicalUrl = "https://foursquare.com/v/starbucks/4ae0c541f964a520538221e3";
+            categories =             (
+                                {
+                    icon =                     {
+                        name = ".png";
+                        prefix = "https://foursquare.com/img/categories/food/coffeeshop_";
+                        sizes =                         (
+                            32,
+                            44,
+                            64,
+                            88,
+                            256
+                        );
+                    };
+                    id = 4bf58dd8d48988d1e0931735;
+                    name = "Coffee Shop";
+                    pluralName = "Coffee Shops";
+                    primary = 1;
+                    shortName = "Coffee Shop";
+                }
+            );
+            contact =             {
+                formattedPhone = "+1 412-281-2380";
+                phone = "+14122812380";
+                twitter = starbucks;
+            };
+            hereNow =             {
+                count = 0;
+                groups =                 (
+                );
+            };
+            id = 4ae0c541f964a520538221e3;
+            likes =             {
+                count = 0;
+                groups =                 (
+                );
+            };
+            location =             {
+                address = "202 6th St";
+                cc = US;
+                city = Pittsburgh;
+                country = "United States";
+                crossStreet = "at Penn Ave";
+                distance = 575;
+                lat = "40.44273094253965";
+                lng = "-80.00208845026296";
+                postalCode = 15222;
+                state = PA;
+            };
+            name = Starbucks;
+            referralId = "v-1366793022";
+            specials =             (
+            );
+            stats =             {
+                checkinsCount = 4330;
+                tipCount = 25;
+                usersCount = 1550;
+            };
+            url = "http://www.starbucks.com";
+            verified = 1;
+        }
+    );
+}

@@ -1,0 +1,1563 @@
+Toni Karttunen
+24.4.2012
+
+==========================================
+
+Paikkatiedon tarjoaja: Google
+Paikka: Suzhou
+Kategoria: Food
+
+==========================================
+
+2013-04-24 11:15:14.564 Google[11427:907] {
+}
+2013-04-24 11:15:15.101 Google[11427:907] Google Places JSON response: {
+    "html_attributions" =     (
+    );
+    result =     {
+        "address_components" =         (
+                        {
+                "long_name" = "Yuecheng West Road";
+                "short_name" = "Yuecheng West Road";
+                types =                 (
+                    route
+                );
+            },
+                        {
+                "long_name" = Wuzhong;
+                "short_name" = Wuzhong;
+                types =                 (
+                    sublocality,
+                    political
+                );
+            },
+                        {
+                "long_name" = Suzhou;
+                "short_name" = Suzhou;
+                types =                 (
+                    locality,
+                    political
+                );
+            },
+                        {
+                "long_name" = Jiangsu;
+                "short_name" = Jiangsu;
+                types =                 (
+                    "administrative_area_level_1",
+                    political
+                );
+            },
+                        {
+                "long_name" = CN;
+                "short_name" = CN;
+                types =                 (
+                    country,
+                    political
+                );
+            }
+        );
+        "formatted_address" = "Yuecheng West Road, Wuzhong, Suzhou, Jiangsu, China";
+        "formatted_phone_number" = "0512 6631 4941";
+        geometry =         {
+            location =             {
+                lat = "31.210921";
+                lng = "120.585014";
+            };
+        };
+        icon = "http://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png";
+        id = 708d8631a154265fa1852dc89bac1adb8fce196c;
+        "international_phone_number" = "+86 512 6631 4941";
+        name = "Wallace Fried Chicken Hamburg";
+        reference = "CoQBegAAAMQq8NqsdTPTrpc3Ugz4qLhHX7PpdQoe7c-22vimVSXjiw--7F0lZ4N4TTR_vhlCV8Jt_gEIl8RYODxsRMDRpDUurllIXFBB_3WIpC4umhHHfSd2QBKD6Ph8RLqcntSBKU83-C6YGhpqxUI7XJuPOg--kYqN3fB0zP9Ylvu3LVWmEhDgkcPemWIkNymP7BAn0SWDGhTnkaN61VmRojqjv_ccMfhnmRRNGA";
+        types =         (
+            restaurant,
+            food,
+            establishment
+        );
+        url = "https://plus.google.com/114194298643840597154/about?hl=en-US";
+        "utc_offset" = 480;
+        vicinity = "Yuecheng West Road, Wuzhong, Suzhou";
+        website = "http://www.cnhls.com/";
+    };
+    status = OK;
+}
+
+2013-04-24 11:15:22.305 Google[11427:907] {
+}
+2013-04-24 11:15:22.415 Google[11427:907] Google Places JSON response: {
+    "html_attributions" =     (
+    );
+    result =     {
+        "address_components" =         (
+                        {
+                "long_name" = Wuzhong;
+                "short_name" = Wuzhong;
+                types =                 (
+                    sublocality,
+                    political
+                );
+            },
+                        {
+                "long_name" = Suzhou;
+                "short_name" = Suzhou;
+                types =                 (
+                    locality,
+                    political
+                );
+            },
+                        {
+                "long_name" = Jiangsu;
+                "short_name" = Jiangsu;
+                types =                 (
+                    "administrative_area_level_1",
+                    political
+                );
+            },
+                        {
+                "long_name" = CN;
+                "short_name" = CN;
+                types =                 (
+                    country,
+                    political
+                );
+            }
+        );
+        "formatted_address" = "\U8d8a\U6e56\U8def188\U53f7\U56fd\U9645\U6559\U80b2\U56ed, Wuzhong, Suzhou, Jiangsu, China";
+        "formatted_phone_number" = "0512 6605 5909";
+        geometry =         {
+            location =             {
+                lat = "31.217715";
+                lng = "120.585581";
+            };
+        };
+        icon = "http://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png";
+        id = f3dab31f06544d34364c3bd7eea04b82bb946221;
+        "international_phone_number" = "+86 512 6605 5909";
+        name = "\U6854\U5b50\U56ed\U9152\U5bb6";
+        reference = "CnRtAAAAx1vVbgSyzEB1ICrNn43NHXipXbRaBSUbUMJtctEYoyNzs2U7fbApyfA7apcx0Ke7sLkuzp3LVK-XGuWU2c98vk2iBmYDRyoRpl1oBIZ23h57TYsNUeE_oSMgiupUetJShTlhl3u_xTdj0LHZfemowBIQlYoVg6ZGshp0mYSl8bD8nxoU_llFsWgK9LYEQb_cgAQGHHkRM7I";
+        types =         (
+            restaurant,
+            food,
+            establishment
+        );
+        url = "https://plus.google.com/101864726000028380338/about?hl=en-US";
+        "utc_offset" = 480;
+        vicinity = "\U8d8a\U6e56\U8def188\U53f7\U56fd\U9645\U6559\U80b2\U56ed, Wuzhong, Suzhou";
+    };
+    status = OK;
+}
+
+2013-04-24 11:15:25.135 Google[11427:907] {
+}
+2013-04-24 11:15:25.239 Google[11427:907] Google Places JSON response: {
+    "html_attributions" =     (
+    );
+    result =     {
+        "address_components" =         (
+                        {
+                "long_name" = "Yuecheng West Road";
+                "short_name" = "Yuecheng West Road";
+                types =                 (
+                    route
+                );
+            },
+                        {
+                "long_name" = Wuzhong;
+                "short_name" = Wuzhong;
+                types =                 (
+                    sublocality,
+                    political
+                );
+            },
+                        {
+                "long_name" = Suzhou;
+                "short_name" = Suzhou;
+                types =                 (
+                    locality,
+                    political
+                );
+            },
+                        {
+                "long_name" = Jiangsu;
+                "short_name" = Jiangsu;
+                types =                 (
+                    "administrative_area_level_1",
+                    political
+                );
+            },
+                        {
+                "long_name" = CN;
+                "short_name" = CN;
+                types =                 (
+                    country,
+                    political
+                );
+            }
+        );
+        "formatted_address" = "Yuecheng West Road, Wuzhong, Suzhou, Jiangsu, China";
+        "formatted_phone_number" = "0512 6688 1738";
+        geometry =         {
+            location =             {
+                lat = "31.210598";
+                lng = "120.58611";
+            };
+        };
+        icon = "http://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png";
+        id = aef37f867221d9fbfa0167efd303d7a4ba01f902;
+        "international_phone_number" = "+86 512 6688 1738";
+        name = Vanguard;
+        reference = "CnRlAAAAmK5bc5H7flqxrItFqoCKoXkF0nY3mjnkCMM0lsmg5BF5Q7Hlvo1_jY4BmtC3qCJTgTjf24Ly7p76ALaZWkRHK_MSN05ihjXwZm_6PyBY_MZmgBFrFjHzJcZiAnYcSvwc1Vk_0CL-glzx8aLpEws_ThIQi-dHQX1hRrgz8ohSb-QpXxoUwX9GqKAcVRocf7HnjgUR-oIh3Nc";
+        types =         (
+            "convenience_store",
+            food,
+            store,
+            establishment
+        );
+        url = "https://plus.google.com/104211828442156000453/about?hl=en-US";
+        "utc_offset" = 480;
+        vicinity = "Yuecheng West Road, Wuzhong, Suzhou";
+    };
+    status = OK;
+}
+
+2013-04-24 11:15:27.863 Google[11427:907] {
+}
+2013-04-24 11:15:27.962 Google[11427:907] Google Places JSON response: {
+    "html_attributions" =     (
+    );
+    result =     {
+        "address_components" =         (
+                        {
+                "long_name" = Wuzhong;
+                "short_name" = Wuzhong;
+                types =                 (
+                    sublocality,
+                    political
+                );
+            },
+                        {
+                "long_name" = Suzhou;
+                "short_name" = Suzhou;
+                types =                 (
+                    locality,
+                    political
+                );
+            },
+                        {
+                "long_name" = Jiangsu;
+                "short_name" = Jiangsu;
+                types =                 (
+                    "administrative_area_level_1",
+                    political
+                );
+            },
+                        {
+                "long_name" = CN;
+                "short_name" = CN;
+                types =                 (
+                    country,
+                    political
+                );
+            }
+        );
+        "formatted_address" = "\U4e00\U5ddd\U8857\U6587\U6b63\U5b66\U9662\U5b66\U751f\U5e7f\U573aB\U533a, Wuzhong, Suzhou, Jiangsu, China";
+        "formatted_phone_number" = "0512 6930 1235";
+        geometry =         {
+            location =             {
+                lat = "31.219664";
+                lng = "120.587898";
+            };
+        };
+        icon = "http://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png";
+        id = fdfbf8cc4c4efb7a74bc51690ea1da4f814c5261;
+        "international_phone_number" = "+86 512 6930 1235";
+        name = "\U4e16\U597d\U5409\U7965\U9984\U9968";
+        reference = "CnRvAAAAWP5DfD3NlDTQmhkEr3uP1jHhPPIC0icmc9DVCqwjf7IK8ehG0kWEByFCXuJKbLxzPclm5cT8NJqpcE-pdWyMJc4iMP79JrVWdAtIdTRcMXvyfXIdcgD9h9IU2R_0VxHa85WTzoFEcl6c3mHvqpTAWxIQThTFmqWzfwfM0IF4vUKSsxoUxJjUg-2BZoFXWOp92s35y4C9epw";
+        types =         (
+            restaurant,
+            food,
+            establishment
+        );
+        url = "https://plus.google.com/105383910050972167271/about?hl=en-US";
+        "utc_offset" = 480;
+        vicinity = "\U4e00\U5ddd\U8857\U6587\U6b63\U5b66\U9662\U5b66\U751f\U5e7f\U573aB\U533a, Wuzhong, Suzhou";
+    };
+    status = OK;
+}
+
+2013-04-24 11:15:38.955 Google[11427:907] {
+}
+2013-04-24 11:15:39.069 Google[11427:907] Google Places JSON response: {
+    "html_attributions" =     (
+    );
+    result =     {
+        "address_components" =         (
+                        {
+                "long_name" = "Yuecheng West Road";
+                "short_name" = "Yuecheng West Road";
+                types =                 (
+                    route
+                );
+            },
+                        {
+                "long_name" = Wuzhong;
+                "short_name" = Wuzhong;
+                types =                 (
+                    sublocality,
+                    political
+                );
+            },
+                        {
+                "long_name" = Suzhou;
+                "short_name" = Suzhou;
+                types =                 (
+                    locality,
+                    political
+                );
+            },
+                        {
+                "long_name" = Jiangsu;
+                "short_name" = Jiangsu;
+                types =                 (
+                    "administrative_area_level_1",
+                    political
+                );
+            },
+                        {
+                "long_name" = CN;
+                "short_name" = CN;
+                types =                 (
+                    country,
+                    political
+                );
+            }
+        );
+        "formatted_address" = "Yuecheng West Road, Wuzhong, Suzhou, Jiangsu, China";
+        "formatted_phone_number" = "0512 6655 9976";
+        geometry =         {
+            location =             {
+                lat = "31.210878";
+                lng = "120.58519";
+            };
+        };
+        icon = "http://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png";
+        id = f365cfb48a520ec84e623cdc66596c1a5509b0d1;
+        "international_phone_number" = "+86 512 6655 9976";
+        name = "Laide Hot Pot";
+        reference = "CnRrAAAAL3FciO5zUeXbqEvDfbTgXScNbxJeTcQ9Na8C8iRmCDH9jwhFFB-1d_8cSb-ghB9rnLvvWPRVU_SDn-x0l5r6vQVqeaFFHBq5XhOeuKiNGqTmAZ-uIKhGTboB9HHMu4jYBD-p41aZSnnUbE2VrmZ_ARIQhfYmFA-Ta9KotxzY84btaBoUTQr331Da6uNTV12255C5eT_R4Wc";
+        types =         (
+            restaurant,
+            food,
+            establishment
+        );
+        url = "https://plus.google.com/102136840875392299412/about?hl=en-US";
+        "utc_offset" = 480;
+        vicinity = "Yuecheng West Road, Wuzhong, Suzhou";
+    };
+    status = OK;
+}
+
+2013-04-24 11:15:45.248 Google[11427:907] {
+}
+2013-04-24 11:15:45.369 Google[11427:907] Google Places JSON response: {
+    "html_attributions" =     (
+    );
+    result =     {
+        "address_components" =         (
+                        {
+                "long_name" = Wuzhong;
+                "short_name" = Wuzhong;
+                types =                 (
+                    sublocality,
+                    political
+                );
+            },
+                        {
+                "long_name" = Suzhou;
+                "short_name" = Suzhou;
+                types =                 (
+                    locality,
+                    political
+                );
+            },
+                        {
+                "long_name" = Jiangsu;
+                "short_name" = Jiangsu;
+                types =                 (
+                    "administrative_area_level_1",
+                    political
+                );
+            },
+                        {
+                "long_name" = CN;
+                "short_name" = CN;
+                types =                 (
+                    country,
+                    political
+                );
+            }
+        );
+        "formatted_address" = "\U4e00\U5ddd\U8857, Wuzhong, Suzhou, Jiangsu, China";
+        geometry =         {
+            location =             {
+                lat = "31.218982";
+                lng = "120.587231";
+            };
+        };
+        icon = "http://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png";
+        id = e27d19700fd8ee4a828ccff93a5fcd7c0b26ed10;
+        name = "\U6587\U6b63\U5b66\U9662\U5b66\U751f\U7b2c\U4e8c\U98df\U5802";
+        reference = "CoQBfAAAAGOMVyp2pZqt4NezgRALPVjzqFo2HIFoKjoFcGAsdTk6P19RiCPgwjhUji75Tp8gPBIh7IePcTTBYVkueENzuxFAgLk9XOZI-3OQer3EPIQMrX-DIM1i_JrIvfvekcQzEW2TYHdkSo3qt_EzILmpvguHGoClx4TLZEGlWWrrfMHbEhBxRLcUh8LNc-wwQdVERbITGhSUWPZxb9rF-tOMz7Njjj8MnaZYvg";
+        reviews =         (
+                        {
+                aspects =                 (
+                                        {
+                        rating = 0;
+                        type = overall;
+                    }
+                );
+                "author_name" = "\U9676\U4fca";
+                "author_url" = "https://plus.google.com/113595065151821262557";
+                text = "";
+                time = 1302392878;
+            }
+        );
+        types =         (
+            restaurant,
+            food,
+            establishment
+        );
+        url = "https://plus.google.com/105855991837469201180/about?hl=en-US";
+        "utc_offset" = 480;
+        vicinity = "\U4e00\U5ddd\U8857, Wuzhong, Suzhou";
+    };
+    status = OK;
+}
+
+2013-04-24 11:15:49.464 Google[11427:907] {
+}
+2013-04-24 11:15:49.593 Google[11427:907] Google Places JSON response: {
+    "html_attributions" =     (
+    );
+    result =     {
+        "address_components" =         (
+                        {
+                "long_name" = "Sujie Street";
+                "short_name" = "Sujie Street";
+                types =                 (
+                    route
+                );
+            },
+                        {
+                "long_name" = Wuzhong;
+                "short_name" = Wuzhong;
+                types =                 (
+                    sublocality,
+                    political
+                );
+            },
+                        {
+                "long_name" = Suzhou;
+                "short_name" = Suzhou;
+                types =                 (
+                    locality,
+                    political
+                );
+            },
+                        {
+                "long_name" = Jiangsu;
+                "short_name" = Jiangsu;
+                types =                 (
+                    "administrative_area_level_1",
+                    political
+                );
+            },
+                        {
+                "long_name" = CN;
+                "short_name" = CN;
+                types =                 (
+                    country,
+                    political
+                );
+            }
+        );
+        "formatted_address" = "Sujie Street, Wuzhong, Suzhou, Jiangsu, China";
+        "formatted_phone_number" = "0512 6768 6669";
+        geometry =         {
+            location =             {
+                lat = "31.214887";
+                lng = "120.588164";
+            };
+        };
+        icon = "http://maps.gstatic.com/mapfiles/place_api/icons/cafe-71.png";
+        id = dd4758cdf9a141fe8d7f54301164888ec7c228d3;
+        "international_phone_number" = "+86 512 6768 6669";
+        name = "Dio Coffee";
+        reference = "CnRnAAAAlMpzihsSfwPU28SMFuGfqvJ3WoljLrZLjKv-gHs6r6Yq64yEmdpdbkKnR7GugfFfA6Sb8dgSt1nMBqApAYejB-0wBQeUxsJBiDFxiKJJmcj0rWUmF2wB8HLUymnqVDYdi0hOfF7YXMetbrFuWRv-lhIQmbYbyB2hyC8quWUMP8t3sBoUXpihDqhzgIsMDwGI2b68uuDUDSk";
+        types =         (
+            cafe,
+            food,
+            establishment
+        );
+        url = "https://plus.google.com/118150666894010273340/about?hl=en-US";
+        "utc_offset" = 480;
+        vicinity = "Sujie Street, Wuzhong, Suzhou";
+        website = "http://www.diocoffee.com/";
+    };
+    status = OK;
+}
+
+2013-04-24 11:15:54.081 Google[11427:907] {
+}
+2013-04-24 11:15:54.215 Google[11427:907] Google Places JSON response: {
+    "html_attributions" =     (
+    );
+    result =     {
+        "address_components" =         (
+                        {
+                "long_name" = "Shengcheng Road";
+                "short_name" = "Shengcheng Road";
+                types =                 (
+                    route
+                );
+            },
+                        {
+                "long_name" = Wuzhong;
+                "short_name" = Wuzhong;
+                types =                 (
+                    sublocality,
+                    political
+                );
+            },
+                        {
+                "long_name" = Suzhou;
+                "short_name" = Suzhou;
+                types =                 (
+                    locality,
+                    political
+                );
+            },
+                        {
+                "long_name" = Jiangsu;
+                "short_name" = Jiangsu;
+                types =                 (
+                    "administrative_area_level_1",
+                    political
+                );
+            },
+                        {
+                "long_name" = CN;
+                "short_name" = CN;
+                types =                 (
+                    country,
+                    political
+                );
+            }
+        );
+        "formatted_address" = "Shengcheng Road, Wuzhong, Suzhou, Jiangsu, China";
+        geometry =         {
+            location =             {
+                lat = "31.22494";
+                lng = "120.629624";
+            };
+        };
+        icon = "http://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png";
+        id = eff930fbbf6040993126316b332288250f5a9e8d;
+        name = "Hualian Supermarket";
+        reference = "CoQBcQAAAC83pudd3XB-zQNUtsc9C3qsoOPao-l-d7rx_v6clvZTG0k1i5SRWN3pUim5uUJmpQDCcrTL6Z1mAXqZaOm1Qsj-dfWY-HL_FN5pyCN_M_vsREeb2Joe1QwUxLFlfzsHx4qIyDplQ6vu8J1HZ68DNUkfxlz-bVCZ6hl1K5eR3TMbEhDTvPb2a55e0v8xCO6OppI_GhRWvwrK0R-ukZIMar2ad71D0SY7dQ";
+        types =         (
+            "convenience_store",
+            food,
+            store,
+            establishment
+        );
+        url = "https://plus.google.com/107870947037580850000/about?hl=en-US";
+        "utc_offset" = 480;
+        vicinity = "Shengcheng Road, Wuzhong, Suzhou";
+        website = "http://www.beijing-hualian.com/";
+    };
+    status = OK;
+}
+
+2013-04-24 11:15:57.587 Google[11427:907] {
+}
+2013-04-24 11:15:57.701 Google[11427:907] Google Places JSON response: {
+    "html_attributions" =     (
+    );
+    result =     {
+        "address_components" =         (
+                        {
+                "long_name" = "1109\U53f7";
+                "short_name" = "1109\U53f7";
+                types =                 (
+                    "street_number"
+                );
+            },
+                        {
+                "long_name" = "Wuzhong Avenue";
+                "short_name" = "Wuzhong Avenue";
+                types =                 (
+                    route
+                );
+            },
+                        {
+                "long_name" = Wuzhong;
+                "short_name" = Wuzhong;
+                types =                 (
+                    sublocality,
+                    political
+                );
+            },
+                        {
+                "long_name" = Suzhou;
+                "short_name" = Suzhou;
+                types =                 (
+                    locality,
+                    political
+                );
+            },
+                        {
+                "long_name" = Jiangsu;
+                "short_name" = Jiangsu;
+                types =                 (
+                    "administrative_area_level_1",
+                    political
+                );
+            },
+                        {
+                "long_name" = CN;
+                "short_name" = CN;
+                types =                 (
+                    country,
+                    political
+                );
+            }
+        );
+        "formatted_address" = "1109\U53f7 Wuzhong Avenue, Wuzhong, Suzhou, Jiangsu, China";
+        "formatted_phone_number" = "0512 6707 3177";
+        geometry =         {
+            location =             {
+                lat = "31.22162";
+                lng = "120.598931";
+            };
+        };
+        icon = "http://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png";
+        id = 01dc4391e6cf2fd78b6f9711695714be18f2f2ae;
+        "international_phone_number" = "+86 512 6707 3177";
+        name = "\U540c\U5f97\U5174";
+        "opening_hours" =         {
+            "open_now" = 0;
+            periods =             (
+                                {
+                    close =                     {
+                        day = 0;
+                        time = 1330;
+                    };
+                    open =                     {
+                        day = 0;
+                        time = 0730;
+                    };
+                },
+                                {
+                    close =                     {
+                        day = 0;
+                        time = 1930;
+                    };
+                    open =                     {
+                        day = 0;
+                        time = 1630;
+                    };
+                },
+                                {
+                    close =                     {
+                        day = 1;
+                        time = 1330;
+                    };
+                    open =                     {
+                        day = 1;
+                        time = 0730;
+                    };
+                },
+                                {
+                    close =                     {
+                        day = 1;
+                        time = 1930;
+                    };
+                    open =                     {
+                        day = 1;
+                        time = 1630;
+                    };
+                },
+                                {
+                    close =                     {
+                        day = 2;
+                        time = 1330;
+                    };
+                    open =                     {
+                        day = 2;
+                        time = 0730;
+                    };
+                },
+                                {
+                    close =                     {
+                        day = 2;
+                        time = 1930;
+                    };
+                    open =                     {
+                        day = 2;
+                        time = 1630;
+                    };
+                },
+                                {
+                    close =                     {
+                        day = 3;
+                        time = 1330;
+                    };
+                    open =                     {
+                        day = 3;
+                        time = 0730;
+                    };
+                },
+                                {
+                    close =                     {
+                        day = 3;
+                        time = 1930;
+                    };
+                    open =                     {
+                        day = 3;
+                        time = 1630;
+                    };
+                },
+                                {
+                    close =                     {
+                        day = 4;
+                        time = 1330;
+                    };
+                    open =                     {
+                        day = 4;
+                        time = 0730;
+                    };
+                },
+                                {
+                    close =                     {
+                        day = 4;
+                        time = 1930;
+                    };
+                    open =                     {
+                        day = 4;
+                        time = 1630;
+                    };
+                },
+                                {
+                    close =                     {
+                        day = 5;
+                        time = 1330;
+                    };
+                    open =                     {
+                        day = 5;
+                        time = 0730;
+                    };
+                },
+                                {
+                    close =                     {
+                        day = 5;
+                        time = 1930;
+                    };
+                    open =                     {
+                        day = 5;
+                        time = 1630;
+                    };
+                },
+                                {
+                    close =                     {
+                        day = 6;
+                        time = 1330;
+                    };
+                    open =                     {
+                        day = 6;
+                        time = 0730;
+                    };
+                },
+                                {
+                    close =                     {
+                        day = 6;
+                        time = 1930;
+                    };
+                    open =                     {
+                        day = 6;
+                        time = 1630;
+                    };
+                }
+            );
+        };
+        reference = "CnRnAAAAJvI7SZrDILQd7ao2COlA5-lPt2rIJ-EzTQ-XCxVah96cGzuaGpsw3Mh1ezZcdYAT_v3uLHdkonyKC1p00lT3YgcYW_duvz8yuxFwt84v5jr-5fnzE_fnRO2rMoj7sNllXB3EjmW4w8P7I5mgXAvrfxIQ2niAw3LO2KEu-Bi4cRBYnhoUKQnfK6TIX94Fg8fpqc7t3SobPeY";
+        types =         (
+            restaurant,
+            food,
+            establishment
+        );
+        url = "https://plus.google.com/110794081133742518028/about?hl=en-US";
+        "utc_offset" = 480;
+        vicinity = "1109\U53f7 Wuzhong Avenue, Wuzhong, Suzhou";
+        website = "http://www.tongdexing.com/index.html";
+    };
+    status = OK;
+}
+
+2013-04-24 11:16:01.754 Google[11427:907] {
+}
+2013-04-24 11:16:01.869 Google[11427:907] Google Places JSON response: {
+    "html_attributions" =     (
+    );
+    result =     {
+        "address_components" =         (
+                        {
+                "long_name" = "Yuecheng West Road";
+                "short_name" = "Yuecheng West Road";
+                types =                 (
+                    route
+                );
+            },
+                        {
+                "long_name" = Wuzhong;
+                "short_name" = Wuzhong;
+                types =                 (
+                    sublocality,
+                    political
+                );
+            },
+                        {
+                "long_name" = Suzhou;
+                "short_name" = Suzhou;
+                types =                 (
+                    locality,
+                    political
+                );
+            },
+                        {
+                "long_name" = Jiangsu;
+                "short_name" = Jiangsu;
+                types =                 (
+                    "administrative_area_level_1",
+                    political
+                );
+            },
+                        {
+                "long_name" = CN;
+                "short_name" = CN;
+                types =                 (
+                    country,
+                    political
+                );
+            }
+        );
+        "formatted_address" = "Yuecheng West Road, Wuzhong, Suzhou, Jiangsu, China";
+        "formatted_phone_number" = "0512 6655 2199";
+        geometry =         {
+            location =             {
+                lat = "31.210674";
+                lng = "120.585032";
+            };
+        };
+        icon = "http://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png";
+        id = 3da429ec2f8f6a8b1704b03db5610cab787d00fa;
+        "international_phone_number" = "+86 512 6655 2199";
+        name = "Zhouyu Home";
+        reference = "CnRoAAAAMGjzCGWIV1gjYczldnO2o1uXup5FQRuothooAdyAjy5gDdQiapCoQ8pRjUAw7x9ZR7dj3dKBpf0iTWT49V9nQvR3FFCmwu70jau80yQjhvLtrMibSYFem5Xm-U_YnOaQHAEE4Bpt42v7pcsRzlhr3hIQEcmycWhiLmw5iwWjayqxaxoUl1LfIfkxTvhsT86b0Np_BelQ2G0";
+        types =         (
+            restaurant,
+            food,
+            establishment
+        );
+        url = "https://plus.google.com/107892978243285695021/about?hl=en-US";
+        "utc_offset" = 480;
+        vicinity = "Yuecheng West Road, Wuzhong, Suzhou";
+    };
+    status = OK;
+}
+
+2013-04-24 11:16:05.369 Google[11427:907] {
+}
+2013-04-24 11:16:05.469 Google[11427:907] Google Places JSON response: {
+    "html_attributions" =     (
+    );
+    result =     {
+        "address_components" =         (
+                        {
+                "long_name" = "Xixiang Road";
+                "short_name" = "Xixiang Road";
+                types =                 (
+                    route
+                );
+            },
+                        {
+                "long_name" = Wuzhong;
+                "short_name" = Wuzhong;
+                types =                 (
+                    sublocality,
+                    political
+                );
+            },
+                        {
+                "long_name" = Suzhou;
+                "short_name" = Suzhou;
+                types =                 (
+                    locality,
+                    political
+                );
+            },
+                        {
+                "long_name" = Jiangsu;
+                "short_name" = Jiangsu;
+                types =                 (
+                    "administrative_area_level_1",
+                    political
+                );
+            },
+                        {
+                "long_name" = CN;
+                "short_name" = CN;
+                types =                 (
+                    country,
+                    political
+                );
+            }
+        );
+        "formatted_address" = "Xixiang Road, Wuzhong, Suzhou, Jiangsu, China";
+        geometry =         {
+            location =             {
+                lat = "31.209948";
+                lng = "120.584623";
+            };
+        };
+        icon = "http://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png";
+        id = d709acf04efb15d5c621034f74069c2092c80efd;
+        name = "Hualian Supermarket";
+        reference = "CoQBcQAAALt5YpOmIy-mT8wyIxVjs4OmWUsSKn1qdcuz67CxmwzdA2Ic3Hu4vBhouCSqfZ6t0_O3uOlkkoepa6JJJcj93Ku2FETQZ7hX_C82FeRzMrenlckQshHInBeT2xmeHUyswdsmfiR7haxBuP3zhXy_wAKg4RKD4bWT30vBQuLAVLf7EhA_tsJ_SLOHTZvPWlQiIIreGhSB3kU1kukAUl9AY5JsCgCeCb-pGw";
+        types =         (
+            "convenience_store",
+            food,
+            store,
+            establishment
+        );
+        url = "https://plus.google.com/117584063729305883268/about?hl=en-US";
+        "utc_offset" = 480;
+        vicinity = "Xixiang Road, Wuzhong, Suzhou";
+        website = "http://www.beijing-hualian.com/";
+    };
+    status = OK;
+}
+
+2013-04-24 11:16:07.945 Google[11427:907] {
+}
+2013-04-24 11:16:08.061 Google[11427:907] Google Places JSON response: {
+    "html_attributions" =     (
+    );
+    result =     {
+        "address_components" =         (
+                        {
+                "long_name" = Wuzhong;
+                "short_name" = Wuzhong;
+                types =                 (
+                    sublocality,
+                    political
+                );
+            },
+                        {
+                "long_name" = Suzhou;
+                "short_name" = Suzhou;
+                types =                 (
+                    locality,
+                    political
+                );
+            },
+                        {
+                "long_name" = Jiangsu;
+                "short_name" = Jiangsu;
+                types =                 (
+                    "administrative_area_level_1",
+                    political
+                );
+            },
+                        {
+                "long_name" = CN;
+                "short_name" = CN;
+                types =                 (
+                    country,
+                    political
+                );
+            }
+        );
+        "formatted_address" = "\U4e00\U5ddd\U8857, Wuzhong, Suzhou, Jiangsu, China";
+        geometry =         {
+            location =             {
+                lat = "31.220045";
+                lng = "120.586455";
+            };
+        };
+        icon = "http://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png";
+        id = 64638ef91edf33070afcacd6e5010da2aede7ceb;
+        name = "\U5df4\U5f1f\U9e21\U6392";
+        reference = "CnRpAAAAaAC3NI3JF9ga0p6FLAIRASPKbP5qIER2JlXqblL84_cTq1BhIw5A5sx9IwCDVGPULOcq_ForV_zRD4pphZmMcQz6fmeNtbYWoomw1h27VsArRgbQ4I0jXKN819DVBd7W5zymwyWiBuaVTz9SFmocaxIQIWOu_GjGww-p_PBUKnI4jhoUbMdV7kTYXisKmvOjas62Fm-tDZA";
+        types =         (
+            restaurant,
+            food,
+            establishment
+        );
+        url = "https://plus.google.com/111689982275786170823/about?hl=en-US";
+        "utc_offset" = 480;
+        vicinity = "\U4e00\U5ddd\U8857, Wuzhong, Suzhou";
+        website = "http://www.buddyjp.com/";
+    };
+    status = OK;
+}
+
+2013-04-24 11:16:10.424 Google[11427:907] {
+}
+2013-04-24 11:16:10.537 Google[11427:907] Google Places JSON response: {
+    "html_attributions" =     (
+    );
+    result =     {
+        "address_components" =         (
+                        {
+                "long_name" = Wuzhong;
+                "short_name" = Wuzhong;
+                types =                 (
+                    sublocality,
+                    political
+                );
+            },
+                        {
+                "long_name" = Suzhou;
+                "short_name" = Suzhou;
+                types =                 (
+                    locality,
+                    political
+                );
+            },
+                        {
+                "long_name" = Jiangsu;
+                "short_name" = Jiangsu;
+                types =                 (
+                    "administrative_area_level_1",
+                    political
+                );
+            },
+                        {
+                "long_name" = CN;
+                "short_name" = CN;
+                types =                 (
+                    country,
+                    political
+                );
+            }
+        );
+        "formatted_address" = "\U7ea2\U5e84\U65b0\U6751\U56db\U533a, Wuzhong, Suzhou, Jiangsu, China";
+        "formatted_phone_number" = "133 7210 5855";
+        geometry =         {
+            location =             {
+                lat = "31.233243";
+                lng = "120.632514";
+            };
+        };
+        icon = "http://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png";
+        id = 7520e160338d45c945e1e14246e72099539766d0;
+        "international_phone_number" = "+86 133 7210 5855";
+        name = "\U7edd\U5473\U9e2d\U8116";
+        reference = "CnRpAAAA-u4hDHybX8n0oyNUpGL5ChuhVoeRhmLJLfo7SAXDP1ezXbvHKBTMe-3f6Ten_25t-Yhabiitb7MhpWwEQjntvQIRMqZ7k2cNk7TxtOpt0-5kij1JEHqzNvefIOjN6B6xxfzOvdg_L9o7oJjhixSx9BIQfVOwLLBqa-5yJzqzdR2sNhoU7fhHBZeGAJOKuEP-v49-PWfTwzY";
+        types =         (
+            restaurant,
+            food,
+            establishment
+        );
+        url = "https://plus.google.com/110345699299612624639/about?hl=en-US";
+        "utc_offset" = 480;
+        vicinity = "\U7ea2\U5e84\U65b0\U6751\U56db\U533a, Wuzhong, Suzhou";
+        website = "http://www.juewei.cn/";
+    };
+    status = OK;
+}
+
+2013-04-24 11:16:13.000 Google[11427:907] {
+}
+2013-04-24 11:16:13.108 Google[11427:907] Google Places JSON response: {
+    "html_attributions" =     (
+    );
+    result =     {
+        "address_components" =         (
+                        {
+                "long_name" = "Yichuan Street";
+                "short_name" = "Yichuan Street";
+                types =                 (
+                    route
+                );
+            },
+                        {
+                "long_name" = Huqiu;
+                "short_name" = Huqiu;
+                types =                 (
+                    sublocality,
+                    political
+                );
+            },
+                        {
+                "long_name" = Suzhou;
+                "short_name" = Suzhou;
+                types =                 (
+                    locality,
+                    political
+                );
+            },
+                        {
+                "long_name" = Jiangsu;
+                "short_name" = Jiangsu;
+                types =                 (
+                    "administrative_area_level_1",
+                    political
+                );
+            },
+                        {
+                "long_name" = CN;
+                "short_name" = CN;
+                types =                 (
+                    country,
+                    political
+                );
+            }
+        );
+        "formatted_address" = "Yichuan Street, Huqiu, Suzhou, Jiangsu, China";
+        geometry =         {
+            location =             {
+                lat = "31.220317";
+                lng = "120.585376";
+            };
+        };
+        icon = "http://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png";
+        id = 988f281d28cd14256db33e57815da1bc07199cb3;
+        name = "Hualian Supermarket";
+        reference = "CoQBcQAAABoCUIDpDGJG9ac5eAutEXkeazEhKMNSERfKTe55CnB-v_fBgPyOBVbHErG7LHOcfM7wg_KCc73R_sNO6OQ_eOmOBDFU2bIaFo1cZkSsC9KZadXcyzzIS7p5XdR6an7GMKbrvFfwgO3v39NiuiYKi2x3JUmPdcuDUSEwbtJI3B1fEhAbdJQBy_ZENMpXwpE8fFOaGhSrbAk8w5xbwIhbzW2PnWHiwRrhpw";
+        types =         (
+            "convenience_store",
+            food,
+            store,
+            establishment
+        );
+        url = "https://plus.google.com/114776325927894750497/about?hl=en-US";
+        "utc_offset" = 480;
+        vicinity = "Yichuan Street, Huqiu, Suzhou";
+        website = "http://www.beijing-hualian.com/";
+    };
+    status = OK;
+}
+
+2013-04-24 11:16:19.154 Google[11427:907] {
+}
+2013-04-24 11:16:19.284 Google[11427:907] Google Places JSON response: {
+    "html_attributions" =     (
+    );
+    result =     {
+        "address_components" =         (
+                        {
+                "long_name" = Wuzhong;
+                "short_name" = Wuzhong;
+                types =                 (
+                    sublocality,
+                    political
+                );
+            },
+                        {
+                "long_name" = Suzhou;
+                "short_name" = Suzhou;
+                types =                 (
+                    locality,
+                    political
+                );
+            },
+                        {
+                "long_name" = Jiangsu;
+                "short_name" = Jiangsu;
+                types =                 (
+                    "administrative_area_level_1",
+                    political
+                );
+            },
+                        {
+                "long_name" = CN;
+                "short_name" = CN;
+                types =                 (
+                    country,
+                    political
+                );
+            }
+        );
+        "formatted_address" = "\U8d8a\U57ce\U4e1c\U8def, Wuzhong, Suzhou, Jiangsu, China";
+        "formatted_phone_number" = "130 6377 7534";
+        geometry =         {
+            location =             {
+                lat = "31.209979";
+                lng = "120.587385";
+            };
+        };
+        icon = "http://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png";
+        id = 3213bc6c8e6301b8f27b63bdd244efbc019f9b9a;
+        "international_phone_number" = "+86 130 6377 7534";
+        name = "\U4e2d\U56fd\U4f53\U80b2\U5f69\U7968\U6295\U6ce8\U7ad9\Uff08NO.05271\Uff09";
+        reference = "CpQBhgAAAC4qMogmU6I7s8QaJ6wxP4vQuvBloA1bpieLUkm3Zg6vBjanuvJT56rbaNEt9YGfGH3UzZMDbzwx9yqQfJz_qjYEranujM2nI4tZKDnl3eYxinCcBIkQDEUUmMNt2-k5QIly5xf-2AH6SHQCNWHbVKtJtP15aB3qwoejtJ5_ZE6d5so2w2MZv9LCOrxCCfNcLhIQPmIsCab8vDjGcigs20D8RhoUdlpNuPQsAD3BkhXmm-9ZMnecT-Q";
+        types =         (
+            "convenience_store",
+            food,
+            store,
+            establishment
+        );
+        url = "https://plus.google.com/116268526481366699553/about?hl=en-US";
+        "utc_offset" = 480;
+        vicinity = "\U8d8a\U57ce\U4e1c\U8def, Wuzhong, Suzhou";
+    };
+    status = OK;
+}
+
+2013-04-24 11:16:22.426 Google[11427:907] {
+}
+2013-04-24 11:16:22.533 Google[11427:907] Google Places JSON response: {
+    "html_attributions" =     (
+    );
+    result =     {
+        "address_components" =         (
+                        {
+                "long_name" = "Nanhu Road";
+                "short_name" = "Nanhu Road";
+                types =                 (
+                    route
+                );
+            },
+                        {
+                "long_name" = Wuzhong;
+                "short_name" = Wuzhong;
+                types =                 (
+                    sublocality,
+                    political
+                );
+            },
+                        {
+                "long_name" = Suzhou;
+                "short_name" = Suzhou;
+                types =                 (
+                    locality,
+                    political
+                );
+            },
+                        {
+                "long_name" = Jiangsu;
+                "short_name" = Jiangsu;
+                types =                 (
+                    "administrative_area_level_1",
+                    political
+                );
+            },
+                        {
+                "long_name" = CN;
+                "short_name" = CN;
+                types =                 (
+                    country,
+                    political
+                );
+            }
+        );
+        "formatted_address" = "Nanhu Road, Wuzhong, Suzhou, Jiangsu, China";
+        geometry =         {
+            location =             {
+                lat = "31.230879";
+                lng = "120.633648";
+            };
+        };
+        icon = "http://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png";
+        id = 01bf22bbc143328e613ee58a9b5182e32474b834;
+        name = "Shiji Hualian Supermarket";
+        reference = "CoQBdwAAAEktx-qKXfWotKORRc3g8A-S6KSadMU8Aax8K9oGgoB4pCSb2QS4ahqEa_6jA4SyzSuz114kTjIo4NoZwkqT2RPpQIXtUWXAkAIq7HFBQwvMfl4gTUb53eRZFh3VIiSTOhfwbpSXE6nPex854I4xtkMUImYEAfj6pHCHBG1UQMCtEhASrrrecg8MRJi_LcvX-lTuGhSmyyCoVzh2b-CEOoAtGz2k39LMHg";
+        types =         (
+            "convenience_store",
+            food,
+            store,
+            establishment
+        );
+        url = "https://plus.google.com/107223976809685187828/about?hl=en-US";
+        "utc_offset" = 480;
+        vicinity = "Nanhu Road, Wuzhong, Suzhou";
+        website = "http://www.sjhlcs.com/";
+    };
+    status = OK;
+}
+
+2013-04-24 11:16:36.854 Google[11427:907] {
+}
+2013-04-24 11:16:36.955 Google[11427:907] Google Places JSON response: {
+    "html_attributions" =     (
+    );
+    result =     {
+        "address_components" =         (
+                        {
+                "long_name" = Wuzhong;
+                "short_name" = Wuzhong;
+                types =                 (
+                    sublocality,
+                    political
+                );
+            },
+                        {
+                "long_name" = Suzhou;
+                "short_name" = Suzhou;
+                types =                 (
+                    locality,
+                    political
+                );
+            },
+                        {
+                "long_name" = Jiangsu;
+                "short_name" = Jiangsu;
+                types =                 (
+                    "administrative_area_level_1",
+                    political
+                );
+            },
+                        {
+                "long_name" = CN;
+                "short_name" = CN;
+                types =                 (
+                    country,
+                    political
+                );
+            }
+        );
+        "formatted_address" = "\U4e00\U5ddd\U8857, Wuzhong, Suzhou, Jiangsu, China";
+        geometry =         {
+            location =             {
+                lat = "31.220034";
+                lng = "120.586487";
+            };
+        };
+        icon = "http://maps.gstatic.com/mapfiles/place_api/icons/cafe-71.png";
+        id = b9785e4c860756ddca239325b17503735a18b990;
+        name = "\U90fd\U53ef\U8336\U996e";
+        reference = "CnRqAAAA46Mz2FFQvEEENaRaSo0mMIbSMRCc9TXgfpSF-sxFJD2FE3HDBPKYl5z17dE_4Pm6S94LZnmwqDKRcoHv42pL1ph0TfmsDeFg6nz-K6nUWP0RRI-AEmZymf4MOeznSuncBQKXO_Z3aebX2nBI9S9ghRIQqlt_938DWY2vesyPX6O3NhoUYSFeXKHeqxVUcvXlpGEZkDiXO9I";
+        types =         (
+            cafe,
+            restaurant,
+            food,
+            establishment
+        );
+        url = "https://plus.google.com/117125230139389063710/about?hl=en-US";
+        "utc_offset" = 480;
+        vicinity = "\U4e00\U5ddd\U8857, Wuzhong, Suzhou";
+        website = "http://www.coco-tea.com.cn/";
+    };
+    status = OK;
+}
+
+2013-04-24 11:16:42.376 Google[11427:907] {
+}
+2013-04-24 11:16:42.565 Google[11427:907] Google Places JSON response: {
+    "html_attributions" =     (
+    );
+    result =     {
+        "address_components" =         (
+                        {
+                "long_name" = "Suli Road";
+                "short_name" = "Suli Road";
+                types =                 (
+                    route
+                );
+            },
+                        {
+                "long_name" = Wuzhong;
+                "short_name" = Wuzhong;
+                types =                 (
+                    sublocality,
+                    political
+                );
+            },
+                        {
+                "long_name" = Suzhou;
+                "short_name" = Suzhou;
+                types =                 (
+                    locality,
+                    political
+                );
+            },
+                        {
+                "long_name" = Jiangsu;
+                "short_name" = Jiangsu;
+                types =                 (
+                    "administrative_area_level_1",
+                    political
+                );
+            },
+                        {
+                "long_name" = CN;
+                "short_name" = CN;
+                types =                 (
+                    country,
+                    political
+                );
+            }
+        );
+        "formatted_address" = "Suli Road, Wuzhong, Suzhou, Jiangsu, China";
+        geometry =         {
+            location =             {
+                lat = "31.23015";
+                lng = "120.616008";
+            };
+        };
+        icon = "http://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png";
+        id = 5f4127dfff880e7703aa7d69ac19a0ab534bd6cd;
+        name = KFC;
+        "price_level" = 1;
+        reference = "CmRgAAAAAWEJTtnW3CBFbcuHMTiIRO8O0H5CqsSXU4SPU3yRle9ypP-5DgikS7vJkCXi00Ca6PCzVWFQb4PuKlablYHZrPWwtGNbrOLIi-UWWDbh9uZbU6Qh-3fe4TdCRAGhJ7RjEhB6B2lzcGrCCLRCy1HeM5tKGhQBJMRMOOVMShx3YrRlJ6no6DX13Q";
+        types =         (
+            restaurant,
+            food,
+            establishment
+        );
+        url = "https://plus.google.com/100222221903520503579/about?hl=en-US";
+        "utc_offset" = 480;
+        vicinity = "Suli Road, Wuzhong, Suzhou";
+        website = "http://www.kfc.com.cn/";
+    };
+    status = OK;
+}
+
+2013-04-24 11:16:46.632 Google[11427:907] {
+}
+2013-04-24 11:16:46.753 Google[11427:907] Google Places JSON response: {
+    "html_attributions" =     (
+    );
+    result =     {
+        "address_components" =         (
+                        {
+                "long_name" = Wuzhong;
+                "short_name" = Wuzhong;
+                types =                 (
+                    sublocality,
+                    political
+                );
+            },
+                        {
+                "long_name" = Suzhou;
+                "short_name" = Suzhou;
+                types =                 (
+                    locality,
+                    political
+                );
+            },
+                        {
+                "long_name" = Jiangsu;
+                "short_name" = Jiangsu;
+                types =                 (
+                    "administrative_area_level_1",
+                    political
+                );
+            },
+                        {
+                "long_name" = CN;
+                "short_name" = CN;
+                types =                 (
+                    country,
+                    political
+                );
+            }
+        );
+        "formatted_address" = "\U4e00\U5ddd\U8857\U6587\U6b63\U5b66\U9662\U5b66\U751f\U5e7f\U573aC\U533a2F, Wuzhong, Suzhou, Jiangsu, China";
+        "formatted_phone_number" = "0512 6361 9769";
+        geometry =         {
+            location =             {
+                lat = "31.219567";
+                lng = "120.58769";
+            };
+        };
+        icon = "http://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png";
+        id = 02dfe2f22e81d436658e3f7ad5b30a8f3d8549d5;
+        "international_phone_number" = "+86 512 6361 9769";
+        name = "\U4e50\U800c\U7f8e";
+        reference = "CnRnAAAAgUZ_Y341Gi6gLLYOYw3Z2BJsl6uHBPdjOQUDH0T_q0qmgVN9E0u11HQcLOVi2iHc04kUPSnjMc75uDoHgZN-WMW04EFe0nMnMm_qCgrGygIGWekF0BSXTBZaf7hWT5zbk8P4QM3G1L0xlo8K7fekFhIQwq1CPBx1ElqqB1PFj9LDIhoUS6kT5eioPy8K8QBPoEjfMxFRVjk";
+        types =         (
+            restaurant,
+            food,
+            establishment
+        );
+        url = "https://plus.google.com/100157606808220965305/about?hl=en-US";
+        "utc_offset" = 480;
+        vicinity = "\U4e00\U5ddd\U8857\U6587\U6b63\U5b66\U9662\U5b66\U751f\U5e7f\U573aC\U533a2F, Wuzhong, Suzhou";
+    };
+    status = OK;
+}
+
+2013-04-24 11:16:49.095 Google[11427:907] {
+}
+2013-04-24 11:16:49.202 Google[11427:907] Google Places JSON response: {
+    "html_attributions" =     (
+    );
+    result =     {
+        "address_components" =         (
+                        {
+                "long_name" = "Suli Road";
+                "short_name" = "Suli Road";
+                types =                 (
+                    route
+                );
+            },
+                        {
+                "long_name" = Wuzhong;
+                "short_name" = Wuzhong;
+                types =                 (
+                    sublocality,
+                    political
+                );
+            },
+                        {
+                "long_name" = Suzhou;
+                "short_name" = Suzhou;
+                types =                 (
+                    locality,
+                    political
+                );
+            },
+                        {
+                "long_name" = Jiangsu;
+                "short_name" = Jiangsu;
+                types =                 (
+                    "administrative_area_level_1",
+                    political
+                );
+            },
+                        {
+                "long_name" = CN;
+                "short_name" = CN;
+                types =                 (
+                    country,
+                    political
+                );
+            }
+        );
+        "formatted_address" = "Suli Road, Wuzhong, Suzhou, Jiangsu, China";
+        geometry =         {
+            location =             {
+                lat = "31.230145";
+                lng = "120.616008";
+            };
+        };
+        icon = "http://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png";
+        id = bc3e3d9a5ccdfd8ce514da0fe1783b322cdfd2e3;
+        name = "Aunt Dumplings";
+        reference = "CnRrAAAAUOhZzP0ITjEbHLNUASCI-6f-TMeA2RhSGUKYqjEDNXwqPHMvyIOGu_c4DQNi9VPk2Sp-9cF4wsyPcb2TDZaL8miDn5QkZwjHWJ5lJsPw7y32uzj0P-YUwCFg1HDLT4KfEQ_9W5OHaOSzXWpwGL_zpRIQ2FRTHN-Qd6rDN5kYzYr5jhoUUsVdqCtcacan6-WA-Sp9DUg3tFY";
+        types =         (
+            restaurant,
+            food,
+            establishment
+        );
+        url = "https://plus.google.com/104619781189450766871/about?hl=en-US";
+        "utc_offset" = 480;
+        vicinity = "Suli Road, Wuzhong, Suzhou";
+        website = "http://www.cnddr.com/";
+    };
+    status = OK;
+}
+

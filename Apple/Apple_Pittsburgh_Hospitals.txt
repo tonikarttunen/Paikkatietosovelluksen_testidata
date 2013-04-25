@@ -1,0 +1,240 @@
+Toni Karttunen
+24.4.2012
+
+==========================================
+
+Paikkatiedon tarjoaja: Apple
+Paikka: Pittsburgh
+Kategoria: Hospitals
+
+==========================================
+
+2013-04-24 09:28:43.841 Apple[11032:907] (
+        (
+        Name,
+        "Magee Womens Hospital of Upmc"
+    ),
+        (
+        Address,
+        "300 Halket St\nPittsburgh\U200e Pennsylvania\U200e 15213\nUnited States"
+    ),
+        (
+        Phone,
+        "+14126411000"
+    ),
+        (
+        URL,
+        "www.magee.upmc.com"
+    ),
+        (
+        Latitude,
+        "40.437381"
+    ),
+        (
+        Longitude,
+        "-79.961157"
+    )
+)
+
+2013-04-24 09:28:47.871 Apple[11032:907] (
+        (
+        Name,
+        "Mercy Hospital"
+    ),
+        (
+        Address,
+        "1400 Locust St\nPittsburgh\U200e Pennsylvania\U200e 15219\nUnited States"
+    ),
+        (
+        URL,
+        "www.mercylink.org"
+    ),
+        (
+        Latitude,
+        "40.436091"
+    ),
+        (
+        Longitude,
+        "-79.985223"
+    )
+)
+
+2013-04-24 09:28:50.319 Apple[11032:907] (
+        (
+        Name,
+        "Mercy Hospital"
+    ),
+        (
+        Address,
+        "1400 Locust St\nPittsburgh\U200e Pennsylvania\U200e 15219\nUnited States"
+    ),
+        (
+        Latitude,
+        "40.436102"
+    ),
+        (
+        Longitude,
+        "-79.984933"
+    )
+)
+
+2013-04-24 09:28:57.126 Apple[11032:907] (
+        (
+        Name,
+        "Divine Providence Hospital"
+    ),
+        (
+        Address,
+        "910 Sherman Ave\nPittsburgh\U200e Pennsylvania\U200e 15212\nUnited States"
+    ),
+        (
+        Latitude,
+        "40.453930"
+    ),
+        (
+        Longitude,
+        "-80.008807"
+    )
+)
+
+2013-04-24 09:29:02.186 Apple[11032:907] (
+        (
+        Name,
+        "Allegheny General Hospital"
+    ),
+        (
+        Address,
+        "320 E North Ave\nPittsburgh\U200e Pennsylvania\U200e 15212\nUnited States"
+    ),
+        (
+        Phone,
+        "+14123596724"
+    ),
+        (
+        Latitude,
+        "40.456787"
+    ),
+        (
+        Longitude,
+        "-80.003312"
+    )
+)
+
+2013-04-24 09:29:06.057 Apple[11032:907] (
+        (
+        Name,
+        "Upmc South Side"
+    ),
+        (
+        Address,
+        "2000 Mary St\nPittsburgh\U200e Pennsylvania\nUnited States"
+    ),
+        (
+        URL,
+        "www.upmc.edu"
+    ),
+        (
+        Latitude,
+        "40.425519"
+    ),
+        (
+        Longitude,
+        "-79.977199"
+    )
+)
+
+2013-04-24 09:29:09.217 Apple[11032:907] (
+        (
+        Name,
+        "Eye and Ear Hospital"
+    ),
+        (
+        Address,
+        "203 Lothrop St\nPittsburgh\U200e Pennsylvania\U200e 15213\nUnited States"
+    ),
+        (
+        URL,
+        "www.upmc.edu"
+    ),
+        (
+        Latitude,
+        "40.441916"
+    ),
+        (
+        Longitude,
+        "-79.961249"
+    )
+)
+
+2013-04-24 09:29:12.246 Apple[11032:907] (
+        (
+        Name,
+        "Divine Providence Hospital"
+    ),
+        (
+        Address,
+        "910 Sherman Ave\nPittsburgh\U200e Pennsylvania\U200e 15212\nUnited States"
+    ),
+        (
+        Latitude,
+        "40.454006"
+    ),
+        (
+        Longitude,
+        "-80.008708"
+    )
+)
+
+2013-04-24 09:29:16.176 Apple[11032:907] (
+        (
+        Name,
+        "Upmc Montefiore"
+    ),
+        (
+        Address,
+        "Feeney Way\nPittsburgh\U200e Pennsylvania\U200e 15213\nUnited States"
+    ),
+        (
+        Phone,
+        "+14126472345"
+    ),
+        (
+        URL,
+        "www.upmc.com"
+    ),
+        (
+        Latitude,
+        "40.440837"
+    ),
+        (
+        Longitude,
+        "-79.962072"
+    )
+)
+
+2013-04-24 09:29:18.223 Apple[11032:907] (
+        (
+        Name,
+        "UPMC Montefiore"
+    ),
+        (
+        Address,
+        "117\U2013199 Darragh St\nPittsburgh\U200e Pennsylvania\U200e 15213\nUnited States"
+    ),
+        (
+        Phone,
+        "+14126472345"
+    ),
+        (
+        URL,
+        "http://www.upmc.com/locations/hospitals/montefiore/Pages/default.aspx"
+    ),
+        (
+        Latitude,
+        "40.440634"
+    ),
+        (
+        Longitude,
+        "-79.961557"
+    )
+)

@@ -1,0 +1,2414 @@
+Toni Karttunen
+24.4.2012
+
+==========================================
+
+Paikkatiedon tarjoaja: Google
+Paikka: Schönberg
+Kategoria: Food
+
+==========================================
+
+2013-04-24 10:43:14.512 Google[11333:907] {
+}
+2013-04-24 10:43:14.978 Google[11333:907] Google Places JSON response: {
+    "html_attributions" =     (
+    );
+    result =     {
+        "address_components" =         (
+                        {
+                "long_name" = 9;
+                "short_name" = 9;
+                types =                 (
+                    "street_number"
+                );
+            },
+                        {
+                "long_name" = "Im Dorfe";
+                "short_name" = "Im Dorfe";
+                types =                 (
+                    route
+                );
+            },
+                        {
+                "long_name" = Krummbek;
+                "short_name" = Krummbek;
+                types =                 (
+                    sublocality,
+                    political
+                );
+            },
+                        {
+                "long_name" = Krummbek;
+                "short_name" = Krummbek;
+                types =                 (
+                    locality,
+                    political
+                );
+            },
+                        {
+                "long_name" = SH;
+                "short_name" = SH;
+                types =                 (
+                    "administrative_area_level_1",
+                    political
+                );
+            },
+                        {
+                "long_name" = DE;
+                "short_name" = DE;
+                types =                 (
+                    country,
+                    political
+                );
+            },
+                        {
+                "long_name" = 24217;
+                "short_name" = 24217;
+                types =                 (
+                    "postal_code"
+                );
+            }
+        );
+        "formatted_address" = "Im Dorfe 9, Krummbek, Germany";
+        "formatted_phone_number" = "04344 1568";
+        geometry =         {
+            location =             {
+                lat = "54.37864";
+                lng = "10.399191";
+            };
+        };
+        icon = "http://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png";
+        id = ec37d854a3bf142c2f2a8ca30604d4635078f520;
+        "international_phone_number" = "+49 4344 1568";
+        name = "Witt's Gasthof GmbH";
+        reference = "CoQBcQAAAPzQkF2sr9aeu0zkVnRCUQm0ws2hwMYsOvWI7APwHW0R2RY-fWYBf_cBKs44ZEPmwJOjgGgXXZX9IdrQFSFs9_kBHvQypbunpHIEuFVLEzTWIL7WDzkbS07U_GWFFLL2LktVjIMFm_jyGxN2b6w57-77QWBQcsZGi86JruHy92DWEhD7U6HOuM36WKU7HMBo8TS8GhSx-_ilNQIVlLdMWWcReF679RhcUQ";
+        reviews =         (
+                        {
+                aspects =                 (
+                                        {
+                        rating = 3;
+                        type = quality;
+                    },
+                                        {
+                        rating = 3;
+                        type = facilities;
+                    },
+                                        {
+                        rating = 3;
+                        type = service;
+                    }
+                );
+                "author_name" = "Frithjof Schmeer";
+                "author_url" = "https://plus.google.com/104358232978574175197";
+                text = "Wir haben gestern Abend dort zu f\U00fcnft gegessen und waren sehr begeistert von der Qualit\U00e4t der K\U00fcche und dem liebenswerten Service. Einfach rundum super. Da mu\U00df ich bald mal wieder hin.";
+                time = 1361725442;
+            },
+                        {
+                aspects =                 (
+                                        {
+                        rating = 2;
+                        type = overall;
+                    }
+                );
+                "author_name" = "A Google User";
+                text = "";
+                time = 1327663297;
+            }
+        );
+        types =         (
+            restaurant,
+            lodging,
+            food,
+            establishment
+        );
+        url = "https://plus.google.com/101343183315507185940/about?hl=en-US";
+        "utc_offset" = 120;
+        vicinity = "Im Dorfe 9, Krummbek";
+        website = "http://www.witts-gasthof.de/";
+    };
+    status = OK;
+}
+
+2013-04-24 10:43:18.272 Google[11333:907] {
+}
+2013-04-24 10:43:18.459 Google[11333:907] Google Places JSON response: {
+    "html_attributions" =     (
+        "Listings by <a href=\"http://www.gelbeseiten.de/\">GelbeSeiten\U00aeVerlagen</a>"
+    );
+    result =     {
+        "address_components" =         (
+                        {
+                "long_name" = 15;
+                "short_name" = 15;
+                types =                 (
+                    "street_number"
+                );
+            },
+                        {
+                "long_name" = "Am Dorfteich";
+                "short_name" = "Am Dorfteich";
+                types =                 (
+                    route
+                );
+            },
+                        {
+                "long_name" = Fiefbergen;
+                "short_name" = Fiefbergen;
+                types =                 (
+                    locality,
+                    political
+                );
+            },
+                        {
+                "long_name" = SH;
+                "short_name" = SH;
+                types =                 (
+                    "administrative_area_level_1",
+                    political
+                );
+            },
+                        {
+                "long_name" = DE;
+                "short_name" = DE;
+                types =                 (
+                    country,
+                    political
+                );
+            },
+                        {
+                "long_name" = 24217;
+                "short_name" = 24217;
+                types =                 (
+                    "postal_code"
+                );
+            }
+        );
+        "formatted_address" = "Am Dorfteich 15, Fiefbergen, Germany";
+        "formatted_phone_number" = "04344 415525";
+        geometry =         {
+            location =             {
+                lat = "54.380264";
+                lng = "10.340491";
+            };
+        };
+        icon = "http://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png";
+        id = f9777eb939ce57cac79c415f1359bbe61945d7bc;
+        "international_phone_number" = "+49 4344 415525";
+        name = "Der Alte Auf";
+        photos =         (
+                        {
+                height = 960;
+                "html_attributions" =                 (
+                    "From a Google User"
+                );
+                "photo_reference" = "CpQBhwAAAEIo7uhWUtaEq6voaeBQS-eesQXHUgqfEkMxDNyiRuUh4YP8_qkhzIT252cNHGty__HBGqQAxh12RstzJUSKz7StJkkoQQZP6TExGhe-rAw6SI6b9mkn6wW3Z1-qkZPJbope-88X3USIQojjdNM0HaTRa57X23QayIQH-DIo2W6tdw5_tIere6WaSGM4qqyW_xIQFmNH01rdpOh71HJm20jY5xoUkldXuprhSfaZBMtGYqKSNdCniZc";
+                width = 1280;
+            }
+        );
+        reference = "CnRpAAAArlJt1G831-24UjgM96rvGP_if2Ord6H-TprSc2fseeFXQVjU0lUdtjj66gtrpXJh7KA03v-uxS7PiHxDvnipODsEJOR5-o_DrF1-ek3-wxZ8aG60hDmnWWJ6rqR6UsoOaFZz_4itJTX30Frm1LnSShIQ-1ty1D40Qgl_-Wi4f7hb1hoUgCG6fXgjwgR9hTuoW7hhBjkaNLI";
+        reviews =         (
+                        {
+                aspects =                 (
+                                        {
+                        rating = 3;
+                        type = overall;
+                    }
+                );
+                "author_name" = "A Google User";
+                text = "";
+                time = 1342289205;
+            },
+                        {
+                aspects =                 (
+                                        {
+                        rating = 3;
+                        type = overall;
+                    }
+                );
+                "author_name" = "A Google User";
+                text = "";
+                time = 1325707507;
+            }
+        );
+        types =         (
+            restaurant,
+            food,
+            establishment
+        );
+        url = "https://plus.google.com/106477002866208146554/about?hl=en-US";
+        "utc_offset" = 120;
+        vicinity = "Am Dorfteich 15, Fiefbergen";
+        website = "http://www.der-alte-auf.de/";
+    };
+    status = OK;
+}
+
+2013-04-24 10:43:20.654 Google[11333:907] {
+}
+2013-04-24 10:43:20.770 Google[11333:907] Google Places JSON response: {
+    "html_attributions" =     (
+        "Listings by <a href=\"http://www.gelbeseiten.de/\">GelbeSeiten\U00aeVerlagen</a>"
+    );
+    result =     {
+        "address_components" =         (
+                        {
+                "long_name" = 2;
+                "short_name" = 2;
+                types =                 (
+                    "street_number"
+                );
+            },
+                        {
+                "long_name" = "Kn\U00fcll";
+                "short_name" = "Kn\U00fcll";
+                types =                 (
+                    route
+                );
+            },
+                        {
+                "long_name" = "Sch\U00f6nberg";
+                "short_name" = "Sch\U00f6nberg";
+                types =                 (
+                    locality,
+                    political
+                );
+            },
+                        {
+                "long_name" = SH;
+                "short_name" = SH;
+                types =                 (
+                    "administrative_area_level_1",
+                    political
+                );
+            },
+                        {
+                "long_name" = DE;
+                "short_name" = DE;
+                types =                 (
+                    country,
+                    political
+                );
+            },
+                        {
+                "long_name" = 24217;
+                "short_name" = 24217;
+                types =                 (
+                    "postal_code"
+                );
+            }
+        );
+        "formatted_address" = "Kn\U00fcll 2, Sch\U00f6nberg, Deutschland";
+        "formatted_phone_number" = "04344 1305";
+        geometry =         {
+            location =             {
+                lat = "54.392676";
+                lng = "10.372291";
+            };
+        };
+        icon = "http://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png";
+        id = af466ca41630b31f67b922031b152ff5d7efd744;
+        "international_phone_number" = "+49 4344 1305";
+        name = "Am Rathaus";
+        reference = "CnRoAAAAse-zlHOlNgbNk9qTykBy2xx_QS6jmC0Eblfzc_NiiFcMr1oBQgVlCdLO_P_UDPLhoVvqWJmItkJrr6gOJ_VyWAiADAlOfopAoz2ALZlNpXkYbgPgG7iPVseTMrEAk5JaiVmTSd5U1DXPKeG1mgSKShIQnIPHkN5eArMmNGEXEp8cNRoUiEOCnnpSok-gm1bK2hmhIRHrdW0";
+        reviews =         (
+                        {
+                aspects =                 (
+                                        {
+                        rating = 3;
+                        type = overall;
+                    }
+                );
+                "author_name" = "A Google User";
+                text = "Such a suprise, fantastic food, fantastic service in great surroundings and not too expensive either. ***** 5 stars";
+                time = 1319285954;
+            },
+                        {
+                aspects =                 (
+                                        {
+                        rating = 3;
+                        type = overall;
+                    }
+                );
+                "author_name" = "A Google User";
+                text = "";
+                time = 1319983905;
+            }
+        );
+        types =         (
+            restaurant,
+            lodging,
+            food,
+            establishment
+        );
+        url = "https://plus.google.com/113771447436419606189/about?hl=en-US";
+        "utc_offset" = 120;
+        vicinity = "Kn\U00fcll 2, Sch\U00f6nberg";
+        website = "http://www.am-rathaus-schoenberg.de/";
+    };
+    status = OK;
+}
+
+2013-04-24 10:43:22.910 Google[11333:907] {
+}
+2013-04-24 10:43:23.025 Google[11333:907] Google Places JSON response: {
+    "html_attributions" =     (
+    );
+    result =     {
+        "address_components" =         (
+                        {
+                "long_name" = 8;
+                "short_name" = 8;
+                types =                 (
+                    "street_number"
+                );
+            },
+                        {
+                "long_name" = "Am Markt";
+                "short_name" = "Am Markt";
+                types =                 (
+                    route
+                );
+            },
+                        {
+                "long_name" = "Sch\U00f6nberg";
+                "short_name" = "Sch\U00f6nberg";
+                types =                 (
+                    sublocality,
+                    political
+                );
+            },
+                        {
+                "long_name" = "Sch\U00f6nberg";
+                "short_name" = "Sch\U00f6nberg";
+                types =                 (
+                    locality,
+                    political
+                );
+            },
+                        {
+                "long_name" = SH;
+                "short_name" = SH;
+                types =                 (
+                    "administrative_area_level_1",
+                    political
+                );
+            },
+                        {
+                "long_name" = DE;
+                "short_name" = DE;
+                types =                 (
+                    country,
+                    political
+                );
+            },
+                        {
+                "long_name" = 24217;
+                "short_name" = 24217;
+                types =                 (
+                    "postal_code"
+                );
+            }
+        );
+        "formatted_address" = "Am Markt 8, Sch\U00f6nberg, Deutschland";
+        "formatted_phone_number" = "04344 3051 ext. 0";
+        geometry =         {
+            location =             {
+                lat = "54.395593";
+                lng = "10.370181";
+            };
+        };
+        icon = "http://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png";
+        id = c89b4d2d4b18a242ad2995bc458769529dde45b7;
+        "international_phone_number" = "+49 4344 3051 ext. 0";
+        name = "Hotel Stadt Kiel";
+        photos =         (
+                        {
+                height = 234;
+                "html_attributions" =                 (
+                );
+                "photo_reference" = "CoQBcgAAALRHGRSyKH4KRMDyv6ATbhP7yu1s0RUiRgSHqyhMifWR-GuuD8dHNz6GKUpRpVwEZP_8bHZ-FcHA84kRRmroDa_sQ-z1JFVVWV4-4V0FhZ9orBytjBrmPy_pWplWV3EO3OtniLIw2wopMPPguq-yXFGeA1aAO109FB65hZs7974wEhBV4ICzX4lmZzeUmu-XjL3GGhRq8a7bW_Kan5v0zVK4X5Brg34-hg";
+                width = 350;
+            }
+        );
+        reference = "CnRuAAAAhjfewuaSg9OK_ZjSWBZX0lQAE0AFsxfoAGM84MrANFGGik_Fl2-NgXKkzjS7DjK5t5QBkKMDy6gdhS4SFRnY-9NM7k_cupmUEpWjQhK1qA0CWw6xsN4lhjC5JKNpsFj3WBa8Z1OvH1BWwYR4RQq1oRIQmGYo2NQnrbvA405oEDCP1xoUcsdCaL4m2_NT6ueKlg8_wybDahA";
+        reviews =         (
+                        {
+                aspects =                 (
+                                        {
+                        rating = 0;
+                        type = overall;
+                    }
+                );
+                "author_name" = "A Google User";
+                text = "der service ist grotten schlecht, die k\U00fcche preislich nicht im verh\U00e4ltnis. f\U00fcr steckr\U00fcbenmuss 15 ,- ?";
+                time = 1325274358;
+            },
+                        {
+                aspects =                 (
+                                        {
+                        rating = 3;
+                        type = overall;
+                    }
+                );
+                "author_name" = "A Google User";
+                text = "Essen top beste in Sch\U00f6nberg!";
+                time = 1325892113;
+            },
+                        {
+                aspects =                 (
+                                        {
+                        rating = 0;
+                        type = overall;
+                    }
+                );
+                "author_name" = "A Google User";
+                text = "";
+                time = 1317838092;
+            }
+        );
+        types =         (
+            restaurant,
+            lodging,
+            food,
+            establishment
+        );
+        url = "https://plus.google.com/105114569480256793122/about?hl=en-US";
+        "utc_offset" = 120;
+        vicinity = "Am Markt 8, Sch\U00f6nberg";
+        website = "http://www.hotel-stadt-kiel.de/";
+    };
+    status = OK;
+}
+
+2013-04-24 10:43:27.563 Google[11333:907] {
+}
+2013-04-24 10:43:27.656 Google[11333:907] Google Places JSON response: {
+    "html_attributions" =     (
+    );
+    result =     {
+        "address_components" =         (
+                        {
+                "long_name" = 3;
+                "short_name" = 3;
+                types =                 (
+                    "street_number"
+                );
+            },
+                        {
+                "long_name" = "Zur Felsenburg";
+                "short_name" = "Zur Felsenburg";
+                types =                 (
+                    route
+                );
+            },
+                        {
+                "long_name" = "Sch\U00f6nberg";
+                "short_name" = "Sch\U00f6nberg";
+                types =                 (
+                    locality,
+                    political
+                );
+            },
+                        {
+                "long_name" = DE;
+                "short_name" = DE;
+                types =                 (
+                    country,
+                    political
+                );
+            },
+                        {
+                "long_name" = 24217;
+                "short_name" = 24217;
+                types =                 (
+                    "postal_code"
+                );
+            }
+        );
+        "formatted_address" = "Zur Felsenburg 3, Sch\U00f6nberg, Deutschland";
+        "formatted_phone_number" = "04344 1216";
+        geometry =         {
+            location =             {
+                lat = "54.410881";
+                lng = "10.419726";
+            };
+        };
+        icon = "http://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png";
+        id = 6482afd5d53917354a50616744d5db940cbfb4be;
+        "international_phone_number" = "+49 4344 1216";
+        name = "Zur Felsenburg";
+        photos =         (
+                        {
+                height = 1224;
+                "html_attributions" =                 (
+                    "<a href=\"https://plus.google.com/103699069605086794746\">Stefan Hennschen</a>"
+                );
+                "photo_reference" = "CnRoAAAAn7gYjj8F0GWhlYUrgY4nwA8ypzmJq1Ve2SvGDk8EnprMhIsHznyySktRc9vgv9Uglb1YzuXnW-l7G4jj1ADU5xMK84N6Binm69Md04Uo74qgGve-OzS55lOYVZKAlX80XGwLPM4J4NmaezsJ4bJpFhIQLIQXmBiNVqzyiGgK9IjqpxoU8z_VYVEoN8itw5XNPtX9eSeKYhs";
+                width = 1632;
+            },
+                        {
+                height = 1224;
+                "html_attributions" =                 (
+                    "<a href=\"https://plus.google.com/103699069605086794746\">Stefan Hennschen</a>"
+                );
+                "photo_reference" = "CnRoAAAAl9ylUCEo9b8btRR4Ub1lNEJDsga_aTYG1q3ZdFIRdlRUYOg5q09zqyqbMKOg8cE8ik8-KSxGgh1FeTiP2EvDrr9824iAhZOTfdhzVna5nTm0aJOiQziGw2YfcRPT7E7WQIgUyEECob5Uk5dhspUvnhIQvRBem0v9qEEUOJK5h8UU4hoURuHqgStDuWEBJEWncZ2vV3PA3PQ";
+                width = 1632;
+            }
+        );
+        reference = "CnRsAAAABc6iqgs0Bo6ZipKlmLT4F3Lz_P6Iv0FGqKzP3lg21ElPMDn2Qq31E4CyZHPz-eSLxDgbSsje_q8jX6u5OF9zqiWHc4mahTfjJ9SqTHNF_bZyKv-gqXoIlS_0fIpJPmWTOuhUS6ODXHUrp8zVlssY2RIQ8wYn1fCGBILPvYXQGdIKExoUDnf1FlkBXfDlKBR5hotfWtuHFzw";
+        reviews =         (
+                        {
+                aspects =                 (
+                                        {
+                        rating = 3;
+                        type = overall;
+                    }
+                );
+                "author_name" = "A Google User";
+                text = "Sind schon ein paar mal G\U00e4ste gewesen und kommen immer wieder gerne her. Gutes Essen, freundliche Bedienung und humane Preise.";
+                time = 1310929279;
+            }
+        );
+        types =         (
+            restaurant,
+            lodging,
+            food,
+            establishment
+        );
+        url = "https://plus.google.com/113504717377369202683/about?hl=en-US";
+        "utc_offset" = 120;
+        vicinity = "Zur Felsenburg 3, Sch\U00f6nberg";
+        website = "http://felsenburg-grasbleek.de/";
+    };
+    status = OK;
+}
+
+2013-04-24 10:43:30.331 Google[11333:907] {
+}
+2013-04-24 10:43:30.455 Google[11333:907] Google Places JSON response: {
+    "html_attributions" =     (
+        "Listings by <a href=\"http://www.gelbeseiten.de/\">GelbeSeiten\U00aeVerlagen</a>"
+    );
+    result =     {
+        "address_components" =         (
+                        {
+                "long_name" = 203;
+                "short_name" = 203;
+                types =                 (
+                    "street_number"
+                );
+            },
+                        {
+                "long_name" = "Strandstra\U00dfe";
+                "short_name" = "Strandstra\U00dfe";
+                types =                 (
+                    route
+                );
+            },
+                        {
+                "long_name" = "Neusch\U00f6nberg";
+                "short_name" = "Neusch\U00f6nberg";
+                types =                 (
+                    sublocality,
+                    political
+                );
+            },
+                        {
+                "long_name" = "Sch\U00f6nberg";
+                "short_name" = "Sch\U00f6nberg";
+                types =                 (
+                    locality,
+                    political
+                );
+            },
+                        {
+                "long_name" = SH;
+                "short_name" = SH;
+                types =                 (
+                    "administrative_area_level_1",
+                    political
+                );
+            },
+                        {
+                "long_name" = DE;
+                "short_name" = DE;
+                types =                 (
+                    country,
+                    political
+                );
+            },
+                        {
+                "long_name" = 24217;
+                "short_name" = 24217;
+                types =                 (
+                    "postal_code"
+                );
+            }
+        );
+        "formatted_address" = "Strandstra\U00dfe 203, Sch\U00f6nberg, Deutschland";
+        "formatted_phone_number" = "04344 1285";
+        geometry =         {
+            location =             {
+                lat = "54.405564";
+                lng = "10.390247";
+            };
+        };
+        icon = "http://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png";
+        id = 5801ad27205c16ee4235a941d0e989052fd2525b;
+        "international_phone_number" = "+49 4344 1285";
+        name = "Zur Linde";
+        "opening_hours" =         {
+            "open_now" = 0;
+            periods =             (
+                                {
+                    close =                     {
+                        day = 0;
+                        time = 2200;
+                    };
+                    open =                     {
+                        day = 0;
+                        time = 1100;
+                    };
+                },
+                                {
+                    close =                     {
+                        day = 1;
+                        time = 2200;
+                    };
+                    open =                     {
+                        day = 1;
+                        time = 1100;
+                    };
+                },
+                                {
+                    close =                     {
+                        day = 2;
+                        time = 2200;
+                    };
+                    open =                     {
+                        day = 2;
+                        time = 1100;
+                    };
+                },
+                                {
+                    close =                     {
+                        day = 3;
+                        time = 2200;
+                    };
+                    open =                     {
+                        day = 3;
+                        time = 1100;
+                    };
+                },
+                                {
+                    close =                     {
+                        day = 4;
+                        time = 2200;
+                    };
+                    open =                     {
+                        day = 4;
+                        time = 1100;
+                    };
+                },
+                                {
+                    close =                     {
+                        day = 5;
+                        time = 2200;
+                    };
+                    open =                     {
+                        day = 5;
+                        time = 1100;
+                    };
+                },
+                                {
+                    close =                     {
+                        day = 6;
+                        time = 2200;
+                    };
+                    open =                     {
+                        day = 6;
+                        time = 1100;
+                    };
+                }
+            );
+        };
+        photos =         (
+                        {
+                height = 3240;
+                "html_attributions" =                 (
+                    "From a Google User"
+                );
+                "photo_reference" = "CnRnAAAAUtE4CmLc9WdNqCV0GeF-PrROUL2Mm_F0I-0qBUTfV0iqflyof3QfOevlghwSeOorQjK_YNP-8x12btZFtWTw3CuLH_hM9a3FNaJBZqZ9mKiUVTEU0_4qzfFLM53gvmq5bq6cNbUb3NrtM50l9pjA0BIQxEMMVGYQnIOxN8ee_qoKKxoU7IobdsLH_IHxifyvOL63_buxEUA";
+                width = 4320;
+            },
+                        {
+                height = 3240;
+                "html_attributions" =                 (
+                    "From a Google User"
+                );
+                "photo_reference" = "CnRnAAAA-MKvdrDLjtrqWkkDH39Z5TBhOPIKYLEk6R0T0yHL_KnYSQqqpAo10tdlx1L7Hh_rAaJL9kv6sSwKEyPec420U0g1k5UoA8C1RbRqFOzGdlBPor5lh77dsq5WAY5UX96cBDE8JuMMDWnOxjwvyNUQ0BIQRWB6rlrQrAeL4yR_uV6VsxoUC8Eo0kRY8BVt4-4tSDekuQBmbNI";
+                width = 4320;
+            },
+                        {
+                height = 3240;
+                "html_attributions" =                 (
+                    "From a Google User"
+                );
+                "photo_reference" = "CnRnAAAABx5mmoLRdtxKqR8GzHpnldu3XfxwKivKqahDwpaSqyhYUVNOrTqhzJp1BTUwhmfQCr5lZNrd1bYqkA9g_ARRCZh2yHS_55g_s_GreHnJ7gNZ0OErWp-zFRVs7xCZ7fZpCYxnOMwCtK62gSIFMi4f-xIQHuq3kBt_DAKCo5D9Vxw1_RoUwM3dVhkAt02GXNBRyGrGjPH7Ke4";
+                width = 4320;
+            }
+        );
+        rating = "4.5";
+        reference = "CnRmAAAATdsoYPFi8Upud-lld6cD6kS59AXBYEuqNf5fQDqOMWxp6_2P0-MkvszvfVljVAG0kfCRw2Nq4JIcHf_KlQRSSNA6DXw8K2Yqjo65_5E3dgYOKW8RSNrCNyJuC44gyCJ_iwhn5jUZzGAqKA3IaRAmLxIQYZRyljcro4DUe92C-C4OqBoU2Jb8ORBzFjDuhWb_SSUTWz046VY";
+        reviews =         (
+                        {
+                aspects =                 (
+                                        {
+                        rating = 0;
+                        type = food;
+                    },
+                                        {
+                        rating = 0;
+                        type = decor;
+                    },
+                                        {
+                        rating = 1;
+                        type = service;
+                    }
+                );
+                "author_name" = "Dirk Berg";
+                "author_url" = "https://plus.google.com/114472336162351527327";
+                text = "Die Einrichtung war alt.Der Service war gut und freundlich.Aber gem\U00fctliches Essen sieht anders aus.Und leider gab es nur eine Pfanne f\U00fcr Fleisch und Fisch.Fleisch schmeckte nach Fisch.Hunde sind erw\U00fcnscht dort.Preisleistung verh\U00e4ltnis war so knapp OK.";
+                time = 1366373601;
+            },
+                        {
+                aspects =                 (
+                                        {
+                        rating = 3;
+                        type = food;
+                    },
+                                        {
+                        rating = 3;
+                        type = decor;
+                    },
+                                        {
+                        rating = 3;
+                        type = service;
+                    }
+                );
+                "author_name" = "Selbsthilfegruppe LiLy Deutschland";
+                "author_url" = "https://plus.google.com/101053755495219373644";
+                text = "Sehr g\U00fcnstig und dabei wirklich sehr sehr gut!";
+                time = 1364841613;
+            },
+                        {
+                aspects =                 (
+                                        {
+                        rating = 3;
+                        type = overall;
+                    }
+                );
+                "author_name" = "A Google User";
+                text = "wirklich gut!!! Das Essen ist sehr reichhaltig und lecker. Ein wirklich gem\U00fctlicher Biergarten mit Schaukel u. Rutsche sorgt f\U00fcr ein entspannten Aufenthalt. Jedoch wissen das viele und somit hat man ohne Reservierung selten Gl\U00fcck.";
+                time = 1273949272;
+            },
+                        {
+                aspects =                 (
+                                        {
+                        rating = 3;
+                        type = overall;
+                    }
+                );
+                "author_name" = "A Google User";
+                text = "";
+                time = 1313783035;
+            }
+        );
+        types =         (
+            restaurant,
+            food,
+            establishment
+        );
+        url = "https://plus.google.com/111613829189902207351/about?hl=en-US";
+        "utc_offset" = 120;
+        vicinity = "Strandstra\U00dfe 203, Sch\U00f6nberg";
+    };
+    status = OK;
+}
+
+2013-04-24 10:43:32.586 Google[11333:907] {
+}
+2013-04-24 10:43:32.698 Google[11333:907] Google Places JSON response: {
+    "html_attributions" =     (
+    );
+    result =     {
+        "address_components" =         (
+                        {
+                "long_name" = 4;
+                "short_name" = 4;
+                types =                 (
+                    "street_number"
+                );
+            },
+                        {
+                "long_name" = "Kn\U00fcllgasse";
+                "short_name" = "Kn\U00fcllgasse";
+                types =                 (
+                    route
+                );
+            },
+                        {
+                "long_name" = "Sch\U00f6nberg";
+                "short_name" = "Sch\U00f6nberg";
+                types =                 (
+                    locality,
+                    political
+                );
+            },
+                        {
+                "long_name" = SH;
+                "short_name" = SH;
+                types =                 (
+                    "administrative_area_level_1",
+                    political
+                );
+            },
+                        {
+                "long_name" = DE;
+                "short_name" = DE;
+                types =                 (
+                    country,
+                    political
+                );
+            },
+                        {
+                "long_name" = 24217;
+                "short_name" = 24217;
+                types =                 (
+                    "postal_code"
+                );
+            }
+        );
+        "formatted_address" = "Kn\U00fcllgasse 4, Sch\U00f6nberg, Deutschland";
+        "formatted_phone_number" = "04344 4089945";
+        geometry =         {
+            location =             {
+                lat = "54.393946";
+                lng = "10.371385";
+            };
+        };
+        icon = "http://maps.gstatic.com/mapfiles/place_api/icons/cafe-71.png";
+        id = 3c56274b2f5df175442b799be9b8ef56446a4eeb;
+        "international_phone_number" = "+49 4344 4089945";
+        name = "Kaffeehaus Sch\U00f6nberg";
+        "opening_hours" =         {
+            "open_now" = 0;
+            periods =             (
+                                {
+                    close =                     {
+                        day = 0;
+                        time = 1800;
+                    };
+                    open =                     {
+                        day = 0;
+                        time = 0900;
+                    };
+                },
+                                {
+                    close =                     {
+                        day = 1;
+                        time = 1800;
+                    };
+                    open =                     {
+                        day = 1;
+                        time = 0900;
+                    };
+                },
+                                {
+                    close =                     {
+                        day = 2;
+                        time = 1800;
+                    };
+                    open =                     {
+                        day = 2;
+                        time = 0900;
+                    };
+                },
+                                {
+                    close =                     {
+                        day = 4;
+                        time = 1800;
+                    };
+                    open =                     {
+                        day = 4;
+                        time = 0900;
+                    };
+                },
+                                {
+                    close =                     {
+                        day = 5;
+                        time = 1800;
+                    };
+                    open =                     {
+                        day = 5;
+                        time = 0900;
+                    };
+                },
+                                {
+                    close =                     {
+                        day = 6;
+                        time = 1800;
+                    };
+                    open =                     {
+                        day = 6;
+                        time = 0900;
+                    };
+                }
+            );
+        };
+        photos =         (
+                        {
+                height = 324;
+                "html_attributions" =                 (
+                );
+                "photo_reference" = "CmRUAAAA4kGtwAzdymaAQdpPRusQgHBcF_JZi6hLmR-Mqbo7u5AU7R7l5E1zpxdnVtsJZFFgXrKvEX4T3q0Wnc0Kvg64JGxLJNKJlwxPDidvnRZ17OPaFcP7DwktFjGAHGfuNBfVEhAVLrLYT9vc-LH_2HGKDNlOGhSb0pa1cuLN-pT9ffTOfhkhRH5ckQ";
+                width = 400;
+            },
+                        {
+                height = 321;
+                "html_attributions" =                 (
+                );
+                "photo_reference" = "CnRkAAAAWk7nEvwIN2OhZgCTXf8v-vN4cVjSeQLzcgK3ypHbJ2S_y6psgfNDCFLcY0fGMsvZvAydV9tvNBl9aF3KrOoqUrRc1vANH_DoaF2dTgE5TS_uo_PUFuNHD2qaLzQ1V1ngFHsoCVmLyKkc3e0a3KyLuBIQ4_cI71jx0gWlFTfZ8qkplxoUzp8Xnwpx1NUE4w2hdKu___LQ6lI";
+                width = 400;
+            },
+                        {
+                height = 308;
+                "html_attributions" =                 (
+                );
+                "photo_reference" = "CmRUAAAARdUv5Sxdd2Ywdk6eogt-o0zkRT9NnEThqzlEaOT5w1IYw9bry-8my3il0pX0jH8TFHCS1hVWAPkZfQ9y73cQqgJ-R0jokwfkr8ZOoLn2FjiGxGHDjeQ4sN3sUs3y4agmEhDA066Wl5FB_iIj7b-LRd5HGhRZHr_ty4HJFI5QPp7Ll-vRzAA7jw";
+                width = 400;
+            }
+        );
+        reference = "CoQBcgAAAEUgw8NKno_5GXlwLnKgIdG2M_D0XdWUrrit_48-zO8_Xln1QIMaZRTqWQR298GpgE4buFsLkE7h_SA_Tc_wEqF1m5wI1Nj-gtTduth64lVdDQmnziUw5VJpjdNW6aIVStmMfs24flU0ISwQZiom-9ugw_8EGHeKXQpzmN9jSN7tEhAeoG9ASB1UPE37__euk8RmGhRwSLt8SlDgN0OzH3UFf-pAQ7ofAQ";
+        types =         (
+            cafe,
+            food,
+            establishment
+        );
+        url = "https://plus.google.com/100309290848175181464/about?hl=en-US";
+        "utc_offset" = 120;
+        vicinity = "Kn\U00fcllgasse 4, Sch\U00f6nberg";
+        website = "http://kaffeehaus-sch\U00f6nberg-ostsee.de/";
+    };
+    status = OK;
+}
+
+2013-04-24 10:43:36.216 Google[11333:907] {
+}
+2013-04-24 10:43:36.358 Google[11333:907] Google Places JSON response: {
+    "html_attributions" =     (
+        "Listings by <a href=\"http://www.gelbeseiten.de/\">GelbeSeiten\U00aeVerlagen</a>"
+    );
+    result =     {
+        "address_components" =         (
+                        {
+                "long_name" = 4;
+                "short_name" = 4;
+                types =                 (
+                    "street_number"
+                );
+            },
+                        {
+                "long_name" = "Im Dorfe";
+                "short_name" = "Im Dorfe";
+                types =                 (
+                    route
+                );
+            },
+                        {
+                "long_name" = Krummbek;
+                "short_name" = Krummbek;
+                types =                 (
+                    locality,
+                    political
+                );
+            },
+                        {
+                "long_name" = DE;
+                "short_name" = DE;
+                types =                 (
+                    country,
+                    political
+                );
+            },
+                        {
+                "long_name" = 24217;
+                "short_name" = 24217;
+                types =                 (
+                    "postal_code"
+                );
+            }
+        );
+        "formatted_address" = "Im Dorfe 4, Krummbek, Germany";
+        "formatted_phone_number" = "04344 1278";
+        geometry =         {
+            location =             {
+                lat = "54.378846";
+                lng = "10.397497";
+            };
+        };
+        icon = "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png";
+        id = 0420fd87d9ba2bc540e5fc7072d60228ad047d50;
+        "international_phone_number" = "+49 4344 1278";
+        name = "Hofschlachterei Muhs GbR";
+        reference = "CoQBdQAAAN2JrxXC58HvmC51G7Ubs_H4pem6eNBh5Yimv6MeDjd7PyfNR2iRROctnuhYBU6SHk6l5WWbBHF9hO39PSz7yabz0a61j4-ke80Wpx5tq1CKFF4OlWm6wFgXFl1ovYXT7uu7AOi9Bu10AWF0bKUYU1QGlRODk5CcZ5-OP_xXB3ZWEhBBfcsYSTf6EwBVspeXSKFgGhTbKqfNZdH7A1qF-SryQOgRwIfcmQ";
+        reviews =         (
+                        {
+                aspects =                 (
+                                        {
+                        rating = 3;
+                        type = quality;
+                    },
+                                        {
+                        rating = 3;
+                        type = appeal;
+                    },
+                                        {
+                        rating = 3;
+                        type = service;
+                    }
+                );
+                "author_name" = "Frithjof Schmeer";
+                "author_url" = "https://plus.google.com/104358232978574175197";
+                text = "Hier gibt es den besten durchwachsenen Speck den ich jemals gegessen habe.";
+                time = 1361725628;
+            }
+        );
+        types =         (
+            food,
+            store,
+            establishment
+        );
+        url = "https://plus.google.com/100894773422223582629/about?hl=en-US";
+        "utc_offset" = 120;
+        vicinity = "Im Dorfe 4, Krummbek";
+        website = "http://www.hofschlachterei-muhs.de/";
+    };
+    status = OK;
+}
+
+2013-04-24 10:43:38.806 Google[11333:907] {
+}
+2013-04-24 10:43:39.044 Google[11333:907] Google Places JSON response: {
+    "html_attributions" =     (
+        "Listings by <a href=\"http://www.gelbeseiten.de/\">GelbeSeiten\U00aeVerlagen</a>"
+    );
+    result =     {
+        "address_components" =         (
+                        {
+                "long_name" = 7;
+                "short_name" = 7;
+                types =                 (
+                    "street_number"
+                );
+            },
+                        {
+                "long_name" = "Ostseestra\U00dfe";
+                "short_name" = "Ostseestra\U00dfe";
+                types =                 (
+                    route
+                );
+            },
+                        {
+                "long_name" = "Sch\U00f6nberg";
+                "short_name" = "Sch\U00f6nberg";
+                types =                 (
+                    locality,
+                    political
+                );
+            },
+                        {
+                "long_name" = SH;
+                "short_name" = SH;
+                types =                 (
+                    "administrative_area_level_1",
+                    political
+                );
+            },
+                        {
+                "long_name" = DE;
+                "short_name" = DE;
+                types =                 (
+                    country,
+                    political
+                );
+            },
+                        {
+                "long_name" = 24217;
+                "short_name" = 24217;
+                types =                 (
+                    "postal_code"
+                );
+            }
+        );
+        "formatted_address" = "Ostseestra\U00dfe 7, Sch\U00f6nberg, Deutschland";
+        "formatted_phone_number" = "04344 414445";
+        geometry =         {
+            location =             {
+                lat = "54.395459";
+                lng = "10.373435";
+            };
+        };
+        icon = "http://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png";
+        id = 7551ed26cd5d61dd45c0c070460c44f483766f86;
+        "international_phone_number" = "+49 4344 414445";
+        name = "Oxyd Bistro";
+        reference = "CnRpAAAABkzDULAItSqtdnawMThprujGXm4LMUgrF3EG1Audwgt8lYBdd38OmhUdYDvfv9RglNyDT7UYNKH1RmiXxlUbql5qRbSm7GrZYsPoGkyr_CgA01nS-LspXvBE8XuMgN12n_oXDC-RX49XZIyR5OQ5jhIQgLGKChiWHk62g9FxnMjB6RoUTBAB1TKsGdCt0rhYvvWOKrOey3I";
+        reviews =         (
+                        {
+                aspects =                 (
+                                        {
+                        rating = 2;
+                        type = food;
+                    },
+                                        {
+                        rating = 2;
+                        type = decor;
+                    },
+                                        {
+                        rating = 2;
+                        type = service;
+                    }
+                );
+                "author_name" = "Stefanie Steffer";
+                "author_url" = "https://plus.google.com/107497737917577147405";
+                text = "Super Sportsbar und leckeres Essen. Zu empfehlen. Hatte Chef Pizza , war super! Rumpsteak war leider erst falsch gebraten, aber Reklamation war ohne Probleme m\U00f6glich und das Steak was dann kam war der Hammer. SUPER lecker und gro\U00dfe Portion. Hatten mit Pommes und Pfefferso\U00dfe.";
+                time = 1353168175;
+            },
+                        {
+                aspects =                 (
+                                        {
+                        rating = 0;
+                        type = food;
+                    },
+                                        {
+                        rating = 1;
+                        type = decor;
+                    },
+                                        {
+                        rating = 0;
+                        type = service;
+                    }
+                );
+                "author_name" = "Britt Reum";
+                "author_url" = "https://plus.google.com/108669711519129561918";
+                text = "Die Pizza war kalt!mein extra hat gefehlt! Der Salat hat komplett gefehlt! Pommes waren aufgew\U00e4rmt! Nicht zu empfehlen!!!";
+                time = 1348945937;
+            },
+                        {
+                aspects =                 (
+                                        {
+                        rating = 3;
+                        type = food;
+                    },
+                                        {
+                        rating = 1;
+                        type = decor;
+                    },
+                                        {
+                        rating = 3;
+                        type = service;
+                    }
+                );
+                "author_name" = "Carola Kelle-Lessing";
+                "author_url" = "https://plus.google.com/116060932581104875359";
+                text = "Haben den Lieferservice genutzt. P\U00fcnktlich sehr hei\U00df und lecker. Alles einzeln verpackt";
+                time = 1355420761;
+            }
+        );
+        types =         (
+            restaurant,
+            "meal_delivery",
+            food,
+            establishment
+        );
+        url = "https://plus.google.com/103915630729288596540/about?hl=en-US";
+        "utc_offset" = 120;
+        vicinity = "Ostseestra\U00dfe 7, Sch\U00f6nberg";
+        website = "http://www.oxyd-pizzaexpress.de/";
+    };
+    status = OK;
+}
+
+2013-04-24 10:43:41.190 Google[11333:907] {
+}
+2013-04-24 10:43:41.306 Google[11333:907] Google Places JSON response: {
+    "html_attributions" =     (
+    );
+    result =     {
+        "address_components" =         (
+                        {
+                "long_name" = 3;
+                "short_name" = 3;
+                types =                 (
+                    "street_number"
+                );
+            },
+                        {
+                "long_name" = "Wr\U00f6mmelsberg";
+                "short_name" = "Wr\U00f6mmelsberg";
+                types =                 (
+                    route
+                );
+            },
+                        {
+                "long_name" = "Sch\U00f6nberg/Holstein";
+                "short_name" = "Sch\U00f6nberg/Holstein";
+                types =                 (
+                    locality,
+                    political
+                );
+            },
+                        {
+                "long_name" = DE;
+                "short_name" = DE;
+                types =                 (
+                    country,
+                    political
+                );
+            },
+                        {
+                "long_name" = 24217;
+                "short_name" = 24217;
+                types =                 (
+                    "postal_code"
+                );
+            }
+        );
+        "formatted_address" = "Wr\U00f6mmelsberg 3, Sch\U00f6nberg/Holstein, Germany";
+        "formatted_phone_number" = "04344 9725";
+        geometry =         {
+            location =             {
+                lat = "54.395591";
+                lng = "10.38088";
+            };
+        };
+        icon = "http://maps.gstatic.com/mapfiles/place_api/icons/cafe-71.png";
+        id = e9962dace5b1a82a2c2846499aa88cf5ec6c4fde;
+        "international_phone_number" = "+49 4344 9725";
+        name = "Hofladen im \U00bbK\U00e4lberstall\U00ab";
+        "opening_hours" =         {
+            "open_now" = 0;
+            periods =             (
+                                {
+                    close =                     {
+                        day = 0;
+                        time = 1330;
+                    };
+                    open =                     {
+                        day = 0;
+                        time = 1300;
+                    };
+                },
+                                {
+                    close =                     {
+                        day = 0;
+                        time = 1800;
+                    };
+                    open =                     {
+                        day = 0;
+                        time = 1331;
+                    };
+                },
+                                {
+                    close =                     {
+                        day = 1;
+                        time = 1200;
+                    };
+                    open =                     {
+                        day = 1;
+                        time = 1000;
+                    };
+                },
+                                {
+                    close =                     {
+                        day = 1;
+                        time = 1700;
+                    };
+                    open =                     {
+                        day = 1;
+                        time = 1500;
+                    };
+                },
+                                {
+                    close =                     {
+                        day = 2;
+                        time = 1200;
+                    };
+                    open =                     {
+                        day = 2;
+                        time = 1000;
+                    };
+                },
+                                {
+                    close =                     {
+                        day = 2;
+                        time = 1700;
+                    };
+                    open =                     {
+                        day = 2;
+                        time = 1500;
+                    };
+                },
+                                {
+                    close =                     {
+                        day = 3;
+                        time = 1200;
+                    };
+                    open =                     {
+                        day = 3;
+                        time = 1000;
+                    };
+                },
+                                {
+                    close =                     {
+                        day = 3;
+                        time = 1700;
+                    };
+                    open =                     {
+                        day = 3;
+                        time = 1500;
+                    };
+                },
+                                {
+                    close =                     {
+                        day = 4;
+                        time = 1200;
+                    };
+                    open =                     {
+                        day = 4;
+                        time = 1000;
+                    };
+                },
+                                {
+                    close =                     {
+                        day = 4;
+                        time = 1700;
+                    };
+                    open =                     {
+                        day = 4;
+                        time = 1500;
+                    };
+                },
+                                {
+                    close =                     {
+                        day = 5;
+                        time = 1200;
+                    };
+                    open =                     {
+                        day = 5;
+                        time = 1000;
+                    };
+                },
+                                {
+                    close =                     {
+                        day = 5;
+                        time = 1700;
+                    };
+                    open =                     {
+                        day = 5;
+                        time = 1500;
+                    };
+                },
+                                {
+                    close =                     {
+                        day = 6;
+                        time = 1200;
+                    };
+                    open =                     {
+                        day = 6;
+                        time = 1000;
+                    };
+                },
+                                {
+                    close =                     {
+                        day = 6;
+                        time = 1700;
+                    };
+                    open =                     {
+                        day = 6;
+                        time = 1500;
+                    };
+                }
+            );
+        };
+        photos =         (
+                        {
+                height = 314;
+                "html_attributions" =                 (
+                );
+                "photo_reference" = "CqQBlwAAAP17nY6b4gAAHOEg8Y9l1TaP70Hggpcd11dn2d_SeM6VsUjVvJP3hdbiI6wGuUD76r4I-ubk-0G-qdhFo_O2BbQ05eirdyF46HNIYWbP6hV2PoO0hRzau4kczLx-wk6PWgmTL7eHzOtIwkWIKIgWKWnAf5dSR_37rTY_e0yr3X9JinyA9_cd1j3hTrKPZejOOlD8o4BgvGFQclxrwFrs7_cSEELduuyYL-RfW6i_fYZI7kYaFP-XHNywWKH6RhGNflg8AENRXI5M";
+                width = 441;
+            }
+        );
+        reference = "CoQBeQAAAFTZpTkKanWaEngu0bkxbxpZv5LKzkoKo84NDjeQa6twLlQmxX5Y-ndYPip_AWAVAFNOekV59jPDAmLXDuEhWRjgsi_9a5n8v4I__J3ixQAMJRCtLnHSGTSxwA5x6DPi7TNduI9kKGQv_ii_olk6cWXGhTmnOLjeBA9lxtBJgJb5EhAOTnAuO6VtvHu3KhLgpiVJGhSkl2I-CYXKrStQkJx8J15FuN9rJA";
+        types =         (
+            cafe,
+            restaurant,
+            food,
+            establishment
+        );
+        url = "https://plus.google.com/117978007513263885404/about?hl=en-US";
+        "utc_offset" = 120;
+        vicinity = "Wr\U00f6mmelsberg 3, Sch\U00f6nberg/Holstein";
+        website = "http://www.hof-lamp.de/";
+    };
+    status = OK;
+}
+
+2013-04-24 10:43:48.485 Google[11333:907] {
+}
+2013-04-24 10:43:48.689 Google[11333:907] Google Places JSON response: {
+    "html_attributions" =     (
+        "Listings by <a href=\"http://www.gelbeseiten.de/\">GelbeSeiten\U00aeVerlagen</a>"
+    );
+    result =     {
+        "address_components" =         (
+                        {
+                "long_name" = 20;
+                "short_name" = 20;
+                types =                 (
+                    "street_number"
+                );
+            },
+                        {
+                "long_name" = "Dorfstra\U00dfe";
+                "short_name" = "Dorfstra\U00dfe";
+                types =                 (
+                    route
+                );
+            },
+                        {
+                "long_name" = Krokau;
+                "short_name" = Krokau;
+                types =                 (
+                    locality,
+                    political
+                );
+            },
+                        {
+                "long_name" = SH;
+                "short_name" = SH;
+                types =                 (
+                    "administrative_area_level_1",
+                    political
+                );
+            },
+                        {
+                "long_name" = DE;
+                "short_name" = DE;
+                types =                 (
+                    country,
+                    political
+                );
+            },
+                        {
+                "long_name" = 24217;
+                "short_name" = 24217;
+                types =                 (
+                    "postal_code"
+                );
+            }
+        );
+        "formatted_address" = "Dorfstra\U00dfe 20, Krokau, Germany";
+        "formatted_phone_number" = "04344 414747";
+        geometry =         {
+            location =             {
+                lat = "54.402155";
+                lng = "10.343581";
+            };
+        };
+        icon = "http://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png";
+        id = 0e28d105e90080c7cfa34f2bdcfde04e97360baf;
+        "international_phone_number" = "+49 4344 414747";
+        name = "Landhaus Krokau";
+        reference = "CnRtAAAAQpi6sJkKxtXowmn9b9V4kKITmKB8CYsj6xmcR_NqCmoYXxOwpG89KJ4kq6ktzQ2bOgu0a-nNo0_jJ5R6UOC6cBOh5KZWSY5VV97irM58yLEvcMHwxs1IhTCAm4kiB-0KG2LbvJYLMRyuFa1est2rtxIQV7yGB-jbRSxEh97ogEaTNBoULpUXhscPYXSZm0kjbQTKfVwZCYc";
+        types =         (
+            restaurant,
+            food,
+            establishment
+        );
+        url = "https://plus.google.com/110943338363856701858/about?hl=en-US";
+        "utc_offset" = 120;
+        vicinity = "Dorfstra\U00dfe 20, Krokau";
+        website = "http://www.landhaus-krokau.de/";
+    };
+    status = OK;
+}
+
+2013-04-24 10:43:51.237 Google[11333:907] {
+}
+2013-04-24 10:43:51.359 Google[11333:907] Google Places JSON response: {
+    "html_attributions" =     (
+    );
+    result =     {
+        "address_components" =         (
+                        {
+                "long_name" = Krokau;
+                "short_name" = Krokau;
+                types =                 (
+                    locality,
+                    political
+                );
+            },
+                        {
+                "long_name" = SH;
+                "short_name" = SH;
+                types =                 (
+                    "administrative_area_level_1",
+                    political
+                );
+            },
+                        {
+                "long_name" = DE;
+                "short_name" = DE;
+                types =                 (
+                    country,
+                    political
+                );
+            },
+                        {
+                "long_name" = 24217;
+                "short_name" = 24217;
+                types =                 (
+                    "postal_code"
+                );
+            }
+        );
+        "formatted_address" = "Krokauer M\U00fchle, 1, Krokau, Germany";
+        "formatted_phone_number" = "04344 412059";
+        geometry =         {
+            location =             {
+                lat = "54.408263";
+                lng = "10.337769";
+            };
+        };
+        icon = "http://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png";
+        id = a2cb1ec3eaf239553e935f1fe374c58808b496d1;
+        "international_phone_number" = "+49 4344 412059";
+        name = "Ristorante-Pizzeria La Cacereccia";
+        photos =         (
+                        {
+                height = 189;
+                "html_attributions" =                 (
+                );
+                "photo_reference" = "CnRtAAAAxeITgrYNEEgNY7MCl_yraK7zXIdkeif-k6dxECy2e6iDzuaXsrPJBhdlLtK0xaF87CE9HRSo6rRjwTeVwNxMvy9pJ1FXM2V6qxRPGzPfVvk5n8LjUKhasKr7sH4BAcpx8oSnORALe_aA6k6RCBEh5xIQhTJsTmCkHuRHkTBdf3cRqBoUktxd4-J4mYMmFRkBhMF7ZB74Jlw";
+                width = 350;
+            },
+                        {
+                height = 338;
+                "html_attributions" =                 (
+                );
+                "photo_reference" = "CpQBhgAAAK7g6VMJkMjAOrqwqIuOf1aKWajjWy-u88uGJcM5Ok2Tn9nGdp1aaVOPBijphIXl-QuMH4vD07qgJ8iBCE6UFMJF7M4yoU5AWgPPL3TBwZXTLy9Si1rQLChS-Y9DpMFRB7D4TUyW5GHP2hg_39_itOoMHUptZ6u29qlW7hma--5RzJ7nWDLx05U3-r1t8u3ErRIQVdUl5aPdhXuYXxcGJAGACxoUZxfnZxDzXy_gNPUdOo4WO0S1r6w";
+                width = 450;
+            }
+        );
+        reference = "CoQBfwAAAHJEbKrydKSDDFaz3rtrSGrnjMsqhzui7PGmHRRWSZTGNsj1gNSk9x3RHyEHkzPZR8_Vkl6WaKVxGTKAw1qvJk_zFRc-4bnRmwQ4qvHzrlnTxeGC_F4EUeUv50s8aZ5jaD5v1mno2yYOmqBoRXrbYobU0NTnAypyzYIyBF3lS2hmEhD1_7mDa6xkyGdbLeEP05p_GhSshpBsajA8BZ3zbEzLiOmXKDMZVw";
+        reviews =         (
+                        {
+                aspects =                 (
+                                        {
+                        rating = 3;
+                        type = overall;
+                    }
+                );
+                "author_name" = "A Google User";
+                text = "super nett, gem\U00fctlich und dazu eine super k\U00fcche. wir kommen immer gerne zu euch.";
+                time = 1344271609;
+            },
+                        {
+                aspects =                 (
+                                        {
+                        rating = 3;
+                        type = overall;
+                    }
+                );
+                "author_name" = "A Google User";
+                text = "super nett, gem\U00fctlich und dazu eine super k\U00fcche. wir kommen immer gerne zu euch.";
+                time = 1325273743;
+            },
+                        {
+                aspects =                 (
+                                        {
+                        rating = 3;
+                        type = overall;
+                    }
+                );
+                "author_name" = "A Google User";
+                text = "Geheimtipp. Essen war super. Bedienung sehr freundlich. Wir kommen gerne wieder.";
+                time = 1312996490;
+            }
+        );
+        types =         (
+            restaurant,
+            food,
+            establishment
+        );
+        url = "https://plus.google.com/100191533753616046637/about?hl=en-US";
+        "utc_offset" = 120;
+        vicinity = "Krokauer M\U00fchle, 1, Krokau";
+        website = "http://www.la-casereccia.de/";
+    };
+    status = OK;
+}
+
+2013-04-24 10:43:55.782 Google[11333:907] {
+}
+2013-04-24 10:43:56.020 Google[11333:907] Google Places JSON response: {
+    "html_attributions" =     (
+    );
+    result =     {
+        "address_components" =         (
+                        {
+                "long_name" = 5;
+                "short_name" = 5;
+                types =                 (
+                    "street_number"
+                );
+            },
+                        {
+                "long_name" = "Ostseestra\U00dfe";
+                "short_name" = "Ostseestra\U00dfe";
+                types =                 (
+                    route
+                );
+            },
+                        {
+                "long_name" = "Sch\U00f6nberg";
+                "short_name" = "Sch\U00f6nberg";
+                types =                 (
+                    locality,
+                    political
+                );
+            },
+                        {
+                "long_name" = SH;
+                "short_name" = SH;
+                types =                 (
+                    "administrative_area_level_1",
+                    political
+                );
+            },
+                        {
+                "long_name" = DE;
+                "short_name" = DE;
+                types =                 (
+                    country,
+                    political
+                );
+            },
+                        {
+                "long_name" = 24217;
+                "short_name" = 24217;
+                types =                 (
+                    "postal_code"
+                );
+            }
+        );
+        "formatted_address" = "Ostseestra\U00dfe 5, Sch\U00f6nberg, Deutschland";
+        "formatted_phone_number" = "04344 3209";
+        geometry =         {
+            location =             {
+                lat = "54.395459";
+                lng = "10.373435";
+            };
+        };
+        icon = "http://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png";
+        id = ffdc3b5eaa527890e651e9d56d8dff54e881caea;
+        "international_phone_number" = "+49 4344 3209";
+        name = "Ostsee Snack";
+        "opening_hours" =         {
+            "open_now" = 0;
+            periods =             (
+                                {
+                    close =                     {
+                        day = 0;
+                        time = 2300;
+                    };
+                    open =                     {
+                        day = 0;
+                        time = 1100;
+                    };
+                },
+                                {
+                    close =                     {
+                        day = 1;
+                        time = 2300;
+                    };
+                    open =                     {
+                        day = 1;
+                        time = 1100;
+                    };
+                },
+                                {
+                    close =                     {
+                        day = 2;
+                        time = 2300;
+                    };
+                    open =                     {
+                        day = 2;
+                        time = 1100;
+                    };
+                },
+                                {
+                    close =                     {
+                        day = 3;
+                        time = 2300;
+                    };
+                    open =                     {
+                        day = 3;
+                        time = 1100;
+                    };
+                },
+                                {
+                    close =                     {
+                        day = 4;
+                        time = 2300;
+                    };
+                    open =                     {
+                        day = 4;
+                        time = 1100;
+                    };
+                },
+                                {
+                    close =                     {
+                        day = 5;
+                        time = 2330;
+                    };
+                    open =                     {
+                        day = 5;
+                        time = 1100;
+                    };
+                },
+                                {
+                    close =                     {
+                        day = 6;
+                        time = 2330;
+                    };
+                    open =                     {
+                        day = 6;
+                        time = 1100;
+                    };
+                }
+            );
+        };
+        rating = 3;
+        reference = "CnRqAAAA-5JWZ3hDsvaBR30dwDppM4pzhZPp5KF1ie7_THU3UhuSdwSOQsNmEOPN27x0Zq6qHglgLzZpYieoSU4whWADzquoHt13lO6DnKKxh3JZLSzLVv4POCBsEwUfONuQYHT10fjSohX7cM7l-4goB1V6DhIQeYF359IY_R7Bm6rhd61xUBoUTrWZiRkxm_tHA3ZsdDrbnccmYZo";
+        reviews =         (
+                        {
+                aspects =                 (
+                                        {
+                        rating = 3;
+                        type = overall;
+                    }
+                );
+                "author_name" = "A Google User";
+                text = "Hier gibt er riesige Portionen f\U00fcr wenig Geld. Wir fahren schon seid Jahren immer wieder gerne dort essen. Die Jungs sind immer nett. Und er schmeckt einfach super. Ich wei\U00df nicht wo mein Vorredner gegessen hat, aber bestimmt nicht im Ostsee-Snack. :-)";
+                time = 1312042647;
+            },
+                        {
+                aspects =                 (
+                                        {
+                        rating = 3;
+                        type = overall;
+                    }
+                );
+                "author_name" = "A Google User";
+                text = "Alles super Lecker.. bin oft und gerne dort";
+                time = 1312064112;
+            },
+                        {
+                aspects =                 (
+                                        {
+                        rating = 0;
+                        type = overall;
+                    }
+                );
+                "author_name" = "A Google User";
+                text = "Das Essen dort ist das allerletzte. Das D\U00f6nerfleisch schmeckt gestreckt und die Preise sind unversch\U00e4mt.";
+                time = 1278087957;
+            },
+                        {
+                aspects =                 (
+                                        {
+                        rating = 0;
+                        type = overall;
+                    }
+                );
+                "author_name" = "A Google User";
+                text = "Unfreundlich, schmuddelig";
+                time = 1327414821;
+            }
+        );
+        types =         (
+            restaurant,
+            food,
+            establishment
+        );
+        url = "https://plus.google.com/113607816687966738895/about?hl=en-US";
+        "utc_offset" = 120;
+        vicinity = "Ostseestra\U00dfe 5, Sch\U00f6nberg";
+    };
+    status = OK;
+}
+
+2013-04-24 10:43:58.631 Google[11333:907] {
+}
+2013-04-24 10:43:58.744 Google[11333:907] Google Places JSON response: {
+    "html_attributions" =     (
+    );
+    result =     {
+        "address_components" =         (
+                        {
+                "long_name" = 15;
+                "short_name" = 15;
+                types =                 (
+                    "street_number"
+                );
+            },
+                        {
+                "long_name" = Promenade;
+                "short_name" = Promenade;
+                types =                 (
+                    route
+                );
+            },
+                        {
+                "long_name" = "Sch\U00f6nberg";
+                "short_name" = "Sch\U00f6nberg";
+                types =                 (
+                    locality,
+                    political
+                );
+            },
+                        {
+                "long_name" = DE;
+                "short_name" = DE;
+                types =                 (
+                    country,
+                    political
+                );
+            },
+                        {
+                "long_name" = 24217;
+                "short_name" = 24217;
+                types =                 (
+                    "postal_code"
+                );
+            }
+        );
+        "formatted_address" = "Promenade 15, Sch\U00f6nberg, Deutschland";
+        "formatted_phone_number" = "04344 2957";
+        geometry =         {
+            location =             {
+                lat = "54.412875";
+                lng = "10.416821";
+            };
+        };
+        icon = "http://maps.gstatic.com/mapfiles/place_api/icons/cafe-71.png";
+        id = ed983bf5a17de966b6629e152c5f0fd54c5c446f;
+        "international_phone_number" = "+49 4344 2957";
+        name = "Oma' S Kaffeestuuv Inh. Alain Mercier";
+        reference = "CpQBgwAAAJhA6Xv18W795z-YKbYh_whvD1c5dEB2Onl7LJQoEnhnOvC0iI0j-aak5Ylea1tKqoXrTNDRg1EjBu2LpraXtbZ_5NRzKF9sGxriYky0EavQVOnhQBqj22ge5-HSfVlQGeQSmG0c7l6qhObxmMrRVkMuT3G4mwWgt5sf7Hi7b0YPfMPftmy506as3-c5WFVHyhIQ7rRSmLZSGoVAJAyUJaJJchoULEa3ipekWLLPJDus8Qh_LUmTnA0";
+        types =         (
+            cafe,
+            food,
+            establishment
+        );
+        url = "https://plus.google.com/109924177154007151818/about?hl=en-US";
+        "utc_offset" = 120;
+        vicinity = "Promenade 15, Sch\U00f6nberg";
+        website = "http://www.omas-kaffeestuuv.de/";
+    };
+    status = OK;
+}
+
+2013-04-24 10:44:01.231 Google[11333:907] {
+}
+2013-04-24 10:44:01.342 Google[11333:907] Google Places JSON response: {
+    "html_attributions" =     (
+    );
+    result =     {
+        "address_components" =         (
+                        {
+                "long_name" = 1;
+                "short_name" = 1;
+                types =                 (
+                    "street_number"
+                );
+            },
+                        {
+                "long_name" = Kuhlenkamp;
+                "short_name" = Kuhlenkamp;
+                types =                 (
+                    route
+                );
+            },
+                        {
+                "long_name" = "Sch\U00f6nberg";
+                "short_name" = "Sch\U00f6nberg";
+                types =                 (
+                    locality,
+                    political
+                );
+            },
+                        {
+                "long_name" = SH;
+                "short_name" = SH;
+                types =                 (
+                    "administrative_area_level_1",
+                    political
+                );
+            },
+                        {
+                "long_name" = DE;
+                "short_name" = DE;
+                types =                 (
+                    country,
+                    political
+                );
+            },
+                        {
+                "long_name" = 24217;
+                "short_name" = 24217;
+                types =                 (
+                    "postal_code"
+                );
+            }
+        );
+        "formatted_address" = "Kuhlenkamp 1, Sch\U00f6nberg, Deutschland";
+        "formatted_phone_number" = "0180 3 331010";
+        geometry =         {
+            location =             {
+                lat = "54.389569";
+                lng = "10.372047";
+            };
+        };
+        icon = "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png";
+        id = 273f77f9785220f8e7e383653790df333c12e7a5;
+        "international_phone_number" = "+49 180 3 331010";
+        name = "Penny-Markt";
+        reference = "CnRpAAAArINFnC2z-hnxaC3TzUu5BZrC-RQIAvCfWS2HoO4vx-rVee5CSKq2ke5WmQbpFzS1-lSRr_prBsQmrlhne2acf3PUNo7f5RjCgs5BrbsUBkzGBTl7ZJEp0QNym6vLlQoWYpAhAHuHzPkA6ackJ0DQDxIQcCPMVnqPzyAf9R0g_jc1eBoUB3WEaaZ98bEC2n2eBIZruZujAVE";
+        reviews =         (
+                        {
+                aspects =                 (
+                                        {
+                        rating = 3;
+                        type = quality;
+                    },
+                                        {
+                        rating = 3;
+                        type = appeal;
+                    },
+                                        {
+                        rating = 3;
+                        type = service;
+                    }
+                );
+                "author_name" = "Maria Otto";
+                "author_url" = "https://plus.google.com/112994138179803103788";
+                text = "Die lebensmittel sind immer frisch und die Qualit\U00e4t ist toll";
+                time = 1358527250;
+            }
+        );
+        types =         (
+            "grocery_or_supermarket",
+            food,
+            store,
+            establishment
+        );
+        url = "https://plus.google.com/101805819362117853521/about?hl=en-US";
+        "utc_offset" = 120;
+        vicinity = "Kuhlenkamp 1, Sch\U00f6nberg";
+        website = "http://www.penny.de/";
+    };
+    status = OK;
+}
+
+2013-04-24 10:44:04.406 Google[11333:907] {
+}
+2013-04-24 10:44:04.519 Google[11333:907] Google Places JSON response: {
+    "html_attributions" =     (
+    );
+    result =     {
+        "address_components" =         (
+                        {
+                "long_name" = 3;
+                "short_name" = 3;
+                types =                 (
+                    "street_number"
+                );
+            },
+                        {
+                "long_name" = "Zur Felsenburg";
+                "short_name" = "Zur Felsenburg";
+                types =                 (
+                    route
+                );
+            },
+                        {
+                "long_name" = "Sch\U00f6nberg";
+                "short_name" = "Sch\U00f6nberg";
+                types =                 (
+                    locality,
+                    political
+                );
+            },
+                        {
+                "long_name" = DE;
+                "short_name" = DE;
+                types =                 (
+                    country,
+                    political
+                );
+            },
+                        {
+                "long_name" = 24217;
+                "short_name" = 24217;
+                types =                 (
+                    "postal_code"
+                );
+            }
+        );
+        "formatted_address" = "Zur Felsenburg 3, Sch\U00f6nberg, Deutschland";
+        "formatted_phone_number" = "04344 1216";
+        geometry =         {
+            location =             {
+                lat = "54.410881";
+                lng = "10.419726";
+            };
+        };
+        icon = "http://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png";
+        id = 8ad78534efecbaf1b55d2b0dc551cade183cd023;
+        "international_phone_number" = "+49 4344 1216";
+        name = "Asbahr Verwaltungs- und Beteiligungs GmbH";
+        reference = "CpQBhwAAAIbkWgrnk6XMOwoS-qr18AZPtusbBCMwnUpvgbG_ep2LWwsNi6PlNsJaimNF8r_QeVEdccJURcpY-UB3X-bW6-MG4hqU4EuZutoCtpv0TSTRBj2orvsUsPoi6REUN9W_lJh68yQoWBGHD7PoMSI8KuQiZEV5WLxYLWiM47BrVTyyvHZWXsQZJivW_SJ6IFvwbRIQW9WXvllSlRRivpz5k6TCjhoUYF5FEm0NSTpPik_lkKlruyv3-d0";
+        types =         (
+            restaurant,
+            food,
+            establishment
+        );
+        url = "https://plus.google.com/110970361088304572571/about?hl=en-US";
+        "utc_offset" = 120;
+        vicinity = "Zur Felsenburg 3, Sch\U00f6nberg";
+        website = "http://felsenburg-grasbleek.de/";
+    };
+    status = OK;
+}
+
+2013-04-24 10:44:07.192 Google[11333:907] {
+}
+2013-04-24 10:44:07.409 Google[11333:907] Google Places JSON response: {
+    "html_attributions" =     (
+        "Listings by <a href=\"http://www.gelbeseiten.de/\">GelbeSeiten\U00aeVerlagen</a>"
+    );
+    result =     {
+        "address_components" =         (
+                        {
+                "long_name" = 9;
+                "short_name" = 9;
+                types =                 (
+                    "street_number"
+                );
+            },
+                        {
+                "long_name" = Eichkamp;
+                "short_name" = Eichkamp;
+                types =                 (
+                    route
+                );
+            },
+                        {
+                "long_name" = "Sch\U00f6nberg";
+                "short_name" = "Sch\U00f6nberg";
+                types =                 (
+                    locality,
+                    political
+                );
+            },
+                        {
+                "long_name" = SH;
+                "short_name" = SH;
+                types =                 (
+                    "administrative_area_level_1",
+                    political
+                );
+            },
+                        {
+                "long_name" = DE;
+                "short_name" = DE;
+                types =                 (
+                    country,
+                    political
+                );
+            },
+                        {
+                "long_name" = 24217;
+                "short_name" = 24217;
+                types =                 (
+                    "postal_code"
+                );
+            }
+        );
+        "formatted_address" = "Eichkamp 9, Sch\U00f6nberg, Deutschland";
+        "formatted_phone_number" = "04344 3021 ext. 0";
+        geometry =         {
+            location =             {
+                lat = "54.38676";
+                lng = "10.37541";
+            };
+        };
+        icon = "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png";
+        id = 611c473277ced84386696a82f2de2ca2ca29213b;
+        "international_phone_number" = "+49 4344 3021 ext. 0";
+        name = "Markant Markt GmbH & Co. KG";
+        reference = "CoQBeQAAAJSmoKG-4gYbhj6CE2YgiYw-ffvO0WbskRMlY0v-ctmBRq1iPCmwPZ425Bva3k2aRjX8eFOQjp1R9n4ipfZUoulSypmewghQmtCMpG6WySW_D2NEfcGY8QfHsXaGYKYEOmY4Bo11_ZBcuQvkMxroMsH54O6F4Hb5HZ8NaeCCTXoPEhB8-GiROtJ21w_-zJvi5rF4GhQejuCf16_mDQKtu3pws-1WneUeoA";
+        types =         (
+            "grocery_or_supermarket",
+            food,
+            store,
+            establishment
+        );
+        url = "https://plus.google.com/105488274382368196879/about?hl=en-US";
+        "utc_offset" = 120;
+        vicinity = "Eichkamp 9, Sch\U00f6nberg";
+        website = "http://www.markant-online.de/";
+    };
+    status = OK;
+}
+
+2013-04-24 10:44:10.632 Google[11333:907] {
+}
+2013-04-24 10:44:10.739 Google[11333:907] Google Places JSON response: {
+    "html_attributions" =     (
+    );
+    result =     {
+        "address_components" =         (
+                        {
+                "long_name" = 17;
+                "short_name" = 17;
+                types =                 (
+                    "street_number"
+                );
+            },
+                        {
+                "long_name" = "Bahnhofstra\U00dfe";
+                "short_name" = "Bahnhofstra\U00dfe";
+                types =                 (
+                    route
+                );
+            },
+                        {
+                "long_name" = "Sch\U00f6nberg";
+                "short_name" = "Sch\U00f6nberg";
+                types =                 (
+                    locality,
+                    political
+                );
+            },
+                        {
+                "long_name" = DE;
+                "short_name" = DE;
+                types =                 (
+                    country,
+                    political
+                );
+            },
+                        {
+                "long_name" = 24217;
+                "short_name" = 24217;
+                types =                 (
+                    "postal_code"
+                );
+            }
+        );
+        "formatted_address" = "Bahnhofstra\U00dfe 17, Sch\U00f6nberg, Deutschland";
+        "formatted_phone_number" = "04344 6213";
+        geometry =         {
+            location =             {
+                lat = "54.390629";
+                lng = "10.373687";
+            };
+        };
+        icon = "http://maps.gstatic.com/mapfiles/place_api/icons/cafe-71.png";
+        id = 32ce844fb43d0d219715922025a3cef7aa77cd70;
+        "international_phone_number" = "+49 4344 6213";
+        name = Teepott;
+        reference = "CnRlAAAANuHP3lNZpOxYZGkLcEBRNJ9nqUtEuxVSJJ9xHTlk_yT2249Aq_MWfnEOAXYI9KGuf_-S3cCXyPHC5GhSMysnUgiA96kFBo9ZHC3dRy4dY6V9ULKcsGMpJ_vWlZr_Q35FImVvfuSMwcMgc3vombuLMRIQtRubeRTaLk_Fs8PdH9Bl8xoUJKHKSbA_IwmTYGgBNBJ5hTgHzic";
+        types =         (
+            store,
+            cafe,
+            food,
+            establishment
+        );
+        url = "https://plus.google.com/114726167709026433734/about?hl=en-US";
+        "utc_offset" = 120;
+        vicinity = "Bahnhofstra\U00dfe 17, Sch\U00f6nberg";
+        website = "http://www.nurdasbeste.biz/";
+    };
+    status = OK;
+}
+
+2013-04-24 10:44:14.204 Google[11333:907] {
+}
+2013-04-24 10:44:14.326 Google[11333:907] Google Places JSON response: {
+    "html_attributions" =     (
+    );
+    result =     {
+        "address_components" =         (
+                        {
+                "long_name" = 207;
+                "short_name" = 207;
+                types =                 (
+                    "street_number"
+                );
+            },
+                        {
+                "long_name" = "Strandstra\U00dfe";
+                "short_name" = "Strandstra\U00dfe";
+                types =                 (
+                    route
+                );
+            },
+                        {
+                "long_name" = "Sch\U00f6nberg";
+                "short_name" = "Sch\U00f6nberg";
+                types =                 (
+                    locality,
+                    political
+                );
+            },
+                        {
+                "long_name" = DE;
+                "short_name" = DE;
+                types =                 (
+                    country,
+                    political
+                );
+            },
+                        {
+                "long_name" = 24217;
+                "short_name" = 24217;
+                types =                 (
+                    "postal_code"
+                );
+            }
+        );
+        "formatted_address" = "Strandstra\U00dfe 207, Sch\U00f6nberg, Deutschland";
+        "formatted_phone_number" = "04344 3014444";
+        geometry =         {
+            location =             {
+                lat = "54.405799";
+                lng = "10.391371";
+            };
+        };
+        icon = "http://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png";
+        id = 9794438cb287c7942937af093afcd95909933187;
+        "international_phone_number" = "+49 4344 3014444";
+        name = "Evelin Jebe";
+        reference = "CnRoAAAA8nqErGf73aLBfWlYP6StqQgJYHJLhvhHJFizqxXGNzdxffn28wxgsG8Ht18Z_nUNRWjd5FvaVjMVU-U09w_wFQEgeemlnQbHOxOLvW-W1A63XvgLa3i5_g49PA8nAoeejiPIp8lBpBTiZKZDRzRGwBIQHZ1cst17K3Pa_FZQ-UEYqhoUNNIl20ZW8lDMnbuy3m5YOAvbjPk";
+        types =         (
+            restaurant,
+            food,
+            establishment
+        );
+        url = "https://plus.google.com/108215212071353273668/about?hl=en-US";
+        "utc_offset" = 120;
+        vicinity = "Strandstra\U00dfe 207, Sch\U00f6nberg";
+        website = "http://www.imbiss-restaurant-neusch\U00f6nberg.de/";
+    };
+    status = OK;
+}
+
+2013-04-24 10:44:17.693 Google[11333:907] {
+}
+2013-04-24 10:44:17.803 Google[11333:907] Google Places JSON response: {
+    "html_attributions" =     (
+    );
+    result =     {
+        "address_components" =         (
+                        {
+                "long_name" = 3;
+                "short_name" = 3;
+                types =                 (
+                    "street_number"
+                );
+            },
+                        {
+                "long_name" = "Bahnhofstra\U00dfe";
+                "short_name" = "Bahnhofstra\U00dfe";
+                types =                 (
+                    route
+                );
+            },
+                        {
+                "long_name" = "Sch\U00f6nberg (Holstein)";
+                "short_name" = "Sch\U00f6nberg (Holstein)";
+                types =                 (
+                    locality,
+                    political
+                );
+            },
+                        {
+                "long_name" = SH;
+                "short_name" = SH;
+                types =                 (
+                    "administrative_area_level_1",
+                    political
+                );
+            },
+                        {
+                "long_name" = DE;
+                "short_name" = DE;
+                types =                 (
+                    country,
+                    political
+                );
+            },
+                        {
+                "long_name" = 24217;
+                "short_name" = 24217;
+                types =                 (
+                    "postal_code"
+                );
+            }
+        );
+        "formatted_address" = "Bahnhofstra\U00dfe 3, Sch\U00f6nberg (Holstein), Deutschland";
+        "formatted_phone_number" = "04344 410578";
+        geometry =         {
+            location =             {
+                lat = "54.393155";
+                lng = "10.37143";
+            };
+        };
+        icon = "http://maps.gstatic.com/mapfiles/place_api/icons/wine-71.png";
+        id = 9e777d371bf74f441f9c92b73dabacb8b24a3e5d;
+        "international_phone_number" = "+49 4344 410578";
+        name = "Rossmann Filiale";
+        reference = "CnRuAAAAolYqyQ2Iffyfv4c4aaz12vBzVDzb8QP9Iw9neezhT5SZpkmQqqIMeQ1My-8hR3BsU_efC4FC0vWCUslebAfNCFotfp9oI8UIZKavFT9kwu94lb6FfOVM9b3nXO-5hmX39EtZEgVvvfkUIuUpwQJ-VxIQiQv3rby_KPc9waOTj7au5xoUSEN1-fwseVOMgRO0v1TAE7liqfI";
+        types =         (
+            "liquor_store",
+            food,
+            store,
+            health,
+            establishment
+        );
+        url = "https://plus.google.com/103253557533816784175/about?hl=en-US";
+        "utc_offset" = 120;
+        vicinity = "Bahnhofstra\U00dfe 3, Sch\U00f6nberg (Holstein)";
+        website = "http://www.rossmann.de/";
+    };
+    status = OK;
+}
+

@@ -1,0 +1,15 @@
+Toni Karttunen
+24.4.2012
+
+==========================================
+
+Paikkatiedon tarjoaja: Foursquare
+Paikka: Schönberg
+Kategoria: Hospitals
+
+==========================================
+
+2013-04-24 11:39:15.774 Foursquare[11515:907] foursquareDictionary: {
+    venues =     (
+    );
+}

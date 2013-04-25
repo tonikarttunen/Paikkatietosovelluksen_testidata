@@ -1,0 +1,257 @@
+Toni Karttunen
+24.4.2012
+
+==========================================
+
+Paikkatiedon tarjoaja: Apple
+Paikka: Suzhou
+Kategoria: Hospitals
+
+==========================================
+
+
+2013-04-24 09:59:48.705 Apple[11194:907] (
+        (
+        Name,
+        "Ruihua Hospital Affiliated of Soochow University"
+    ),
+        (
+        Address,
+        "China\nJiangsu\U200e Suzhou\nTaYun Road No.5"
+    ),
+        (
+        Phone,
+        "+8651269219999"
+    ),
+        (
+        Latitude,
+        "31.205259"
+    ),
+        (
+        Longitude,
+        "120.596337"
+    )
+)
+
+2013-04-24 09:59:50.543 Apple[11194:907] (
+        (
+        Name,
+        "Kangli Hospital"
+    ),
+        (
+        Address,
+        "China\nJiangsu\U200e Suzhou\n96  Dongwu South Road"
+    ),
+        (
+        Phone,
+        "+8651266050100"
+    ),
+        (
+        Latitude,
+        "31.242886"
+    ),
+        (
+        Longitude,
+        "120.630466"
+    )
+)
+
+2013-04-24 09:59:52.782 Apple[11194:907] (
+        (
+        Name,
+        "Suzhou Hospital of Traditional Chinese Medicine"
+    ),
+        (
+        Address,
+        "China\nJiangsu\U200e Suzhou\nWuzhong West Road No.889"
+    ),
+        (
+        Phone,
+        "+8651265222220"
+    ),
+        (
+        URL,
+        "http://www.sztcm.org.cn"
+    ),
+        (
+        Latitude,
+        "31.269421"
+    ),
+        (
+        Longitude,
+        "120.597207"
+    )
+)
+
+2013-04-24 10:00:00.515 Apple[11194:907] (
+        (
+        Name,
+        "Wujiang First People's Hospital"
+    ),
+        (
+        Address,
+        "China\nJiangsu\U200e Suzhou\nZhongshan North Road No.689"
+    ),
+        (
+        Phone,
+        "+8651263000519"
+    ),
+        (
+        Latitude,
+        "31.172092"
+    ),
+        (
+        Longitude,
+        "120.647905"
+    )
+)
+
+2013-04-24 10:00:03.193 Apple[11194:907] (
+        (
+        Name,
+        "Suzhou Tongji Hospital"
+    ),
+        (
+        Address,
+        "China\nJiangsu\U200e Suzhou\nSouth Ring Road West No.36"
+    ),
+        (
+        Phone,
+        "+8651268111999"
+    ),
+        (
+        URL,
+        "http://www.sztjyy.cn"
+    ),
+        (
+        Latitude,
+        "31.278967"
+    ),
+        (
+        Longitude,
+        "120.614887"
+    )
+)
+
+2013-04-24 10:00:11.782 Apple[11194:907] (
+        (
+        Name,
+        "Wujiang No.1 People's Hospital (Southeast to Nantong University Affiliated Wujiang Hospital)"
+    ),
+        (
+        Address,
+        "China\nJiangsu\U200e Suzhou\nGongYuan Road No.169"
+    ),
+        (
+        Phone,
+        "+8651263420995"
+    ),
+        (
+        Latitude,
+        "31.160031"
+    ),
+        (
+        Longitude,
+        "120.649075"
+    )
+)
+
+2013-04-24 10:00:14.308 Apple[11194:907] (
+        (
+        Name,
+        "Rehabilitation Hospital"
+    ),
+        (
+        Address,
+        "China\nJiangsu\U200e Suzhou\nWumucun Bazu"
+    ),
+        (
+        Phone,
+        "+8651263495065"
+    ),
+        (
+        Latitude,
+        "31.141157"
+    ),
+        (
+        Longitude,
+        "120.637706"
+    )
+)
+
+2013-04-24 10:00:17.076 Apple[11194:907] (
+        (
+        Name,
+        "Suzhou First People's Hospital"
+    ),
+        (
+        Address,
+        "China\nJiangsu\U200e Suzhou\nNo.296  Shizi Street"
+    ),
+        (
+        Phone,
+        "+8651265223637"
+    ),
+        (
+        URL,
+        "http://fyy.sdfyy.cn"
+    ),
+        (
+        Latitude,
+        "31.302699"
+    ),
+        (
+        Longitude,
+        "120.634742"
+    )
+)
+
+2013-04-24 10:00:37.479 Apple[11194:907] (
+        (
+        Name,
+        "Wuzhong People's Hospital"
+    ),
+        (
+        Address,
+        "China\nJiangsu\U200e Suzhou\n61  Dongwu North Road"
+    ),
+        (
+        Phone,
+        "+8651265252659"
+    ),
+        (
+        Latitude,
+        "31.268758"
+    ),
+        (
+        Longitude,
+        "120.627477"
+    )
+)
+
+2013-04-24 10:00:41.509 Apple[11194:907] (
+        (
+        Name,
+        "Suzhou Yongding Hospital"
+    ),
+        (
+        Address,
+        "China\nJiangsu\U200e Suzhou\nSonglingzhen GaoXin Road No.1388"
+    ),
+        (
+        Phone,
+        "+8651263498999"
+    ),
+        (
+        URL,
+        "http://www.szydyy.com"
+    ),
+        (
+        Latitude,
+        "31.141955"
+    ),
+        (
+        Longitude,
+        "120.634244"
+    )
+)

@@ -1,0 +1,596 @@
+Toni Karttunen
+24.4.2012
+
+==========================================
+
+Paikkatiedon tarjoaja: Foursquare
+Paikka: Schönberg
+Kategoria: Food
+
+==========================================
+
+2013-04-24 11:35:50.989 Foursquare[11515:907] foursquareDictionary: {
+    venues =     (
+                {
+            beenHere =             {
+                count = 0;
+            };
+            canonicalUrl = "https://foursquare.com/v/grillpavillon/5048d199e4b06b582188dcc4";
+            categories =             (
+                                {
+                    icon =                     {
+                        name = ".png";
+                        prefix = "https://foursquare.com/img/categories/food/burger_";
+                        sizes =                         (
+                            32,
+                            44,
+                            64,
+                            88,
+                            256
+                        );
+                    };
+                    id = 4bf58dd8d48988d16c941735;
+                    name = "Burger Joint";
+                    pluralName = "Burger Joints";
+                    primary = 1;
+                    shortName = Burgers;
+                }
+            );
+            contact =             {
+                formattedPhone = "+49 172 9904497";
+                phone = "+491729904497";
+            };
+            hereNow =             {
+                count = 0;
+                groups =                 (
+                );
+            };
+            id = 5048d199e4b06b582188dcc4;
+            likes =             {
+                count = 0;
+                groups =                 (
+                );
+            };
+            location =             {
+                address = "Deichweg 6";
+                cc = DE;
+                city = "Sch\U00f6nberg - Kalifornien";
+                country = Germany;
+                distance = 316;
+                lat = "54.39522261888881";
+                lng = "10.37130385467224";
+                postalCode = 24217;
+                state = "Schleswig-Holstein";
+            };
+            name = "Grill-Pavillon";
+            referralId = "v-1366792550";
+            specials =             (
+            );
+            stats =             {
+                checkinsCount = 2;
+                tipCount = 0;
+                usersCount = 2;
+            };
+            url = "http://www.schoenberg.de/index.php?id=328";
+            verified = 0;
+        },
+                {
+            beenHere =             {
+                count = 0;
+            };
+            canonicalUrl = "https://foursquare.com/v/k%C3%A4lberstall/4fa4f549e4b012fefcfb405b";
+            categories =             (
+                                {
+                    icon =                     {
+                        name = ".png";
+                        prefix = "https://foursquare.com/img/categories/food/cafe_";
+                        sizes =                         (
+                            32,
+                            44,
+                            64,
+                            88,
+                            256
+                        );
+                    };
+                    id = 4bf58dd8d48988d16d941735;
+                    name = "Caf\U00e9";
+                    pluralName = "Caf\U00e9s";
+                    primary = 1;
+                    shortName = "Caf\U00e9";
+                }
+            );
+            contact =             {
+            };
+            hereNow =             {
+                count = 0;
+                groups =                 (
+                );
+            };
+            id = 4fa4f549e4b012fefcfb405b;
+            likes =             {
+                count = 0;
+                groups =                 (
+                );
+            };
+            location =             {
+                cc = DE;
+                city = "Sch\U00f6nberg";
+                country = Germany;
+                distance = 765;
+                lat = "54.397065";
+                lng = "10.383515";
+            };
+            name = "K\U00e4lberstall";
+            referralId = "v-1366792550";
+            specials =             (
+            );
+            stats =             {
+                checkinsCount = 2;
+                tipCount = 0;
+                usersCount = 1;
+            };
+            verified = 0;
+        },
+                {
+            beenHere =             {
+                count = 0;
+            };
+            canonicalUrl = "https://foursquare.com/v/hotel--restaurant-am-rathaus/4e2b52b2c65bcaf4002df8bc";
+            categories =             (
+                                {
+                    icon =                     {
+                        name = ".png";
+                        prefix = "https://foursquare.com/img/categories/travel/hotel_";
+                        sizes =                         (
+                            32,
+                            44,
+                            64,
+                            88,
+                            256
+                        );
+                    };
+                    id = 4bf58dd8d48988d1fa931735;
+                    name = Hotel;
+                    pluralName = Hotels;
+                    primary = 1;
+                    shortName = Hotel;
+                }
+            );
+            contact =             {
+                formattedPhone = "+49 4344 1305";
+                phone = "+4943441305";
+            };
+            hereNow =             {
+                count = 0;
+                groups =                 (
+                );
+            };
+            id = 4e2b52b2c65bcaf4002df8bc;
+            likes =             {
+                count = 0;
+                groups =                 (
+                );
+            };
+            location =             {
+                address = "Kn\U00fcll 2";
+                cc = DE;
+                city = "Sch\U00f6nberg";
+                country = Germany;
+                distance = 114;
+                lat = "54.39262762181954";
+                lng = "10.37240266799927";
+                postalCode = 24217;
+                state = SH;
+            };
+            name = "Hotel & Restaurant Am Rathaus";
+            referralId = "v-1366792550";
+            specials =             (
+            );
+            stats =             {
+                checkinsCount = 16;
+                tipCount = 1;
+                usersCount = 8;
+            };
+            url = "http://www.am-rathaus-schoenberg.de";
+            verified = 0;
+        },
+                {
+            beenHere =             {
+                count = 0;
+            };
+            canonicalUrl = "https://foursquare.com/v/stadt-kiel/4e34236cb0fb17f64f8a6bf2";
+            categories =             (
+                                {
+                    icon =                     {
+                        name = ".png";
+                        prefix = "https://foursquare.com/img/categories/food/german_";
+                        sizes =                         (
+                            32,
+                            44,
+                            64,
+                            88,
+                            256
+                        );
+                    };
+                    id = 4bf58dd8d48988d10d941735;
+                    name = "German Restaurant";
+                    pluralName = "German Restaurants";
+                    primary = 1;
+                    shortName = German;
+                }
+            );
+            contact =             {
+            };
+            hereNow =             {
+                count = 0;
+                groups =                 (
+                );
+            };
+            id = 4e34236cb0fb17f64f8a6bf2;
+            likes =             {
+                count = 0;
+                groups =                 (
+                );
+            };
+            location =             {
+                cc = DE;
+                country = Germany;
+                distance = 356;
+                lat = "54.39498134069827";
+                lng = "10.36993555100536";
+            };
+            name = "Stadt Kiel";
+            referralId = "v-1366792550";
+            specials =             (
+            );
+            stats =             {
+                checkinsCount = 9;
+                tipCount = 1;
+                usersCount = 6;
+            };
+            verified = 0;
+        },
+                {
+            beenHere =             {
+                count = 0;
+            };
+            canonicalUrl = "https://foursquare.com/v/landgasthof-der-alte-auf/4c9bb8278afca09365d0e615";
+            categories =             (
+                                {
+                    icon =                     {
+                        name = ".png";
+                        prefix = "https://foursquare.com/img/categories/food/german_";
+                        sizes =                         (
+                            32,
+                            44,
+                            64,
+                            88,
+                            256
+                        );
+                    };
+                    id = 4bf58dd8d48988d10d941735;
+                    name = "German Restaurant";
+                    pluralName = "German Restaurants";
+                    primary = 1;
+                    shortName = German;
+                }
+            );
+            contact =             {
+                formattedPhone = "+49 4344 415525";
+                phone = "+494344415525";
+            };
+            hereNow =             {
+                count = 0;
+                groups =                 (
+                );
+            };
+            id = 4c9bb8278afca09365d0e615;
+            likes =             {
+                count = 0;
+                groups =                 (
+                );
+            };
+            location =             {
+                address = "Am Dorfteich 15";
+                cc = DE;
+                city = Fiefbergen;
+                country = Germany;
+                distance = 2561;
+                lat = "54.380328";
+                lng = "10.341011";
+                postalCode = 24217;
+                state = Germany;
+            };
+            name = "Landgasthof \"Der Alte Auf\"";
+            referralId = "v-1366792550";
+            specials =             (
+            );
+            stats =             {
+                checkinsCount = 5;
+                tipCount = 0;
+                usersCount = 5;
+            };
+            verified = 0;
+        },
+                {
+            beenHere =             {
+                count = 0;
+            };
+            canonicalUrl = "https://foursquare.com/v/landgasthof-holm/4fe75c6de4b079b381987ace";
+            categories =             (
+                                {
+                    icon =                     {
+                        name = ".png";
+                        prefix = "https://foursquare.com/img/categories/food/default_";
+                        sizes =                         (
+                            32,
+                            44,
+                            64,
+                            88,
+                            256
+                        );
+                    };
+                    id = 4bf58dd8d48988d1c4941735;
+                    name = Restaurant;
+                    pluralName = Restaurants;
+                    primary = 1;
+                    shortName = Restaurant;
+                }
+            );
+            contact =             {
+            };
+            hereNow =             {
+                count = 0;
+                groups =                 (
+                );
+            };
+            id = 4fe75c6de4b079b381987ace;
+            likes =             {
+                count = 0;
+                groups =                 (
+                );
+            };
+            location =             {
+                cc = DE;
+                country = Germany;
+                distance = 2631;
+                lat = "54.416536";
+                lng = "10.373412";
+            };
+            name = "Landgasthof Holm";
+            referralId = "v-1366792550";
+            specials =             (
+            );
+            stats =             {
+                checkinsCount = 3;
+                tipCount = 0;
+                usersCount = 3;
+            };
+            verified = 0;
+        },
+                {
+            beenHere =             {
+                count = 0;
+            };
+            canonicalUrl = "https://foursquare.com/v/annas-cafe/501e4070e4b09a44d66bd985";
+            categories =             (
+                                {
+                    icon =                     {
+                        name = ".png";
+                        prefix = "https://foursquare.com/img/categories/food/cafe_";
+                        sizes =                         (
+                            32,
+                            44,
+                            64,
+                            88,
+                            256
+                        );
+                    };
+                    id = 4bf58dd8d48988d16d941735;
+                    name = "Caf\U00e9";
+                    pluralName = "Caf\U00e9s";
+                    primary = 1;
+                    shortName = "Caf\U00e9";
+                }
+            );
+            contact =             {
+            };
+            hereNow =             {
+                count = 0;
+                groups =                 (
+                );
+            };
+            id = 501e4070e4b09a44d66bd985;
+            likes =             {
+                count = 0;
+                groups =                 (
+                );
+            };
+            location =             {
+                cc = DE;
+                country = Germany;
+                distance = 147;
+                lat = "54.39159228601769";
+                lng = "10.37378263243707";
+            };
+            name = "Anna's Cafe";
+            referralId = "v-1366792550";
+            specials =             (
+            );
+            stats =             {
+                checkinsCount = 2;
+                tipCount = 0;
+                usersCount = 2;
+            };
+            verified = 0;
+        },
+                {
+            beenHere =             {
+                count = 0;
+            };
+            canonicalUrl = "https://foursquare.com/v/gasthof-zur-linde/4fec9ed1e4b06ed90f45a430";
+            categories =             (
+                                {
+                    icon =                     {
+                        name = ".png";
+                        prefix = "https://foursquare.com/img/categories/food/default_";
+                        sizes =                         (
+                            32,
+                            44,
+                            64,
+                            88,
+                            256
+                        );
+                    };
+                    id = 4bf58dd8d48988d1c4941735;
+                    name = Restaurant;
+                    pluralName = Restaurants;
+                    primary = 1;
+                    shortName = Restaurant;
+                }
+            );
+            contact =             {
+            };
+            hereNow =             {
+                count = 0;
+                groups =                 (
+                );
+            };
+            id = 4fec9ed1e4b06ed90f45a430;
+            likes =             {
+                count = 0;
+                groups =                 (
+                );
+            };
+            location =             {
+                cc = DE;
+                country = Germany;
+                distance = 1772;
+                lat = "54.405649";
+                lng = "10.390491";
+            };
+            name = "Gasthof Zur Linde";
+            referralId = "v-1366792550";
+            specials =             (
+            );
+            stats =             {
+                checkinsCount = 3;
+                tipCount = 2;
+                usersCount = 3;
+            };
+            verified = 0;
+        },
+                {
+            beenHere =             {
+                count = 0;
+            };
+            canonicalUrl = "https://foursquare.com/v/kleine-schnitzelranch/4d9b5c763a32a0934c239119";
+            categories =             (
+                                {
+                    icon =                     {
+                        name = ".png";
+                        prefix = "https://foursquare.com/img/categories/food/german_";
+                        sizes =                         (
+                            32,
+                            44,
+                            64,
+                            88,
+                            256
+                        );
+                    };
+                    id = 4bf58dd8d48988d10d941735;
+                    name = "German Restaurant";
+                    pluralName = "German Restaurants";
+                    primary = 1;
+                    shortName = German;
+                }
+            );
+            contact =             {
+            };
+            hereNow =             {
+                count = 0;
+                groups =                 (
+                );
+            };
+            id = 4d9b5c763a32a0934c239119;
+            likes =             {
+                count = 0;
+                groups =                 (
+                );
+            };
+            location =             {
+                cc = DE;
+                country = Germany;
+                distance = 68;
+                lat = "54.393062";
+                lng = "10.373095";
+            };
+            name = "Kleine Schnitzelranch";
+            referralId = "v-1366792550";
+            specials =             (
+            );
+            stats =             {
+                checkinsCount = 1;
+                tipCount = 0;
+                usersCount = 1;
+            };
+            verified = 0;
+        },
+                {
+            beenHere =             {
+                count = 0;
+            };
+            canonicalUrl = "https://foursquare.com/v/spds/51534010e4b032fd63f3051d";
+            categories =             (
+                                {
+                    icon =                     {
+                        name = ".png";
+                        prefix = "https://foursquare.com/img/categories/food/bbq_";
+                        sizes =                         (
+                            32,
+                            44,
+                            64,
+                            88,
+                            256
+                        );
+                    };
+                    id = 4bf58dd8d48988d1df931735;
+                    name = "BBQ Joint";
+                    pluralName = "BBQ Joints";
+                    primary = 1;
+                    shortName = BBQ;
+                }
+            );
+            contact =             {
+            };
+            hereNow =             {
+                count = 0;
+                groups =                 (
+                );
+            };
+            id = 51534010e4b032fd63f3051d;
+            likes =             {
+                count = 0;
+                groups =                 (
+                );
+            };
+            location =             {
+                cc = DE;
+                country = Germany;
+                distance = 339;
+                lat = "54.38989";
+                lng = "10.373302";
+            };
+            name = SPDS;
+            referralId = "v-1366792550";
+            specials =             (
+            );
+            stats =             {
+                checkinsCount = 1;
+                tipCount = 0;
+                usersCount = 1;
+            };
+            verified = 0;
+        }
+    );
+}

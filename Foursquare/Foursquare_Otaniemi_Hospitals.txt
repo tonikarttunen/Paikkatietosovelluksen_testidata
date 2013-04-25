@@ -1,0 +1,195 @@
+Toni Karttunen
+24.4.2012
+
+==========================================
+
+Paikkatiedon tarjoaja: Foursquare
+Paikka: Otaniemi, Espoo
+Kategoria: Hospitals
+
+==========================================
+
+2013-04-24 11:33:27.939 Foursquare[11515:907] foursquareDictionary: {
+    venues =     (
+                {
+            beenHere =             {
+                count = 0;
+            };
+            canonicalUrl = "https://foursquare.com/v/hyks-lepp%C3%A4vaaran-psykiatrian-poliklinikka/50a2213ae4b04e11e7e97012";
+            categories =             (
+                                {
+                    icon =                     {
+                        name = ".png";
+                        prefix = "https://foursquare.com/img/categories/building/medical_hospital_";
+                        sizes =                         (
+                            32,
+                            44,
+                            64,
+                            88,
+                            256
+                        );
+                    };
+                    id = 4bf58dd8d48988d196941735;
+                    name = Hospital;
+                    pluralName = Hospitals;
+                    primary = 1;
+                    shortName = Hospital;
+                }
+            );
+            contact =             {
+                formattedPhone = "09 47181440";
+                phone = 0947181440;
+            };
+            hereNow =             {
+                count = 0;
+                groups =                 (
+                );
+            };
+            id = 50a2213ae4b04e11e7e97012;
+            likes =             {
+                count = 0;
+                groups =                 (
+                );
+            };
+            location =             {
+                address = "Linnoitustie 7 A";
+                cc = FI;
+                city = Espoo;
+                country = Finland;
+                distance = 3040;
+                lat = "60.21279127103298";
+                lng = "24.80954378163624";
+                postalCode = 02600;
+                state = "Etel\U00e4-Suomen l\U00e4\U00e4ni";
+            };
+            name = "HYKS Lepp\U00e4vaaran Psykiatrian Poliklinikka";
+            referralId = "v-1366792407";
+            specials =             (
+            );
+            stats =             {
+                checkinsCount = 28;
+                tipCount = 1;
+                usersCount = 8;
+            };
+            url = "http://www.hus.fi";
+            verified = 0;
+        },
+                {
+            beenHere =             {
+                count = 0;
+            };
+            canonicalUrl = "https://foursquare.com/v/espoon-el%C3%A4inl%C3%A4%C3%A4k%C3%A4riasema/4cc2ac00914137044909b655";
+            categories =             (
+                                {
+                    icon =                     {
+                        name = ".png";
+                        prefix = "https://foursquare.com/img/categories/building/medical_hospital_";
+                        sizes =                         (
+                            32,
+                            44,
+                            64,
+                            88,
+                            256
+                        );
+                    };
+                    id = 4bf58dd8d48988d196941735;
+                    name = Hospital;
+                    pluralName = Hospitals;
+                    primary = 1;
+                    shortName = Hospital;
+                }
+            );
+            contact =             {
+                formattedPhone = "09 5413520";
+                phone = 095413520;
+            };
+            hereNow =             {
+                count = 0;
+                groups =                 (
+                );
+            };
+            id = 4cc2ac00914137044909b655;
+            likes =             {
+                count = 0;
+                groups =                 (
+                );
+            };
+            location =             {
+                address = "Everstinkuja 6";
+                cc = FI;
+                city = Espoo;
+                country = Finland;
+                distance = 2990;
+                lat = "60.21363662786027";
+                lng = "24.82130169868469";
+                postalCode = 02600;
+            };
+            name = "Espoon El\U00e4inl\U00e4\U00e4k\U00e4riasema";
+            referralId = "v-1366792407";
+            specials =             (
+            );
+            stats =             {
+                checkinsCount = 77;
+                tipCount = 0;
+                usersCount = 39;
+            };
+            verified = 0;
+        },
+                {
+            beenHere =             {
+                count = 0;
+            };
+            canonicalUrl = "https://foursquare.com/v/sukupuoliidentiteetin-tutkimuspoliklinikka/4fc4a84be4b0d6790e9faef0";
+            categories =             (
+                                {
+                    icon =                     {
+                        name = ".png";
+                        prefix = "https://foursquare.com/img/categories/building/medical_hospital_";
+                        sizes =                         (
+                            32,
+                            44,
+                            64,
+                            88,
+                            256
+                        );
+                    };
+                    id = 4bf58dd8d48988d196941735;
+                    name = Hospital;
+                    pluralName = Hospitals;
+                    primary = 1;
+                    shortName = Hospital;
+                }
+            );
+            contact =             {
+            };
+            hereNow =             {
+                count = 0;
+                groups =                 (
+                );
+            };
+            id = 4fc4a84be4b0d6790e9faef0;
+            likes =             {
+                count = 0;
+                groups =                 (
+                );
+            };
+            location =             {
+                cc = FI;
+                country = Finland;
+                distance = 2982;
+                lat = "60.19529358387002";
+                lng = "24.87846122683726";
+            };
+            name = "Sukupuoli-identiteetin tutkimuspoliklinikka";
+            referralId = "v-1366792407";
+            specials =             (
+            );
+            stats =             {
+                checkinsCount = 3;
+                tipCount = 0;
+                usersCount = 3;
+            };
+            verified = 0;
+        }
+    );
+}
